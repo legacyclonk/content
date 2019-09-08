@@ -1,0 +1,5 @@
+/*-- Kaktus --*/
+
+#strict
+
+#include CACT

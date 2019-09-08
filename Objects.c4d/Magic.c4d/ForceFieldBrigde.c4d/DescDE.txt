@@ -1,0 +1,1 @@
+Erzeugt eine zeitlich begrenzte Brücke.

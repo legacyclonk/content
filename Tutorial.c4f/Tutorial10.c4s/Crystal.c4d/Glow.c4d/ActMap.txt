@@ -1,0 +1,8 @@
+[Action]
+Name=Glow
+Procedure=ATTACH
+Delay=30
+Facet=0,0,25,25
+Length=1
+NextAction=Glow
+StartCall=ChangeRotation

@@ -1,0 +1,4 @@
+TxtKneelbeforetheSpirit=Unterwerfe dich dem Geist des Schnees,|dem Herrscher der Nordwelt!
+TxtProveyoursubmissiont=Beweise mir deine Unterwürfigkeit!
+TxtBuildformealargesnow=Baue mir eine große Schneestatue auf dieser Insel,|eine kleine Statue auf der nächsten Insel im Westen|und eine kleine Statue auf der nächsten Insel im Osten.
+TxtYouhaveprovenworthyo=Du hast bewiesen, dass du des Schnees|unter deinen Füßen würdig bist.|Du hast deine Aufgabe erfüllt.

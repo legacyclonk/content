@@ -1,0 +1,15 @@
+[Action]
+Name=Delaydings
+Delay=1
+Length=1
+FacetBase=1
+NextAction=Delaydings
+EndCall=DelayMe
+
+[Action]
+Name=RockFall
+Delay=40
+Length=1
+FacetBase=1
+NextAction=RockFall
+EndCall=RockFall

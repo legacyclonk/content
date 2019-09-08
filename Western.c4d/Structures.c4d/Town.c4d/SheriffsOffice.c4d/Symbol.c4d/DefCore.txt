@@ -1,0 +1,11 @@
+[DefCore]
+id=SIMP
+Version=4,9,8
+Name=SymbolImprison
+Category=C4D_Living
+Width=16
+Height=16
+Offset=-8,-28
+Value=1
+Picture=0,0,16,16
+NoFight=1

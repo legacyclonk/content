@@ -1,0 +1,17 @@
+[Action]
+Name=Advance
+Procedure=NONE
+Directions=2
+Delay=1
+NextAction=Advance
+StartCall=Advance
+
+[Action]
+Name=Connect
+Procedure=NONE
+Directions=2
+Length=30
+Delay=1
+EndCall=Remove
+PhaseCall=Sparkle
+ 

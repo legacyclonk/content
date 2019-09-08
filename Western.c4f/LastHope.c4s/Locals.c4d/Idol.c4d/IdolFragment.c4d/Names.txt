@@ -1,0 +1,2 @@
+DE:Statuensplitter
+US:Statue fragment

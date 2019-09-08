@@ -1,0 +1,5 @@
+# Menü
+MnuKingdomChoice=Kingdom choice
+
+# Nachrichten
+MsgNoKingdoms=No use fighting: There ain't be no kingdoms :(

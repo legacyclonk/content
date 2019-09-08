@@ -1,0 +1,17 @@
+[DefCore]
+id=_SKL
+Version=4,9,8
+Name=HolySkull
+Category=C4D_Object
+Width=24
+Height=14
+Offset=-12,-7
+Vertices=1
+VertexY=6
+VertexFriction=50
+Value=75
+Mass=15
+Components=SKUL=1;GOLD=2
+Picture=0,14,61,61
+Collectible=1
+BorderBound=1

@@ -1,0 +1,7 @@
+MsgMonstersKilled=Die Monster sind ausgerottet.
+MsgEggLeft=Irgendwo verbirgt sich noch ein Monsterei.
+MsgEggsLeft=Es existieren noch %d Eier.
+MsgMonsterLeft=Ein Monster läuft hier irgendwo noch herum.
+MsgMonstersLeft=%d Monster bevölkern das Land.
+MsgEggMonstersLeft=Ein Ei und %d Monster sind zu vernichten.
+MsgEggsMonstersLeft=%d Monster und %d Eier müssen aus der Welt geschaffen werden.

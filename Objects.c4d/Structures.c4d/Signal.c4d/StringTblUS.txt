@@ -1,0 +1,10 @@
+TxtThrough=Through
+TxtHaltandgo=Halt and go
+TxtHaltandturnleft=Halt and turn left
+TxtHaltandturnright=Halt and turn right
+TxtLoadunload=Load/unload
+TxtDeconstruct=Deconstruct
+TxtThrough=Through
+TxtHaltandgo=Halt and go
+TxtLoadunload=Load/unload
+TxtDeconstruct=Deconstruct

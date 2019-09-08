@@ -1,0 +1,17 @@
+[Action]
+Name=Exist
+Procedure=None
+Delay=0
+Length=8
+Directions=1
+Facet=0,0,7,19
+NextAction=Hold
+
+[Action]
+Name=LameExist
+Procedure=None
+Delay=0
+Length=4
+Directions=1
+Facet=0,19,14,19
+NextAction=Hold

@@ -1,0 +1,2 @@
+MsgGoalFulfilled=Alle Objekte wurden entfernt!
+MsgGoalTodo=Es müssen noch %dx %s gefunden werden.

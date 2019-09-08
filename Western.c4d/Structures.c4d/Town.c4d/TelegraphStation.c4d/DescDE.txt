@@ -1,0 +1,2 @@
+Dient der Kommunikation entfernter Städte.
+Mit 'Springen' wird das Menu geöffnet.

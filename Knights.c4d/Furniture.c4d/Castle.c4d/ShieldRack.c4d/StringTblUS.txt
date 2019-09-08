@@ -1,0 +1,3 @@
+MsgRackFull=Shield rack|is full.
+MsgRackEmpty=Shield rack|is empty.
+CtrlTake=Take shield

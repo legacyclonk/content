@@ -1,0 +1,8 @@
+MsgOnlyHost=Nur der Host (%s) kann Einstellungen vornehmen.
+MsgTooLate=Keine Einstellungen mehr möglich.
+MsgFrags=Ziel: %d Flaggen
+MsgOK=Fertig
+MsgHostChangedSettings=Der Host hat das Spielziel auf %d Flaggen geändert.
+DescAddFrag=Spielziel heraufsetzen.
+DescRemFrag=Spielziel senken.
+DescOk=Fertig.

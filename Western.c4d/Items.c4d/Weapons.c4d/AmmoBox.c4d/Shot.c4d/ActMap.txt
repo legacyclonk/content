@@ -1,0 +1,8 @@
+[Action]
+Name=Travel
+Procedure=NONE
+NextAction=Hold
+PhaseCall=Travel
+Delay=1
+FacetBase=1
+

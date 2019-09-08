@@ -1,0 +1,1 @@
+Die Flagge dient zur Markierung der Heimatbasis. Weht die Flagge auf einem Gebäude, so kann in diesem Gebäude Material gekauft und verkauft und Energie aufgeladen werden.

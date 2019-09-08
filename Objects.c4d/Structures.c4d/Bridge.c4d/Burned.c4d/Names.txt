@@ -1,0 +1,2 @@
+DE:Verbranntes Brückensegment
+US:Burned bridge segment

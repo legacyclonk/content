@@ -1,0 +1,4 @@
+TxtErrMagic=%s has|not enough magic energy!
+TxtMagic=Cast
+TxtsisnoAngakok=%s is no Angakok
+TxtNoMagic=No spells available

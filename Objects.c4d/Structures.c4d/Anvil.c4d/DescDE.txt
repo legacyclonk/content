@@ -1,0 +1,3 @@
+Mit dem Amboss lassen sich verschiedene Handwaffen sowie Bausätze herstellen.
+
+Anfassen und Doppelklick auf Graben. Der Clonk sollte das benötigte Material bei sich tragen.

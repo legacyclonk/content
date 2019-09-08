@@ -1,0 +1,5 @@
+TxtRecruitCaptain=Train a captain
+TxtCancel=Cancel
+OnlyOneCaptain=There can by only one captain.
+Recruit=Captain trained.
+NotEnoughMoney=Not enough money.

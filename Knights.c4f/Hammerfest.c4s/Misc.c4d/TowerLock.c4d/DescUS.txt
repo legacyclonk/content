@@ -1,0 +1,4 @@
+Allows to secure towers.
+
+Open: ThrowDouble
+Close: DigDouble

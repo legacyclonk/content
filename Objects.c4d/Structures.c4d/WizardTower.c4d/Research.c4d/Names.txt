@@ -1,0 +1,2 @@
+DE:Neuer Zauber
+US:New spell

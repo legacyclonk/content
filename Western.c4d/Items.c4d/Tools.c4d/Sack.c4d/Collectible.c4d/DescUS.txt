@@ -1,0 +1,3 @@
+Holds up to ten items.
+
+Put down and grab the sack to add or take out some items. Then hit double click 'dig' to pick up the sack.

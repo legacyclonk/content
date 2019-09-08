@@ -1,0 +1,12 @@
+TxtYourGoal=Dein Ziel ist es, den Kristall am anderen Ufer zu erreichen.$07_01_de.ogg
+TxtBuildBalloon=Um den Säuresee zu überwinden kannst Du in der Werkstatt einen Ballon herstellen.$07_02_de.ogg
+TxtMineGold=Um genug Geld für Baumaterial zu beschaffen, musst Du jedoch zunächst etwas Gold abbauen und in der Heimatbasis verkaufen.$07_03_de.ogg
+TxtFlintsBase=Du findest zwei Feuersteine für den Goldabbau in Deiner Heimatbasis.$07_04_de.ogg
+TxtGoodLuck=Viel Erfolg!$07_05_de.ogg
+TxtDigThrough=Grabe Dich durch das Erdreich, um zum Segelboot zu gelangen.$07_06_de.ogg
+TxtBackHome=Fahre mit dem Segelboot zurück nach Hause und bringe den Kristall in Deine Hütte.$07_07_de.ogg
+TxtSellCrystal=Verkaufe den Kristall, um die Runde zu beenden.$07_08_de.ogg
+BtnNextTutorial=&Nächste Lernrunde
+BtnNextTutorialDesc=Die nächste Lernrunde starten.
+BtnRepeatRound=Runde &wiederholen
+BtnRepeatRoundDesc=Diese Runde wiederholen.

@@ -1,0 +1,3 @@
+MsgRackFull=Tomahawkhalter|ist voll.
+MsgRackEmpty=Tomahawkhalter|ist leer.
+CtrlTake=Tomahawk nehmen

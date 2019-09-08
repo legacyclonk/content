@@ -1,0 +1,1 @@
+Rule objects affect general game play and in some cases offer special options.

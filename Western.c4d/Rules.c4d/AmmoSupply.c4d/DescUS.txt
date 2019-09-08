@@ -1,0 +1,1 @@
+If this rule is enabled, all armories produce automatically ammo.

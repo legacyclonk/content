@@ -1,0 +1,5 @@
+MsgRackFull=Lagergestell|ist voll.
+MsgRackEmpty=Lagergestell|ist leer.
+CtrlTake=Räucherfleisch nehmen
+TxtSmoked=geräuchert
+MsgCanNotSmoke=%s kann nicht geräuchert werden.

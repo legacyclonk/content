@@ -1,0 +1,16 @@
+Mov_Intro0=There we are!
+Mov_Intro1=I really have to get used to those hats.
+Mov_Intro2=Clonkerika, the land of gold and endless opportunities!
+Mov_Intro3=At the moment both looks pretty limited...
+Mov_Intro4=So what did you do with a torch next to the explosives?
+Mov_Intro5=I just wanted to have a look if they got wet...
+Mov_Intro6=Well, at least we managed to unload a few materials.
+Mov_Intro7=So let us hurry buildung up the settlement the king wanted in return for this ship and get some money.
+Mov_Intro8=But how are we supposed to get away from this place?
+Mov_Intro9=A friend of mine is living in a town nearby. I'll send him a message to pick us up.
+Mov_Intro10=All we have to do is finding a telegraph pole of the local telegraph network and connect to it.
+Mov_Intro11=But remember that the king also wanted a connection close to the shore, so maybe we should connect to this pole over there as well.
+Mov_Intro12=Alright, so let's get going.
+
+Mov_Extro0=Alright, the settlement is finished, we are connected to the telegraph network and have enough money.
+Mov_Extro1=Let's go!

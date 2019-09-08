@@ -1,0 +1,7 @@
+Loyal friend of the clonks.
+
+The Horse can be routed by grabbing and pressing 'Left' or 'Right'.
+
+Climb it with 'Jump'. The Horse can Walk, Trot and Gallopp. While galloping, you are able to jump with the command 'Up'. Jump off with double 'down'.
+
+Put on the horse on a wagon with double 'dig'.

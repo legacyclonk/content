@@ -1,0 +1,5 @@
+The seat of the castle's lord. The king's magical energy can slowly be regerated here. But be careful: If a hostile king takes the seat of power, the life and honor of our kingdom will be forfeit.
+
+Press jump to revive fallen allies. You must sacrifice a flag to do this (put it into the throne).
+
+Grab to turn left or right.

@@ -1,0 +1,1 @@
+Various objects used by the Western scenarios.

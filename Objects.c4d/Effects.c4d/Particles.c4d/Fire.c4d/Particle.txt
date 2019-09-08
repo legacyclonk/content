@@ -1,0 +1,15 @@
+[Particle]
+Name=Fire
+MaxCount=1000
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+#CollisionFn=Stop
+Face=0,0,26,26,-13,-13
+Repeats=1
+GravityAcc=0
+AlphaFade=5
+#VertexCount=1
+#VertexY=-50
+Attach=1
+WindDrift=35

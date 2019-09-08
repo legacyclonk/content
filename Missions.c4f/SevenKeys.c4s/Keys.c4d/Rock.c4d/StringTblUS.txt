@@ -1,0 +1,2 @@
+TxtPlacementFailed=Couldn't place object! Not enough earth!
+TxtAnnounce=Something simple to get started:|Find a rock that's embedded into its own material!

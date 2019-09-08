@@ -1,0 +1,1 @@
+Grants the clonk a temporary immunity against curses and other negative magic effects. Existing curses will be healed.

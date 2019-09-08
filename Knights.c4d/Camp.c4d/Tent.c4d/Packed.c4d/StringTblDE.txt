@@ -1,0 +1,1 @@
+SetupTent=Zelt aufstellen

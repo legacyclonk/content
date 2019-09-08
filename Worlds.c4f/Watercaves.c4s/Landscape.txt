@@ -1,0 +1,36 @@
+/*Meine erste dynamische Karte, die ich vollkommen selbst gemacht habe :)*/
+
+
+map Caves {
+  mat=Earth; tex=Smooth;
+	overlay{algo=bozo; turbulence=100; a=-9; mat=Rock; tex=Rock; invert=1;};
+	overlay{algo=bozo; turbulence=100; a=5; mat=Earth; tex=Smooth2;};
+	overlay{algo=rndchecker; turbulence=100; a=10; mat=Sand; tex=Smooth;};
+	overlay{algo=rndchecker; turbulence=100; a=8; mat=Granite; tex=Ridge;};
+	overlay{algo=rndchecker; turbulence=1000;}
+	  &overlay {algo=bozo; turbulence=250; mat=Earth; tex=Rough;};
+  	overlay{x=6;y=6;wdt=88;hgt=90;turbulence=10000; mat=Tunnel; loosebounds=1; tex=Smooth;
+ 	//Wasser unten am Bildschirmrand
+ 	overlay{x=-6; y=80; wdt=112; mat=Water; tex=Liquid;};
+	//Die "Erd-Inseln" in der Höhle
+	overlay{algo=rndchecker; hgt=90; turbulence=300; zoomX=50; zoomY=10; mat=Earth; tex=Smooth;loosebounds=1;
+		//...und die Materialien in ihm
+		overlay{algo=bozo; turbulence=1000; a=5; mat=Earth; tex=Smooth2;};
+		//overlay{hgt=80; algo=rndchecker; turbulence=600; a=8;}
+		//  &overlay {hgt=80; algo=bozo; turbulence=250; mat=Tunnel;};
+		overlay{algo=rndchecker; turbulence=1000; a=10; mat=Crystal; tex=Structure2;};
+		overlay{algo=bozo; turbulence=1000; a=-9; mat=Rock; tex=Rock; invert=1;};
+		overlay{algo=rndchecker; turbulence=1000; a=7; mat=Sulphur; tex=Swirl;};
+		overlay{algo=rndchecker; turbulence=1000; a=7; mat=Coal; tex=Swirl;};
+		overlay{algo=rndchecker; turbulence=1000; a=8; mat=Ore; tex=Rough;};
+		overlay{algo=rndchecker; turbulence=1000; a=10; mat=Gold; tex=Rough;};
+		overlay{algo=border; b=2; mat=Earth; tex=Rough; };
+		overlay{algo=rndchecker; turbulence=1000; a=8; mat=Granite; tex=Ridge;};
+		overlay{algo=rndchecker; turbulence=1000; a=10; mat=Sand; tex=Smooth;};
+		overlay{algo=rndchecker; turbulence=1000;}
+		  &overlay {algo=bozo; turbulence=250; mat=Earth; tex=Rough;};
+		};//Ende "Erd-Inseln"
+	};//Ende Höhle
+	overlay{algo=rndchecker; y=95; turbulence=100; a=1; mat=Gold; tex=Rough;loosebounds=1;};
+	overlay{algo=rndchecker; y=95; turbulence=800; a=3; mat=Crystal; tex=Structure;loosebounds=1;};
+};//Ende Map

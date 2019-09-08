@@ -1,0 +1,3 @@
+Das Schamanenzelt dient der Herstellung von Amuletten. Auf 'Graben' kann man die Mystikpunkte des Stammes abfragen. Je mehr dieser Punkte ein Stamm hat desto größer ist die Manaausbeute beim Zerkleinern von Knochen und desto besser wirken die Tränke. 
+
+Indianer können hier ihren Häuptling ausbilden.

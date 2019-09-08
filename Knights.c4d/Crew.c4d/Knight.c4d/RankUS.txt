@@ -1,0 +1,29 @@
+Youngster
+Stable Boy
+Menial
+Squire
+Cupbearer
+Taster
+Journeyman
+Master
+Bursar
+Reeve
+Donzel
+Herr von
+Baron
+Earl
+Count
+Prince
+Margrave
+Landgrave
+Duke
+Grand Duke
+Elector
+Archduke
+Palatine
+Emperor
+*Royal %s
+*Imperial %s
+*His Excellency %s
+*%s by grace of God
+*%s Illustrious

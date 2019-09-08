@@ -1,0 +1,5 @@
+/*-- Hörx --*/
+
+#strict
+
+#include CLNK

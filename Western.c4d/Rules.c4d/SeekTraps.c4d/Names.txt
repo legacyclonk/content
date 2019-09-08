@@ -1,0 +1,2 @@
+DE:Sichtbare Fallen
+US:Seekable Traps

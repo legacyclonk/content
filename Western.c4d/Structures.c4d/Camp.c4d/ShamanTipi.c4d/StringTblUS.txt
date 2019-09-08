@@ -1,0 +1,12 @@
+TxtNoAmulets=No Amulets available
+TxtMystic=Display mystic points
+TxtPorduction=Produce
+ContextProduction=Production
+TxtMysticChief=Display mystic points/Train a chief
+
+TxtRecruitChief=Train a chief
+TxtCancel=Cancel
+TxtOnlyOneChief=There can be only one chief.
+TxtNotEnoughMoney=Not enough money!
+TxtChiefRecruit=Chief trained.
+DescChief=The chief is the keeper of his clan.||Because of his experience he can cast specific spells and grind any bones, without the use of an amulet.||Even this he obtaines more magical energy by grinding bones which he has even more.

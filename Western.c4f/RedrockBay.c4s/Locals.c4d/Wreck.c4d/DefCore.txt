@@ -1,0 +1,8 @@
+[DefCore]
+id=_WRK
+Version=4,9,8
+Name=Wrack
+Category=C4D_StaticBack
+Width=248
+Height=180
+Offset=-124,-90

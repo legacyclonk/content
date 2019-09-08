@@ -1,0 +1,16 @@
+[DefCore]
+id=AIRG
+Version=4,9,8
+Name=Geist des Himmels
+Category=C4D_Object
+Width=40
+Height=40
+Offset=-20,-20
+Value=30
+Picture=0,0,40,40
+Float=1
+NoBurnDecay=1
+BlitMode=1
+
+[Physical]
+Float=100

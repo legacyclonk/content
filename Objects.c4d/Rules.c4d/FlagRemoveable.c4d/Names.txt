@@ -1,0 +1,2 @@
+DE:Flagge abnehmbar
+US:Flag removeable

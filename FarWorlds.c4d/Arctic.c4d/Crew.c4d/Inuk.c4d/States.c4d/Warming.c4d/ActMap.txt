@@ -1,0 +1,8 @@
+[Action]
+Name=WarnWarming
+Procedure=ATTACH
+Length=3
+Delay=5
+Facet=0,0,7,7
+FacetBase=0
+NextAction=WarnWarming

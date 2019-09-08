@@ -1,0 +1,12 @@
+[DefCore]
+id=SQ69
+Version=4,9,9,0
+Name=Sequence
+Category=C4D_Vehicle | C4D_MouseIgnore | C4D_Environment
+Picture=0,0,16,20
+Width=1
+Height=1
+Vertices=1
+NoGet=1
+NoSell=1
+NoFight=1

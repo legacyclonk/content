@@ -1,0 +1,2 @@
+DE:Energieversorgung
+US:Power supply

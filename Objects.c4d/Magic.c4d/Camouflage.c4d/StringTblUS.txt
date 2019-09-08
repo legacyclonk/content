@@ -1,0 +1,1 @@
+must_be_in_free=Magician must be outside|to cast this spell!

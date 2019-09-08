@@ -1,0 +1,8 @@
+AufdenBoden=Dynamitkiste auf den|Boden legen!
+KeineKiste=Keine Dynamitkiste!
+Angeschlossen=Zünddraht angeschlossen
+MnuConIGNB=Leitung anschließen
+MnuDeConIGNB=Leitung abreißen
+NoBoxFound=Es befindet sich keine Kiste im Inventar
+WireAlreadyThere=Der Fernzünder ist bereits an eine andere Kiste angeschlossen
+NoLeitung=Es ist keine Leitung vorhanden

@@ -1,0 +1,7 @@
+TxtIamtheSpiritofFireCo=Ich bin der Geist des Feuers!|Erfülle meine Aufgabe um den|nächsten Geist herbeirufen zu können!
+TxtThisisyourtask=Höre meine Aufgabe:
+TxtBuildalargefireIwill=Baue mir ein Altarfeuer!|Ich werde dich belohnen.
+TxtYouhavecompletedyour=Du hast Deine Aufgabe erfüllt!|Hier Deine Belohnung.
+
+TxtConjured=Der %s wurde beschworen!
+TxtLeave=Die Aufgabe des %s wurde vollendet!

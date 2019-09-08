@@ -1,0 +1,5 @@
+TxtClan=Clan von %s|%d/%d{{INDI}}%s
+TxtJoinClan=%s ist dem Clan von %s beigetreten
+
+CtrlJoinClan=Dem Clan beitreten
+CtrlClanInfo=Clan-Info anzeigen

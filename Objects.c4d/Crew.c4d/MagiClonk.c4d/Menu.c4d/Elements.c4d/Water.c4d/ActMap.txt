@@ -1,0 +1,6 @@
+[Action]
+Name=Attach
+Procedure=ATTACH
+Facet=0,0,40,40
+Length=1
+NextAction=Attach

@@ -1,0 +1,2 @@
+#strict
+#include IDLS

@@ -1,0 +1,14 @@
+MsgRelaunch=%s needs a relaunch!
+
+MsgLost=%s is defeated!
+
+MsgFortJoin=%s joins Fortville.
+MsgCoalJoin=%s fights for Coalstown.
+
+MsgFortRel1=1 relaunch left for Fortville
+MsgFortRel2=%d relaunches left for Fortville
+MsgCoalRel1=1 relaunch left for Coalstown
+MsgCoalRel2=%d relaunches left for Coalstown
+
+MsgFortLost=Fortville lost its sheriff!
+MsgCoalLost=The sheriff of Coalstown is history!

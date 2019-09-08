@@ -1,0 +1,7 @@
+Death=%s died and used up his extra life.
+DeathKilled=%s was killed by %s and used up his extra life.
+DeathPermanent=%s died and will be eliminated.
+DeathPermanentKilled=%s was killed by %s and will be eliminated.
+
+TeamLeft=Hörx
+TeamRight=Mankel

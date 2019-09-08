@@ -1,0 +1,1 @@
+A simple container which is cheap and easy to produce but can only hold water.

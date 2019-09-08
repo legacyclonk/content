@@ -1,0 +1,1 @@
+Der höchstrangige Clonk eines Spielers wird zum Captain. Wird dieser Captain getötet, ist der Spieler eliminiert.

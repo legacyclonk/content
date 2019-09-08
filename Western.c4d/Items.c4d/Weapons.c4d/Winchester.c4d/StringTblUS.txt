@@ -1,0 +1,1 @@
+TxtNoShoot=Not able to shoot here!

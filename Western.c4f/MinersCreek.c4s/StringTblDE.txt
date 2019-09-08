@@ -1,0 +1,19 @@
+MsgScore=Spielstand
+
+MsgTrooper=Kavallerie
+MsgBandits=Banditen
+
+MsgTrooperJoin=%s verteidigt Miners Creek.
+MsgBanditsJoin=%s schließt sich den Banditen an.
+
+MsgTroopLost=%s benötigt Nachschub.
+MsgRelaunchCVRM1=Verstärkung für die Kavallerie ist unterwegs! (1 Relaunch übrig)
+MsgRelaunchCVRM=Verstärkung für die Kavallerie ist unterwegs! (%d Relaunches übrig)
+
+MsgGangLost=%s verliert eine Bande!
+MsgRelaunchBNDT1=Weitere Banditen sind unterwegs zum Versteck! (1 Relaunch verbleibt)
+MsgRelaunchBNDT=Weitere Banditen sind unterwegs zum Versteck! (%d Relaunches verbleiben)
+
+MsgEliminate=%s ist weg vom Fenster.
+MsgBanditsWin=Die Banditen entscheiden den Kampf um Miners Creek für sich!
+MsgTrooperWin=Die Garde kann Miners Creek halten und die Banditenbedrohung ist gebannt.

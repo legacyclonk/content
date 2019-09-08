@@ -1,0 +1,10 @@
+[DefCore]
+id=EH69
+Version=4,9,5
+Name=HomeWarp(AI)
+Category=1
+Width=1
+Height=1
+Value=35
+Picture=0,0,1,1
+ 

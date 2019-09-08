@@ -1,0 +1,2 @@
+DE:Wandnachricht
+US:Wall message

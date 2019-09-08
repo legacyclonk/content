@@ -1,0 +1,3 @@
+MsgRackFull=Bogenständer|ist voll.
+MsgRackEmpty=Bogenständer|ist leer.
+CtrlTake=Bogen nehmen

@@ -1,0 +1,15 @@
+[Action]
+Name=Init
+Procedure=NONE
+Delay=10
+Length=1
+EndCall=PostInit
+NextAction=Idle
+
+[Action]
+Name=Wait4End
+Procedure=NONE
+Delay=30
+Length=1
+EndCall=RoundOver
+NextAction=Idle

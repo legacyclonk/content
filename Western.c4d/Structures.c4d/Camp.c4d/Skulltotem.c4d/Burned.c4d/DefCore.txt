@@ -1,0 +1,21 @@
+[DefCore]
+id=BSLT
+Version=4,9,8
+Name=Burned Skull Totem
+Category=C4D_Structure
+Width=11
+Height=30
+Offset=-5,-15
+Vertices=4
+VertexX=0,-5,5,1
+VertexY=-10,-14,-14,14
+VertexFriction=20,20,20,50
+Value=1
+Mass=20
+Components=WOOD=1;SKUL=1
+Picture=15,0,26,70
+ContactIncinerate=2
+BlastIncinerate=5
+Construction=1
+ConstructTo=SKLT
+Grab=1

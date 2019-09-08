@@ -1,0 +1,51 @@
+MnuNoSpells=No spells known
+MnuEnchant=Choose spell
+TxtNotEnoughIngredients=Not enough|alchemistic ingredients!|%s|are missing.
+TxtNotEnoughEnergy=Not enough|magical energy!
+MsgSpellSet=%s enchanted with|<i>%s</i>!
+
+MsgNoObject=No usable item found!
+
+#ChangeMenu
+MsgTitle=Artefact:
+MsgAnalyse=Analyse
+MsgLoad=Load
+MsgUnload=Unload
+MsgModifiy=Modify
+MsgHide=Hide
+MsgStack=Stack
+
+MsgAnalysing=Spell: %s|Charges: %d|Trigger: %s|Aim: %s
+MsgAnalysingHidden=Hidden artefact!
+
+#ActivationMenu
+MsgActTitle=Trigger with:
+MsgHit=Percussion
+MsgStill=Halt
+MsgCollect=Collect
+MsgDamage=Damage
+MsgBurn=Fire
+MsgEnemy=Enemy
+MsgEat=Eat
+MsgDrink=Drink
+MsgEnergy=Energy
+MsgDelay=Delay
+MsgNo=No
+MsgCombo=Combo objekt
+
+#TargetMenu
+MsgTarTitle=Aim:
+MsgAlly=Allys
+MsgRandom=Random
+MsgObj=Object
+MsgTarEnemy=Enemy
+
+#Arrows
+MnuArrowLeft=Left
+MnuArrowLeftDiag=Left diagonal
+MnuArrowStraight=Straight
+MnuArrowRightDiag=Right diagonal
+MnuArrowRight=Right
+MnuArrowLeftDown=Down left
+MnuArrowDown=Down
+MnuArrowRigthDown=Down right

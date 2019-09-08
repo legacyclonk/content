@@ -1,0 +1,35 @@
+#Kombosystem
+
+descChooseSpellClass=Zauberklassenwahl
+MsgNotReadyToMagic=%s kann|jetzt nicht zaubern.
+
+#Menü
+
+MnuNoSpells=Keine Zaubersprüche verfügbar
+MnuCast=Zaubern
+MnuEmpty=nicht belegt
+MnuDelQuickspell=löschen
+MnuSetQuickspell=Belegen
+MnuSlotQuickspell=Schnellzauber
+MnuSlotNumber=Platz %d
+
+# Kontext
+
+CtxQuickspellDesc=Schnellzauber belegen
+CtxMagicDesc=Zaubern
+CtxCombo=Zaubersystem ändern
+CtxComboHelp=Kombinationssystem
+
+# Nachrichten
+
+MsgNoQuickSpells=Keine Schnellzauber belegt!
+ChangedToCombo=Kombinationssystem|ausgewählt
+ChangedToCombo2=Festes Kombinationssystem|ausgewählt
+ChangedToMenu=Menüsystem|ausgewählt
+MsgNotEnoughEnergy=Nicht genug|Zauberenergie!
+MsgNotEnoughIngredients=Nicht genug|alchemische Zutaten!|Es fehlen|%s.
+MsgComboHelp=Bei aktiviertem Kombinationssystem werden Zaubersprüche nicht mehr über ein Menü ausgewählt, sondern über eine Tastenkombination ausgesprochen. Kombinationen bestehen aus Taste Spezial 1, dann Hoch / Runter / Rechts / Links / Werfen / Graben für Element- und Zauberwahl.
+
+# Control
+
+CtrlQuickspellDesc=Schnellzauber

@@ -1,0 +1,5 @@
+/*-- Fahrstuhlkorb --*/
+
+#strict
+#include ELEC
+

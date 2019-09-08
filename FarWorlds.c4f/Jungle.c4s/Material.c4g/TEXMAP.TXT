@@ -1,0 +1,34 @@
+# RedWolf Design Clonk 4
+# Static Map Material/Texture Table 
+# Index +128 for underground materials
+
+OverloadTextures
+OverloadMaterials
+
+10=Tunnel-Smooth
+20=Water-Fleckig
+21=Oil-Smooth
+22=Acid-Smooth
+23=Lava-Smooth
+24=DuroLava-Smooth
+29=Earth-Smooth
+30=Earth-Ridge
+31=Earth-Fleckig
+32=Earth-Smooth2
+33=Earth-Smooth3
+34=Earth-Rough
+35=Earth-Flare
+36=Ore-Rough
+40=Granite-Rough
+45=Gold-Rough
+50=Rock-Rough
+51=Rock-Ridge
+53=Sulphur-Flare
+54=Coal-Swirl
+55=Sand-Smooth
+56=Sand-Smooth2
+57=Sand-Smooth3
+58=FlySand-Smooth
+60=Crystal-Flare
+65=Ice-Flare2
+66=Ice-Flare3

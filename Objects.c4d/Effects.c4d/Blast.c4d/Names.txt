@@ -1,0 +1,2 @@
+DE:Explosion
+US:Blast

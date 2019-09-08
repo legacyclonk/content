@@ -1,0 +1,1 @@
+Attack magic can affect friendly clonks as well. Hostile clonks can benefit from group magic.

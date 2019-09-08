@@ -1,0 +1,1 @@
+The clonk is cold and should immediately return to a building.

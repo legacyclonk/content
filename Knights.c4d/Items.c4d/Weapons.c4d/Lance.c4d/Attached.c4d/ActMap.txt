@@ -1,0 +1,9 @@
+[Action]
+Name=Lance
+Procedure=ATTACH
+Directions=1
+Length=10
+Delay=1
+FacetBase=1
+NextAction=Lance
+PhaseCall=Targeting

@@ -1,0 +1,4 @@
+TeamLeft=Rustuff
+TeamRight=McClomby
+TeamLeftJoin=%s tritt %s bei.
+TeamRightJoin=%s tritt %s bei.

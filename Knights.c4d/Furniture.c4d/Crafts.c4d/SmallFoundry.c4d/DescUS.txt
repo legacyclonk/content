@@ -1,0 +1,1 @@
+Allows you to produce metal from ore and burning fuel even in camp or small rooms.

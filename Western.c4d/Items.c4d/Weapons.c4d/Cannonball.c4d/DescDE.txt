@@ -1,0 +1,1 @@
+Eine Kanonenkugel für die Kanone. Wird sie mit der Kanone abgeschossen kommt es zu einer splitterreichen Explosion.

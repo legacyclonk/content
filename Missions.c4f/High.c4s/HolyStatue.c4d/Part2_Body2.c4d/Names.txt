@@ -1,0 +1,2 @@
+DE:Statuenkörper
+US:Statue body

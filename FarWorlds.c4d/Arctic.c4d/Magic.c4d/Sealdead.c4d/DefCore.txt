@@ -1,0 +1,9 @@
+[DefCore]
+id=DTSL
+Version=4,9,8
+Name=Sealdead
+Category=C4D_Magic
+Width=1
+Height=1
+Value=75
+Picture=0,0,64,64

@@ -1,0 +1,372 @@
+# # # # # # #
+# Diverses  #
+# # # # # # #
+
+# Handel #
+
+MsgTrade=Handel
+MsgBuyIndian=Späher anheuern
+MsgCancel=Abbrechen
+MsgOre=10 Nahrung gegen 5 Erz
+MsgSulfur=8 Nahrung gegen 5 Schwefel
+MsgCoal=6 Nahrung gegen 5 Kohle
+MsgTooFewFood=Zu wenig Nahrung!
+MsgFoodOre=Nahrung gegen Erz eingetauscht!
+MsgFoodSulfur=Nahrung gegen Schwefel eingetauscht!
+MsgFoodCoal=Nahrung gegen Kohle eingetauscht!
+MsgIndian=Späher ausgebildet!
+MsgTooFewWeapons=Dafür brauchst du zwei Gewehre und 4 Munitionsschachteln!
+Production=Produktion
+
+# # # # # # #
+# Sequenzen #
+# # # # # # #
+
+# Intro #
+Mov_Intro0=Schneller, schneller!
+Mov_Intro2=Args blödes Pferd!
+Mov_Intro3=Sind wir schon da?
+Mov_Intro4=Nein, aber wir haben kein Pferd mehr.
+Mov_Intro5=Der Typ, der uns in Coalstown die Karte verkauft hat, meinte, bis zum Golden Canyon ist es nicht mehr weit.
+Mov_Intro6=Wir brauchen aber trotzdem ein Pferd, sonst kommen wir nie mit dem Wagen zum Golden Canyon.
+Mov_Intro7=Wenn wir dann erst mal das reiche Goldvorkommen dort abgebaut haben, sind wir reich!
+Mov_Intro8=Ja, aber erstmal müssen wir ein neues Pferd suchen.
+
+# Extro #
+Mov_Extro0=Auf diesem Schild steht Golden Canyon!
+Mov_Extro1=Wir haben es geschafft, das Gold gehört uns!
+
+# # # # # # # # # # # #
+# Fort der Kavallerie #
+# # # # # # # # # # # #
+
+# Captain #
+Dlg_Captain0=Wir möchten gerne passieren.
+Dlg_Captain1=Ich kann euch leider nicht durchlassen.
+Dlg_Captain2=Die Grenze endet hier an diesem Vorposten.
+Dlg_Captain3=Dahinter wohnen Indianer, die in letzter Zeit recht kriegerisch sind.
+Dlg_Captain4=Aber können wir nicht trotzdem durch?
+Dlg_Captain5=Nein, auf keinen Fall.
+Dlg_Captain6=Und wie wäre es, wenn wir dir dann aus Dankbarkeit einen Geldsack mit 50 Goldmünzen schenken würden?
+Dlg_Captain7=Hmm, dann sieht die Sache schon wieder anders aus.
+Dlg_Captain8=Habt ihr das Geld?
+Dlg_Captain9=Ja, hier.
+Dlg_Captain9b=Nein noch nicht.
+Dlg_Captain10=Gut, ich mache euch auf.
+Dlg_Captain10b=Nichts da, einen 50er Geldsack hatten wir gesagt.
+Dlg_Captain11=Hier, den Bauplan für eine Waffenschmiede könnt ihr sicher gebrauchen.
+Dlg_Captain12=Danke.
+Dlg_Captain13=Noch eine gute Reise.
+
+# Caval #
+Dlg_Caval0=Hallo könnt ihr uns das Tor öffnen?
+Dlg_Caval1=Nein, wir haben den Befehl, niemanden passieren zu lassen.
+Dlg_Caval2=Wende dich an unseren Captain.
+Dlg_Caval3=Schönen Tag.
+
+# # # # # # # # # #
+# Stamm der Wipfe #
+# # # # # # # # # #
+
+# Atepa (Indianer auf dem Tor) #
+Dlg_Atepa0=Könntet ihr uns aufmachen?
+Dlg_Atepa1=Wenn ihr uns helfen könnt, dann machen wir auf.
+Dlg_Atepa2=Wir versuchen euch zu helfen.
+Dlg_Atepa3=Ok, ich mach auf. Redet mit dem Häuptling.
+Dlg_Atepa4=Vielen Dank.
+Dlg_Atepa5=Ich hab Hunger.
+
+# Chief #
+Dlg_Chief0=Wir sollen euch helfen?
+Dlg_Chief1=Ja, der Stamm der Wölfe beschuldigt uns, die Friedenspfeife gestohlen zu haben.
+Dlg_Chief2=Aber da können wir nichts machen.
+Dlg_Chief3=Sie lassen uns nicht mehr zu der Bisonherde.
+Dlg_Chief4=So verhungern wir langsam. Könntet ihr uns nicht mit ein bisschen Nahrung helfen?
+Dlg_Chief5=Naja... Könntet ihr uns dafür vielleicht ein Pferd geben?
+Dlg_Chief6=Wir haben zwar kein Pferd, aber hinter unserem Lager gibt es eine Herde von Wildpferden.
+Dlg_Chief7=Auch gut. Danke.
+Dlg_Chief8=Wenn ihr uns Nahrung gebt, können wir euch dafür andere Waren anbieten.
+Dlg_Chief9=Im Häuptlingszelt könnt ihr die Nahrung eintauschen.
+Dlg_Chief10=Danke für eure Hilfe.
+
+# Chaska (einfacher Indianer) #
+Dlg_Chaska0=Wie geht's?
+Dlg_Chaska1=Schlecht.
+Dlg_Chaska2=Warum?
+Dlg_Chaska3=Ich habe Hunger und muss trotzdem immer arbeiten.
+Dlg_Chaska4=Könnt ihr mir nicht ein saftiges gebratenes Bisonsteak schenken?
+Dlg_Chaska5=Naja, ich versuche eines aufzutreiben.
+Dlg_Chaska6=Habt ihr mein Steak?
+Dlg_Chaska7=Ja, hier.
+Dlg_Chaska7b=Nein, noch nicht.
+Dlg_Chaska8=Oh vielen Dank.
+Dlg_Chaska8b=Das ist ja noch roh!
+Dlg_Chaska8c=Das ist kein richtiges Steak!
+Dlg_Chaska9=Bekomme ich eine Belohnung dafür?
+Dlg_Chaska10=Hier nehmt diesen Trank.
+Dlg_Chaska11=Danke, was bringt er?
+Dlg_Chaska12=Tja, ähm... Tschüss!
+Dlg_Chaska13=Nochmals vielen Dank für das Steak.
+Dlg_Chaska14=Wenn ihr mir noch eines bringt, schenke ich euch noch einen Trank.
+Dlg_Chaska15=Ja, hier.
+Dlg_Chaska15b=Nein, ich hab leider keines mehr.
+Dlg_Chaska16=Danke, hier euer Trank.
+
+# Etenia (Shamane) #
+Dlg_Etenia0=Was können wir für dich tun?
+Dlg_Etenia1=Es muss unbedingt wieder Frieden herrschen.
+Dlg_Etenia2=Wir können wir da helfen?
+Dlg_Etenia3=Ihr müsst die Friedenspfeife wieder auftreiben.
+Dlg_Etenia4=Wir schaun mal was sich machen lässt.
+Dlg_Etenia5=Ah, ihr habt die Friedenspfeife!
+Dlg_Etenia6=Ihr dürft jetzt in meinem Zelt Amulette herstellen. Diese können auch auf eurer Reise sicher noch nützlich sein, also nehmt welche mit.
+
+
+# # # # # # # # # #
+# Stamm der Wölfe #
+# # # # # # # # # #
+
+# Fala (auf Wachturm) #
+Dlg_Fala0=Wir müssen vorbei!
+Dlg_Fala1=Wir lassen keine Räuber durch.
+Dlg_Fala2=Wir sind friedliche Siedler und wollen nur vorbei.
+Dlg_Fala3=Wo ist dann euer Planwagen?
+Dlg_Fala4=Ich werde ihn holen.
+Dlg_Fala5=Ach ja und bevor ihr passieren könnt, müsst ihr zahlen!
+Dlg_Fala6=Ach nein... Wie viel denn?
+Dlg_Fala7=Sagen wir... 30 Goldklumpen?
+Dlg_Fala8=Wie wäre es mit 2?
+Dlg_Fala9=Nein. Legt alle 30 in die Truhe da.
+Dlg_Fala10=Wenn wir keine Wahl haben...
+Dlg_Fala11=Ah ihr seid soweit.
+Dlg_Fala11b=Der Planwagen ist noch nicht da. 
+Dlg_Fala11c=Es fehlen noch %d Goldklumpen.
+Dlg_Fala12=Wunderbar!
+Dlg_Fala13=Falls ihr noch zu viel Gold habt...
+Dlg_Fala14=NEIN!
+
+# Woff (Häuptling) #
+Dlg_Woff0=Guten Tag!
+Dlg_Woff1=Hallo Siedler. Habt ihr Gewehre?
+Dlg_Woff2=Ja, was wollt ihr damit?
+Dlg_Woff3=Wenn ihr uns Gewehre besorgt, dann kann euch einer unserer besten Späher begleiten.
+Dlg_Woff4=Legt einfach 2 Gewehre und 4 Munitionsschachteln in unser Häuptlingszelt.
+Dlg_Woff5=Wir werden auf dein Angebot zurückkommen.
+
+# Delsy (einfacher Indianer der Wolsclans) #
+Dlg_Delsy0=Hallo Indianer.
+Dlg_Delsy1=Ach das Leben ist so schwer.
+Dlg_Delsy2=Bist du ein depressiver Indianer?
+Dlg_Delsy3=Depressiv? Was ist das? Bestimmt schlecht.
+Dlg_Delsy4=Ähm naja...
+Dlg_Delsy5=Kann ich was für dich tun?
+Dlg_Delsy6=Kannst du mir vielleicht einen Whisky bringen?
+Dlg_Delsy7=Ja, hier, bitteschön.
+Dlg_Delsy7b=Nein, ich hab grad keinen.
+Dlg_Delsy8=*gluck*
+Dlg_Delsy9=Hast du noch einen? *hicks*
+Dlg_Delsy10=Ja hier noch einer.
+Dlg_Delsy10b=Nein ich hab keinen mehr.
+Dlg_Delsy11=Ich bin ein Vogel! *haha*
+Dlg_Delsy12=?!?
+
+# Hania (in der Höhle) #
+Dlg_Hania0=Hai, du süßer Cowboy.
+Dlg_Hania0b=Geh weg du schmutziger Indianer.
+Dlg_Hania0c=Mit Trappern will ich nichts zu tun haben.
+Dlg_Hania1=Äh ja.
+Dlg_Hania2=Den Hut finde ich übrigens super sexy!
+Dlg_Hania3=Ähm... ich muss leider weiter.
+Dlg_Hania4=Könntest du mir nicht einen Gefallen tun?
+Dlg_Hania5=Schätzchen, bring mir einen hübschen Kristall.
+Dlg_Hania6=Ähm... na gut.
+Dlg_Hania7=Hai mein Süßer, hast du den Kristall?
+Dlg_Hania8=Hmm, hier bitte schön.
+Dlg_Hania8b=Nein habe ich nicht, tschüss.
+Dlg_Hania9=Das ist aber nett von dir, Cowyboy.
+Dlg_Hania10=Da, eine hübsche Feder für deinen Hut.
+Dlg_Hania11=Was soll das bringen?
+Dlg_Hania12=Das macht dich schön und schützt dich.
+Dlg_Hania13=Ähm, ja gut. Danke.
+Dlg_Hania14=Ach du schaust ja schön aus.
+
+# Gaho (Shamane) #
+Dlg_Gaho0=Guten Tag, weiser Schamane!
+Dlg_Gaho1=Wisst ihr vielleicht, wie ich weiter nach Ash City kommen kann?
+Dlg_Gaho2=Der Weg ist durch eine magische Barriere blockiert.
+Dlg_Gaho3=Damit wir vor üblen Gesellen aus dieser Gegend sicher sind.
+Dlg_Gaho4=Aber ich glaube sie haben vielleicht doch einen Weg hierher gefunden.
+Dlg_Gaho5=Was wovon redet ihr?
+Dlg_Gaho6=Ich habe in letzter Zeit seltsame Geräusche aus den Gewölben gehört.
+Dlg_Gaho7=Aber wir müssen weiter. Wie können wir an der Barriere vorbei?
+Dlg_Gaho8=Um die Blockade aufzuheben, braucht man den Kelch des Lebens.
+Dlg_Gaho8b=Solange nicht Frieden herrscht, wird die Blockade keinesfalls aufgehoben.
+Dlg_Gaho9=Bringt mir den Kelch und ich helfe euch.
+Dlg_Gaho10=Ah, ihr habt ihn.
+Dlg_Gaho11=Narn y lúmen!
+Dlg_Gaho12=Der Weg ist nun frei.
+Dlg_Gaho13=Habt Dank, oh weiser Shamane!
+
+# # # # # #
+# Trapper #
+# # # # # #
+
+# Harry #
+Dlg_Harry0=Guten Tag, wer seid ihr?
+Dlg_Harry1=Wir sind Trapper und haben unser Lager hier aufgeschlagen.
+Dlg_Harry2=Und wir sind Goldsucher auf der Durchreise zum Golden Canyon.
+Dlg_Harry3=Ihr seid herzlich willkommen! In den Zelten und am Feuer bekommt ihr Essen. Übrigens euer Planwagen ist sehr schön. So einen könnten wir auch gebrauchen.
+Dlg_Harry4=Ihr seid aber freundlich.
+Dlg_Harry5=Naja, es sind nicht alle so freundlich. Die Stadt wurde von üblen Banditen überfallen.
+Dlg_Harry6=Sie haben fast alles niedergebrannt.
+Dlg_Harry7=Oh, aber da müssen wir vorbei.
+Dlg_Harry8=Sie haben auch den Wachturm verschlossen.
+Dlg_Harry9=Den sprengen wir einfach weg.
+Dlg_Harry10=Das ist gefährlich, denn dann stürzt die Brücke ein.
+Dlg_Harry11=Ihr müsst einen anderen Weg in die Stadt finden.
+Dlg_Harry12=Vielen Dank für eure Gastfreundschaft.
+Dlg_Harry13=So einen Planwagen wie euren könnten wir auch gut gebrauchen.
+Dlg_Harry14=Als Dank für eure Gastfreundschaft wollen wir euch diesen Planwagen der Banditen schenken.
+Dlg_Harry15=Oh vielen herzlichen Dank!
+Dlg_Harry16=Als kleine Gegenleistung könnt ihr diesen Schlüssel haben. Wir haben ihn gefunden, vielleicht kann er für euch nützlich sein.
+Dlg_Harry17=Danke, auf Wiedersehen.
+
+# Dork #
+Dlg_Dork0=Wie geht's?
+Dlg_Dork1=Gut, es gibt hier viel zu tun.
+Dlg_Dork2=Hast du Hunger?
+Dlg_Dork3=Ja sehr!
+Dlg_Dork3b=Nur ein bisschen.
+Dlg_Dork3c=Nein überhaupt nicht.
+Dlg_Dork4=Hier nimm ein Wipffleisch und brate es dir.
+Dlg_Dork5=Danke.
+
+# # # # # # #
+# Ash City  #
+# # # # # # #
+
+# Sheriff #
+Dlg_Sheriff0=Was ist hier los?
+Dlg_Sheriff1=Eine Horde Banditen hat unsere Stadt überfallen.
+Dlg_Sheriff2=Sie haben alle Häuser niedergebrannt.
+Dlg_Sheriff3=Wir konnten noch in diese Höhle flüchten.
+Dlg_Sheriff4=Könntet ihr uns helfen und die Banditen besiegen?
+Dlg_Sheriff5=Ähm eigentlich sind wir nur auf der Durchreise...
+Dlg_Sheriff6=Bitte besiegt alle Banditen und helft uns dann beim Wiederaufbau.
+Dlg_Sheriff7=Na gut, wir helfen euch. Sonst kommen wir sowieso nicht weiter.
+Dlg_Sheriff8=Sind schon alle tot?
+Dlg_Sheriff9=Ja, wir haben alle besiegt.
+Dlg_Sheriff9b=Nein, wir sind noch nicht fertig.
+Dlg_Sheriff10=Irgendwo muss sich aber noch der Banditenboss verstecken.
+Dlg_Sheriff11=Den müssen wir unbedingt gefangen nehmen.
+Dlg_Sheriff12=Wir sollen wir das anstellen?
+Dlg_Sheriff13=Ich werde euch begleiten. Wenn er geschwächt ist kann ich ihn verhaften.
+Dlg_Sheriff14=Aber zuerst muss mein Büro wieder stehen.
+Dlg_Sheriff15=Und wenn ihr schon dabei seid, könnt ihr anfangen auch die restlichen Gebäude aufzubauen.
+Dlg_Sheriff16=Ist mein Büro schon fertig?
+Dlg_Sheriff17=Ja, wie neu.
+Dlg_Sheriff17b=Ähm nein noch nicht.
+Dlg_Sheriff18=Also gut, ich begleite euch. Schnappen wir uns den Banditenboss.
+Dlg_Sheriff19=Den Boss hätten wir geschnappt.
+Dlg_Sheriff20=Aber er meinte ihr werdet nie zum Golden Canyon kommen.
+Dlg_Sheriff21=Warum nicht?
+Dlg_Sheriff22=Ihr müsst durch die verlassenen Minen durch.
+Dlg_Sheriff23=Die ist mit drei Schlössern verschlossen.
+Dlg_Sheriff24=Zwei Schlüssel sind hier in der Gegend versteckt.
+Dlg_Sheriff25=Aber einen Schlüssel hat der Boss einem anderen Banditen gegeben.
+Dlg_Sheriff26=Dieser ist mit einem Pferd in die Berge geflohen, ihn können wir nicht mehr einholen.
+Dlg_Sheriff27=Gibt es denn keine Möglichkeit den Schlüssel zu bekommen?
+Dlg_Sheriff28=In den Bergen ist ein kleines Dorf, dort wohnt ein Kollege von mir.
+Dlg_Sheriff29=Wenn ich ihm ein Telegramm schicken könnte, dann könnte er den Banditen vielleicht abpassen.
+Dlg_Sheriff30=Dazu müsste aber die Verbindung wieder aufgebaut sein. Hier nehmt den Bauplan für Masten und Draht und kümmert euch darum.
+Dlg_Sheriff31=Habt ihr die Verbinung schon wieder aufgebaut?
+Dlg_Sheriff32=Ja, ihr könnt das Telegramm losschicken.
+Dlg_Sheriff32b=Nein, wir arbeiten noch daran.
+Dlg_Sheriff33=Ich schicke es sofort los.
+Dlg_Sheriff34=Ist der Schlüssel schon angekommen?
+Dlg_Sheriff35=Ja, hier ist er.
+Dlg_Sheriff35b=Nein, noch nicht. Kümmert euch in der Zwischenzeit um dem Wiederaufbau der anderen Gebäude.
+Dlg_Sheriff36=Danke.
+Dlg_Sheriff37=Danke für eure Hilfe beim Wiederaufbau der Stadt.
+Dlg_SheriffPause=Ich brauche eine Pause.
+Dlg_SheriffPause2=Ich brauche eine Pause. Bringt mir ein Stück gekochtes Fleisch damit ich mich wieder stärken kann.
+
+# Smith #
+Dlg_Smith0=Hallo, wer seid ihr?
+Dlg_Smith1=Ich bin der Schmied dieser Stadt.
+Dlg_Smith2=Wenn nur meine Werkstatt wieder stehen würde.
+Dlg_Smith3=Ihr habt sie wieder aufgebaut?
+Dlg_Smith4=Als Danke schenke ich euch den Bauplan für einen Dynamo. Außerdem verkaufe ich euch eine Kanone für einen 50er Goldsack. Ihr werdet sie im Kampf gegen die Banditen in der Höhle sicher brauchen.
+Dlg_Smith5=Dazu bekommt ihr den Bauplan für weitere Kugeln.
+Dlg_Smith6=Wollt ihr eine Kanone kaufen?
+Dlg_Smith7=Ja gerne, hier ist das Geld.
+Dlg_Smith7b=Nein, vielleicht später.
+Dlg_Smith8=Hier eure Kanone.
+Dlg_Smith8b=Das ist zu wenig Geld. Eine Kanone kostet 50 Clunker.
+
+# Henry #
+Dlg_Henry0=Ich bin hier der Holzfäller.
+Dlg_Henry1=Könnt ihr uns Holz verkaufen?
+Dlg_Henry2=Nein, solange mein Sägewerk noch kaputt ist kann ich nichts für euch tun.
+Dlg_Henry3=Ja gerne.
+Dlg_Henry4=Für einen Goldklumpen gebe ich euch 5 Bretter.
+Dlg_Henry5=Ja, hier ein Goldklumpen.
+Dlg_Henry5b=Ok, danke für das Angebot.
+Dlg_Henry6=Gut, die Bretter kommen.
+
+# Gerry #
+Dlg_Gerry0=Guten Tag.
+Dlg_Gerry1=Was soll ich als Bankier nur ohne Bank tun?
+Dlg_Gerry2=Vielen Dank, dass ihr meine Bank wieder aufgebaut habt.
+Dlg_Gerry3=Als Lohn für eure Mühen schenke ich euch diesen Geldsack.
+Dlg_Gerry4=Übrigens ich hätte da eine super Geldanlage für 3,75% Zinzen p.a. ...
+Dlg_Gerry5=Nein, danke. Dynamit ist meine Geldanlage.
+
+# Dorkan #
+Dlg_Dorkan0=Tag Siedler.
+Dlg_Dorkan1=Die Zeiten sind schlecht. Mein Laden ist nur noch Asche.
+Dlg_Dorkan2=Wunderbar. Mein Laden steht wieder!
+Dlg_Dorkan3=Ach als Dank schenke ich euch 5 Flaschen Whisky.
+Dlg_Dorkan4=Die könnten euch nützlich sein, denn so mancher Bandit wird sehr hilfsbereit, wenn man ihn mit Alkohol ködert.
+Dlg_Dorkan5=Also nehmt die Flaschen in die Minen mit.
+Dlg_Dorkan6=Vielen Dank, werden wir machen.
+Dlg_Dorkan7=Ach ist das Leben schön!
+
+# # # # # # # # # # #
+# verlassene Minen  #
+# # # # # # # # # # #
+
+# Willy # (betrunkener Bandit)
+Dlg_Willy0=Hallooo! *hicks*
+Dlg_Willy1=Könnte es sein, dass ihr leicht über den Durst getrunkten habt?
+Dlg_Willy2=Wat? Neiine! *haha*
+Dlg_Willy3=Wie kommen wir da rein?
+Dlg_Willy4=Ihr brauauchet eine Kroonä! *hä* Die müsse auf den Schalllter!!
+Dlg_Willy5=Wie bekommen wir die?
+Dlg_Willy6=Ich häbe einen Teillll! *hicks*
+Dlg_Willy7=Abere erst brauches ich mehr Whisiky!
+Dlg_Willy8=Hier, eine Flasche.
+Dlg_Willy8b=Mist ich hab keine mehr.
+Dlg_Willy9=Bitttes noch einine!
+Dlg_Willy10=Okeys, hier eures Kronones! *hicks*
+Dlg_Willy11=*Liebe Kinder, wie ihr seht: zu viel Alkohol schadet den Gehirnzellen.*
+Dlg_Willy12=Hey Willy, hast du zufällig ein Buch gesehen?
+Dlg_Willy13=Ja hier, bittes schön. Ich kann sowiesoso nicht lessen! *häha*
+Dlg_Willy14=Danke und noch einen schönen Rausch.
+
+# Luyu # (einsamer Indianer)
+Dlg_Luyu0=Was wollt ihr hier?
+Dlg_Luyu1=Wir suchen den zweiten Teil der Krone.
+Dlg_Luyu1b=Ähm eigentlich nichts.
+Dlg_Luyu2=Ich besitze ihn.
+Dlg_Luyu3=Könnt ihr uns den vielleicht geben?
+Dlg_Luyu4=Ihr müsst mir als Gegenleistung mein Zauberbuch suchen.
+Dlg_Luyu5=Habt ihr es gefunden?
+Dlg_Luyu6=Ja hier.
+Dlg_Luyu6b=Nein noch nicht, aber bald.
+Dlg_Luyu7=Hier ist die Krone.
+Dlg_Luyu8=Seid vorsichtig da draußen.
+Dlg_Luyu9=Sind wir.
+Dlg_Luyu10=Wenn ihr die Minen wieder verlassen wollt, müsst ihr das Steintor mit etwas Goldenem oder purem Gold aufwiegen. Sonst bleibt ihr für immer gefangen!
+Dlg_Luyu11=Danke für den Tipp.
+Dlg_Luyu12=Und nun geht bitte und stört meine Meditation nicht weiter!

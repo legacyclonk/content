@@ -1,0 +1,14 @@
+[Material]
+Name=Oil
+Color=32,32,32,35,35,38,38,38
+ColorAnimation=1
+Density=25
+Instable=1
+MaxAirSpeed=25
+MaxSlide=10000
+WindDrift=30
+Inflammable=1
+Corrode=100
+Placement=10
+TextureOverlay=Liquid
+MinHeightCount=4

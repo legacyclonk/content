@@ -1,0 +1,3 @@
+TxtUp=Aufstieg
+TxtDown=Abstieg
+TxtExit=Verlassen

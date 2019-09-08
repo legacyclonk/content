@@ -1,0 +1,2 @@
+CtrlOpen=Open cage
+MsgNoKey=%s does not|have a key.

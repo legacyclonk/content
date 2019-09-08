@@ -1,0 +1,6 @@
+TxtErrLife=Um dem Zirkel des Lebens beizutreten,|wird eine Bevölkerung von 3 Inuks benötigt!
+TxtErrDeath=Um dem Zirkel des Todes beizutreten,|muss es Dämmerung oder Nacht sein!
+TxtSelectCircle=Magiezirkel wählen
+TxtLife=Leben
+TxtMystic=Mystik
+TxtDeath=Tod

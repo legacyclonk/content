@@ -1,0 +1,2 @@
+DE:Erdbeben
+US:Earthquake

@@ -1,0 +1,2 @@
+CtrlOpen=Käfig öffnen
+MsgNoKey=%s hat|keinen Schlüssel

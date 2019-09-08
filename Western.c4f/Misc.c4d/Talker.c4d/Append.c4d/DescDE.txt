@@ -1,0 +1,1 @@
+Verhindert, das Clonks wärend dem Sprechen laufen.

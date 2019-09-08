@@ -1,0 +1,22 @@
+[DefCore]
+id=BSFW
+Version=4,9,8
+Name=Burned Store Framework
+Category=C4D_Structure
+MaxUserSelect=10
+Width=86
+Height=30
+Offset=-43,-15
+Vertices=2
+VertexX=-43,43
+VertexY=14,14
+VertexFriction=100,100
+Value=1
+Mass=5
+Components=WOOD=4
+Picture=0,0,86,30
+ContactIncinerate=2
+BlastIncinerate=5
+Construction=1
+ConstructTo=STFW
+Grab=1

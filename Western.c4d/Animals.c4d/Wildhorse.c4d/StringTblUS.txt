@@ -1,0 +1,4 @@
+# Control
+CtrlCalmDesc=Calm
+CtrlGetOffDesc=Get Off
+MsgNeedSaddle=%s can't ride|without a saddle.

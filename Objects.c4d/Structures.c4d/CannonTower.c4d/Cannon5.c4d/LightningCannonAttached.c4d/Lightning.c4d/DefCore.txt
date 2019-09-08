@@ -1,0 +1,10 @@
+[DefCore]
+id=ADM4
+Version=4,9,8
+Name=Blitz
+Category=C4D_StaticBack
+Width=1
+Height=1
+Mass=1
+Picture=0,0,40,40
+Line=C4D_LineLightning

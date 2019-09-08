@@ -1,0 +1,2 @@
+MsgGoalFulfilled=The goal of this round has been completed!
+MsgGoalUnfulfilled=The goal of this round has not yet been been completed.

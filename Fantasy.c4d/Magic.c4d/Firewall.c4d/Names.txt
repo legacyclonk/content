@@ -1,0 +1,2 @@
+DE:Flammenwand
+US:Flame wall

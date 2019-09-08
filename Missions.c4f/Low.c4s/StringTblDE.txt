@@ -1,0 +1,4 @@
+MsgGo=Wo bist du denn gelandet?|Die Statue wartet oben auf dich!
+MsgGoalFulfilled=Die Statue erstrahlt wieder|in ihrem vollen Glanz!
+MsgGoalUnfulfilled=Bringe alle Statuenteile|auf die Spitze des Vulkans!
+MsgNoRuntimeJoin=Spielerbeitritt während der Runde nicht möglich.

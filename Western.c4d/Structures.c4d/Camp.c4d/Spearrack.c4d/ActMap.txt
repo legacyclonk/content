@@ -1,0 +1,6 @@
+[Action]
+Name=ShowItems
+Procedure=NONE
+Directions=1
+Length=8
+Facet=0,0,51,25

@@ -1,0 +1,22 @@
+[DefCore]
+id=SKLT
+Version=4,9,8
+Name=Skull Totem
+Category=C4D_Vehicle|C4D_SelectBuilding|C4D_SelectKnowledge
+MaxUserSelect=10
+Width=11
+Height=30
+Offset=-5,-15
+Vertices=4
+VertexX=0,-5,5,1
+VertexY=-10,-14,-14,14
+VertexFriction=20,20,20,50
+Value=8
+Mass=50
+Components=WOOD=1;SKUL=1
+Picture=15,0,26,70
+BlastIncinerate=10
+BurnTo=BSLT
+Construction=1
+Grab=1
+AttractLightning=1

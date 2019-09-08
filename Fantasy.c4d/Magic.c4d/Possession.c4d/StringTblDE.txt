@@ -1,0 +1,2 @@
+NotInFree=%s befindet|sich nicht im Freien!
+CanNotControl=Kein Tier in Reichweite!

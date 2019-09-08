@@ -1,0 +1,16 @@
+[Action]
+Name=Off
+Procedure=NONE
+NextAction=Off
+Delay=2
+Length=1
+Facet=0,0,6,26,0,0
+
+[Action]
+Name=On
+Procedure=NONE
+NextAction=On
+Delay=5
+Length=3
+Facet=7,0,7,26,0,0
+

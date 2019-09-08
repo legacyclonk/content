@@ -1,0 +1,7 @@
+TxtWipfies=These furry little creatures enjoy running and jumping around the place.$08_01_en.ogg
+TxtCatchEm=You can catch them either by hand or with the lorry.$08_02_en.ogg
+TxtSellEm=Your goal is to catch all wipfs and sell them at your homebase.$08_03_en.ogg
+BtnNextTutorial=&Next tutorial
+BtnNextTutorialDesc=Start the next tutorial scenario.
+BtnRepeatRound=&Repeat this round
+BtnRepeatRoundDesc=Restart this scenario.

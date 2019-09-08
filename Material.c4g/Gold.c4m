@@ -1,0 +1,13 @@
+[Material]
+Name=Gold
+Color=224,148,12,232,172,16,236,196,20
+Shape=3
+Density=50
+Friction=100
+BlastFree=1
+Blast2Object=GOLD
+Blast2ObjectRatio=75
+MaxAirSpeed=100
+MaxSlide=1
+Placement=50
+TextureOverlay=Rough

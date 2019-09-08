@@ -1,0 +1,13 @@
+[DefCore]
+id=FBRS
+Version=4,9,8
+Name=ForceFieldBridgeSegment
+Category=C4D_Living
+Width=18
+Height=8
+Offset=-9,-4
+SolidMask=36,0,18,8,0,0
+Picture=0,0,18,8
+IncompleteActivity=1
+NoBreath=1
+NoFight=1

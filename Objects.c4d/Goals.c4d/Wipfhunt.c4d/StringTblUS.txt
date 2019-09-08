@@ -1,0 +1,3 @@
+MsgFailed=Too many wipfs have died.
+MsgSuccess=No more wipfs to rescue.
+MsgTodo=Still %d wipfs to rescue. %d wipfs have already died (%d allowed).

@@ -1,0 +1,15 @@
+[DefCore]
+id=_FLS
+Version=4,9,8
+Name=FloorSwitch
+Category=C4D_StaticBack
+Timer=5
+TimerCall=Timer10
+Width=50
+Height=11
+Offset=-25,-5
+Value=5
+Components=ROCK=1
+SolidMask=0,12,50,4,0,1
+Picture=0,0,50,11
+HorizontalFix=1

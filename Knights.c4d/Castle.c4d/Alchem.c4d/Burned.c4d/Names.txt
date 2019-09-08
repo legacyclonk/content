@@ -1,0 +1,2 @@
+DE:Verbrannter Alchemieraum
+US:Burned alchemical room

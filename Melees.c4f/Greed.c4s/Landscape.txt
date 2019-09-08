@@ -1,0 +1,35 @@
+map Cave {
+  mat=Earth; tex=Smooth; algo=solid; x=-10; wdt=120;
+
+  overlay { algo=rndchecker; a=5; mat=Ashes; tex=Ridge; zoomX=-100; zoomY=-100; turbulence=2000; };
+  overlay { algo=bozo; a=35; mat=Sulphur; tex=Swirl; turbulence=2000; zoomX=50; zoomY=50; };
+
+  overlay { algo=bozo; a=4; mat=Gold; tex=Rough; zoomX=-60; zoomY=-60; turbulence=500; x=1; y=3; wdt=94; hgt=94;
+    overlay { algo=border; mat=Earth; tex=Smooth; a=3; b=3; turbulence=00; };
+  };
+  
+
+  overlay { algo=bozo; a=15; mat=Rock; tex=Rough; zoomX=-100; zoomY=-100; turbulence=1000; x=1; y=3; wdt=94; hgt=94;  
+    overlay { algo=border; mat=Earth; tex=Smooth; a=0; b=0; turbulence=0; };
+  };
+  
+  overlay { algo=rndchecker; mat=Tunnel; tex=Smooth; a=6; turbulence=3000; loosebounds=1; zoomX=-90; zoomY=-90;
+    overlay { algo=lines; mat=Tunnel; tex=Smooth; turbulence=5000; a=1; b=1; 
+      overlay { algo=solid; mat=DuroLava; tex=Liquid; y=90; };
+      };
+  };
+  
+  overlay { algo=solid; mat=SolidEarth; tex=Smooth; hgt=4; turbulence=300; loosebounds=0; };
+  
+  overlay { algo=bozo; a=5; rotate=-135; mat=Tunnel; tex=Smooth; zoomX=50; zoomY=15; ox=2; oy=20; seed=31337; y=32; hgt=27; 
+    overlay { algo=border; a=1; b=1; mat=Earth; tex=Smooth; turbulence=500; };
+  };
+
+  // Schächte
+  overlay { algo=lines; rotate=0; a=9; b=50; mat=DuroLava; tex=Liquid; seed=1337; wdt=100; turbulence=500;
+    overlay { algo=bozo; a=1; mat=Lava; tex=Liquid; turbulence=500; y=10; zoomX=-100; zoomY=-100; 
+      overlay { algo=border; mat=DuroLava; tex=Liquid; a=1; b=1; turbulence=100; };
+    };
+    overlay { algo=border; mat=Earth; tex=Smooth; a=1; b=1; };
+  };
+};

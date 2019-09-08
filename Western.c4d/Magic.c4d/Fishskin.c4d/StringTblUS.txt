@@ -1,0 +1,3 @@
+# Nachrichten
+MsgIsRev=%s is|already enchanted.
+MsgBlocked=%s can't revaluate|to a fishclonk.

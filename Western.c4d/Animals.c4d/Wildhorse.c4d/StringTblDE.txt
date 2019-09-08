@@ -1,0 +1,4 @@
+# Control
+CtrlCalmDesc=Beruhigen
+CtrlGetOffDesc=Absitzen
+MsgNeedSaddle=%s kann nicht|ohne Sattel reiten.

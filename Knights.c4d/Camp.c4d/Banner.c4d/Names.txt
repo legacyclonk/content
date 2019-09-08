@@ -1,0 +1,2 @@
+DE:Banner
+US:Banner

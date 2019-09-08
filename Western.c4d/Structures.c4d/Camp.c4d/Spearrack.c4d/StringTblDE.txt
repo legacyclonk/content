@@ -1,0 +1,3 @@
+MsgRackFull=Speerhalter|ist voll.
+MsgRackEmpty=Speerhalter|ist leer.
+CtrlTake=Speer nehmen

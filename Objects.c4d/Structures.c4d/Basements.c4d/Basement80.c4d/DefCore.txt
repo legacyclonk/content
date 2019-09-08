@@ -1,0 +1,17 @@
+[DefCore]
+id=BAS8
+Version=4,9,8
+Name=Basement
+Category=C4D_Structure
+Width=80
+Height=8
+Offset=-40,-4
+Vertices=2
+VertexX=-38,34
+VertexY=-5,-5
+VertexFriction=100,100
+Value=1
+Mass=10
+Components=ROCK=4
+SolidMask=0,0,80,8,0,0
+Construction=1

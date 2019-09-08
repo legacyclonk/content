@@ -1,0 +1,19 @@
+[DefCore]
+id=QBII
+Version=4,9,8
+Name=Groﬂe Eisstatue
+Category=C4D_Structure|C4D_SelectBuilding|C4D_SelectKnowledge|C4D_SelectVegetation
+MaxUserSelect=5
+TimerCall=CheckTemp
+Width=40
+Height=60
+Offset=-20,-30
+Vertices=2
+VertexX=-15,15
+VertexY=29,29
+VertexFriction=100,100
+Value=40
+Mass=100
+Components=SWBL=10
+Picture=0,0,40,60
+Construction=1

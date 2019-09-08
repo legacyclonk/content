@@ -1,0 +1,1 @@
+MsgBanditsFree=The bandits are free!

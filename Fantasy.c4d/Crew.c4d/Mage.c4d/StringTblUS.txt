@@ -1,0 +1,33 @@
+# Kombosystem
+
+descChooseSpellClass=Magic class selection
+
+#infoNoSpellOfKind=%s not available!
+#infoSpellInfo=%s level %d:|%s%s</c>
+
+msgNotReadyToMagic=%s cannot cast|a spell at the moment.
+
+
+# Menü
+
+MnuNoSpells=No spells known
+MnuCast=Cast
+MnuEmpty=Not selected
+MnuDelQuickspell=Delete quickspell
+MnuSetQuickspell=Belegen:
+MnuSlotQuickspell=Quick spell
+
+# Context
+
+CtxQuickspellDesc=Quickspell
+CtxMagicDesc=Cast a spell
+CtxCombo=Change spell system
+CtrlTakeoffDesc=Take equipment off
+
+# Nachrichten
+
+MsgNoQuickSpells=No quick spells selected
+ChangedToCombo=Combination system|selected
+ChangedToMenu=Menu system|selected
+MsgNotEnoughEnergy=Not enough|magical energy!
+MsgNotEnoughIngredients=Not enough|alchemistic ingredients!|%s|are missing.

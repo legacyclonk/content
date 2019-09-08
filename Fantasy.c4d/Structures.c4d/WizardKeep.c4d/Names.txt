@@ -1,0 +1,2 @@
+DE:Zauberkastell
+US:Wizard keep

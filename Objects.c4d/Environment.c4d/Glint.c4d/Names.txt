@@ -1,0 +1,2 @@
+DE:Glitzernde Materialien
+US:Glinting materials

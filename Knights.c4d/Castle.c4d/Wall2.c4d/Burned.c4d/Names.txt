@@ -1,0 +1,2 @@
+DE:Verbrannte Wand
+US:Burned Wall

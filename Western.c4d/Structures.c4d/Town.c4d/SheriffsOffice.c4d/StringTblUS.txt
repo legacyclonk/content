@@ -1,0 +1,12 @@
+TxtShowPrisoners=Show Prisoners
+MsgPrisoners=Prisoners
+MsgNoPrisoners=No Prisoners
+
+TxtRecruitSheriff=Recruit a sheriff
+TxtConstructHandcuffs=Construct handcuffs
+TxtCancel=Cancel
+TxtOnlyOneSheriff=There can by only one sheriff.
+TxtNotEnoughMoney=Not enough money.
+TxtSheriffRecruited=Sheriff trained.
+MsgNoMetal=You need metal.
+NoSheriff=You can't train any sheriff.

@@ -1,0 +1,2 @@
+DE:Zauber treffen alle Clonks
+US:Spells affect all clonks

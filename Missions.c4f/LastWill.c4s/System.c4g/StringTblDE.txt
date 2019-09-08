@@ -1,0 +1,64 @@
+# Aufgaben
+MsgGoal2=Neue Aufgabe: Baue dreißig Kristalle ab und bringe sie in das Schloss des Magiers, um die Baupläne für einen Ballon zu erhalten.
+MsgGoal3=Neue Aufgabe: Baue in der Werkstatt einen Ballon und|fliege mit allen drei Clonks über den Felsen|östlich des Schlosses!
+MsgGoal4=Neue Aufgabe: Dein Ballon ist abgestürzt.|Du musst nun einen befahrbaren Weg durch die Felsen schaffen, damit der Wagen mit der Leiche des Farmers weiter nach Osten transportiert werden kann.
+MsgGoal5=Letzte Aufgabe: Du hast nun das Meer erreicht.|Bringe den Wagen mit der Leiche bis zur Klippe und stürze ihn in das Meer.
+
+# 1. Dialog mit dem Magier
+MsgDia1_1=Was willst du hier? Ich werde dich vernichten, Eindringling!
+MsgDia1_2=Haltet ein! Ich bin Jeremy, der Sohn des Farmers MacFlury, der auf der anderen Seite des Sees wohnt!
+MsgDia1_3=Was willst du von mir?
+MsgDia1_4=Mein Vater ist vor einigen Tagen an einem Rippenbruch gestorben.
+MsgDia1_5=Ich kann ihn auch nicht wieder lebendig machen. Suche dir einen anderen Magier.
+MsgDia1_6=Halt, geht nicht weg! Ich will doch gar nicht von euch, dass ihr meinen Vater wieder zum Leben erweckt!
+MsgDia1_7=Was willst du denn dann?
+MsgDia1_8=Könnt ihr mir den Weg zum Meer sagen?
+MsgDia1_9=Aber sicher doch. Du musst einfach nur nach Osten laufen.
+MsgDia1_10=Dann öffnet mir und meinen zwei Brüdern das Tor, damit wir passieren können!
+MsgDia1_11=Alles hat seinen Preis. Ich will, dass du auch etwas für mich tust.
+MsgDia1_12=Und was soll das sein?
+MsgDia1_13=Östlich meines Schlosses befindet sich ein Felsen, den ihr nur mit einem Luftballon überqueren könnt. Wenn ihr mir helft, werde ich euch Baupläne für solch einen Ballon geben, damit ihr ihn in eurer Werkstatt herstellen könnt.
+MsgDia1_14=Das ist mein Problem: Ich will Kristalle für einen großen Zauber haben, meine Zauberkräfte wirken unter der Erde aber nicht. Baut 30 Kristalle ab und legt sie in mein Schloss! Dann werde ich dir und deinen Brüdern helfen, weiter nach Osten vorzudringen.
+
+# 2. Dialog mit dem Magier
+MsgDia2_1=Sehr gut, nun habe ich meine Kristalle. Ich kann jetzt einen mächtigen Zauber ausführen.
+MsgDia2_2=Aaah, ich spüre die Macht in meinen Händen. Ich bin jetzt noch mächtiger als vorher.|Wie kann ich dir nur danken?
+MsgDia2_3=Wir brauchen nur den Bauplan für einen Ballon!
+MsgDia2_4=Ah, jetzt erinnere ich mich; das war es, was du wolltest.|Warte einen Moment!
+MsgDia2_5=So, nun hast du den Bauplan! Geh und bau in deiner Werkstatt einen Ballon, um weiter nach Osten zu kommen!
+
+# Sonstige Nachrichten
+MsgCrash=Verdammt, das Ding ist abgestürzt!
+MsgSkipSeq=Sequenz abbrechen
+
+# Dialog mit dem Selbstmörder
+MsgDia3_1=Entschuldigt bitte! Ist das das Meer?
+MsgDia3_2=Ja.|Ist es nicht wunderschön?
+MsgDia3_3=So etwas schönes habe ich noch nie gesehen. Jetzt weiß ich auch, warum mein Vater hier beigesetzt werden wollte.
+MsgDia3_4=Euer Vater möchte im Meer beigesetzt werden? Oh ja, eine sehr kluge Entscheidung. Es gibt kein schöneres Ende, das man für sein Leben finden kann. Ich habe dieses Ende auch gewählt.
+MsgDia3_5=Ihr möchtet auch einmal im Meer beigesetzt werden?
+MsgDia3_6=Nein, ich werde heute schon darin sterben.
+MsgDia3_7=Wie meint ihr das?
+MsgDia3_8=Ich werde mich die Klippen hinunterstürzen.
+MsgDia3_9=Aber, um Gottes Willen, warum erzählt ihr denn sowas?
+MsgDia3_10=Vor einigen Tagen sind meine Frau und meine beiden Kinder bei einem Brand in meiner Textilfabrik gestorben. Mein Leben hat keinen Sinn mehr.
+MsgDia3_11=Nein nein, ihr dürft nicht den Mut verlieren!
+MsgDia3_12=Versucht nicht, mich aufzuhalten. Meine Entscheidung steht unbeirrbar fest.
+MsgDia3_13=Nein! Halt!
+MsgDia3_14=Der arme Clonk.
+
+# Dialog mit dem Geist des Farmers
+MsgDia4_1=Papa? Bist du das?
+MsgDia4_2=Ja, mein Sohn. Ich bin es.
+MsgDia4_3=Aber... aber du bist ja ein Geist!
+MsgDia4_4=Ja, ich weiß. Ich bin auf dem Weg in eine bessere Welt.
+MsgDia4_5=Samuel, Edward und ich haben dich zum Meer gebracht!
+MsgDia4_6=Ja, ihr hättet keine schönere Stelle finden können. Ich bin euch sehr dankbar dafür!
+MsgDia4_7=Wir werden dich sehr vermissen, Papa.
+MsgDia4_8=Ich werde euch auch vermissen, sag das bitte deinen Brüdern.
+MsgDia4_9=Das werde ich machen.
+MsgDia4_10=Viel Glück in deiner Zukunft. Und wenn du mal heiratest, dann such dir eine Blondine aus, die sind eh die besten. Nicht viel im Kopf, aber dafür... naja, nicht so wichtig.
+MsgDia4_11=Mach's gut, Papa.
+
+#Endnachricht
+MsgEnd=Du hast es geschafft! Viele Grüße von dem Farmer aus dem Jenseits!

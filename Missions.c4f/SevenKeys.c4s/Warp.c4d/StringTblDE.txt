@@ -1,0 +1,5 @@
+TxtWin=Ende
+TxtGoPortal=Glückwunsch!|Du kannst das Portal betreten!
+DescWon=Du hast alle Schlüssel abgeliefert. Betrete nun das Portal mit dem Luftschiff!
+DescGoToPortal=Erklimme den Hügel im Zentrum, um dem Portal seine nächste Aufgabe zu entlocken!
+DescFindKey=Finde den Schlüssel und bringe ihn zum Portal!

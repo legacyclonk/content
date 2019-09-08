@@ -1,0 +1,17 @@
+TxtShowPrisoners=Gefangene anzeigen
+MsgPrisoners=Gefangene
+MsgNoPrisoners=Keine Gefangenen
+
+TxtRecruitSheriff=Sheriff ausbilden
+TxtConstructHandcuffs=Handschellen herstellen
+TxtCancel=Abbrechen
+OnlyOneSheriff=Er kann nur einen Sheriff geben.
+NotEnoughMoney=Nicht genug Geld.
+MsgNoMetal=Es wird Metall benötigt.
+
+SellMenu=Verkaufen
+MsgNoSell=Kein Verkaufen erlaubt.
+
+MsgBanditsFree=Die Banditen sind frei!
+
+TxtNomoresuitabletrees=Keine geeigneten Bäume mehr!

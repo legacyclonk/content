@@ -1,0 +1,2 @@
+Das Ziel für alle Banditen ist es, das Geld der Städter zu rauben und in ihrer geheimen Schatzkiste zu deponieren. Das Geld bekommen sie, indem sie Banken sprengen. Wenn sie mehr Geld besitzen, als die Städter, haben sie gewonnen.
+Das Ziel für alle Städter und Sheriffs ist es, die Banditen aufzuhalten. Einerseits müssen sie ihr Geldkonto immer auf dem höherem Stand halten und andererseits die Banditen ausschalten (eingesperrte Banditen gelten auch als ausgeschaltet).

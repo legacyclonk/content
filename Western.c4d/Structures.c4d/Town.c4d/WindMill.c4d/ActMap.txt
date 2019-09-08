@@ -1,0 +1,6 @@
+[Action]
+Name=Base
+Length=11
+Delay=0
+NextAction=Hold
+Facet=42,0,75,90,-16

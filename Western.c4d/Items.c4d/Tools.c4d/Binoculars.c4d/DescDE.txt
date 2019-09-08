@@ -1,0 +1,3 @@
+Ein Fernglas um weiter sehen zu können.
+
+Es lässt sich mit 'Doppelgraben' bedienen, wonach man mit 'Werfen' den Sichtpunkt bestimmen oder zwischen Clonk und Sichtpunkt wechseln kann. Zum Aufhören nochmal auf 'Doppelgraben' drücken.

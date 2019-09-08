@@ -1,0 +1,9 @@
+[Action]
+Name=ShowBows
+Procedure=NONE
+Length=4
+Delay=0
+Facet=0,0,34,26,0,0
+FacetBase=1
+NextAction=Hold
+ 

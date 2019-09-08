@@ -1,0 +1,3 @@
+Controls trains. Grab to set: down (through), up (halt and go), left/right (halt and turn), throw (load/unload), double dig (deconstruct).
+
+Items and vehicles can be automatically loaded if they are placed at the point where the wagon comes to a halt.

@@ -1,0 +1,7 @@
+SendMsg=Nachrichten versenden
+TestWire=Leitung %d testen
+TestWireDesc=Schickt eine Testnachricht durch Leitung, um diese auf Schäden zu überprüfen
+MnCallSupp=Nachschub bestellen
+MsgNoMoney=Nicht genug Geld!
+MsgNoEnergy=Nicht genug Energie!
+CancelSending=Senden abbrechen

@@ -1,0 +1,2 @@
+DE:Lagergestell
+US:Store framework

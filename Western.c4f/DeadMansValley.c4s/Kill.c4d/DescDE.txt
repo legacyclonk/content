@@ -1,0 +1,1 @@
+Wer als erster eine festgelegte Anzahl Gegner umlegt, gewinnt das Spiel.

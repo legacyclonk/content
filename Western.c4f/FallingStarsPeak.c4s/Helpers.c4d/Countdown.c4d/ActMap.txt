@@ -1,0 +1,12 @@
+[Action]
+Name=Counting
+Procedure=FLOAT
+Delay=0
+Length=1
+Facet=0, 0,128,148,0,-123
+NextAction=Counting
+
+[Action]
+Name=Hat
+Facet=0,0,25,25,-128,0
+Procedure=FLOAT

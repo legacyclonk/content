@@ -1,0 +1,1 @@
+Gives the host the ability to alter the capture limit. Possible at the beginning of the game only.

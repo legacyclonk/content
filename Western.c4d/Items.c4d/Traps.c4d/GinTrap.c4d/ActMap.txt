@@ -1,0 +1,8 @@
+[Action]
+Name=Armed
+Procedure=NONE
+Facet=8,0,14,8,-3
+Delay=3
+Length=1
+NextAction=Hold
+PhaseCall=Check

@@ -1,0 +1,4 @@
+MsgTodo=Es können nur <c ffff00>%d</c> Tränke aus dem Kochtopf genommen werden.
+MsgTodoOne=Es kann nur <c ffff00>ein</c> Trank aus dem Kochtopf genommen werden.
+YouCanTake=Du kannst noch %d Tränke nehmen.
+YouCanTakeOne=Du kannst noch einen Trank nehmen.

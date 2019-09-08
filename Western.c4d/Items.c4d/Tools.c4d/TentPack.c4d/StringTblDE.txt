@@ -1,0 +1,9 @@
+TxtCreateConstructions=Baustelle errichten
+TxtNoconstructionplansa=Keine Baupläne verfügbar
+TxtConstructions=Konstruktion: %s
+
+TxtFill=Zeltpacket füllen
+TxtCantTake=Aufnehmen nicht möglich.
+TxtCantFind=Objekt nicht gefunden.
+TxtBackMenu=Zurück zum Menü
+DescBackMenu=Führt dich zurück zum Baumenü.

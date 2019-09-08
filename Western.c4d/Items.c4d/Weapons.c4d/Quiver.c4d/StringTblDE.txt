@@ -1,0 +1,5 @@
+TxtChange=Pfeilart wechseln
+MnuTakeArrows=Pfeile herrausnehmen
+TxtNoArrows=Keine Pfeile vorhanden.
+TxtPutIn=Pfeile reintun
+DescPutIn=Alle Pfeile kommen von deinem Inventar in den Köcher.

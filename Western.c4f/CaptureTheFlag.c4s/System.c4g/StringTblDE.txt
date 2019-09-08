@@ -1,0 +1,5 @@
+TxtRecruitCaptain=Captain ausbilden
+TxtCancel=Abbrechen
+OnlyOneCaptain=Er kann nur einen Captain geben.
+Recruit=Captain ausgebildet.
+NotEnoughMoney=Nicht genug Geld.

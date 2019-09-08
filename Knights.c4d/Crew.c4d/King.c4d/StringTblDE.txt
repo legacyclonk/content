@@ -1,0 +1,11 @@
+# Context-Descs
+CtxMagicDesc=Zaubern
+
+# Menutexte
+MnuNoSpells=Keine Zaubersprüche verfügbar
+MnuCast=Zaubern
+
+# Nachrichten
+MsgNotEnoughEnergy=Nicht genug|Zauberenergie!
+MsgCantWearArmor=Der König kann|keine Rüstung tragen!
+MsgNotEnoughIngredients=Nicht genug|alchemische Zutaten!|Es fehlen|%s.

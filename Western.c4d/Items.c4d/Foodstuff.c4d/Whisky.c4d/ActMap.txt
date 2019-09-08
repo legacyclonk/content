@@ -1,0 +1,15 @@
+[Action]
+Name=Full
+Procedure=NONE
+Directions=1
+Length=1
+Facet=0,0,4,12
+NextAction=Empty
+
+[Action]
+Name=Empty
+Procedure=NONE
+Directions=1
+Length=1
+Facet=0,0,4,12
+

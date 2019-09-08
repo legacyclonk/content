@@ -1,0 +1,4 @@
+# Nachrichten
+MsgIsRev=%s ist schon|ein %s.
+MsgBlocked=%s kann nicht zum|%s aufwerten.
+

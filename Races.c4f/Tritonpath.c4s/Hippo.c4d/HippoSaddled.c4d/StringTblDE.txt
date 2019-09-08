@@ -1,0 +1,5 @@
+TxtEat=Essen
+MsgFetch=%s hohlen
+MsgPut=%s ablegen
+MsgEmpty=%s ist leer
+CtrlGetOffDesc=Absitzen

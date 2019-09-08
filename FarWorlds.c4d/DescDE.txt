@@ -1,0 +1,5 @@
+Eigenständige Clonkvölker und unbekannte Tiere leben in den Fernen Welten. 
+
+Die Clonks haben sich im Lauf der Zeit an ihre Umgebung angepasst und zahlreiche neue Eigenschaften, Gebäude und Werkzeuge entwickelt.
+
+Dieser Ordner enthält alle Objektpakete aus den Fernen Welten.

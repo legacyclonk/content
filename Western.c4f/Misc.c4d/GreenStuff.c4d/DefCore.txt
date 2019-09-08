@@ -1,0 +1,13 @@
+[DefCore]
+id=_VEG
+Version=4,9,8
+Name=Vegetation
+Category=C4D_StaticBack
+Width=32
+Height=32
+Offset=-16,-16
+Value=10
+Mass=1
+Components=WOOD=1
+Picture=0,0,32,32
+Rotate=1

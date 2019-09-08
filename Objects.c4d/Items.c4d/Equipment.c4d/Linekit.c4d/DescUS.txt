@@ -1,0 +1,1 @@
+Used to create power lines and pipes. Instructions: select 'connect line' in front of a supply building, then walk to a consumer building and select 'connect line' again. The first line connected to a pump always becomes a source pipe, the second line becomes a drain pipe.

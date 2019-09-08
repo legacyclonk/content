@@ -1,0 +1,19 @@
+[DefCore]
+id=_STL
+Version=4,9,8
+Name=Star Green
+Category=C4D_Living
+Timer=4
+TimerCall=Timer
+Width=20
+Height=18
+Offset=-10,-9
+Vertices=5
+VertexX=-6,4,8,0,-8
+VertexY=7,7,-2,-7,-1
+VertexFriction=20,20,20,20,20
+Mass=1
+Picture=0,18,120,130
+Rotate=1
+StretchGrowth=1
+NoBurnDecay=1

@@ -1,0 +1,16 @@
+[DefCore]
+id=ERTH
+Version=4,9,8
+Name=Earth
+Category=C4D_Object
+Width=6
+Height=6
+Offset=-3,-3
+Vertices=1
+VertexY=1
+VertexFriction=100
+Mass=8
+Components=ILOA=1
+Picture=6,0,35,35
+Collectible=1
+Fragile=1

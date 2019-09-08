@@ -1,0 +1,8 @@
+[Action]
+Name=Fly
+Procedure=FLOAT
+Directions=1
+Length=1
+Delay=10
+FacetBase=1
+NextAction=Fly

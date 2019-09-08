@@ -1,0 +1,1 @@
+CantRide=%s can not ride|the kajak yet!

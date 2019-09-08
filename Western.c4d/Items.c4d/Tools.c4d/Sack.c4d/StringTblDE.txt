@@ -1,0 +1,2 @@
+TxtCollect=Einsammeln
+DescTake=Herausnehmen

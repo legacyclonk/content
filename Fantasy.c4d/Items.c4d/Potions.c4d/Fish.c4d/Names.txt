@@ -1,0 +1,2 @@
+DE:Fischtrank
+US:Fish potion

@@ -1,0 +1,8 @@
+[DefCore]
+id=MD69
+Version=4,9,8
+Name=MenuDeco
+Category=C4D_StaticBack
+Width=1
+Height=1
+Mass=1

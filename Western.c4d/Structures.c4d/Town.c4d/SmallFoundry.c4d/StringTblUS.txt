@@ -1,0 +1,6 @@
+# Steuerung
+ProduceMetal=Produce metal
+
+# Produktion
+MsgOreNotAvailable=No ore found
+MsgFuelNotAvailable=No fuel found

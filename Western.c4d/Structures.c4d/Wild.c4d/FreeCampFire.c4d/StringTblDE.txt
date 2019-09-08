@@ -1,0 +1,5 @@
+MsgFull=Lagerfeuer ist voll!
+MsgNotEmpty=Muss leer sein!
+Destroy=Auseinandernehmen
+MsgCantBeGrilled=%s kann nicht gegrillt werden.
+DescTake=Herausnehmen

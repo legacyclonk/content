@@ -1,0 +1,19 @@
+[DefCore]
+id=METB
+Version=4,9,8
+Name=Bait Meat
+Category=C4D_Object
+Width=9
+Height=7
+Offset=-4,-3
+Vertices=4
+VertexX=-4,4
+VertexY=0,0,-3,3
+VertexFriction=40,40,40,40
+Value=5
+Mass=2
+Components=RMET=1
+Picture=0,7,64,64
+Collectible=1
+Rotate=1
+Float=1

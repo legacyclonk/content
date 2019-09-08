@@ -1,0 +1,19 @@
+[DefCore]
+id=MBAG
+Version=4,9,8
+Name=Money Bag
+Category=C4D_Object
+Timer=10
+TimerCall=Timer
+Width=10
+Height=10
+Offset=-5,-5
+Vertices=2
+VertexX=-3,4
+VertexY=-4,3
+VertexFriction=50,50
+Mass=10
+Components=MBAG=1
+Picture=0,10,64,64
+Collectible=1
+Float=1

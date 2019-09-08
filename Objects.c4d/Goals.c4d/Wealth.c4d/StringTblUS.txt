@@ -1,0 +1,2 @@
+MsgGoalFulfilled=%d wealth points reached!
+MsgGoalUnfulfilled=%d wealth points of %d reached.

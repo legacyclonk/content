@@ -1,0 +1,17 @@
+[Head]
+NoInitialize=1
+Origin=Western.c4f\Goldrush.c4s\SectCaves.c4g
+
+[Landscape]
+ExactLandscape=0
+TopOpen=0
+MapWidth=250
+MapHeight=65
+MapZoom=10,0,10,10
+NewStyleLandscape=1
+NoScan=1
+SkyScrollMode=2
+
+[Weather]
+Climate=10,0
+Wind=0,60

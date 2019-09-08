@@ -1,0 +1,2 @@
+DE:Sprecher
+US:Talker

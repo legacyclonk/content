@@ -1,0 +1,12 @@
+# Teams
+TeamLeft=Mönkelburg
+TeamRight=Schloss Harx
+
+# Nachrichten
+MsgEliminated=eliminiert
+MsgEliminatedInfo=Deine Clonks sind tot.|Um wieder mitkämpfen zu können,|muss dich der König im Thron auferstehen lassen.
+MsgUnjoinedPlayers=Einige Spieler haben noch keine Burg
+MsgGameGo2=%s tritt alleine in die Schlacht|- er bekommt einen kleinen Startbonus
+
+# Keine Standardstartnachricht
+MsgGameGo=

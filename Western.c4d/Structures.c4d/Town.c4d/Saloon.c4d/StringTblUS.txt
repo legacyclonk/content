@@ -1,0 +1,4 @@
+Whisky=Order whisky
+NoMoney=No money, no drink!
+MsgFight=I don't sell during a fight.
+StartFight=Pick a fight

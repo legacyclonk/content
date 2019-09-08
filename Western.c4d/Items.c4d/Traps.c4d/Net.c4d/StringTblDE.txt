@@ -1,0 +1,3 @@
+MsgNoTree=Kein geeigneter Baum|in der Nähe!
+MsgSmallTree=Baum ist zu klein!
+MsgNoArm=Aufstellung hier nicht möglich!

@@ -1,0 +1,2 @@
+DE:Heiltrank
+US:Healing potion

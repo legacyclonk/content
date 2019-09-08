@@ -1,0 +1,17 @@
+[Action]
+Name=Brew
+Procedure=NONE
+Length=40
+Delay=3
+FacetBase=1
+NextAction=Potion
+PhaseCall=Brewing
+
+[Action]
+Name=Potion
+Procedure=NONE
+Length=40
+Delay=12
+FacetBase=1
+NextAction=Potion
+PhaseCall=Brewing

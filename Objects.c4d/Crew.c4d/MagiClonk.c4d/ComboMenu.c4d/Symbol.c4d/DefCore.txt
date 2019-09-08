@@ -1,0 +1,16 @@
+[DefCore]
+id=MGSM
+Version=4,9,8
+Name=MageSymbol
+Category=C4D_Object|C4D_Foreground|C4D_IgnoreFoW
+Width=40
+Height=40
+Offset=-20,-20
+Vertices=1
+Picture=0,0,40,40
+Exclusive=1
+BorderBound=1
+StretchGrowth=1
+IncompleteActivity=1
+NoBreath=1
+NoFight=1

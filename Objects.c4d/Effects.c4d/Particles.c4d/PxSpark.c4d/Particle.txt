@@ -1,0 +1,17 @@
+[Particle]
+Name=PxSpark
+MaxCount=300
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,32,32,-16,-16
+Delay=1
+Repeats=3
+Reverse=1
+GravityAcc=50
+VertexCount=1
+VertexY=50
+FadeOutLen=4
+FadeOutDelay=4
+AlphaFade=10
+Additive=1

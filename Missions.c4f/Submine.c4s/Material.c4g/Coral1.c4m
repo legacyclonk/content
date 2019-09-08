@@ -1,0 +1,12 @@
+[Material]
+Name=Coral1
+Color=36,132,31,47,193,54,20,96,24
+Shape=3
+Density=50
+Friction=100
+BlastFree=1
+Blast2Object=GCOR
+Blast2ObjectRatio=80
+MaxAirSpeed=100
+MaxSlide=1
+TextureOverlay=Structure

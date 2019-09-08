@@ -1,0 +1,2 @@
+DE:Zaubersprüche
+US:Magic Spells

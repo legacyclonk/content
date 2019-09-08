@@ -1,0 +1,17 @@
+[Action]
+Name=Zoom
+Procedure=FLOAT
+Length=1
+Delay=2
+StartCall=Expand
+Facet=0,0,200,200,0,0
+NextAction=Zoom
+
+[Action]
+Name=Show
+Procedure=FLOAT
+Length=1
+Delay=70
+Facet=0,0,200,200,0,0
+EndCall=Hide
+

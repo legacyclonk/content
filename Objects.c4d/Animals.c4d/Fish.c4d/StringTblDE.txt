@@ -1,0 +1,4 @@
+TxtMovement=Bewegen
+TxtDrop=Gegenstand fallen lassen
+TxtLeave=Zurückverwandeln
+TxtEmbowel=Verwerten

@@ -1,0 +1,1 @@
+This bag contains money disbursed by the bank.

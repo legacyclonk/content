@@ -1,0 +1,11 @@
+[Material]
+Name=Rock
+Color=86,86,86,106,106,106,126,126,126
+Shape=3
+Density=50
+Friction=100
+BlastShiftTo=Granite
+MaxAirSpeed=100
+MaxSlide=250
+Placement=50
+TextureOverlay=Rough

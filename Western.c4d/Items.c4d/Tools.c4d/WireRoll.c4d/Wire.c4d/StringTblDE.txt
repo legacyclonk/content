@@ -1,0 +1,1 @@
+MsgMaxLen=Maximale Drahtlänge!

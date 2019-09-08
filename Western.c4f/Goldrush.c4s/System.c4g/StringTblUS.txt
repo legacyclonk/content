@@ -1,0 +1,372 @@
+# # # # # # #
+#  Various  #
+# # # # # # #
+
+# Trade #
+
+MsgTrade=Trade
+MsgBuyIndian=Hire scout
+MsgCancel=Cancel
+MsgOre=Exchange 10 food for 5 ore
+MsgSulfur=Exchange 8 food for 5 sulphur
+MsgCoal=Exchange 6 food for 5 coal
+MsgTooFewFood=Not enough food!
+MsgFoodOre=Exchanged food for ore!
+MsgFoodSulfur=Exchanged food for sulfur!
+MsgFoodCoal=Exchanged food for coal!
+MsgIndian=Scout trained!
+MsgTooFewWeapons=For this you need two rifles and four boxes of ammo!
+Production=Production
+
+# # # # # # #
+# Sequences #
+# # # # # # #
+
+# Intro #
+Mov_Intro0=Faster, faster!
+Mov_Intro2=Darnit, stupid horse!
+Mov_Intro3=Are we there yet?
+Mov_Intro4=No, but we'll need a new horse.
+Mov_Intro5=The guy who sold us the map in Coalstown said it shouldn't be too far.
+Mov_Intro6=We need a new horse anyway, or we'll never make it to the Golden Canyon.
+Mov_Intro7=When we've got all the gold there we will be rich!
+Mov_Intro8=Sure, but let us find a horse first.
+
+# Extro #
+Mov_Extro0=There is Golden Canyon written on this sign!
+Mov_Extro1=We have succeded, the gold is ours!
+
+# # # # # # # # # # # #
+#    Cavalry Fort     #
+# # # # # # # # # # # #
+
+# Captain #
+Dlg_Captain0=We'd like to pass.
+Dlg_Captain1=No way, I'm sorry.
+Dlg_Captain2=The frontier ends at this outpost.
+Dlg_Captain3=Indians live beyond this point - they're pretty martial at the moment.
+Dlg_Captain4=Uhm, can't we just pass anyway?
+Dlg_Captain5=No, by no means!
+Dlg_Captain6=If we would give you a money bag with 50 coins as a sign of our gratefulness, would that change your mind?
+Dlg_Captain7=Maybe I could make one exception...
+Dlg_Captain8=You got the money?
+Dlg_Captain9=Yes, here you are.
+Dlg_Captain9b=Not yet.
+Dlg_Captain10=Okay, I will open the gates for you.
+Dlg_Captain10b=Nice try, but the deal was a bag with 50 coins.
+Dlg_Captain11=Oh and I'm sure you can use this construction plan for an armory.
+Dlg_Captain12=Thanks.
+Dlg_Captain13=Have a good trip!
+
+# Caval #
+Dlg_Caval0=Hello, can you open the gates for us?
+Dlg_Caval1=No, we have our orders to let nobody through.
+Dlg_Caval2=You should talk to our captain.
+Dlg_Caval3=Have a nice day.
+
+# # # # # # # # # #
+#   Wipfs Tribe   #
+# # # # # # # # # #
+
+# Atepa #
+Dlg_Atepa0=Could you open up?
+Dlg_Atepa1=If you can help us, I will open.
+Dlg_Atepa2=We'll try to help you.
+Dlg_Atepa3=Good, go and talk to our chief.
+Dlg_Atepa4=Thanks a lot.
+Dlg_Atepa5=I'm hungry.
+
+# Chief #
+Dlg_Chief0=We are to help you?
+Dlg_Chief1=Yes, the Wolves Tribe accuses us of having stolen the calumet.
+Dlg_Chief2=Nothing we could change...
+Dlg_Chief3=They don't let us get to the bisons anymore!
+Dlg_Chief4=So we are slowly starving. Couldn't you help us out with some food?
+Dlg_Chief5=Let me see.. could you give us a horse in return?
+Dlg_Chief6=We don't have any, but there are a few wild horses that live right behind our camp.
+Dlg_Chief7=Good as well, thank you.
+Dlg_Chief8=If you bring us some food, we could offer you some other goods.
+Dlg_Chief9=You can trade the food in the main tipi.
+Dlg_Chief10=Thanks for your help!
+
+# Chaska #
+Dlg_Chaska0=How's it going?
+Dlg_Chaska1=Bad.
+Dlg_Chaska2=Why?
+Dlg_Chaska3=I am hungry and still have to work.
+Dlg_Chaska4=Couldn't you bring me a juicy bison steak?
+Dlg_Chaska5=I'll see if I can get one.
+Dlg_Chaska6=You have a steak?
+Dlg_Chaska7=Yep.
+Dlg_Chaska7b=No, not yet.
+Dlg_Chaska8=Oh thanks a lot.
+Dlg_Chaska8b=That's still raw!!
+Dlg_Chaska8c=That's not a real steak!
+Dlg_Chaska9=Do I get a reward for that?
+Dlg_Chaska10=Take this potion.
+Dlg_Chaska11=Thanks, what is it good for?
+Dlg_Chaska12=Well, uhm... bye!
+Dlg_Chaska13=Thanks again for the steak.
+Dlg_Chaska14=If you can bring me one more, I will give you another potion.
+Dlg_Chaska15=Okay, there you are.
+Dlg_Chaska15b=No, unfortunately I don't have one.
+Dlg_Chaska16=Thanks, here is your potion.
+
+# Etenia #
+Dlg_Etenia0=What can we do for you?
+Dlg_Etenia1=There must be peace again!
+Dlg_Etenia2=How can we help in this issue?
+Dlg_Etenia3=You have to find and return the calumet.
+Dlg_Etenia4=We'll see what we can do.
+Dlg_Etenia5=Oh, you found the calumet!
+Dlg_Etenia6=Now you can make amulets in my tent. I'm sure they can be very handy in special situations, so take a few along.
+
+
+# # # # # # # # # #
+#  Wolves Tribe   #
+# # # # # # # # # #
+
+# Fala #
+Dlg_Fala0=We have to pass!
+Dlg_Fala1=We don't let any bandits through.
+Dlg_Fala2=We are friendly settlers and just want to pass.
+Dlg_Fala3=So where is your coach?
+Dlg_Fala4=I'll get it.
+Dlg_Fala5=Oh and.. before I'll let you through, you have to pay!
+Dlg_Fala6=Oh really? How much?
+Dlg_Fala7=Let's say... 30 gold nuggets?
+Dlg_Fala8=How about 2?
+Dlg_Fala9=No. Put all 30 nuggets in this chest over there.
+Dlg_Fala10=If we don't have a choice...
+Dlg_Fala11=Oh you're done.
+Dlg_Fala11b=The coach isn't there yet. 
+Dlg_Fala11c=There are still %d gold nuggets missing.
+Dlg_Fala12=Perfect!
+Dlg_Fala13=Just in case you have some gold left...
+Dlg_Fala14=NO!
+
+# Woff #
+Dlg_Woff0=Good day!
+Dlg_Woff1=Hello, settler. Do you have any rifles?
+Dlg_Woff2=Yes, what do you want with them?
+Dlg_Woff3=If you bring us some rifles, one of our most experienced scouts can accompany you.
+Dlg_Woff4=Just put 2 rifles and 4 packs of ammunition in our main tent.
+Dlg_Woff5=We will get back to your offer.
+
+# Delsy #
+Dlg_Delsy0=Hello, indian.
+Dlg_Delsy1=Oh, life is so hard.
+Dlg_Delsy2=Are you a depressed?
+Dlg_Delsy3=Depressed? What does that mean? Must be something bad, I would guess.
+Dlg_Delsy4=Uhm well...
+Dlg_Delsy5=What can I do for you?
+Dlg_Delsy6=Maybe you can get me some whisky?
+Dlg_Delsy7=Sure, take it.
+Dlg_Delsy7b=No, I don't have any at the moment.
+Dlg_Delsy8=*gulp*
+Dlg_Delsy9=Do you have any more?
+Dlg_Delsy10=Yes, here is some more.
+Dlg_Delsy10b=No, I don't have any left.
+Dlg_Delsy11=I'm a bird! *hehe*
+Dlg_Delsy12=?!?
+
+# Hania #
+Dlg_Hania0=Hey, cute cowboy.
+Dlg_Hania0b=Go away you filthy indian.
+Dlg_Hania0c=I don't want to deal with trappers.
+Dlg_Hania1=Uhm yes.
+Dlg_Hania2=Your hat looks extremely sexy!
+Dlg_Hania3=Well... I got to go.
+Dlg_Hania4=Couldn't you do me a favour?
+Dlg_Hania5=Sweetheart, bring me a nice crystal.
+Dlg_Hania6=Uh... okay.
+Dlg_Hania7=Hey my cutie, you got the crytsal?
+Dlg_Hania8=Yeah... here you go.
+Dlg_Hania8b=Not yet, bye.
+Dlg_Hania9=You are so kind, cowyboy.
+Dlg_Hania10=Here, take this nice feather for your hat.
+Dlg_Hania11=What for?
+Dlg_Hania12=It looks nice and protects you.
+Dlg_Hania13=Erm.. thanks.
+Dlg_Hania14=Oh you look so beautiful!
+
+# Gaho #
+Dlg_Gaho0=Good day, wise shaman!
+Dlg_Gaho1=Maybe you can tell us where we can find Ash City?
+Dlg_Gaho2=The way is blocked by a magical barrier.
+Dlg_Gaho3=That helps us to be safe against bad guys from this region.
+Dlg_Gaho4=But I have the feeling they found another way to this place.
+Dlg_Gaho5=What do you mean?
+Dlg_Gaho6=I heard some strange sounds coming from the vault lately.
+Dlg_Gaho7=But we have to go on. How can we pass this barrier?
+Dlg_Gaho8=To neutralize the barrier, you'll need the Goblet Of Life.
+Dlg_Gaho8b=As long as there is no peace between the tribes, I can't neutralize the barrier.
+Dlg_Gaho9=Bring me the goblet and I'll help you.
+Dlg_Gaho10=Oh, you found it.
+Dlg_Gaho11=Narn y lúmen!
+Dlg_Gaho12=The way is clear now.
+Dlg_Gaho13=Thank you, oh wise shaman!
+
+# # # # # #
+# Trapper #
+# # # # # #
+
+# Harry #
+Dlg_Harry0=Good day, who are you?
+Dlg_Harry1=We are trappers, and that's our camp.
+Dlg_Harry2=And we are gold seekers on our way to the Golden Canyon.
+Dlg_Harry3=I welcome you! In the tents and at the fire you'll find some food. Oh and your covered wagon is very nice, we could need one as well...
+Dlg_Harry4=You are kind!
+Dlg_Harry5=Well, not everyone here is. Bandits raided the city not long ago.
+Dlg_Harry6=They burnt down almost everything.
+Dlg_Harry7=Oh, but we have to go through there.
+Dlg_Harry8=They locked the guard tower.
+Dlg_Harry9=We just blow it up.
+Dlg_Harry10=That's dangerous because of the bridge.
+Dlg_Harry11=You'll have to find another way into the city.
+Dlg_Harry12=Thanks for your hospitality.
+Dlg_Harry13=We could need a covered wagon as your as well.
+Dlg_Harry14=As a gift for your hospitality we want to give you this covered wagon.
+Dlg_Harry15=Oh many thanks!
+Dlg_Harry16=In return for that take this key. We found it, and maybe it can help you.
+Dlg_Harry17=Thank you, good bye.
+
+# Dork #
+Dlg_Dork0=How are you?
+Dlg_Dork1=Good, there is a lot to do.
+Dlg_Dork2=Are you hungry?
+Dlg_Dork3=Yeah, very!
+Dlg_Dork3b=Just a bit.
+Dlg_Dork3c=Not at all.
+Dlg_Dork4=Here, take some wipf meat and roast it at the fire.
+Dlg_Dork5=Thanks.
+
+# # # # # # #
+# Ash City  #
+# # # # # # #
+
+# Sheriff #
+Dlg_Sheriff0=What's going on here?
+Dlg_Sheriff1=A horde of bandits raided our city.
+Dlg_Sheriff2=They burnt down almost everything.
+Dlg_Sheriff3=We made it into this cave.
+Dlg_Sheriff4=Could you help us to defeat the bandits?
+Dlg_Sheriff5=Actually, we are just on our journey through...
+Dlg_Sheriff6=Please defeat all bandits and assist us with rebuilding the city .
+Dlg_Sheriff7=Fair enough, we will help you. Otherwise we can't continue our journey anyway...
+Dlg_Sheriff8=Are all of them dead yet?
+Dlg_Sheriff9=Yes, we killed all bandits.
+Dlg_Sheriff9b=No, we aren't done yet.
+Dlg_Sheriff10=Their boss must still be hiding somewhere.
+Dlg_Sheriff11=We have to arrest him by all means.
+Dlg_Sheriff12=How can we do that?
+Dlg_Sheriff13=I will accompany you. If he is weakened, I can arrest him.
+Dlg_Sheriff14=But first I need my office.
+Dlg_Sheriff15=And while you are doing this, you can rebuild the other buildings as well.
+Dlg_Sheriff16=Is my office ready yet?
+Dlg_Sheriff17=Good as new.
+Dlg_Sheriff17b=Not yet.
+Dlg_Sheriff18=Alright, I'll come with you. Let's find that bandit boss.
+Dlg_Sheriff19=Now they are not a danger anymore.
+Dlg_Sheriff20=But he said you'll never reach the Golden Canyon.
+Dlg_Sheriff21=Why not?
+Dlg_Sheriff22=You'll have to travel through the abandoned mines.
+Dlg_Sheriff23=They are locked with three locks.
+Dlg_Sheriff24=Two keys are hidden in this area.
+Dlg_Sheriff25=But one of the keys he gave to another bandit.
+Dlg_Sheriff26=This one fled into the mountains with a horse, so we can't catch him anymore.
+Dlg_Sheriff27=Isn't there another way to get the key back?
+Dlg_Sheriff28=There is a small village in the mountains, where a colleague lives.
+Dlg_Sheriff29=If I could send him a message, he could stop the bandit.
+Dlg_Sheriff30=But for that, the telegraph line must be established again. Here take the plan for poles and wire and see to the connection.
+Dlg_Sheriff31=Did you repair the line yet?
+Dlg_Sheriff32=Yes, you can send the message.
+Dlg_Sheriff32b=No, we are still working on it.
+Dlg_Sheriff33=Good, I'll send it immediately.
+Dlg_Sheriff34=Have you received the key yet?
+Dlg_Sheriff35=Yes, here it is.
+Dlg_Sheriff35b=No, it takes some time. Why don't you rebuild the other buildings in the meantime?
+Dlg_Sheriff36=Thanks.
+Dlg_Sheriff37=Thanks for your help with rebuilding the city.
+Dlg_SheriffPause=I need a break.
+Dlg_SheriffPause2=I need a break. Bring me a piece of cooked meat so I can strengthen me again.
+
+# Smith #
+Dlg_Smith0=Hello, who are you?
+Dlg_Smith1=I'm the smith of this city.
+Dlg_Smith2=If I just could repair my workshop.
+Dlg_Smith3=You built my workshop up again?
+Dlg_Smith4=As a sign of my gratefulness I give you the plan of the dynamo. Also I will sell you a cannon for only 50 clunkers. I'm sure you'll need it if you're going to the mines.
+Dlg_Smith5=And you'll get the plan for more balls.
+Dlg_Smith6=You want to buy a cannon?
+Dlg_Smith7=Very well, here's the money.
+Dlg_Smith7b=No, maybe later.
+Dlg_Smith8=Alright, here is your cannon.
+Dlg_Smith8b=That's not enough. A cannon costs 50.
+
+# Henry #
+Dlg_Henry0=I'm the lumberjack here.
+Dlg_Henry1=Could you sell us some wood?
+Dlg_Henry2=No, as long as my sawmill is destroyed i can't help you.
+Dlg_Henry3=Of course.
+Dlg_Henry4=For a gold nugget I could offer 5 boards.
+Dlg_Henry5=Okay, here's a nugget.
+Dlg_Henry5b=Okay, thanks for the offer.
+Dlg_Henry6=Here are your boards.
+
+# Gerry #
+Dlg_Gerry0=Hello.
+Dlg_Gerry1=What is a banker supposed to do without a bank?
+Dlg_Gerry2=Many thanks for rebuilding my bank.
+Dlg_Gerry3=Take this money bag as a reward for your efforts.
+Dlg_Gerry4=By the way... I can offer you an investment with an interest rate of 3,75% p.a. ...
+Dlg_Gerry5=No thanks, dynamite is my investment.
+
+# Dorkan #
+Dlg_Dorkan0=Hey, Settler.
+Dlg_Dorkan1=These are bad times. My shop was burnt to cinders.
+Dlg_Dorkan2=Great! My shop looks like new!
+Dlg_Dorkan3=Take those 5 bottles of whisky.
+Dlg_Dorkan4=Maybe they will come in handy, because some bandits become very cooperative when you have some whisky to offer.
+Dlg_Dorkan5=So take those bottles along into the mines.
+Dlg_Dorkan6=Thanks, we'll do that.
+Dlg_Dorkan7=Life is great!
+
+# # # # # # # # # #
+# Abandoned Mines #
+# # # # # # # # # #
+
+# Willy #
+Dlg_Willy0=Heeelloooo! 
+Dlg_Willy1=Could it be you drank a bit too much?
+Dlg_Willy2=What? Nononooo waay! *hehe*
+Dlg_Willy3=How do we get in there?
+Dlg_Willy4=You neeeed a croewn! It mus bee on that swi...swikch!!
+Dlg_Willy5=How can we get it?
+Dlg_Willy6=I haaave on parrrt! 
+Dlg_Willy7=But firs I need mooore whisiky!
+Dlg_Willy8=Here, a bottle.
+Dlg_Willy8b=Darn, I don't have anymore.
+Dlg_Willy9=Pleaease onne more!
+Dlg_Willy10=Okeys, hehere is you crown! 
+Dlg_Willy11=*As you can see: Too much alcohol is bad for the brain.*
+Dlg_Willy12=Hey Willy, have you seen a book by chance?
+Dlg_Willy13=Herere you go. I cannot reeead anyway! *hehe*
+Dlg_Willy14=Thanks, have a nice drunkenness.
+
+# Luyu # 
+Dlg_Luyu0=What do you want at this place?
+Dlg_Luyu1=We are looking for the second part of the crown.
+Dlg_Luyu1b=Ehm nothing.
+Dlg_Luyu2=I own it.
+Dlg_Luyu3=Could you give it to us?
+Dlg_Luyu4=You'll have to find my book of spells in return for it.
+Dlg_Luyu5=Have you found it?
+Dlg_Luyu6=Yes, here it is.
+Dlg_Luyu6b=Not yet, but soon.
+Dlg_Luyu7=Here is the crown.
+Dlg_Luyu8=Take care out there.
+Dlg_Luyu9=We will.
+Dlg_Luyu10=When you want to leave the mines, you have to balance out the stone gate with something golden or pure gold. Otherwise you'll never find a way out.
+Dlg_Luyu11=Thanks for the hint.
+Dlg_Luyu12=And no please go and don't disturb my meditation anymore!

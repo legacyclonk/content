@@ -1,0 +1,3 @@
+His majesty. The knight of highest order doesn't just know how to handle weapons, but is also a master of sorcery as well. He can convert crystals or direct lightning strikes into magic energy.
+
+Inventory selection via 'special 1'. Command menu via 'special 2'. Spellcasting is located in the command menu. Additional information can be found in the weapons' object information.

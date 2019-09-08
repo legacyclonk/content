@@ -1,0 +1,2 @@
+DE:Totempfahl
+US:Totem pole

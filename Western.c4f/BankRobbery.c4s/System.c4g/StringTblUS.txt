@@ -1,0 +1,13 @@
+TxtShowPrisoners=Show Prisoners
+MsgPrisoners=Prisoners
+MsgNoPrisoners=No Prisoners
+TxtRecruitSheriff=Recruit a sheriff
+TxtConstructHandcuffs=Construct handcuffs
+TxtCancel=Cancel
+OnlyOneSheriff=There can by only one sheriff.
+NotEnoughMoney=Not enough money.
+MsgNoMetal=You need metal.
+SellMenu=Sell
+MsgNoSell=No sell allowed.
+TxtNomoresuitabletrees=No more suitable trees!
+MsgBanditsFree=The bandits are free!

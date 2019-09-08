@@ -1,0 +1,9 @@
+[DefCore]
+id=NTMG
+Version=4,9,8
+Name=NoTeamMagic
+Category=C4D_StaticBack|C4D_Rule
+MaxUserSelect=1
+Width=1
+Height=1
+Picture=0,0,64,64

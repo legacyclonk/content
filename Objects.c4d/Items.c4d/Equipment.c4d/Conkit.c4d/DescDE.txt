@@ -1,0 +1,1 @@
+Mit Bausätzen können Gebäude errichtet werden. Es müssen genug Platz und ein ausreichend ebener Untergrund vorhanden sein. Wenn die Baustelle eingerichtet ist, kann einem oder mehreren Clonks der Befehl zum Bauen gegeben werden. Gegebenenfalls wird noch entsprechendes Baumaterial benötigt.

@@ -1,0 +1,3 @@
+Stars are falling from the sky, and every hit increases the time the player can use.
+
+Not very often but worth 24 seconds.

@@ -1,0 +1,2 @@
+TxtEmbowel=Zerlegen
+NameHorseBone=Pferdeknochen

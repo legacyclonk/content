@@ -1,0 +1,17 @@
+[Action]
+Name=Wait
+Length=1
+Delay=8
+FacetBase=1
+EndCall=ContentsCheck
+
+[Action]
+Name=Burning
+Length=8
+Delay=3
+Facet=0,50,10,12,15,34
+FacetBase=1
+NextAction=Burning
+StartCall=Burning
+Sound=Fire
+ 

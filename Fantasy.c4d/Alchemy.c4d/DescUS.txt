@@ -1,0 +1,3 @@
+The different alchemic ingredients.
+
+When the alchemy rule is applied to a scenario, magic spells are no longer cast using magic energy but instead by using up individual ingredients. These can be gained by any clonk wearing an alchemist's bag by processing various items and materials. Produced ingredients are then stored in the invisibly carried bag.

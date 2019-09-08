@@ -1,0 +1,11 @@
+TxtPutOn=Put On
+TxtUnWear=Take Off
+TxtMagic=Magic
+MnuDecompose=Grind
+MnuNoSpells=No spells known
+
+MsgPutOn=%s put on
+MsgNotReadyToMagic=%s cannot cast|a spell at the moment.
+MsgNotEnoughEnergy=Not enough|magical energy!
+MsgNotEnoughIngredients=Not enough|alchemistic ingredients!|%s|are missing.
+MsgNotReady=%s not completed.|Activation denied.

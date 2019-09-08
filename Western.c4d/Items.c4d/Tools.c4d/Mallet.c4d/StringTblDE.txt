@@ -1,0 +1,5 @@
+TxtNoconstructionplans=Keine Baupläne verfügbar
+TxtCraft=Herstellung
+TxtCrafts=Herstellen: %s
+TxtWorks=Bauauftrag: %s
+TxtConstructions=Konstruktion: %s

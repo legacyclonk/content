@@ -1,0 +1,2 @@
+MsgGravityMinimum=Gravitation steht|bereits auf Minimum!
+MsgGravityDec=Gravitation verringert.|Sie beträgt jetzt %d%.

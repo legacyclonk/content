@@ -1,0 +1,2 @@
+DE:Magus
+US:Mage

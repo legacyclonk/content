@@ -1,0 +1,11 @@
+[Particle]
+Name=AlcoholBubble
+MaxCount=300
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,5,5,-2,-2
+Delay=4
+Repeats=1
+VertexCount=1
+VertexY=50

@@ -1,0 +1,3 @@
+MsgRunaway=Hey, stay here!
+MsgDead=He's dead.
+TxtName=Speak to %s

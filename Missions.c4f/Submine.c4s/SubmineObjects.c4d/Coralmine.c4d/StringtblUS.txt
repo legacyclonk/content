@@ -1,0 +1,3 @@
+MsgGoalFulfilled=All corals has been mined.
+MsgGoalUnfulfilled=You still have to mine %d units of solid corals and collect %d coral chunks.
+MsgGoalUnfulfilled2=You still have to mine an unknown amount of solid corals and collect %d coral chunks.

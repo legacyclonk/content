@@ -1,0 +1,3 @@
+MsgGoalFulfilled=Alles Erz ist abgebaut.
+MsgGoalUnfulfilled=Es müssen noch %d Einheiten festes Erz und %d Erzklumpen abgebaut werden.
+MsgGoalUnfulfilled2=Es müssen noch eine unbekannte Menge festes Erz und %d Erzklumpen abgebaut werden.

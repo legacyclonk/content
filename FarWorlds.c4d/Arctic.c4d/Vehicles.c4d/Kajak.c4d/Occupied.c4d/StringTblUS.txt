@@ -1,0 +1,5 @@
+Links=Left
+Rechts=Right
+Stop=Stop
+Aussteigen=Get Out
+Werfen=Throw

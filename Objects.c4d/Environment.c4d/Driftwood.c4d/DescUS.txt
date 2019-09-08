@@ -1,0 +1,1 @@
+Randomly creates pieces of wood floating in the sea. The placement factor determines the amount of wood.

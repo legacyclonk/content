@@ -1,0 +1,10 @@
+SendMsg=Send message
+TestWire=Test line %d
+TestWireDesc=Sends a test message through the wire in order to check it for disadvantages
+MsgNoMoney=Not enough money!
+MsgNoEnergy=Not enough energy!
+MsgOnlyOneChief=There may be only one boss at a time!
+CancelSending=Cancel sending
+MnCallSupp=Order bandit boss
+
+MsgNewChief=%s is now boss!

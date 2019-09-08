@@ -1,0 +1,8 @@
+[DefCore]
+id=SL9Z
+Version=4,9,8
+Name=Sealoop
+Category=C4D_StaticBack
+Timer=8
+TimerCall=SeaSound
+Picture=0,0,1,1

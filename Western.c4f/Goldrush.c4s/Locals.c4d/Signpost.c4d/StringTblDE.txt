@@ -1,0 +1,23 @@
+MsgRead=Schild lesen
+MsgTravel=Reisen
+
+TxtCoalstown=Coalstown - 25 Meilen
+TxtFrontier=Die Grenze endet hier! Achtung, Indianerland!
+TxtAshCity=Nach Ash City
+TxtIndian=Zu den Sunset Plains
+TxtCaves=Zu den Minen
+TxtCanyon=Zum Golden Canyon
+TxtBandits=Achtung, traue niemals einem besoffenen Banditen.
+
+MsgTravelTo=Reisen zu:
+MsgCoalstown=Coalstown
+MsgIndian=Sunset Plains
+MsgAshCity=Ash City
+MsgCaves=Minen
+MsgCanyon=Golden Canyon
+
+NotBackToCoalsTown=Von da kommen wir.
+
+ErrNoWagon=Der Planwagen ist nicht da!
+ErrNoHorse=Das Pferd fehlt!
+ErrNoCrew=Es sind noch nicht alle Teammitglieder im Planwagen!

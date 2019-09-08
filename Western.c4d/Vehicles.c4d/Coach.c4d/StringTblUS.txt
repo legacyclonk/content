@@ -1,0 +1,5 @@
+TxtLeft=Left
+TxtRight=Right
+TxtStop=Stop
+TxtGetoff=Get off
+TxtGeton=Get on

@@ -1,0 +1,4 @@
+CtrlDrillDesc=Bohren
+CtrlRetractDesc=Zurückziehen
+CtrlStopDesc=Stopp
+

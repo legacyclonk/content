@@ -1,0 +1,1 @@
+Lässt Objekte um den Clonk herum schweben. Somit lassen sich auch Projektile abwehren.

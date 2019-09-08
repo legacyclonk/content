@@ -1,0 +1,4 @@
+TxtMakedough=Teig herstellen
+TxtNorecipes=Keine Rezepte vorhanden
+TxtMixs=Mixen: %s
+TxtNeedsWater=Jeder Teig braucht Wasser!

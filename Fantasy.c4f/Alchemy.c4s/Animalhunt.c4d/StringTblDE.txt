@@ -1,0 +1,7 @@
+MsgMonstersKilled=Alle Tiere sind ausgerottet.
+MsgEggLeft=Irgendwo verbirgt sich noch ein Nest.
+MsgEggsLeft=Es existieren noch %d Nester.
+MsgMonsterLeft=Ein Tier ist hier noch irgendwo.
+MsgMonstersLeft=%d Tiere leben noch.
+MsgEggMonstersLeft=Ein Nest und %d Tiere sind zu beseitigen.
+MsgEggsMonstersLeft=%d Tiere und %d Nester müssen aus der Welt geschaffen werden.

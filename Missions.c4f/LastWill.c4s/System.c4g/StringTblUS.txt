@@ -1,0 +1,64 @@
+# Aufgaben
+MsgGoal2=New order: Mine 30 crystals and put them into the magician's castle in order to get the construction plans for a balloon.
+MsgGoal3=New order: Build a balloon in a workshop and fly over the huge rock eastern of the castle!
+MsgGoal4=New order: Your balloon crashed. You now have to work a passable way through the huge rock so that the dead farmer can be transported further towards the coast in the East.
+MsgGoal5=Last order: You have reached the sea. Transport the dead farmer to the reef and push him into the sea.
+
+# 1. Dialog mit dem Magier
+MsgDia1_1=What are you doing here? I'm going to kill you, burglar!
+MsgDia1_2=No, wait! I am Jeremy. My father is the farmer MacFlury who lives on the other side of the lake.
+MsgDia1_3=What do you want?
+MsgDia1_4=Some days ago, my father died of a rib fracture.
+MsgDia1_5=I can't revive him. Look for another magician!
+MsgDia1_6=Wait, don't go away! I don't want you to revive my father!
+MsgDia1_7=Then tell me what you want!
+MsgDia1_8=Can you explain me how I can get to the sea?
+MsgDia1_9=Of course. You only have to walk eastwards.
+MsgDia1_10=Then open the door for me and my two brothers, so that we can continue our journey!
+MsgDia1_11=I want you to do something for me. Just a little job.
+MsgDia1_12=What do you want me to do?
+MsgDia1_13=East of my castle there is a huge rock which you can only pass with a balloon. If you help me, I will give you the construction plans for such a balloon. You will be able to produce a balloon in your workshop.
+MsgDia1_14=And that's my problem: I want to have crystals for a really big spell, but my magic powers don't work under the earth. Mine 30 crystals and put them into my castle! Then I will aid you and your brothers to continue your journey to the sea.
+
+# 2. Dialog mit dem Magier
+MsgDia2_1=Very good, now I have enough magic power to cast a really big spell!
+MsgDia2_2=Aaah, I feel the power in my hands. Now, I am mightier than ever before. Tell me, how can I thank you?
+MsgDia2_3=We need the construction plans for a balloon!
+MsgDia2_4=Oh yes, now I remember it. Wait a minute...
+MsgDia2_5=Here are the construction plans. Build a balloon in a workshop and keep on travelling eastwards.
+
+# Sonstige Nachrichten
+MsgCrash=Shit, this thing's plunged down...
+MsgSkipSeq=Skip sequence
+
+# Dialog mit dem Selbstmörder
+MsgDia3_1=Excuse me, please! Is that the sea?
+MsgDia3_2=Yes.|It is wonderful, isn't it?
+MsgDia3_3=I have never seen something more beautiful before. Now I know why my father wanted to be buried in the sea.
+MsgDia3_4=Your father wanted to be buried in the sea? Oh yes, a very wise decision. I think you cannot choose a more beautiful end for your life. I have chosen this kind of end as well...
+MsgDia3_5=You want to be buried in the sea, too?
+MsgDia3_6=No, I am going to die in the sea today.
+MsgDia3_7=I do not understand you...
+MsgDia3_8=I am going to jump down the rocks.
+MsgDia3_9=For God's sake, why do you say that?
+MsgDia3_10=Some days ago, my wife and my children died in a fire in my textiles factory. My life is unimportant now.
+MsgDia3_11=No, you mustn't lose your courage!
+MsgDia3_12=Don't try to detain me. My decision is the right one.
+MsgDia3_13=No! Stop!
+MsgDia3_14=Poor old Clonk.
+
+# Dialog mit dem Geist des Farmers
+MsgDia4_1=Dad?|Is that you?
+MsgDia4_2=Yes, my son. I am your father.
+MsgDia4_3=But... but you're a ghost!
+MsgDia4_4=Yes, I know. I'm on my way to heaven, to a better world.
+MsgDia4_5=Samuel, Edward and I have brought you to the sea!
+MsgDia4_6=Yes, this is a very beautiful place. I'm very grateful to you for having buried me here.
+MsgDia4_7=We will miss you, dad.
+MsgDia4_8=I will miss you as well. Please tell that your brothers.
+MsgDia4_9=Yes, dad.
+MsgDia4_10=Good luck for your future. And if you marry soon, take a blonde, because that always is the best choice. Many of them aren't very clever, but... well, forget about it.
+MsgDia4_11=Bye, dad!
+
+#Endnachricht
+MsgEnd=Yeah, you made it! The dead farmer sends you some greets from the hereafter!

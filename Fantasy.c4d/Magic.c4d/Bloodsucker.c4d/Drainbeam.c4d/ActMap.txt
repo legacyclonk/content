@@ -1,0 +1,8 @@
+[Action]
+Name=Connect
+Procedure=NONE
+Length=30
+Delay=1
+EndCall=Remove
+PhaseCall=Sparkle
+ 

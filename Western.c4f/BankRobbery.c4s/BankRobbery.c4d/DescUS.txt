@@ -1,0 +1,3 @@
+The bandits' goal is to steal the money of the townspeople and to deposit it in their secret treasure box. They get the money through destroying the bank. When they have more money than the townspeople, they win.
+
+The goal of townspeople and sheriffs is to stop the bandits. On the one hand they have to keep their money balance higher than that of the bandits. On the other hand they have to eliminate the bandits (imprisoned bandits also count as eliminated).

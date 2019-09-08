@@ -1,0 +1,1 @@
+CantRide=%s kann noch nicht|mit dem Kajak fahren!

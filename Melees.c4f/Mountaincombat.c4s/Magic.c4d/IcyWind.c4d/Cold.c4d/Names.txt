@@ -1,0 +1,2 @@
+DE:Kältewarnung
+US:Cold warning

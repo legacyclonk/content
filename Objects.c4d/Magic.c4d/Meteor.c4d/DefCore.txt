@@ -1,0 +1,10 @@
+[DefCore]
+id=MMTR
+Version=4,9,8
+Name=Meteoritenhagel
+Category=C4D_Magic
+Width=1
+Height=1
+Value=50
+Components=IBON=3;IROC=4
+Picture=0,0,40,40

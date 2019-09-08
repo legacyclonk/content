@@ -1,0 +1,6 @@
+TxtComUp=Drive upwards
+TxtComDown=Drive downwards
+TxtComLeft=Drive leftwards
+TxtComRight=Drive rightwards
+TxtExit=Exit
+TxtFire=Launch torpedo

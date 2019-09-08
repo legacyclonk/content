@@ -1,0 +1,3 @@
+Stars are falling from the sky, and every hit increases the time the player can use.
+
+The pride of every star collecter gives a bonus of 30 seconds and 2 points! Very rare.

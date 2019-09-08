@@ -1,0 +1,20 @@
+[DefCore]
+id=TM4V
+Version=4,9,8
+Name=Trap Landmine
+Category=C4D_Object|C4D_SelectMaterial|C4D_SelectKnowledge|C4D_SelectHomebase
+MaxUserSelect=2
+Width=10
+Height=6
+Offset=-5,-3
+Vertices=3
+VertexX=0,-4,4
+VertexY=0,2,2
+VertexFriction=300,300,300
+Value=20
+Mass=20
+Components=METL=1;GUNP=1;SPHR=1
+Picture=0,6,64,64
+Collectible=1
+Rotate=1
+BlastIncinerate=1

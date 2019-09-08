@@ -1,0 +1,3 @@
+Stars are falling from the sky, and every hit increases the time the player can use.
+
+Very rare and very precious this star gives 28 seconds.

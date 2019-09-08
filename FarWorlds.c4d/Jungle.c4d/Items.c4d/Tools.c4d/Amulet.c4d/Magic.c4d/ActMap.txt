@@ -1,0 +1,7 @@
+[Action]
+Name=Be
+Directions=2
+FlipDir=1
+Facet=0,0,16,10
+FacetBase=0
+NextAction=Hold

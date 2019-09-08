@@ -1,0 +1,6 @@
+[Action]
+Name=Mystic
+Procedure=NONE
+Length=1
+Delay=0
+FacetBase=1

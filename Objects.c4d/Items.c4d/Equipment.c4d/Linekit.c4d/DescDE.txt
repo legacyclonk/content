@@ -1,0 +1,1 @@
+Zum Verlegen von Energieleitungen und Rohren. Anwendung: vor einem Versorgergeb‰ude 'Leitung anschlieﬂen' w‰hlen, dann vor das Zielgeb‰ude laufen und wieder 'Leitung anschlieﬂen' w‰hlen. Die erste an eine Pumpe angeschlossene Leitung wird immer ein Zuflussrohr, die zweite ein Abflussrohr.

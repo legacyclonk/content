@@ -1,0 +1,10 @@
+[DefCore]
+id=MWTH
+Version=4,9,8
+Name=Wärmen
+Category=C4D_Magic
+Width=1
+Height=1
+Value=15
+Components=ISPH=2
+Picture=0,0,40,40

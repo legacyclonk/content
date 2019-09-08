@@ -1,0 +1,9 @@
+[DefCore]
+id=MIWD
+Version=4,9,8
+Name=icy Wind
+Category=C4D_StaticBack|C4D_Magic
+Width=1
+Height=1
+Value=30
+Picture=0,0,64,64

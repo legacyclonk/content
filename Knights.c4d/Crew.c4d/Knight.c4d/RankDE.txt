@@ -1,0 +1,29 @@
+Junge
+Stalljunge
+Knecht
+Knappe
+Mundschenk
+Vorkoster
+Geselle
+Meister
+Schatzmeister
+Vogt
+Junker
+Herr von
+Baron
+Graf
+Fürst
+Großfürst
+Markgraf
+Landgraf
+Herzog
+Großherzog
+Kurfürst
+Erzherzog
+Pfalzgraf
+Kaiser
+*Königlicher %s
+*Hochwürdiger %s
+*Seine Exzellenz %s
+*%s von Gottes Gnaden
+*%s ohne Furcht und Tadel

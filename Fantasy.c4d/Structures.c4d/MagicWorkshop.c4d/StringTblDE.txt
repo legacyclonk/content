@@ -1,0 +1,2 @@
+TxtNoconstructionplans=Keine Baupläne verfügbar
+TxtProductions=Herstellung: %s

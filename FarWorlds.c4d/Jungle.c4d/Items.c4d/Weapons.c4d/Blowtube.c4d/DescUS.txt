@@ -1,0 +1,1 @@
+Hit 'throw' to use the blow tube, aim with 'up' and 'down', then click 'throw' to fire. Requires suitable arrows, of course.

@@ -1,0 +1,2 @@
+MsgGoalFulfilled=Die Statue ist wieder vollständig!
+MsgGoalUnfulfilled=Die Statue muss aus ihren Einzelteilen wieder zusammen gesetzt werden.

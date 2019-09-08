@@ -1,0 +1,2 @@
+DE:Borgen
+US:Borrow

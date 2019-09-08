@@ -1,0 +1,7 @@
+TxtUnWear=Abnehmen
+TxtResearchs=Erforschen: %s
+TxtNoResearch=Es gibt nichts zu erforschen!
+TxtCantUse=%s kann das Forschungsamulett nicht benutzen!
+TxtDeveloped=%s erforscht!
+TxtResearch=Forschen
+MsgNoMoreMana=Keine Zauberenergie mehr!

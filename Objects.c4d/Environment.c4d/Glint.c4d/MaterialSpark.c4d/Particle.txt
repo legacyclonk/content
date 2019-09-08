@@ -1,0 +1,11 @@
+[Particle]
+Name=MaterialSpark
+MaxCount=300
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,32,32,-16,-16
+Delay=1
+Repeats=1
+AlphaFade=0
+Additive=1

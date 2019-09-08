@@ -1,0 +1,4 @@
+TeamLeft=Schwong
+TeamRight=Zinga
+TeamLeftJoin=%s tritt %s bei.
+TeamRightJoin=%s tritt %s bei.

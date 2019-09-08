@@ -1,0 +1,3 @@
+If this rule is enabled, all armories produce ammo automatically.
+
+One box of ammunition is created in certain time intervals, as long as there are fewer than 10 pieces on stock.

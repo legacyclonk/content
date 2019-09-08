@@ -1,0 +1,1 @@
+This folder contains the clonk types known in the jungle.

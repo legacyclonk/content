@@ -1,0 +1,4 @@
+Ermöglicht das Sichern von Türmen.
+
+Öffnen: Doppelwerfen
+Schließen: Doppelgraben

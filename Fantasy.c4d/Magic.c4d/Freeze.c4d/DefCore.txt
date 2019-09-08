@@ -1,0 +1,16 @@
+[DefCore]
+id=FREZ
+Version=4,9,8
+Name=Freeze
+Category=C4D_StaticBack
+Width=48
+Height=48
+Offset=-24,-24
+Vertices=1
+Picture=0,0,48,48
+Exclusive=1
+BorderBound=1
+StretchGrowth=1
+IncompleteActivity=1
+NoBreath=1
+NoFight=1

@@ -1,0 +1,13 @@
+[Particle]
+Name=LiquidSpark
+MaxCount=300
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+CollisionFn=Stop
+Face=0,0,1,1
+Delay=0
+GravityAcc=50
+VertexCount=1
+VertexY=2
+AlphaFade=10

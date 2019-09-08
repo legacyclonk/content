@@ -1,0 +1,16 @@
+[Teams]
+AllowHostilityChange=0
+AllowTeamSwitch=0
+TeamColors=1
+
+	[Team]
+	id=1
+	Name=$TeamLeft$
+	IconSpec=KTM1:0
+	PlrStartIndex=1
+
+	[Team]
+	id=2
+	Name=$TeamRight$
+	IconSpec=KTM1:2
+	PlrStartIndex=2

@@ -1,0 +1,8 @@
+[Action]
+Name=Sparkle
+Delay=3
+Facet=0,0,5,5
+Length=3
+EndCall=Process
+Sound=Fire
+NextAction=Sparkle

@@ -1,0 +1,47 @@
+
+MsgBanditAims=Goals Bandits:
+MsgCalvalAims=Goals Guards:
+MsgPoints=Points:
+
+MsgHEDQ0=The cavalrys HQ has been destroyed! Bandits +125
+MsgHEDQ1=The cavalry lost it's HQ! Bandits +125
+MsgAMRY0=The guards lost an armory! Bandits +110
+MsgAMRY1=An armory of the guards has been bombed! Bandits +110
+MsgAMRY2=An armory of the guards is aflame! Bandits +110
+MsgAMRY3=The cavalry loses an armory! Bandits +110
+
+MsgHEDQb0=The HQ of the bandits has been destroyed! Guards +125
+MsgHEDQb1=The bandits are now without an HQ. Guards +125
+MsgAMRYb0=The bandits armory is kindling. Guards +110
+MsgAMRYb1=Real men don't need ammunition! Guards +110
+
+MsgSAWW0=The Sawmill is aflame! Bandits +50
+MsgSAWW1=Miners Creek is without a sawmill now! Bandits +50
+MsgDRST0=The drugsture has been bombed. Bandits +70
+MsgDRST1=The drugstopre remains closed today. Bandits +70
+MsgSALO0=The saloon has been closed! Bandits +60
+MsgSALO1=It seems like the saloon wasn't very popular. Bandits +60
+MsgTGST0=The telegraph station is out of order. Bandits +40
+MsgTGST1=Now Miners Creek is even more isolated than before. Bandits +40
+MsgSHOF0=The sheriff can take a few days off.  Bandits +70
+MsgSHOF1=The sheriff needs a new office. Bandits +70
+MsgWRKW0=The workshop is burning. Bandits +65
+MsgWRKW1=The workshop need repairs. Bandits +65
+MsgBANK0=The bank is broke. Bandits +100
+MsgBANK1=The bank remains closed for some time. Bandits +100
+
+MsgTEL10=A telegraph pole is broken! Bandits +20
+MsgTEL11=Who needs telegraphs anyway? Bandits +20
+MsgTEL12=A telegraph pole has been destroyed! Bandits +20
+MsgTEL13=This telegraph pole is out of order. Bandits +20
+MsgTEL14=The town needs a new telegraph pole. Bandits +20
+MsgTEL15=This telegraph pole is out of order. Bandits +20
+MsgPUMW0=This pump doesn't work anymore. Bandits +30
+MsgWTOW0=
+MsgWTOW1=
+MsgPUMW1=Who's going to build a new pump now? Bandits +30
+MsgWMLW0=The windmill has been dismounted. Bandits +25
+MsgWMLW1=The windmill is broken. Bandits +25
+MsgWTOW0=The water is on short supply now. Bandits +35
+MsgWTOW1=The water tower is leaky. Bandits +35
+MsgUtilAims=Utilities:

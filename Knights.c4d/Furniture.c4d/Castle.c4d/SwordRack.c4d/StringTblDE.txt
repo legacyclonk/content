@@ -1,0 +1,3 @@
+MsgRackFull=Schwertständer|ist voll.
+MsgRackEmpty=Schwertständer|ist leer.
+CtrlTake=Schwert nehmen

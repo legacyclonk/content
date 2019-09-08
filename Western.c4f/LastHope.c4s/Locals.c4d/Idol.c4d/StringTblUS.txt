@@ -1,0 +1,16 @@
+Tipp_Ghost0=Your goal is to cross the desert and build a settlement on the plateau on the far side.
+Tipp_Ghost1=If you are in need for help, just ask me. Making a life out there in the wilderness isn't easy (press 'jump' to ask).
+Tipp_Ghost2=You might get very thirsty in the desert, so you'll need water. Maybe some magic could help? You can craft amulets in the shaman tipi.
+Tipp_Ghost3=The fish amulet could prove to be useful.
+Tipp_Ghost4=Creating mana is done by crushing bones, snaketeeth or other similar materials. For this there is a special menu entry when carrying an amulet and a bone.
+Tipp_Ghost5=Try to magically summon some water when out in the desert.
+Tipp_Ghost6=A snake amulet makes you resistant to acid.
+Tipp_Ghost7=The bird amulet allows for high jumps.
+Tipp_Ghost8=Fish skin might be a helpful spell.
+Tipp_Ghost9=You can summon flints by using magic.
+Tipp_Ghost10=Crafting a research amulet requires some gold.
+Tipp_Ghost11=Now you need a tribe and mystic points. For this, build a settlement on the plateau.
+Tipp_Ghost12=In order to research the required plans for a camp, you need a research amulet. Why don't you have a look in the lower cave?
+Tipp_Ghost13=To build up a large tribe, a main tipi and several ordinary ones are required.
+Tipp_Ghost14=In addition, you need enough food and an indian must rest in a tipi for a longer period of time.
+Tipp_Ghost15=Build totem poles, skull totems and leather paintings to get mystic points. Those points are increasing the amount of mana you get for grinding bones as well as the effect of potions. You can view your mystic points in the shaman tipi.

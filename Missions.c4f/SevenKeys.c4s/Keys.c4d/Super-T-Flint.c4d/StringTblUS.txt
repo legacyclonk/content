@@ -1,0 +1,2 @@
+TxtPlacementFailed=Couldn't place object! Not enough earth!
+TxtAnnounce=Fragile T-Flint:|The smallest movement will start its fuse.

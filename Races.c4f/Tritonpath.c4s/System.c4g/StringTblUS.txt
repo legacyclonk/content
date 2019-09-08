@@ -1,0 +1,3 @@
+TxtNoSpells=No spells available
+TxtDoMagic=Conjure: %s
+TxtAscend=Ascend

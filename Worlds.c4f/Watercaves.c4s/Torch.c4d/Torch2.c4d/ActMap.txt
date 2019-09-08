@@ -1,0 +1,9 @@
+[Action]
+Name=Burning
+Procedure=FLOAT
+NextAction=Burning
+Delay=4
+Directions=2
+Length=4
+Sound=TorchFire
+Facet=14,0,14,26,0,-5

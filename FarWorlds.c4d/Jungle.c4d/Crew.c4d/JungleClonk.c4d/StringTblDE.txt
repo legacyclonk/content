@@ -1,0 +1,9 @@
+CtrlInventoryDesc=Inventar auswählen
+Hammernoetig=Hammer benötigt!
+Keinplan=Keine Baupläne verfügbar
+Stellher=Herstellung: %s
+Herstellmenu=Herstellung
+Handwerkdisaster=Kann %s nicht herstellen!
+Bauenmitnix=Konstruktion nur mit Baumaterial möglich!
+TxtConstructions=Konstruktion: %s
+TxtNomoresuitabletrees=Keine geeigneten Bäume mehr!

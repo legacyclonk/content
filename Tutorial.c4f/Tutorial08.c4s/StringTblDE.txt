@@ -1,0 +1,7 @@
+TxtWipfies=Diese kleinen pelzigen Beuteltiere laufen und springen voll Lebenslust durch die Welt.$08_01_de.ogg
+TxtCatchEm=Du kannst sie entweder mit der Hand oder mit der Lore einfangen und in die Hütte bringen.$08_02_de.ogg
+TxtSellEm=Das Ziel dieser Runde ist es, sämtliche Wipfe einzufangen und in der Heimatbasis zu verkaufen.$08_03_de.ogg
+BtnNextTutorial=&Nächste Lernrunde
+BtnNextTutorialDesc=Die nächste Lernrunde starten.
+BtnRepeatRound=Runde &wiederholen
+BtnRepeatRoundDesc=Diese Runde wiederholen.

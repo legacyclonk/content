@@ -1,0 +1,11 @@
+CtxConstructionDesc=Bauauftrag
+CtxHomeDesc=Zurück zur Basis
+CtxRelease=Entlassen
+CtrlMenuDesc=Menü
+CtrlInventoryDesc=Inventar auswählen
+
+CtxArmDesc=Bewaffnen
+CtxDefendDesc=Verteidigen
+
+MsgNoWeapons=Keine Waffen.
+MsgArmed=Bewaffnet.

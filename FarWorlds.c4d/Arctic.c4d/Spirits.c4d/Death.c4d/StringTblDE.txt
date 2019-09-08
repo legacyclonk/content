@@ -1,0 +1,4 @@
+TxtLookatyoulittlemorta=Siehe da! Gewürm!|Der Herr der Unterwelt|grüßt dich, Todgeweihter!
+TxtYouhavedisturbedmyre=Du hast mich in meiner Ruhe gestört!|Doch nun höre meine Aufgabe, Sterblicher.
+TxtKillalltheblackfishI=Töte alle schwarzen Fische,|die ich habe erkranken lassen.|Es sind noch %d von ihnen übrig.
+TxtIcantbelieveyouhavem=Das glaube ich nicht!|Du hast die Aufgabe erfüllt!|Diesmal lasse ich dich noch leben...|Wir sehen uns wieder in der Unterwelt!

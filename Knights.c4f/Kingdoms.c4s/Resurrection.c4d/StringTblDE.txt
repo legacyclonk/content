@@ -1,0 +1,6 @@
+# Nachrichten
+MsgNoCorpses=Keine Leichen in der Nähe
+
+# Menü
+MnuPlrSel=Spielerwahl
+MnuPlrInfo=Kontrolle an %s übergeben

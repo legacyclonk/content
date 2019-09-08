@@ -1,0 +1,16 @@
+[Action]
+Name=Be
+Procedure=NONE
+Directions=2
+FacetBase=1
+NextAction=Hold
+
+[Action]
+Name=WannaRemove
+Procedure=ATTACH
+Directions=2
+FacetBase=0
+Delay=10
+Length=1
+EndCall=WannaRemove
+NextAction=WannaRemove

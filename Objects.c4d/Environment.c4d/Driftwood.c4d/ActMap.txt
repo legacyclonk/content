@@ -1,0 +1,13 @@
+[Action]
+Name=Initialize
+Length=1
+Delay=1
+NextAction=Idle
+EndCall=Initialized
+
+[Action]
+Name=Driftwood
+Length=1
+Delay=50
+NextAction=Driftwood
+StartCall=PlaceDriftwood

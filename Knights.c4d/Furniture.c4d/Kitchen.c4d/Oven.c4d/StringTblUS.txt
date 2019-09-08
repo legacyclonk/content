@@ -1,0 +1,6 @@
+TxtBake=Bake
+TxtNodoughathand=No dough at hand.
+TxtNotenoughwood=Not enough wood!
+TxtCantbakes=Can't bake %s!
+TxtMorewoodwontfit=More wood won't fit!
+TxtMoredoughwontfit=More dough won't fit!

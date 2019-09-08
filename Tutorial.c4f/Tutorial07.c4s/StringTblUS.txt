@@ -1,0 +1,12 @@
+TxtYourGoal=Your goal is to reach the green crystal on the opposite cliff.$07_01_en.ogg
+TxtBuildBalloon=To cross the acid lake you can build a balloon in the workshop.$07_02_en.ogg
+TxtMineGold=To obtain enough wealth for building material you need to mine some gold first.$07_03_en.ogg
+TxtFlintsBase=You will find two flints in your homebase for mining.$07_04_en.ogg
+TxtGoodLuck=Good luck!$07_05_en.ogg
+TxtDigThrough=Dig through the earth to reach the sailboat.$07_06_en.ogg
+TxtBackHome=Use the boat to sail back home and take the crystal into your cabin.$07_07_en.ogg
+TxtSellCrystal=Sell the crystal to complete this round.$07_08_en.ogg
+BtnNextTutorial=&Next tutorial
+BtnNextTutorialDesc=Start the next tutorial scenario.
+BtnRepeatRound=&Repeat this round
+BtnRepeatRoundDesc=Restart this scenario.

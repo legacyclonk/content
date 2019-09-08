@@ -1,0 +1,2 @@
+DE:Verbranntes Lager
+US:Burned storage

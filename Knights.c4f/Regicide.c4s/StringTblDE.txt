@@ -1,0 +1,7 @@
+MsgLeft=Schattenklingen
+MsgRight=Königsgarde
+
+MsgRelaunch=%s benötigt einen Relaunch!
+MsgKingWin=Der König konnte entkommen, die Königsgarde gewinnt!
+MsgKingLost=Der König wurde eliminiert, die Schattenklingen gewinnen!
+MsgWayFree=Der Durchgang wird nun nicht mehr blockiert!

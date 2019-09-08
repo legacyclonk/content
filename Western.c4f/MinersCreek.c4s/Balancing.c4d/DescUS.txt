@@ -1,0 +1,1 @@
+Gives the host the ability to alter the number of relaunches and the amount of buildings that have to be destroyed. Possible at the beginning of the game only.

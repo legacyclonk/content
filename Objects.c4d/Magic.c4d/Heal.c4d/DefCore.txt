@@ -1,0 +1,8 @@
+[DefCore]
+id=MGHL
+Version=4,9,8
+Name=MagicHeal
+Category=C4D_StaticBack|C4D_Magic
+Value=19
+Components=IMUS=2
+Picture=0,0,64,64

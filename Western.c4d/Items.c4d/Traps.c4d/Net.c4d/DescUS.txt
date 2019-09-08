@@ -1,0 +1,2 @@
+The net is attached to a tree. When a living crosses, it will be trapped. Clonks can free themselves after some time.
+Doesn't work with big creatures.

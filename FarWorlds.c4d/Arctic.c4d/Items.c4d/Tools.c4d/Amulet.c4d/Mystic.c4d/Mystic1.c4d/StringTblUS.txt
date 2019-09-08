@@ -1,0 +1,8 @@
+TxtErrMagic=%s has|not enough magic energy!
+TxtMagic=Summon
+TxtsisnoAngakok=%s is no Angakok
+TxtNoMagic=No spirits available
+TxtNextGrade=Next grade
+TxtNoGoodPos=Not a good position!
+TxtTooCloseToWater=%s is too close to the water.
+TxtAlreadyThere=This spirit is already summoned!

@@ -1,0 +1,26 @@
+CtrlInventoryDesc=Inventar auswählen
+TxtMalletrequired=Hammer benötigt!
+TxtKniferequired=Messer benötigt!
+TxtNoconstructionplans=Keine Baupläne verfügbar
+TxtCrafts=Herstellung: %s
+MnuCrafts=Herstellung
+Handwerkdisaster=Kann %s nicht herstellen!
+TxtNoConMaterial=Konstruktion nur mit Baumaterial möglich!
+TxtConstructions=Konstruktion: %s
+TxtNomoresuitabletrees=Keine geeigneten Bäume mehr!
+MsgNoArrow=Kein Pfeil!
+CtxConstructionDesc=Bauauftrag
+CtxHomeDesc=Zurück zum Hauptzelt
+
+TxtMagic=Zaubern
+MsgNotEnoughEnergy=Nicht genug|Zauberenergie!
+MsgNotEnoughIngredients=Nicht genug|alchemische Zutaten!|Es fehlen|%s.
+MsgNotReadyToMagic=%s kann|jetzt nicht zaubern.
+MnuNoSpells=Keine Zaubersprüche verfügbar
+MnuDecompose=Zerkleinern
+
+CtxArmDesc=Bewaffnen
+CtxDefendDesc=Verteidigen
+
+MsgNoWeapons=Keine Waffen.
+MsgArmed=Bewaffnet.

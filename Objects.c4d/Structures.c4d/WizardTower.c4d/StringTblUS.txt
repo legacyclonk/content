@@ -1,0 +1,14 @@
+TxtNotEnoughIngredients=Not enough|alchemistic ingredients!|%s|are missing.
+TxtNotEnoughEnergy=Not enough|magical energy!
+TxtNoSpells=No spells available
+TxtDoMagic=Conjure: %s
+TxtConjure=Conjure
+TxtAimspellsleft=Aim spell left
+TxtAimspellsright=Aim spell right
+TxtContinuedevelopement=Continue developement of %s
+TxtResearch=Research
+TxtResearchs=Research: %s
+Txtsdeveloped=%s researched!
+TxtCancelresearch=Cancel research
+TxtAlreadyDeveloped=%s already known!
+TxtNothingLeft=No more spells to research!

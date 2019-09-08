@@ -1,0 +1,18 @@
+[DefCore]
+id=SV69
+Version=4,9,9,0
+Name=SequenceView
+Category=C4D_Vehicle | C4D_MouseIgnore
+Picture=0,0,35,35
+Width=1
+Height=1
+Vertices=1
+NoGet=1
+NoSell=1
+NoFight=1
+TemporaryCrew=1
+CrewMember=1
+BorderBound=7
+
+[Physical]
+Float=100

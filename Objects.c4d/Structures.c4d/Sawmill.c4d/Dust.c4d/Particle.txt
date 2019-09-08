@@ -1,0 +1,14 @@
+[Particle]
+Name=Dust
+MaxCount=50
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+CollisionFn=Stop
+VertexCount=1
+VertexY=0
+Face=0,0,3,3,-2,-2
+Delay=0
+Repeats=1
+GravityAcc=50
+AlphaFade=2

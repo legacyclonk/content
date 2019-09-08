@@ -1,0 +1,1 @@
+Zum Verschleudern von Objekten. Einmal 'Werfen' zum Schwung holen, nochmal 'Werfen' zum Verschießen des Objekts. Während des Schwungholens kann im Inventar das gewünschte Projektil ausgewählt werden.

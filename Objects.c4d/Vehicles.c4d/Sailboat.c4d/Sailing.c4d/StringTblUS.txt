@@ -1,0 +1,3 @@
+TxtLeft=Left
+TxtRight=Right
+TxtLand=Land

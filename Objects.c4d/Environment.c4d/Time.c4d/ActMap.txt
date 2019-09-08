@@ -1,0 +1,13 @@
+[Action]
+Name=Initialize
+Length=1
+Delay=1
+NextAction=Idle
+EndCall=Initialized
+
+[Action]
+Name=Time
+Length=1
+Delay=10
+NextAction=Time
+StartCall=Timing

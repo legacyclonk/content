@@ -1,0 +1,3 @@
+Dieser Fahrstuhl kann mit anderen Burgbauteilen kombiniert werden. 
+
+Wird ein Fahrstuhlbauteil über ein anderes gebaut, so verwandelt sich das darunter gelegene Bauteil in einen offenen Fahrstuhlschacht.

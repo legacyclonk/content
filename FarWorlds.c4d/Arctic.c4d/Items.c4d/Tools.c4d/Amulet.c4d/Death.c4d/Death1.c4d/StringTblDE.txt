@@ -1,0 +1,4 @@
+TxtErrMagic=%s hat|nicht genug Zauberenergie!
+TxtMagic=Zaubern
+TxtsisnoAngakok=%s ist kein Angakok
+TxtNoMagic=Keine Zaubersprüche verfügbar

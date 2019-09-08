@@ -1,0 +1,31 @@
+# Cowboy
+
+Clonk
+Straßenfeger
+Minenarbeiter
+Holzfäller
+Countrysänger
+Pionier
+Planwagenfahrer
+Saloonwirt
+Goldsucher
+Pferdedieb
+Viehzüchter
+Westernreiter
+Whiskysäufer
+Kneipenschläger
+Schlangenölverkäufer
+Eisenbahner
+Plantagenbesitzer
+Revolverheld
+Kopfgeldjäger
+Büffeljäger
+Windreiter
+Scharfschütze
+Meisterschütze
+Glückskerl
+*Zielsicherer %s
+*Angesehener %s
+*Mächtiger %s
+*Bester %s
+*Legendärer %s

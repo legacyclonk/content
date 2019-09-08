@@ -1,0 +1,2 @@
+DE:Holz
+US:Wood

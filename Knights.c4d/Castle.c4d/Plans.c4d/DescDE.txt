@@ -1,0 +1,3 @@
+Dieses Objekt ermöglicht es einem Spieler, in den Besitz der Baupläne für Burgelemente zu kommen.
+
+Wenn dieses Objekt zur Startausrüstung eines Spielers gehört oder in der Heimatbasis gekauft werden kann, brauchen z.B. die zahlreichen Burgelemente nicht gesondert in den Szenarioeigenschaften als Baupläne ausgewählt zu sein.

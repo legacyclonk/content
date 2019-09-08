@@ -1,0 +1,7 @@
+Leichtes Fellboot der Inuit, das aus Knochen und Leder hergestellt wird.
+
+Das Kajak vorsichtig ins Wasser schieben, dabei aber festhalten. Dann Einsteigen durch Doppelklick 'Rauf'.
+
+Zum Aussteigen bis ganz an die Eiskante heranfahren, dann mit Doppelklick 'Rauf' an Land springen. Vorsicht, das Wasser ist kalt.
+
+Kleinere Gegenstände können während der Fahrt eingesammelt und im Kajak verstaut werden. Die Harpune kann auch während der Fahrt geworfen werden.

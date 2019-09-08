@@ -1,0 +1,3 @@
+TxtSkip=Skip sequence
+MsgSeqSkipped=Sequence skipped.
+MsgWantSkip=%s wants to skip the sequence.

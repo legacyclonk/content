@@ -1,0 +1,3 @@
+Die Gatling ist die wohl stärkste Schusswaffe im Wilden Westen. 
+
+Das Magazin wird mit 'Werfen' eingeladen, bei einem erneuten Klick beginnt das Trommelfeuer, so lange bis entweder die Gatling leer ist, der Spieler sie loslässt oder erneut auf 'Werfen' klickt.

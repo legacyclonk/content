@@ -1,0 +1,6 @@
+[DefCore]
+id=_CSN
+Version=4,9,8
+Name=CaveSounds
+Category=C4D_StaticBack
+Picture=0,0,1,1

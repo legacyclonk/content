@@ -1,0 +1,77 @@
+# Nachrichten
+MsgUnnamed=Unbenannt
+MsgAKingdom=Ein Königreich
+
+MsgTeamInfo=Du bist Teil des Königreiches %s.
+MsgNoTeam=Du gehörst keinem Königreich an.
+MsgOneOtherTeams=Es gibt nur noch ein weiteres Königreich.
+MsgOtherTeams=Es gibt noch %d weitere Königreiche.
+MsgNoOtherTeams=Es gibt sonst keine Königreiche.
+MsgOneTeam=Es gibt nur ein Königreich.
+MsgTeams=Es gibt %d Königreiche.
+MsgNoTeams=Es gibt keine Königreiche mehr.
+
+MsgTeamJoinCnt=4
+MsgTeamJoin0=Willkommen bei %s,|%s!
+MsgTeamJoin1=%s kriegt %s|als Verstärkung.
+MsgTeamJoin2=Nachschub für %s:|%s führt die wahre Krone zum Sieg.
+MsgTeamJoin3=%s wirbt %s an.
+MsgTeamJoin4=
+MsgTeamJoin5=
+MsgTeamJoin6=
+MsgTeamJoin7=
+MsgTeamJoin8=
+MsgTeamJoin9=
+
+MsgKingCnt=4
+MsgKing0=%s übernimmt|die Krone von %s.
+MsgKing1=%s ergreift das|Zepter der Macht in %s.
+MsgKing2=%s gebührt die Ehre|des Königs von %s.
+MsgKing3=%s ist wagemutig:|Er nimmt das Schicksal von %s in seine Hand.
+MsgKing4=
+MsgKing5=
+MsgKing6=
+MsgKing7=
+MsgKing8=
+MsgKing9=
+
+MsgEliminatedCnt=4
+MsgEliminated0=%s ist gefallen!
+MsgEliminated1=%s ist Geschichte.
+MsgEliminated2=Der König von %s ist tot.
+MsgEliminated3=Die Krone von %s ist gebrochen!
+MsgEliminated4=
+MsgEliminated5=
+MsgEliminated6=
+MsgEliminated7=
+MsgEliminated8=
+MsgEliminated9=
+
+MsgWonCnt=4
+MsgWon0=%s hat die Schlacht gewonnen!
+MsgWon1=Das Königreich %s|trägt die Krone der Ehre.
+MsgWon2=Ruhm und Ehre|den wackeren Rittern von %s!
+MsgWon3=Die Würfel sind gefallen -|%s macht das Rennen!
+MsgWon4=
+MsgWon5=
+MsgWon6=
+MsgWon7=
+MsgWon8=
+MsgWon9=
+
+MsgWonACnt=3
+MsgWonA0=Ein Sieg der Wahrheit.
+MsgWonA1=Tja - Unentschieden :)
+MsgWonA2=Womit hat die Welt|nur solche Versager verdient?|Nichtmal einer hat gewonnen...
+MsgWonA3=
+MsgWonA4=
+MsgWonA5=
+MsgWonA6=
+MsgWonA7=
+MsgWonA8=
+MsgWonA9=
+
+
+# Fehler
+ErrActivateAfterPlrJoin=Königsmord muss vor Spielerbeitritten aktiviert sein - Spielziel gelöscht!
+ErrNeedsTwoKings=Königsmord braucht mindestens zwei Könige - Spielziel gelöscht!

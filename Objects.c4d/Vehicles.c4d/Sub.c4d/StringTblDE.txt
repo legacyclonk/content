@@ -1,0 +1,6 @@
+TxtComUp=Nach oben fahren
+TxtComDown=Nach unten fahren
+TxtComLeft=Nach links fahren
+TxtComRight=Nach rechts fahren
+TxtExit=Aussteigen
+TxtFire=Torpedo abfeuern

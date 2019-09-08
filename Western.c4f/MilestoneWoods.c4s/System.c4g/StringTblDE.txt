@@ -1,0 +1,82 @@
+MsgSaloonInIndianland=Der Saloon muss im Indianerland gebaut werden!
+
+Dlg_Cowboy1=Hallo, wie geht's?
+Dlg_Cowboy2=Ach, nicht so besonders.
+Dlg_Cowboy3=Warum?
+Dlg_Cowboy4=Banditen haben mir all mein Geld abgenommen, nun kann ich meine Schulden im Saloon nicht begleichen.
+Dlg_Cowboy5=Könntet ihr nicht für mich einspringen? Dann würde ich mich euch anschließen, falls ihr noch eine helfende Hand braucht.
+Dlg_Cowboy6=Wieviel wäre das denn?
+Dlg_Cowboy7=Nicht viel, nur 25 Clunker. Wenn ihr mir die in einem Geldsack bringen könntet..?
+Dlg_Cowboy8=Mal sehn..
+Dlg_Cowboy9=Habt ihr einen 25er Geldsack?
+Dlg_Cowboy10b=Noch nicht.
+Dlg_Cowboy10=Ja, hier bitte!
+Dlg_Cowboy11=Vielen Dank, ich kann euch sicher nützlich sein.
+Dlg_Cowboy11b=Nein, ich brauche genau 25 Clunker.
+
+Dlg_John1=Hallo, was tut ihr da?
+Dlg_John2=Herumstehen.
+Dlg_John3=Oh. Hm. Warum?
+Dlg_John4=Ich hatte diesen Aufzug extra gebaut und mein Geld hineininvestiert, weil ich dachte so könnte ich ins Indianerland gelangen und mir ein eigenes Pferd fangen.
+Dlg_John5=Ah. Und?
+Dlg_John6=Nun.. es gibt dort keine Wildpferde mehr, nur Bisons. Nun bringt mir der Aufzug hier gar nichts!
+Dlg_John7=Wie wäre es, wenn wir ihn dann einfach benutzen?
+Dlg_John8=Klar doch! Sobald ihr mir ein Pferd gebracht habt.
+Dlg_John9=Wenn's sein muss...
+Dlg_John10=Habt ihr mir ein Pferd gebracht?
+Dlg_John11b=Nö.
+Dlg_John11=Ja, ein prächtiges Pferd nur für euch!
+Dlg_John12=Prima, ich setze dann mal den Aufzug in Gang!
+
+Dlg_Jack1=Hallo, alles klar?
+Dlg_Jack2=Ich handle für gewöhnlich nicht mit dahergelaufenen Streunern...
+Dlg_Jack3=ähm...
+Dlg_Jack4=...aber vielleicht habt ihr ja etwas Geld zum Ausgeben dabei, woher auch immer ihr das habt.
+Dlg_Jack5=Ja also...
+Dlg_Jack6=Schaut euch ruhig um, aber fasst bloß nix an!
+Dlg_Jack7=Seht ihr nicht, dass ich beschäftigt bin? Nichtmal 100 Clunker habt ihr!
+Dlg_Jack8=Oh, wie ich sehe habt ihr einiges an Geld. Tretet ein und schaut euch meine neuen Waren an! Nehmt auch diesen Bauplan für den Hochofen als kleines Extra dafür, dass ihr weiter nur bei mir kauft!
+Dlg_Jack9=Wenn ihr 200 Clunker hättet, würde ich euch vielleicht ein paar meiner neuesten Waren zeigen.
+Dlg_Jack10=Gerade eben habe ich mein Sortiment erweitert! Natürlich seid ihr willkommen es zu begutachten! Ich dachte mir auch, dass diese Baupläne für Munition und Schießpulver von Nutzen für euch sein könnten.
+Dlg_Jack11=Ah, Stammkunden. Ihr habt nicht schon 300 Clunker?
+Dlg_Jack12=Seid herzlich willkommen! Werft doch einen Blick auf meine neuesten Waren! Als Bonus für die guten Geschäfte hätte ich hier einige Baupläne für Waffen und Dynamitkisten.
+Dlg_Jack13=Tretet ein und erleichtert euren Geldbeutel!
+
+Dlg_Stanley1=Guten Tag, gibt es viel zu tun hier?
+Dlg_Stanley2=Nicht wirklich, die meisten Gebäude stehen schon und kaum jemand will neue bauen. Habt ihr vielleicht Interesse an einigen Bauplänen?
+Dlg_Stanley3=Was habt ihr denn so?
+Dlg_Stanley4=Nun ich hätte die Pläne für Aufzüge, Windräder und Dynamos. Für einen Geldsack mit 25 Clunkern gehören sie euch.
+Dlg_Stanley5=Klingt gut!
+Dlg_Stanley6=Wollt ihr die Baupläne für 25 Clunker kaufen?
+Dlg_Stanley7b=Nein, kein Geld dabei.
+Dlg_Stanley7=Klar, hier ist das Geld.
+Dlg_Stanley8=Gut, hier sind eure Pläne.
+Dlg_Stanley9=Viel Spaß beim Bauen.
+
+Dlg_Ezhno1=Was wollt ihr hier?
+Dlg_Ezhno2=Wir wollen ins Indianerland.
+Dlg_Ezhno3=Warum das denn?
+Dlg_Ezhno4=Wir wollen dort einen Saloon errichten.
+Dlg_Ezhno5=Einen Saloon? Hm.. aber ohne den Kelch kommt hier niemand durch.
+Dlg_Ezhno6=Welcher Kelch?
+Dlg_Ezhno7=Ach ja, der Kelch des Häuptlings. Ich hatte ihn verloren, und muss seitdem diesen Durchgang bewachen. Bringt ihn mir zurück, und ihr dürft passieren.
+Dlg_Ezhno8=Wo in etwa können wir ihn finden?
+Dlg_Ezhno9=Keine Ahnung.
+Dlg_Ezhno10=Aha.
+Dlg_Ezhno11=Habt ihr den Kelch?
+Dlg_Ezhno12b=Noch nicht.
+Dlg_Ezhno12=Ja, hier ist er!
+Dlg_Ezhno13=Ah gut, nehmt diesen Schlüssel um das Tor zu öffnen. Macht's gut!
+Dlg_Ezhno14=Viel Glück mit dem Saloon.
+
+Dlg_Ezhno15=Es heißt, dass jeder, der einen Kristall besitzt, unter dem Schutz der Ahnen steht. Würdet ihr ihn mir überlassen?
+Dlg_Ezhno16=Nein?!
+Dlg_Ezhno17=Ich würde euch im Tausch etwas anderes Tolles überlassen!
+Dlg_Ezhno18=Na gut, tauschen wir!
+
+Mov_Blackhat0=Was wollt ihr hier? Das ist unser Versteck, verschwindet!
+
+Mov_Intro0=Wenn wir einen Saloon betreiben wollen, brauchen wir eine Menge Geld. Fangen wir an, die 400 Clunker zu sammeln und suchen wir den Durchgang!
+
+Dlg_Trapper1=Super, der Weg ist frei und wir haben genug Geld. Jetzt kann der Saloon im Indianerterritorium gebaut werden!
+Dlg_Trapper2=Endlich geschafft. Der Saloon steht! Hoffentlich hat sich die Mühe gelohnt..

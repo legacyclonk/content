@@ -1,0 +1,1 @@
+TxtNoMeat=Kein geeignetes Fleisch!

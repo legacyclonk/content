@@ -1,0 +1,14 @@
+[Particle]
+Name=Casing
+MaxCount=100
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+CollisionFn=Stop
+Face=0,0,4,4
+Delay=300
+Repeats=1
+RByV=1
+GravityAcc=100
+VertexCount=1
+VertexY=75

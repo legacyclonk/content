@@ -1,0 +1,16 @@
+MsgOnlyHost=Nur der Host (%s) kann Einstellungen vornehmen.
+MsgTooLate=Keine Einstellungen mehr möglich.
+MsgRelaunchesCVRM=Relaunches der Kavallerie
+MsgRelaunchesBNDT=Relaunches der Banditen
+MsgBuildings=Gebäudeziele
+MsgUtilities=Versorgungseinrichtungen
+MsgOK=Bestätigen
+MsgCancel=Abbrechen
+MsgHostChangedSettings=Der Host hat die Einstellungen verändert.
+
+DescRelaunchesCVRM=So oft können die Kavalleristen neue Truppen schicken.
+DescRelaunchesBNDT=So oft können die Banditen neue Banden hohlen.
+DescBuildings=So viele Gebäude müssen von den Banditen zerstört werden.
+DescUtilities=So viele Versorgungseinrichtungen müssen von den Banditen zerstört werden.
+DescOk=Bestätigen der Veränderungen.
+DescCancel=Abbrechen und beibehalten der ursprünglichen Einstellungen.

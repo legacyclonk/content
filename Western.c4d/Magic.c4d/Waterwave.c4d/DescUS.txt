@@ -1,0 +1,1 @@
+Casts a waterwave which flings enemies away and extinguishes fires.

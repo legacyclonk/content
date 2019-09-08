@@ -1,0 +1,11 @@
+[Action]
+Name=SLTR
+Length=1
+Delay=0
+FacetBase=1
+
+[Action]
+Name=WLTR
+Length=1
+Delay=0
+FacetBase=1

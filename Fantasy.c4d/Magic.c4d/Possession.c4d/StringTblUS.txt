@@ -1,0 +1,2 @@
+NotInFree=%s isn't outside!
+CanNotControl=There's no animal in range!

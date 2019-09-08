@@ -1,0 +1,4 @@
+TxtProduce=Trank brauen
+TxtNoPlans=Keine Rezepte
+TxtProduceMenu=Brauen: %s
+MsgNotEnoughIngredients=Nicht genug|alchemische Zutaten!|Es fehlen|%s.

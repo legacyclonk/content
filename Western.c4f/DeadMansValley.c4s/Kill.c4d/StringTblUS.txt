@@ -1,0 +1,2 @@
+TxtDesc=The first player to achieve %d kills wins.
+TxtPlr=Player %s is in the lead with %d kills.

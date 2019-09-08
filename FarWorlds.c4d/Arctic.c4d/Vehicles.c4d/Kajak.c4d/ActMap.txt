@@ -1,0 +1,9 @@
+[Action]
+Name=Stop
+Procedure=NONE
+Directions=2
+FlipDir=1
+Length=1
+Facet=0,0,51,22,0,0
+FacetBase=0
+NextAction=Hold

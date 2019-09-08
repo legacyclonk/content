@@ -1,0 +1,8 @@
+[Action]
+Name=Cast
+Procedure=FLOAT
+Delay=2
+FacetBase=1
+NextAction=Cast
+StartCall=Casting
+ 

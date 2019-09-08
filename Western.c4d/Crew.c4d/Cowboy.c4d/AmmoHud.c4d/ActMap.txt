@@ -1,0 +1,8 @@
+[Action]
+Name=AmmoHud
+Procedure=FLOAT
+Directions=5
+Delay=0
+Length=8
+Facet=0,0,48,17,0,-20
+NextAction=AmmoHud

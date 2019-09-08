@@ -1,0 +1,12 @@
+[Material]
+Name=Coral3
+Color=70,12,12,143,53,21,194,55,28
+Shape=3
+Density=50
+Friction=100
+BlastFree=1
+Blast2Object=RCOR
+Blast2ObjectRatio=80
+MaxAirSpeed=100
+MaxSlide=1
+TextureOverlay=Structure

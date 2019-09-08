@@ -1,0 +1,10 @@
+[Action]
+Name=Brew
+Procedure=NONE
+Length=20
+Delay=3
+Facet=29,0,6,5,11,14
+FacetBase=1
+NextAction=Brew
+StartCall=Brewing
+PhaseCall=Effects

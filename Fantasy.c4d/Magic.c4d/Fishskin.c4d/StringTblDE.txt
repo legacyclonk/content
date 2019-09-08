@@ -1,0 +1,4 @@
+# Nachrichten
+MsgIsRev=%s ist schon verzaubert.
+MsgBlocked=%s kann nicht zum|Fischclonk aufwerten.
+SpellInfo=Der Clonk kann unter Wasser atmen und laufen.

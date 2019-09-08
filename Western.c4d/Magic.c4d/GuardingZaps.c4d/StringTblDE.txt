@@ -1,0 +1,1 @@
+MsgHasZaps=%s hat bereits Schutzzaps.

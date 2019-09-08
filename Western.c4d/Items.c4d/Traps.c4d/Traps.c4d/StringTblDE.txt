@@ -1,0 +1,3 @@
+TxtArm=Aufstellen
+MsgNoArm=Aufstellung hier nicht möglich!
+MsgNoTrapAllowedHere=Hier darf keine Falle|aufgestellt werden!

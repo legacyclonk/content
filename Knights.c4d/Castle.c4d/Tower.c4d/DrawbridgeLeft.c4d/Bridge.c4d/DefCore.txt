@@ -1,0 +1,16 @@
+[DefCore]
+id=CPBL
+Version=4,9,8
+Name=DrawbridgeLeft
+Category=C4D_Vehicle
+Width=60
+Height=60
+Offset=-30,-30
+Vertices=1
+VertexFriction=100
+Value=40
+Mass=150
+Components=WOOD=3;METL=1
+TopFace=0,0,60,60,0,0
+Picture=840,0,60,60
+HorizontalFix=1

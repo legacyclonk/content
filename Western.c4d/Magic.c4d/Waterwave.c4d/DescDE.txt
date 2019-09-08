@@ -1,0 +1,1 @@
+Sendet eine Wasserwelle aus, die Gegner wegschleudert und Feuer löscht.

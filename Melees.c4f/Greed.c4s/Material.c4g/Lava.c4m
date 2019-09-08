@@ -1,0 +1,17 @@
+[Material]
+Name=Lava
+Color=245,200,15,248,220,18,251,240,15
+ColorAnimation=1
+Density=25
+Instable=1
+MaxAirSpeed=50
+MaxSlide=10000
+WindDrift=30
+Incindiary=1
+TempConvStrength=1
+BelowTempConvert=100
+BelowTempConvertTo=Ashes
+Placement=10
+TextureOverlay=Liquid
+PXSGfx=Lava
+PXSGfxRt=0,0,32,32,-16,-16

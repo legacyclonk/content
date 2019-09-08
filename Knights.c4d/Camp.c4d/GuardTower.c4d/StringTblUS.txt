@@ -1,0 +1,2 @@
+TxtLeftgate=Left gate
+TxtRightgate=Right gate

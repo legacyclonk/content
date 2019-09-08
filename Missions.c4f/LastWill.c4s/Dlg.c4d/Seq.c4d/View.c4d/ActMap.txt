@@ -1,0 +1,15 @@
+[Action]
+Name=Attach
+Procedure=ATTACH
+Delay=1
+Length=1
+NextAction=Attach
+StartCall=UpdateView
+
+[Action]
+Name=Free
+Procedure=FLOAT
+Delay=1
+Length=1
+NextAction=Free
+StartCall=UpdateView

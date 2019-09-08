@@ -1,0 +1,16 @@
+[Action]
+Name=Shot
+NextAction=Hold
+Length=1
+PhaseCall=InFlight
+Delay=1
+FacetBase=1
+
+[Action]
+Name=Stick
+Procedure=FLOAT
+NextAction=Hold
+Length=1
+Delay=1
+PhaseCall=Sticking
+FacetBase=1

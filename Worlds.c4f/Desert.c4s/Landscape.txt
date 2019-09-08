@@ -1,0 +1,36 @@
+/* Desert Map */
+
+overlay MainMat { algo=sin; x=-20; wdt=140; zoomX=90; zoomY=35; turbulence=10; };
+overlay Mat { algo=rndchecker; a=21; turbulence=100; zoomX=-99; zoomY=-99; };
+
+
+map Desert {
+             MainMat { mat=Sand; tex=Smooth; y=40 - 50; loosebounds=1;
+             MainMat { mat=Sand; algo=bozo; tex=Smooth2; }; 
+             MainMat { mat=Sand; algo=bozo; tex=Smooth3; };
+             Mat { mat=FlySand; tex=Smooth2; a=10;
+             Mat { mat=FlySand; tex=Smooth; a=5; };
+             Mat { mat=FlySand; tex=Smooth3; a=5; };
+	       };
+             };
+
+             MainMat { mat=Earth; tex=Smooth; y=70; loosebounds=1; lambda=3;
+    	       MainMat { mat=Earth; algo=bozo; tex=Ridge; };
+	           MainMat { mat=Earth; algo=bozo; tex=Rough; };
+
+             Mat { mat=Ore; tex=Rough;  };
+             Mat { mat=Granite; tex=Rough; };
+             Mat { mat=Water; tex=Smooth;  };
+             Mat { mat=Gold; tex=Rough; };
+             Mat { mat=Coal; tex=Swirl;  };
+             Mat { mat=Rock; tex=Rough; a=17; };
+             Mat { mat=Oil; tex=Smooth; zoomX=-50; zoomY=-50; };
+             Mat { mat=Oil; tex=Smooth; zoomX=-50; zoomY=-50; };
+             Mat { mat=FlySand; tex=Smooth2; a=14;
+             Mat { mat=FlySand; tex=Smooth; a=5; };
+             Mat { mat=FlySand; tex=Smooth3; a=5; };
+	       };
+	     };
+
+
+};

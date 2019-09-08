@@ -1,0 +1,1 @@
+Pumpt Flüssigkeiten aus unterirdischen Lagern. Anfassen, Rauf und Runter für Zuflussrohr-Bohrung. Die Bohrung kann auch Stein und Granit durchdringen. Ist der Bohrturm mit einer Abflussleitung an ein Gebäude angeschlossen, stellt er automatisch das Pumpen ein, sobald in diesem Gebäude keine Fässer mehr vorhanden sind, die die geförderte Flüssigkeit aufnehmen könnten.

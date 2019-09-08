@@ -1,0 +1,5 @@
+TxtLeft=Links
+TxtRight=Rechts
+TxtStop=Anhalten
+TxtGetoff=Absteigen
+TxtGeton=Aufsitzen

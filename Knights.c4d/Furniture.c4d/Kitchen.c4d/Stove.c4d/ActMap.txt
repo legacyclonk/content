@@ -1,0 +1,10 @@
+[Action]
+Name=Burning
+Procedure=NONE
+Length=20
+Delay=3
+Facet=20,0,20,25
+FacetBase=1
+NextAction=Burning
+StartCall=Burning
+ 

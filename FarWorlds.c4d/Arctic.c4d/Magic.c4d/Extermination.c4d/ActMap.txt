@@ -1,0 +1,7 @@
+[Action]
+Name=Armageddon
+Procedure=FLOAT
+Delay=1
+Length=35
+FacetBase=1
+PhaseCall=Chaos

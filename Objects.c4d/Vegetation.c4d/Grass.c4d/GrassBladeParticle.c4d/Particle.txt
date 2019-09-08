@@ -1,0 +1,14 @@
+[Particle]
+Name=GrassBlade
+MaxCount=300
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+CollisionFn=Die
+Face=0,0,40,40,-20,-20
+Delay=0
+GravityAcc=80
+AlphaFade=0
+Additive=0
+VertexCount=1
+RByV=3

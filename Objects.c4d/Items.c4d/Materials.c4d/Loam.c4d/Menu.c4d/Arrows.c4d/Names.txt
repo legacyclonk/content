@@ -1,0 +1,2 @@
+DE:Pfeile
+US:Arrows

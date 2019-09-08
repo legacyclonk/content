@@ -1,0 +1,11 @@
+[Teams]
+
+	[Team]
+	id=1
+	Name=$MsgBandits$
+	IconSpec=Portrait:BNDT::1
+
+	[Team]
+	id=2
+	Name=$MsgTown$
+	IconSpec=Portrait:COWB::3

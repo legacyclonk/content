@@ -1,0 +1,4 @@
+TxtProduce=Brew potion
+TxtNoPlans=No recipes
+TxtProduceMenu=Brew: %s
+MsgNotEnoughIngredients=Not enough|alchemistic ingredients!|%s|are missing.

@@ -1,0 +1,3 @@
+Raise=The reincarnation of %s has seen the light of day!
+MsgNotEnoughEnergy=Not enough energy!
+MsgNoFurtherReincarnation=No further reincarantions possible!

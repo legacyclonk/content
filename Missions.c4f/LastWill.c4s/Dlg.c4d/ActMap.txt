@@ -1,0 +1,11 @@
+[Action]
+Name=Attach
+Procedure=ATTACH
+Delay=0
+NextAction=Hold
+
+[Action]
+Name=Temp
+Procedure=NONE
+Delay=0
+NextAction=Hold

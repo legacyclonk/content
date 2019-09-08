@@ -1,0 +1,12 @@
+[Action]
+Name=Forge
+Procedure=NONE
+Length=7
+Delay=3
+Facet=24,0,24,22,2,-2
+FacetBase=1
+NextAction=Forge
+StartCall=Forging
+EndCall=Effects
+
+ 

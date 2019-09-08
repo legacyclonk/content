@@ -1,0 +1,2 @@
+DE:Druckwelle
+US:Shockwave

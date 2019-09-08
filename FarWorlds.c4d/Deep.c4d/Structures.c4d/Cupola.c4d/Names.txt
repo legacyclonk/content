@@ -1,0 +1,2 @@
+DE:Wohneinheit
+US:Residential unit

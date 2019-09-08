@@ -1,0 +1,11 @@
+[Particle]
+Name=LavaGlow
+MaxCount=150
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,32,32,-16,-16
+Delay=100
+Repeats=4
+FadeOutLen=9
+FadeOutDelay=2

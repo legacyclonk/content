@@ -1,0 +1,11 @@
+# Context-Descs
+CtxMagicDesc=Cast a spell
+
+# Menutexte
+MnuNoSpells=No spells known
+MnuCast=Cast
+
+# Nachrichten
+MsgNotEnoughEnergy=Not enough|magical energy!
+MsgCantWearArmor=The king can't wear armor!
+MsgNotEnoughIngredients=Not enough|alchemistic ingredients!|%s|are missing.

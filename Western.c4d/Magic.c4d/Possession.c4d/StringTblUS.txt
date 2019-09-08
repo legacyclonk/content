@@ -1,0 +1,3 @@
+NotInFree=%s isn't outside!
+NoAnimals=There's no animal in range!
+CanNotMagic=%s can't magic|borrow here!

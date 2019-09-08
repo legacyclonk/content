@@ -1,0 +1,15 @@
+[DefCore]
+id=LWPF
+Version=4,9,8
+Name=LorryWipf
+Category=C4D_Vehicle
+Timer=1
+TimerCall=UpdateRotation
+Width=24
+Height=28
+Offset=-12,-18
+Vertices=1
+VertexX=-8
+VertexY=-6
+Picture=120,0,24,28
+Rotate=1

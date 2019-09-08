@@ -1,0 +1,3 @@
+TxtNoTargets=No targets available.
+TxtArm=Stick on %s
+DescArm=Bringt die Haftbombe an das jeweilige Fahrzeug an.

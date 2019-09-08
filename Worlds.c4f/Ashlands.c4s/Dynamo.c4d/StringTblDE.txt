@@ -1,0 +1,4 @@
+TxtProduce=Arbeiten
+TxtCancelproduction=Arbeit abbrechen
+TxtClonksOnly=Ein %s kann keinen Dynamo benutzen.|Der Dynamo kann nur von|Clonks benutzt werden.
+TxtAlreadyInUse=Dynamo wird bereits genutzt.

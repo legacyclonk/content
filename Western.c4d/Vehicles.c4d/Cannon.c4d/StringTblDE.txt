@@ -1,0 +1,7 @@
+TxtAimup=Zielen: auf
+TxtAimdown=Zielen: ab
+TxtFire=Feuern
+TxtResetview=Sicht zurücksetzen
+
+TxtPossibleContents=Nur %s oder %s!
+TxtFull=Bereits %dx %s geladen!

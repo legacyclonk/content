@@ -1,0 +1,15 @@
+CtrlActivateDesc=Lehmbrücke bauen
+
+MnuArrowLeft=Brücke links
+MnuArrowLeftDiag=Schräg links
+MnuArrowStraight=Wand mittig
+MnuArrowRightDiag=Schräg rechts
+MnuArrowRight=Brücke rechts
+
+MnuWallLeft=Wand links
+MnuWallLeftDiag=Decke schräg links
+MnuWallStraight=Decke mittig
+MnuWallRightDiag=Decke schräg rechts
+MnuWallRight=Wand rechts
+
+TxtCantBuild=%s kann|hier nicht bauen.

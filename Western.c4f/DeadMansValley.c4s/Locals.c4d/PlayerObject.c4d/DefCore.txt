@@ -1,0 +1,9 @@
+[DefCore]
+id=_PLA
+Version=4,9,8
+Name=PlayerObject
+Category=C4D_StaticBack
+Width=1
+Height=1
+Picture=0,0,50,50
+BorderBound=1

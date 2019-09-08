@@ -1,0 +1,2 @@
+TxtPlacementFailed=Couldn't place object! Not enough earth!
+TxtAnnounce=All warmed up?|Search for a fire bomb that's so hot it burns everything that touches it!

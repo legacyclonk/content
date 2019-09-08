@@ -1,0 +1,13 @@
+[Action]
+Name=Break
+Length=7
+Delay=2
+Facet=48,0,6,6
+EndCall=Destroy
+
+[Action]
+Name=Nest
+Procedure=FLOAT
+Length=1
+Delay=0
+Facet=0,0,6,6

@@ -1,0 +1,14 @@
+[Teams]
+TeamColors=1
+
+	[Team]
+	id=1
+	Name=$MsgBlue$
+	Color=255
+	IconSpec=Portrait:CVRM::3
+
+	[Team]
+	id=2
+	Name=$MsgRed$
+	Color=16711680
+	IconSpec=Portrait:CVRM::1

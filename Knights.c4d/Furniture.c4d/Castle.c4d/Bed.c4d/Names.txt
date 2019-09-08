@@ -1,0 +1,2 @@
+DE:Bett
+US:Bed

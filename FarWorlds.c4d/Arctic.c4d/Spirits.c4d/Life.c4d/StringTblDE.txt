@@ -1,0 +1,7 @@
+TxtIgreetyouchildoflife=Ich grüße dich mein Kind.|Du hast es bis zu mir geschafft!|Meine Glückwünsche.
+TxtProvetomethefertilit=Beweise mir deine Würdigkeit|und die Fruchtbarkeit deiner Sippe.
+TxtIwillgrantyouareward=Ich werde euch hoch belohnen,|wenn eure Sippen mindestens| %d Mitglieder haben.
+TxtWhatapleasureYouhave=Welch Freude!|Du hast alle Aufgaben erfüllt.
+TxtTakeoffyourcoatsaban=Legt eure Anoraks ab,|räumt eure Iglus und freut euch!
+TxtFromnowonyouwilllive=Von nun an werdet ihr|in einer wärmeren Welt leben,|und müsst nicht mehr frieren.
+TxtFarewell=Lebet wohl!

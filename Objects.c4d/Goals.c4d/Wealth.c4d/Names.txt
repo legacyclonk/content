@@ -1,0 +1,2 @@
+DE:Geldpunkte
+US:Money Points

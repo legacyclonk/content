@@ -1,0 +1,1 @@
+Versetzt den Zauberer für eine bestimmte Zeit in einen Stein. Dort ist er fast optimal versteckt. Doppel-Graben um aus dem Stein herauszutreten. Dies geht aber nur, wenn sich der Stein im Freien befindet.

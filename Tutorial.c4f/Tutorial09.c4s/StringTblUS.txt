@@ -1,0 +1,9 @@
+TxtBuildIgloo=First you should build an igloo and turn it into your homebase.$09_01_en.ogg
+TxtCatchFish=Now you can dive into the ocean and catch some fish.$09_02_en.ogg
+TxtBreath=Be aware of how long your clonk can hold his breath under water.$09_03_en.ogg
+TxtSellFish=Sell the fish at your homebase.$09_04_en.ogg
+Txt100Points=Gain 100 points by selling fish to complete this round.$09_05_en.ogg
+BtnNextTutorial=&Next tutorial
+BtnNextTutorialDesc=Start the next tutorial scenario.
+BtnRepeatRound=&Repeat this round
+BtnRepeatRoundDesc=Restart this scenario.

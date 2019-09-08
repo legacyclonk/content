@@ -1,0 +1,2 @@
+TxtPlacementFailed=Konnte nicht platzieren! Nicht genug Erde!
+TxtAnnounce=Fragiler T-Flint:|Er wird sich bei der leisesten Bewegung entzünden.

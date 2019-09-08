@@ -1,0 +1,2 @@
+MsgGoalFulfilled=Das Spielziel dieses Szenarios ist erfüllt!
+MsgGoalUnfulfilled=Das Spielziel dieses Szenarios ist noch nicht erfüllt.

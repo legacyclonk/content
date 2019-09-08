@@ -1,0 +1,1 @@
+MsgDeprecated=WARNING: Using deprecated goal \"MEL2\"; use \"MELE\" and create appropriate Teams.txt instead!

@@ -1,0 +1,12 @@
+[Material]
+Name=Coral2
+Color=22,41,120,53,123,160,104,192,238
+Shape=3
+Density=50
+Friction=100
+BlastFree=1
+Blast2Object=BCOR
+Blast2ObjectRatio=80
+MaxAirSpeed=100
+MaxSlide=1
+TextureOverlay=Coral1

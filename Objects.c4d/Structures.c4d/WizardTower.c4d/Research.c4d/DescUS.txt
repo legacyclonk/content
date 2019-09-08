@@ -1,0 +1,1 @@
+Starts research on a new spell if there are still unknown spells available.

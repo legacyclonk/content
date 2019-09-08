@@ -1,0 +1,1 @@
+A classy framework to store one's meat. Stores up to seven pieces of meat.

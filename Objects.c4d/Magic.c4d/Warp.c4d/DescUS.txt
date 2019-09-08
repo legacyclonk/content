@@ -1,0 +1,1 @@
+Creates a magic warp hole which ends somewhere in the landscape. All objects around this hole are affected.

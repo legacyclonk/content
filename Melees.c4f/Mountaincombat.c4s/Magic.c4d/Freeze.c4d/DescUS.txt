@@ -1,0 +1,1 @@
+Freezes all Clonks for a short time.

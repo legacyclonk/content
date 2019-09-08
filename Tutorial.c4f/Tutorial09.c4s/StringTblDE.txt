@@ -1,0 +1,9 @@
+TxtBuildIgloo=Baue zunächst ein Iglu, und mache es mit Deiner Flagge zur Heimatbasis.$09_01_de.ogg
+TxtCatchFish=Nun kannst Du ins Meer tauchen und Fische fangen.$09_02_de.ogg
+TxtBreath=Achte dabei darauf, wie lange Dein Clonk unter Wasser den Atem anhalten kann.$09_03_de.ogg
+TxtSellFish=Verkaufe den Fisch in Deiner Heimatbasis.$09_04_de.ogg
+Txt100Points=Erwirtschafte durch den Verkauf von Fischen 100 Punkte, um das Ziel dieser Lernrunde zu erreichen.$09_05_de.ogg
+BtnNextTutorial=&Nächste Lernrunde
+BtnNextTutorialDesc=Die nächste Lernrunde starten.
+BtnRepeatRound=Runde &wiederholen
+BtnRepeatRoundDesc=Diese Runde wiederholen.

@@ -1,0 +1,8 @@
+[DefCore]
+id=GGHG
+Version=4,9,8
+Name=MagicGroupHeal
+Category=C4D_Magic
+Value=31
+Components=IMUS=3;IGOL=1
+Picture=0,0,64,64

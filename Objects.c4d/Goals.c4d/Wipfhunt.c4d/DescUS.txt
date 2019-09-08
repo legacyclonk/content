@@ -1,0 +1,1 @@
+All wipfs have to be caught and sold. If the goal object is placed multiple times, the respective number of wipfs may die before the goal is lost.

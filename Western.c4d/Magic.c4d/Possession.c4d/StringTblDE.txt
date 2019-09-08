@@ -1,0 +1,3 @@
+NotInFree=%s befindet|sich nicht im Freien!
+NoAnimals=Kein Tier in Reichweite!
+CanNotMagic=%s kann hier|kein Borgen zaubern!

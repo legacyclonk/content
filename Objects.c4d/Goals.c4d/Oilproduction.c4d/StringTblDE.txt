@@ -1,0 +1,3 @@
+done=Sämtliches Öl ist gefördert!
+todo2=Es ist noch eine unbekannte Menge Öl zu fördern. %d gefüllte Ölfässer müssen noch verkauft werden.
+todo=Es sind noch %d Fässer Öl zu fördern. %d gefüllte Ölfässer müssen noch verkauft werden.

@@ -1,0 +1,3 @@
+SgnpFortville=Willkommen in Fortville.
+SgnpTemple1=Betreten verboten!
+SgnpTemple2=Zum Indianerland.|Durchgang auf eigene Gefahr.

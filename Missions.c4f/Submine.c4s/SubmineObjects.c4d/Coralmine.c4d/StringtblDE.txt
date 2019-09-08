@@ -1,0 +1,3 @@
+MsgGoalFulfilled=Alle Korallen sind abgebaut.
+MsgGoalUnfulfilled=Es müssen noch %d Einheiten fester Korallen gesprengt und %d lose Korallen verkauft werden.
+MsgGoalUnfulfilled2=Es müssen noch eine unbekannte Menge fester Korallen gesprengt und %d lose Korallen verkauft werden.

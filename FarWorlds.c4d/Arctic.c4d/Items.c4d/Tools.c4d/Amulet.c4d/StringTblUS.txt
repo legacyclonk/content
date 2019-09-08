@@ -1,0 +1,6 @@
+TxtErrLife=To join the circle of life,|you need at least a population of three people!
+TxtErrDeath=You can only join the circle of death by night!
+TxtSelectCircle=Assign magic circle
+TxtLife=Life
+TxtMystic=Mystic
+TxtDeath=Death

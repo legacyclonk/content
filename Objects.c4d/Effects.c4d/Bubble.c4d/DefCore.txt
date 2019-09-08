@@ -1,0 +1,16 @@
+[DefCore]
+id=FXU1
+Version=4,9,8
+Name=Bubble
+Category=C4D_Vehicle
+Timer=12
+TimerCall=Shiver
+Width=1
+Height=1
+Vertices=1
+VertexFriction=1
+Mass=1
+Picture=0,0,1,1
+
+[Physical]
+Float=100

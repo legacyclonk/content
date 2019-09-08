@@ -1,0 +1,14 @@
+[Action]
+Name=Meer
+NextAction=Meer
+Sound=SeaSounds2
+
+[Action]
+Name=Moewen
+NextAction=Moewen
+Sound=SeaSounds1
+
+[Action]
+Name=NoAction
+NextAction=Moewen
+Delay=200

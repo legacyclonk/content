@@ -1,0 +1,3 @@
+MsgGoalFulfilled=The connection is finished
+MsgGoalUnfulfilled=The connection is not yet finished.
+NoGood=No connection possibility found

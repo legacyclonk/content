@@ -1,0 +1,3 @@
+TxtNoTargets=Keine Ziele vorhanden.
+TxtArm=An %s haften
+DescArm=Bringt die Haftbombe an das jeweilige Fahrzeug an.

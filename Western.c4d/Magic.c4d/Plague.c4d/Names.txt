@@ -1,0 +1,2 @@
+DE:Seuche
+US:Plague

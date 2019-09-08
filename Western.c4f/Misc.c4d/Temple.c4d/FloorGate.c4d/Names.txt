@@ -1,0 +1,2 @@
+DE:Bodentor
+US:Floor gate

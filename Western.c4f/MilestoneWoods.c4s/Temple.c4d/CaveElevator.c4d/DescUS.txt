@@ -1,0 +1,1 @@
+The elevator will automatically move to pick up waiting clonks, but may also be switched to permanent movement.

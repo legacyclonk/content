@@ -1,0 +1,2 @@
+CtrlErect=Erect
+MsgErectFirst=First erect pole!

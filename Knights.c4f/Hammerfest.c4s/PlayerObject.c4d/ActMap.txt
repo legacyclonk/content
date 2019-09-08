@@ -1,0 +1,7 @@
+[Action]
+Name=Relaunch
+Procedure=NONE
+Length=1
+Delay=25
+NextAction=Relaunch
+StartCall=Execute

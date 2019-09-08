@@ -1,0 +1,1 @@
+Lässt den Clonk temporär schneller schwimmen und länger die Luft anhalten.

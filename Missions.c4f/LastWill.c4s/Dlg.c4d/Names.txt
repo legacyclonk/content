@@ -1,0 +1,2 @@
+DE:Dialog
+US:Dialogue

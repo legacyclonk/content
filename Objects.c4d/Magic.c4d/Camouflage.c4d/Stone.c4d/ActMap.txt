@@ -1,0 +1,7 @@
+[Action]
+Name=Wait4Ending
+Procedure=NONE
+Delay=1000
+FacetBase=1
+EndCall=End
+ 

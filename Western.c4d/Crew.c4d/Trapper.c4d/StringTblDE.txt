@@ -1,0 +1,21 @@
+CtxConstructionDesc=Bauauftrag
+CtxHomeDesc=Zurück zur Basis
+CtxRelease=Entlassen
+CtxDeTrap=Falle entschärfen
+CtrlMenuDesc=Menü
+CtrlInventoryDesc=Inventar auswählen
+TxtCraft=Herstellung
+TxtMalletrequired=Hammer benötigt!
+TxtKniferequired=Messer benötigt!
+TxtNoconstructionplans=Keine Baupläne verfügbar
+TxtCrafts=Herstellen: %s
+TxtTrap=Falle herstellen
+TxtNotrapplans=Keine Fallen verfügbar
+TxtTraps=Aufstellen: %s
+TxtNoTrap=Keine Fallen da
+TxtDeTrap=entschärfen
+TxtMakeBait=Köder herstellen
+
+TxtConstructions=Konstruktion: %s
+TxtNoConMaterial=Konstruktion nur mit Baumaterial möglich!
+TxtNomoresuitabletrees=Keine geeigneten Bäume mehr!

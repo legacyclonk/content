@@ -1,0 +1,3 @@
+Zelt aufstellen durch Doppelklick auf 'Graben'.
+
+Hier kann man auch in ein Menü kommen wo man Baumaterial in das Zeltpacket reintun kann. Um es wieder rauszunehmen muss man das Material anwählen und auf 'Graben' klicken. Beim bau eines Zeltes wird alles Baumaterial im Pack benutzt. Ist zuviel Baumaterial drin so kommt es auch wieder raus, doch manchmal reicht das Baumaterial im Zeltpacket nicht aus um ein ganzes Zelt zu bauen.

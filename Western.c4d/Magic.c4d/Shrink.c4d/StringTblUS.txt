@@ -1,0 +1,2 @@
+# Nachrichten
+MsgIsShrunken=Already shrunken!

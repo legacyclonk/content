@@ -1,0 +1,1 @@
+Diese Objekte steuern das Verhalten von Land, Wind und Wetter.

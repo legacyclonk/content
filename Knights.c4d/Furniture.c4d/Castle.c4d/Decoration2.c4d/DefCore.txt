@@ -1,0 +1,11 @@
+[DefCore]
+id=DCO2
+Version=4,9,8
+Name=Decoration
+Category=C4D_StaticBack
+Width=20
+Height=30
+Offset=-10,-15
+Value=3
+Mass=10
+Components=WOOD=1

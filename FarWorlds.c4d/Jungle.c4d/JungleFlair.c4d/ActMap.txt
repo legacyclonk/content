@@ -1,0 +1,13 @@
+[Action]
+Name=Initialize
+Length=1
+Delay=1
+NextAction=Idle
+EndCall=Initialized
+
+[Action]
+Name=Sound
+Length=1
+Delay=25
+NextAction=Sound
+StartCall=DoSound

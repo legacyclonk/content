@@ -1,0 +1,8 @@
+[DefCore]
+id=CCNF
+Version=4,9,8
+Name=CurseConfusion
+Category=C4D_StaticBack|C4D_Magic
+Value=43
+Components=IICE=5;IROC=4
+Picture=0,0,64,64

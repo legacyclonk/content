@@ -1,0 +1,14 @@
+CtxConstructionDesc=Bauauftrag
+CtxHomeDesc=Zurück zur Basis
+CtxRelease=Entlassen
+CtxImprison=Einsperren
+CtrlMenuDesc=Menü
+CtrlInventoryDesc=Inventar auswählen
+MsgNoBandit=Kein Bandit|in der Nähe
+MsgNoOffice=Kein Gefängnis|in der Nähe
+MsgImprisoned=Du bist verhaftet!
+
+MsgNoHandcuffs=Keine Handschellen vorhanden.
+NamePrisoner=Gefangener %s
+MsgCaught=%s ist gefesselt und auf dem Weg ins Gefängnis.
+MsgFree=%s hat sich befreit.

@@ -1,0 +1,3 @@
+TxtUp=Up
+TxtDown=Down
+TxtExit=Exit

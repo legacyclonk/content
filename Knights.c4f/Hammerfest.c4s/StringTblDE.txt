@@ -1,0 +1,3 @@
+MsgScore=Punkte
+MsgLeft=Schattenklingen
+MsgRight=Mantisorden

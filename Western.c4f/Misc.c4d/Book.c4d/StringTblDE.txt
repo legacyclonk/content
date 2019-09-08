@@ -1,0 +1,8 @@
+MnuNoSpells=Keine Zaubersprüche verfügbar
+MnuEnchant=Zauber wählen
+MnuCast=Zaubern
+MnuEmpty=Nicht belegt
+TxtNotEnoughIngredients=Nicht genug|alchemische Zutaten!|Es fehlen|%s.
+TxtNotEnoughEnergy=Nicht genug Zauberenergie!
+MsgNothingHappened=Nichts passiert!
+MsgSpellSet=<i>%s</i> zu Zauberbuch hinzugefügt!

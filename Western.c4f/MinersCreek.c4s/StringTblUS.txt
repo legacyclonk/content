@@ -1,0 +1,19 @@
+MsgScore=Info
+
+MsgTrooper=Cavalry
+MsgBandits=Bandits
+
+MsgTrooperJoin=%s defends Miners Creek.
+MsgBanditsJoin=%s joins the Bandits.
+
+MsgTroopLost=%s needs more troops.
+MsgRelaunchCVRM1=Reinforcements for the cavalry are on their way! (1 Relaunch left)
+MsgRelaunchCVRM=Reinforcements for the cavalry are on their way! (%d Relaunches left)
+
+MsgGangLost=%s loses a gang!
+MsgRelaunchBNDT1=More bandits are heading to the hideout! (1 Relaunch left)
+MsgRelaunchBNDT=More bandits are heading to the hideout! (%d Relaunches left)
+
+MsgEliminate=%s is a has-been.
+MsgBanditsWin=The bandits take over Miners Creek!
+MsgTrooperWin=The Guard can defend Miners Creek and the bandits are history!

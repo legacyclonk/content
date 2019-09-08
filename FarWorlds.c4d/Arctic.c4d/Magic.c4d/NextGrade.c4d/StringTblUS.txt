@@ -1,0 +1,3 @@
+TxtNoAmulet=No amulet!
+TxtPopulation=Requires a population of 5 or higher.
+TxtNight=Can only be done by night!

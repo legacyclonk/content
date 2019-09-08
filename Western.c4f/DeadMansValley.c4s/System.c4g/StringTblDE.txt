@@ -1,0 +1,52 @@
+MsgCExplo=Der Hauptmann (%s) wurde von %s gesprengt!
+MsgCFire=Der Hauptmann (%s) wurde von %s verbrannt!
+MsgCFight=Der Hauptmann (%s) wurde von %s nieder gerungen!
+MsgCShot=Der Hauptmann (%s) wurde von %s erschossen!
+MsgCItem=Der Hauptmann (%s) starb durch %s von %s.
+
+MsgExplo1=%s wurde von %s gesprengt!
+MsgExplo2=%s ließ sich von %s bomben!
+MsgExplo3=%s mag keine Sprengstoffe von %s!
+MsgFire=%s wurde von %s verbrannt!
+MsgFight1=%s verlor den Kampf gegen %s!
+MsgFight2=%s hatte keine Chance gegen %s!
+MsgShot1=%s zieht nicht so schnell wie %s!
+MsgShot2=%s wurde von %s erschossen!
+MsgShot3=%s unterlag %s in der Schießerei!
+MsgShot4=%s schuldet %s einen Abschuss.
+MsgItem1=%s ist platt durch %s von %s.
+MsgItem2=%s starb durch %s von %s.
+MsgItem3=%s verdankt %s von %s einen Relaunch.
+
+MsgSCExplo=Der Hauptmann (%s) hat sich selbst gesprengt!
+MsgSCFire=Der Hauptmann (%s) ist verbrannt!
+MsgSCAir=Dem Hauptmann (%s) ging die Luft aus!
+MsgSCAcid=Der Hauptmann (%s) wurde weggeätzt!
+MsgSCElse1=Der Hauptmann (%s) stürzte sich selbst ins Verderben!
+MsgSCElse2=Der Hauptmann (%s) war lebensmüde.
+
+MsgSExplo=%s hat sich selbst gesprengt!
+MsgSFire=%s ist verbrannt!
+MsgSAir=%s ging die Luft aus!
+MsgSAcid=%s wurde weggeätzt!
+MsgSElse1=%s stürzte sich selbst ins Verderben!
+MsgSElse2=%s war lebensmüde.
+
+
+SellMenu=Verkaufen
+MsgNoSell=Ich kaufe nichts an!
+
+TxtFire=Feuern
+
+MsgKill0=%s wurde von %s getötet.
+MsgKill1=%s wurde von %s platt gemacht.
+MsgKill2=%s ist bei %s nicht sehr beliebt.
+MsgKill3=%s schuldet %s einen Abschuss.
+MsgKill4=%s hat mit %s nun eine Rechnung offen.
+
+MsgSuicide0=%s war lebensmüde.
+MsgSuicide1=%s verabschiedet sich freiwillig.
+MsgSuicide2=%s beging Selbstmord.
+
+MsgChiefKill=Der Hauptmann von %s wurde von %s besiegt.
+

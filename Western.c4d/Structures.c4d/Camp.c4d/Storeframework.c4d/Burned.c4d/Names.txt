@@ -1,0 +1,2 @@
+DE:Verbranntes Lagergestell
+US:Burned store framework

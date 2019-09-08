@@ -1,0 +1,7 @@
+MsgLeft=Shadowblades
+MsgRight=Kingsguard
+
+MsgRelaunch=%s needs a relaunch!
+MsgKingWin=The king has escaped, the Kingsguard wins!
+MsgKingLost=The king has been killed, the Shadowblades win!
+MsgWayFree=The passage is now free!

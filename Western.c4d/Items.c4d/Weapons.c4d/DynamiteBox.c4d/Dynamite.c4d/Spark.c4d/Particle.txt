@@ -1,0 +1,13 @@
+[Particle]
+Name=DynamiteSpark
+MaxCount=100
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+CollisionFn=Stop
+Face=0,0,4,4,-2,-2
+Delay=5
+Repeats=1
+GravityAcc=100
+VertexCount=1
+VertexY=50

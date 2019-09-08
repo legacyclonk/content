@@ -1,0 +1,11 @@
+# Control
+CtrlLeadDesc=Lead
+CtrlJumpDesc=Jump
+CtrlStopDesc=Stop
+CtrlGetOffDesc=Get Off
+CtrlFastenDesc=Fasten
+
+# Messages
+MsgNeedSaddle=%s can't ride|without a saddle.
+MsgEmptySaddle=Saddle bag not empty!
+MsgNoGoodRider=%s can't ride.

@@ -1,0 +1,8 @@
+[Action]
+Name=Active
+Procedure=ATTACH
+Delay=4
+Length=3
+Facet=0,0,1,1
+PhaseCall=Effect
+EndCall=Slay

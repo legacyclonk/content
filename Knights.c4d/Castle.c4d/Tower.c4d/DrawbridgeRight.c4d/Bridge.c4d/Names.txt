@@ -1,0 +1,2 @@
+DE:Zugbrücke rechts
+US:Draw bridge right

@@ -1,0 +1,3 @@
+MsgGoalFulfilled=All opponents eliminated.
+MsgGoalUnfulfilled=Still %d opponents in the game.
+MsgTooFewPlayers=Too few players for a melee.

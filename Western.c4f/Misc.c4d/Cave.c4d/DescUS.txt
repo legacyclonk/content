@@ -1,0 +1,1 @@
+A small cave, which is connected to another cave exit.

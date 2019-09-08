@@ -1,0 +1,4 @@
+TxtMovement=Bewegen
+TxtAttack=Beißen
+TxtLeave=Zurückverwandeln
+TxtEmbowel=Zerlegen

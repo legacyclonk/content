@@ -1,0 +1,11 @@
+# Spielziel
+MsgGoalFulfilled=Der Wunsch des toten Farmers wurde erfüllt!
+MsgGoalUnfulfilled=Du musst den toten Farmer bis ans Meer bringen.
+
+# Aufgaben
+MsgGoal1=Wir sollten zunächst eine Hütte als Heimatbasis und dann eine Werkstatt bauen. Im Erdreich findet sich dafür genug Material. Anschließend können wir eine Brücke über den See bauen und den Magier im Schloss auf der anderen Seite um weiteren Rat fragen.
+
+# Sonstige Nachrichten
+MsgVolcano=Das war knapp.
+MsgSea=Was ist das für ein Geräusch?
+MsgErrorCrystals=Halt! Du musst zuerst die 30 Kristalle abbauen und in das Schloss bringen!

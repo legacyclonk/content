@@ -1,0 +1,3 @@
+Munition für die Gatling. 
+
+Lässt sich nur im Waffenlager mit anderen Magazinen überlagern.

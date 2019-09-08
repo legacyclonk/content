@@ -1,0 +1,17 @@
+[Teams]
+LastTeamID=2
+
+  [Team]
+  id=1
+  Name=Helden
+  Color=51200
+  IconSpec="KNIG"
+
+  [Team]
+  id=2
+  Name=Ala Kadabra
+  PlayerCount=1
+  Players=1
+  Color=65535
+  IconSpec="MAGE"
+  MaxPlayer=1

@@ -1,0 +1,18 @@
+/*Skylands*/
+
+
+map Skylands { 
+	overlay   { loosebounds=1; hgt=80; algo=rndchecker; a=3; zoomX=40; turbulence=100;}
+	 |overlay { loosebounds=1; hgt=90; algo=rndchecker; a=3; zoomX=30; turbulence=100; mat=Earth; tex=Smooth;
+		overlay { loosebounds=1; algo=rndchecker; a=1; turbulence=80; mat=Tunnel; tex=Smooth;};
+		overlay { algo=rndchecker; a=8; turbulence=100; mat=FlySand; tex=Smooth;};
+		overlay { algo=rndchecker; a=5; turbulence=80; mat=Coal; tex=Swirl;};
+		overlay { algo=rndchecker; a=7; turbulence=100; mat=Sulphur; tex=Swirl;};
+		overlay { algo=rndchecker; a=8; turbulence=100; mat=Rock; tex=Rock;};
+		overlay { algo=rndchecker; a=8; turbulence=100; mat=Gold; tex=Rough;};
+		overlay { algo=rndchecker; a=8; turbulence=100; mat=Ore; tex=Rough;};
+		overlay { algo=rndchecker; a=3; turbulence=100; mat=Earth; tex=Rough;};
+		};
+overlay {algo=solid; turbulence=100; loosebounds=1; x=-10; wdt=17; };
+overlay {algo=solid; turbulence=100; loosebounds=1; x=93; };
+};//Ende Map

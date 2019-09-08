@@ -1,0 +1,2 @@
+DE:Feuerkugel
+US:Fireball

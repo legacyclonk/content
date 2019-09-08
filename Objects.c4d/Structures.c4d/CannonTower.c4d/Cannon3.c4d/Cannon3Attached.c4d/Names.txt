@@ -1,0 +1,2 @@
+DE:Angeschraubtes Luftabwehrgeschütz
+US:Attached anti-air cannon

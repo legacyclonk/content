@@ -1,0 +1,8 @@
+MsgPart0=Greetings!|Just bring my lost parts along. I can reassemble myself.
+MsgPart1=Ah, very good!
+MsgPart2=Perfect - keep going!
+MsgPart3=Very good!|Beware: I suppose my left arm must be repaired in a workshop.
+MsgPart4=Superb!|I can feel my powers returning...
+MsgPart5=Excellent!|Now where's my head?
+MsgPart6=Finally, I shine in full glory again!
+MsgPart4B=Uh, that part is broken.|Maybe you can repair it in a workshop?

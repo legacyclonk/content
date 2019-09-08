@@ -1,0 +1,13 @@
+[Particle]
+Name=Freeze
+MaxCount=3000
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,48,48,-24,-24
+Delay=0
+Repeats=1
+GravityAcc=0
+AlphaFade=4
+Additive=1
+Attach=1

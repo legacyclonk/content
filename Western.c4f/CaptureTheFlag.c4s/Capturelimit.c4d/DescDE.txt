@@ -1,0 +1,1 @@
+Der Host kann das Capturelimit zu Anfang des Spiels verändern.

@@ -1,0 +1,2 @@
+DE:Säbel
+US:Saber

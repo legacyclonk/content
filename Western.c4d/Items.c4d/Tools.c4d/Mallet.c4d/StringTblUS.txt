@@ -1,0 +1,5 @@
+TxtNoconstructionplans=No construction plans
+TxtCraft=Craft
+TxtCrafts=Craft: %s
+TxtWorks=Construction: %s
+TxtConstructions=Construction: %s

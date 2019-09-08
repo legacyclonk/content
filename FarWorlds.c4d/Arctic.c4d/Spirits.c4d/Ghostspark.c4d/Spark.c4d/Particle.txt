@@ -1,0 +1,12 @@
+[Particle]
+Name=GhostSpark
+MaxCount=200
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,10,10,-5,-5
+Delay=0
+Repeats=1
+GravityAcc=-20
+AlphaFade=2
+Additive=1

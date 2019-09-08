@@ -1,0 +1,2 @@
+DE:Nahrung herbeizaubern
+US:Summon food

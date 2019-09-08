@@ -1,0 +1,1 @@
+NoExtinguish=Nothing to extinguish!

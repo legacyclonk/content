@@ -1,0 +1,3 @@
+MsgGoalFulfilled=Alles Gold ist abgebaut.
+MsgGoalUnfulfilled=Es müssen noch %d Einheiten festes Gold und %d Goldstücke abgebaut werden.
+MsgGoalUnfulfilled2=Es müssen noch eine unbekannte Menge festes Gold und %d Goldstücke abgebaut werden.

@@ -1,0 +1,3 @@
+Raise=%ss Reinkarnation hat das Licht der Welt erblickt!
+MsgNotEnoughEnergy=Nicht genug Energie!
+MsgNoFurtherReincarnation=Keine weiteren Wiederbelebungen möglich!

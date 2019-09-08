@@ -1,0 +1,20 @@
+[DefCore]
+id=BTHC
+Version=4,9,8
+Name=Burned Spear Rack
+Category=C4D_Structure
+Width=46
+Height=21
+Offset=-23,-10
+Vertices=2
+VertexX=-23,23
+VertexY=10,10
+VertexFriction=50,50
+Value=2
+Mass=20
+Components=WOOD=3
+ContactIncinerate=2
+BlastIncinerate=5
+Construction=1
+ConstructTo=THRC
+Grab=1

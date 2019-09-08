@@ -1,0 +1,6 @@
+TxtProduce=Produce
+TxtCancelproduction=Cancel production
+TxtNoPlans=No plans available.
+TxtProduceMenu=Produce: %s
+TxtNeedMaterial=%s needs:
+TxtNeedMaterialComponent=%dx %s

@@ -1,0 +1,11 @@
+MsgScore=Score
+
+MsgBlue=Team Blue
+MsgRed=Team Red
+MsgRelaunch=%s needs a relaunch!
+
+MsgBlueWin=The blue team wins!
+MsgRedWin=Team Red wins!
+
+MsgBlueJoin=%s joins Team Blue.
+MsgRedJoin=%s fights for Team Red.

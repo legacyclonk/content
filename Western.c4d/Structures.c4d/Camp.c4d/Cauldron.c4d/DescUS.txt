@@ -1,0 +1,5 @@
+Serves to prepare numerous cooked meals or magic potions.
+The free standing cauldron needs a burning camp fire.
+
+Grab and double click 'dig' to enter the brew menu.
+Grab and click 'throw' to clean the cauldron (for cooking).

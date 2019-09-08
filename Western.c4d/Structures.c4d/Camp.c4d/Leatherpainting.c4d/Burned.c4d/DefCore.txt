@@ -1,0 +1,21 @@
+[DefCore]
+id=LPTB
+Version=4,9,8
+Name=Burned leather painting
+Category=C4D_Structure
+Width=30
+Height=29
+Offset=-15,-14
+Vertices=4
+VertexX=-16,13,13,-14
+VertexY=-9,-12,14,14
+VertexFriction=20,20,20,20
+Value=2
+Mass=10
+Components=WOOD=1;LTHR=1
+Picture=36,0,69,67
+ContactIncinerate=5
+BlastIncinerate=10
+Construction=1
+ConstructTo=LHTP
+Grab=1

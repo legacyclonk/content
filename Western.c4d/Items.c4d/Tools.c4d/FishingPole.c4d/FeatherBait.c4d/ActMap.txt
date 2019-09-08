@@ -1,0 +1,9 @@
+[Action]
+Name=Bait
+Procedure=FLOAT
+Directions=1
+Length=1
+Delay=20
+NextAction=Bait
+StartCall=Baiting
+Facet=9,0,6,4,+1,+1

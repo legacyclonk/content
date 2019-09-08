@@ -1,0 +1,8 @@
+[Action]
+Name=Shield
+Procedure=ATTACH
+Directions=1
+Length=1
+Facet=0,0,8,10
+NextAction=Shield
+

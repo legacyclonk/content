@@ -1,0 +1,10 @@
+[DefCore]
+id=_RLN
+Version=4,9,8
+Name=Relauncher
+Category=C4D_Living
+Width=1
+Height=1
+Picture=0,0,35,35
+NoBreath=1
+NoFight=1

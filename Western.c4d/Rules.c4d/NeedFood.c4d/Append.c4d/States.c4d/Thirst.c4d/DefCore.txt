@@ -1,0 +1,9 @@
+[DefCore]
+id=WNTH
+Version=4,9,8
+Name=WarningThirst
+Category=C4D_Living
+Width=7
+Height=7
+Offset=-3,-20
+Picture=0,7,23,36

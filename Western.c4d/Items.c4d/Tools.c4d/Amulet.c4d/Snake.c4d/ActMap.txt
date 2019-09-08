@@ -1,0 +1,6 @@
+[Action]
+Name=WearAmulet
+Procedure=ATTACH
+Directions=2
+NextAction=Hold
+FacetBase=0

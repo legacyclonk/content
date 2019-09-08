@@ -1,0 +1,2 @@
+DE:Haftbombe
+US:Sticky bomb

@@ -1,0 +1,12 @@
+TxtNoAmulets=Keine Amulette verfügbar
+TxtMystic=Mystikpunkte anzeigen
+TxtProduction=Herstellung
+ContextProduction=Produktion
+TxtMysticChief=Mystikpunkte anzeigen/Häuptling ausbilden
+
+TxtRecruitChief=Häuptling ausbilden
+TxtCancel=Abbrechen
+TxtOnlyOneChief=Es kann nur einen Häuptling geben.
+TxtNotEnoughMoney=Nicht genug Geld!
+TxtChiefRecruited=Häuptling ausgebildet.
+DescChief=Der Häuptling ist der Aufseher seines Stammes.||Dank seiner Erfahrung kann er ohne die Benutzung eines Amulettes bestimmte Zauber ausführen und Knochen zerkleinern.||Noch dazu ist er Magiebegabter und erhält durch die Knochenzerkleinerung mehr Zauberenergie wovon er auch mehr besitzen kann.

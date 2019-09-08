@@ -1,0 +1,202 @@
+[FolderMap]
+MinResX=640
+MinResY=480
+ScenInfoArea=667,31,312,567
+
+	[AccessGfx]
+	Access=WestLH
+	OverlayImage=AccLH.png
+	Area=40,241,45,51
+	
+	[AccessGfx]
+	Access=WestFS
+	OverlayImage=AccFS.png
+	Area=483,42,156,113
+
+	[AccessGfx]
+	Access=WestGC
+	OverlayImage=AccGC.png
+	Area=125,176,69,57
+
+	[AccessGfx]
+	Access=WestGR
+	OverlayImage=AccGR.png
+	Area=130,199,113,221
+
+	[AccessGfx]
+	Access=WestMW
+	OverlayImage=AccMW.png
+	Area=507,343,59,59
+
+	[AccessGfx]
+	Access=WestRB
+	OverlayImage=AccNW.png
+	Area=229,490,233,124
+	
+	[Scenario]
+	File=GoldenCanyon.c4s
+	BaseImage=ScenGCBase.png
+	OverlayImage=ScenGC.png
+	Area=40,54,158,129
+	Title=TITLE
+	TitleFontSize=20
+	TitleColorInactive=2130706432
+	TitleColorActive=16764672
+	TitleOffX=75
+	TitleOffY=50
+	TitleAlign=1
+	TitleUseBookFont=0
+
+	[Scenario]
+	File=DeadMansValley.c4s
+	BaseImage=ScenDMVBase.png
+	OverlayImage=ScenDMV.png
+	Area=235,63,166,113
+	Title=TITLE
+	TitleFontSize=20
+	TitleColorInactive=2130706432
+	TitleColorActive=16711680
+	TitleOffX=79
+	TitleOffY=30
+	TitleAlign=1
+	TitleUseBookFont=0
+
+	[Scenario]
+	File=FallingStarsPeak.c4s
+	BaseImage=ScenFSBase.png
+	OverlayImage=ScenFS.png
+	Area=483,82,159,98
+	Title=TITLE
+	TitleFontSize=20
+	TitleColorInactive=2130706432
+	TitleColorActive=16711680
+	TitleOffX=95
+	TitleOffY=20
+	TitleAlign=1
+	TitleUseBookFont=0
+
+	[Scenario]
+	File=CaptureTheFlag.c4s
+	BaseImage=ScenCTFBase.png
+	OverlayImage=ScenCTF.png
+	Area=534,191,132,94
+	Title=TITLE
+	TitleFontSize=20
+	TitleColorInactive=2130706432
+	TitleColorActive=16711680
+	TitleOffX=35
+	TitleOffY=0
+	TitleAlign=1
+	TitleUseBookFont=0
+
+	[Scenario]
+	File=LastHope.c4s
+	BaseImage=ScenLHBase.png
+	OverlayImage=ScenLH.png
+	Area=25,241,108,138
+	Title=TITLE
+	TitleFontSize=20
+	TitleColorInactive=2130706432
+	TitleColorActive=16711680
+	TitleOffX=65
+	TitleOffY=75
+	TitleAlign=1
+	TitleUseBookFont=0
+
+	[Scenario]
+	File=MinersCreek.c4s
+	BaseImage=ScenMCBase.png
+	OverlayImage=ScenMC.png
+	Area=272,219,129,122
+	Title=TITLE
+	TitleFontSize=20
+	TitleColorInactive=2130706432
+	TitleColorActive=16711680
+	TitleOffX=85
+	TitleOffY=55
+	TitleAlign=1
+	TitleUseBookFont=0
+
+	[Scenario]
+	File=MilestoneWoods.c4s
+	BaseImage=ScenMWBase.png
+	OverlayImage=ScenMW.png
+	Area=464,274,185,104
+	Title=TITLE
+	TitleFontSize=20
+	TitleColorInactive=2130706432
+	TitleColorActive=65280
+	TitleOffX=83
+	TitleOffY=10
+	TitleAlign=1
+	TitleUseBookFont=0
+
+	[Scenario]
+	File=BankRobbery.c4s
+	BaseImage=ScenBRBase.png
+	OverlayImage=ScenBR.png
+	Area=344,348,121,56
+	Title=TITLE
+	TitleFontSize=20
+	TitleColorInactive=2130706432
+	TitleColorActive=16711680
+	TitleOffX=83
+	TitleOffY=-5
+	TitleAlign=1
+	TitleUseBookFont=0
+
+	[Scenario]
+	File=TotemHunt.c4s
+	BaseImage=ScenTHBase.png
+	OverlayImage=ScenTH.png
+	Area=18,417,191,158
+	Title=TITLE
+	TitleFontSize=20
+	TitleColorInactive=2130706432
+	TitleColorActive=16711680
+	TitleOffX=150
+	TitleOffY=80
+	TitleAlign=1
+	TitleUseBookFont=0
+
+	[Scenario]
+	File=GoldRush.c4s
+	BaseImage=ScenGRBase.png
+	OverlayImage=ScenGR.png
+	Area=210,390,131,92
+	Title=TITLE
+	TitleFontSize=20
+	TitleColorInactive=2130706432
+	TitleColorActive=16711680
+	TitleOffX=75
+	TitleOffY=10
+	TitleAlign=1
+	TitleUseBookFont=0
+
+	[Scenario]
+	File=ShootTheSheriff.c4s
+	BaseImage=ScenSTSBase.png
+	OverlayImage=ScenSTS.png
+	Area=330,400,152,84
+	Title=TITLE
+	TitleFontSize=20
+	TitleColorInactive=2130706432
+	TitleColorActive=16711680
+	TitleOffX=80
+	TitleOffY=35
+	TitleAlign=1
+	TitleUseBookFont=0
+
+	[Scenario]
+	File=RedRockBay.c4s
+	BaseImage=ScenNWBase.png
+	OverlayImage=ScenNW.png
+	Area=482,439,148,142
+	Title=TITLE
+	TitleFontSize=20
+	TitleColorInactive=2130706432
+	TitleColorActive=3341050
+	TitleOffX=60
+	TitleOffY=45
+	TitleAlign=1
+	TitleUseBookFont=0

@@ -1,0 +1,1 @@
+Gebäude räumen gefallenen Schnee nicht automatisch weg und schneien ein.

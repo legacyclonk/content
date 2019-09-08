@@ -1,0 +1,5 @@
+TxtResearchs=Erforschen: %s
+TxtNoResearch=Es gibt nichts zu erforschen!
+TxtNoJCLK=Kann nur von Urwaldclonks benutzt werden
+Txtsdeveloped=%s erforscht!
+TxtResearch=Forschen

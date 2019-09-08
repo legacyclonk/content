@@ -1,0 +1,9 @@
+[DefCore]
+id=MGAD
+Version=4,9,8
+Name=Magic Animaldead
+Category=C4D_Magic
+Width=1
+Height=1
+Value=38
+Picture=0,0,64,64

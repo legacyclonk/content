@@ -1,0 +1,1 @@
+Schleudert einen Feuerball in die anvisierte Richtung.

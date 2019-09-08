@@ -1,0 +1,10 @@
+[DefCore]
+id=FRFS
+Version=4,9,8
+Name=FireFist
+Category=C4D_Magic
+Width=1
+Height=1
+Value=21
+Components=ISPH=2;IASH=1
+Picture=0,0,64,64

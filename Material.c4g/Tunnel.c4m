@@ -1,0 +1,7 @@
+[Material]
+Name=Tunnel
+Color=82,50,18,92,66,30,106,72,36
+Shape=2
+Placement=5
+TextureOverlay=Smooth2
+OverlayType=4

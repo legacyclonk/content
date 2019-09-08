@@ -1,0 +1,3 @@
+Kann im Zauberturm Energie aufladen und Zauber ausführen.
+
+Besitzt darüberhinaus die Fähigkeit, Kristalle und Blitze ohne den Umweg eines Zauberturms in Zauberenergie zu verwandeln.

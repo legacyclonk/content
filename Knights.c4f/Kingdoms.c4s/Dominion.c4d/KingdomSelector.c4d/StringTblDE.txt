@@ -1,0 +1,5 @@
+# Menü
+MnuKingdomChoice=Königreichsauswahl
+
+# Nachrichten
+MsgNoKingdoms=Kampf zwecklos: Alle Königreiche weg :(

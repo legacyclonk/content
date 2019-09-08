@@ -1,0 +1,19 @@
+MsgNotEnoughtMoney=Insufficient money for a flag. (%d)
+
+MsgDeath0=The guard cashs for a bandit. Guard +25
+MsgDeath1=The bad guys were decimated. Guard +25
+MsgDeath2=A bandit meets his maker. Guard +25
+MsgDeath3=A criminal bites the dust. Guard +25
+MsgDeath4=Better luck next time, cowboy! Guard +25
+
+MsgDeathChief0=That was a most wanted! Guard +75
+MsgDeathChief1=The guard receives bounty for a gang leader. Guard +75
+
+TxtRecruitBoss=Train a boss
+TxtCancel=Cancel
+OnlyOneBoss=There can by only one boss.
+RecruitBoss=Boss trained.
+NotEnoughMoney=Not enough money.
+TxtRecruitCaptain=Train a captain
+OnlyOneCaptain=There can by only one captain.
+RecruitCaptain=Captain trained.

@@ -1,0 +1,30 @@
+# Menu
+
+MnuIndex=Contents
+MnuHelp=Help
+MnuDecompose=Decompose %s
+MnuExhaust=Empty %s
+MnuDeposit=Deposit the bag
+
+# Context
+
+CtxAlchemy=Alchemy
+
+# Messages
+
+MsgReceived=Received %s
+MsgDeposit=Bag deposited.
+MsgPuton=Bag put on.
+MsgHelpTxt=Every clonk wearing an alchemist's bag can process various items and materials via the context menu, turning them into alchemic ingredients which are stored in the bag from whence they are used up when casting spells or mixing alchemic potions.
+MsgEmpty=The bag is empty.
+MsgAlreadyHasBag=%s is already wearing|an alchemist's bag!
+MsgContainerEmpty=Container is empty!
+
+# Control
+
+CtrlActivateBag=Attach bag
+
+# Description
+
+DescIndex=Shows you the contents of the bag.
+DescDeposit=Puts off your worn alchemy bag.

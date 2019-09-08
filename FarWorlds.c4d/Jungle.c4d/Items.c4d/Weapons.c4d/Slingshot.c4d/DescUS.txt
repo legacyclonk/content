@@ -1,0 +1,1 @@
+To sling away objects. Press 'throw' to spin the sling, 'throw' again to sling the object away. You can select the desired projectile while spinning.

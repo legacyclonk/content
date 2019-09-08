@@ -1,0 +1,14 @@
+[DefCore]
+id=DG69
+Version=4,9,5
+Name=Dialogue
+Category=4194312
+Picture=0,0,16,20
+Width=16
+Height=20
+Offset=-8,-10
+Vertices=1
+Entrance=-8,-10,16,20
+NoGet=1
+NoSell=1
+NoFight=1

@@ -1,0 +1,2 @@
+DE:Schriftrolle
+US:Scroll

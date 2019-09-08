@@ -1,0 +1,2 @@
+DE:Fernzünder
+US:Ignition box

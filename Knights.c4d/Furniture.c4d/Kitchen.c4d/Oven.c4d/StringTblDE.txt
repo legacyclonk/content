@@ -1,0 +1,6 @@
+TxtBake=Backen
+TxtNodoughathand=Kein Teig verfügbar.
+TxtNotenoughwood=Nicht genug Holz!
+TxtCantbakes=%s kann man|nicht backen!
+TxtMorewoodwontfit=Die Brennkammer|ist voll!
+TxtMoredoughwontfit=Das Backrohr|ist voll!

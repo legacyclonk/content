@@ -1,0 +1,11 @@
+MsgOrder=Bestellung aufgeben
+MsgNoMoney=Nicht genug Geld!
+TxtOrdered=Bestellung aufgegeben.|Planwagen kommt.
+
+MsgOrderWeapons=Bestellung: Waffen
+MsgOrderWhisky=Bestellung: Whishy
+MsgOrderAmmo=Bestellung: Munition
+MsgOrderDynamit=Bestellung: Dynamit
+MsgOrderCrew=Bestellung: Verstärkung
+MsgOrderHorse=Bestellung: Pferd
+MsgOrderMaterial=Bestellung: Material

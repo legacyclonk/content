@@ -1,0 +1,13 @@
+[DefCore]
+id=WTWA
+Version=4,9,8
+Name=WoodenTower Attach
+Category=C4D_Structure
+Width=32
+Height=71
+Offset=-17,-35
+Vertices=1
+VertexX=-25
+VertexY=-30
+Picture=0,0,49,71
+Grab=2

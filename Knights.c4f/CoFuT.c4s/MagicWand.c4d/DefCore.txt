@@ -1,0 +1,27 @@
+[DefCore]
+id=MAGW
+Version=4,9,8
+Name=Magic Wand
+Category=C4D_Object|C4D_SelectHomebase
+MaxUserSelect=5
+Timer=100
+TimerCall=ReloadMagic
+Width=4
+Height=16
+Offset=-2,-8
+Vertices=4
+VertexX=-2,-2,2,2
+VertexY=-8,8,-8,8
+VertexFriction=50,50,50,50
+Value=30
+Mass=10
+Components=MAGW=1
+Picture=10,15,50,60
+ContactIncinerate=200
+BlastIncinerate=30
+Collectible=1
+Rotate=1
+ColorByOwner=1
+
+[Physical]
+Magic=40000

@@ -1,0 +1,10 @@
+[DefCore]
+id=WPHT
+Version=4,9,8
+Name=Wipfhunt
+Category=C4D_StaticBack|C4D_Goal
+MaxUserSelect=10
+Width=1
+Height=1
+Value=100
+Picture=0,0,64,64

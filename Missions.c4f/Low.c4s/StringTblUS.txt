@@ -1,0 +1,4 @@
+MsgGo=Where are you?|The statue awaits you outside, on top of the volcano.
+MsgGoalFulfilled=The statue shines|in its full glory again!
+MsgGoalUnfulfilled=Bring all statue parts|to the top of the volcano!
+MsgNoRuntimeJoin=Run time join is not allowed in this scenario!

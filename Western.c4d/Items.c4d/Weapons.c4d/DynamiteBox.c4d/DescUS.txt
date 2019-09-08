@@ -1,0 +1,2 @@
+Containes 5 rolls of dynamite.
+Press 'dig' double to take one out. Can be detonated with an ignition box. The explosive force depends on the remaining number of dynamites in the box.

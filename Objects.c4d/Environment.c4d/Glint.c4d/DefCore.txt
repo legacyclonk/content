@@ -1,0 +1,12 @@
+[DefCore]
+id=EGLN
+Version=4,9,8
+Name=GlintingMaterials
+Category=C4D_StaticBack|C4D_Environment
+MaxUserSelect=10
+Timer=1
+TimerCall=Twinkle
+Width=1
+Height=1
+Value=1
+Picture=0,0,64,64

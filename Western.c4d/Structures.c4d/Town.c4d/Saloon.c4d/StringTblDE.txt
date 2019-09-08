@@ -1,0 +1,4 @@
+Whisky=Whisky bestellen
+NoMoney=Ohne Geld kriegst du hier gar nichts!
+MsgFight=Während einer Schlägerei verkaufe ich nichts!
+StartFight=Schlägerei anzetteln

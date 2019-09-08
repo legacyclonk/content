@@ -1,0 +1,22 @@
+MsgScore=Spielstand
+
+MsgBandits=Banditen
+MsgTown=Städter
+
+MsgBanditsJoin=%s schließt sich den Banditen an.
+MsgCowboysJoin=%s ist Bewohner der Stadt.
+
+MsgGangLost=%s braucht mehr Banditen.
+MsgRelaunchBAND1=Weitere Banditen sind unterwegs zum Versteck! (1 Relaunch verbleibt)
+MsgRelaunchBAND=Weitere Banditen sind unterwegs zum Versteck! (%d Relaunches verbleiben)
+
+MsgCowbLost=%s braucht mehr Clonks zum Verteidigen der Stadt!
+MsgRelaunchCOWB1=Einige Cowboys sind Richtung Stadt aufgebrochen! (1 Relaunch verbleibt)
+MsgRelaunchCOWB=Einige Cowboys sind Richtung Stadt aufgebrochen! (%d Relaunches verbleiben)
+
+MsgEliminate=%s ist keine Gefahr mehr.
+MsgBanditsWin=Die Banditen siegen!
+MsgCowbsWin=Die Stadt und ihre Reichtümer konnten verteidigt werden!
+
+SgnpMines=Zu den Buccaneer's Caves.
+SgnpFort=Zum Fort der Kavallerie.

@@ -1,0 +1,2 @@
+DE:Hunger stillen
+US:Satisfy Hunger

@@ -1,0 +1,16 @@
+[Action]
+Name=Bounce
+Procedure=NONE
+FacetBase=1
+NextAction=Bounce
+Sound=Fire
+Delay=1
+StartCall=Bouncing
+
+[Action]
+Name=Exist
+Procedure=NONE
+FacetBase=1
+NextAction=Exist
+Delay=2
+StartCall=Existing

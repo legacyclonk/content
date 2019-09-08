@@ -1,0 +1,4 @@
+Full=Iglu ist bereits voll!
+TxtNoconstructionplans=Keine Baupläne verfügbar
+TxtProductions=Herstellung: %s
+Production=Produktion

@@ -1,0 +1,10 @@
+[DefCore]
+id=CMFG
+Version=4,9,8
+Name=Tarnen
+Category=C4D_Magic
+Width=1
+Height=1
+Value=22
+Components=IROC=1;IGOL=1
+Picture=0,0,64,64

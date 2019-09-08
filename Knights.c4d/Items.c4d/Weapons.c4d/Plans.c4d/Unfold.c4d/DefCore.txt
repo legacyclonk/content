@@ -1,0 +1,14 @@
+[DefCore]
+id=WPPU
+Version=4,9,8
+Name=WeaponPlansUnfold
+Category=C4D_Object
+Width=200
+Height=200
+Offset=-100,-100
+Vertices=1
+Mass=1
+TopFace=0,0,200,200,0,0
+Picture=0,0,200,200
+StretchGrowth=1
+IncompleteActivity=1

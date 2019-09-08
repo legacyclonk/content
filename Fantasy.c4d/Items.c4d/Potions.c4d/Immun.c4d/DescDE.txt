@@ -1,0 +1,1 @@
+Macht den Clonk temporär immun gegen Flüche und andere negative Zaubereffekte. Bereits bestehende Flüche werden bei Benutzung geheilt.

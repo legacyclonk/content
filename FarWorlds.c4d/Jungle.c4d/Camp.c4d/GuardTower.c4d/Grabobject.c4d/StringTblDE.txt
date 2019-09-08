@@ -1,0 +1,2 @@
+TxtLeftgate=Linkes Tor
+TxtRightgate=Rechtes Tor

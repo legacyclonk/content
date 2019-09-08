@@ -1,0 +1,1 @@
+Snow balls can be dug out of snow by pressing 'dig' again while digging.

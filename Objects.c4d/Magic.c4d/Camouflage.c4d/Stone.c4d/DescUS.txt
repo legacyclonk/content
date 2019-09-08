@@ -1,0 +1,1 @@
+Click double-dig to exit while the rock is outside.

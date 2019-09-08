@@ -1,0 +1,2 @@
+DE:Lager
+US:Storage

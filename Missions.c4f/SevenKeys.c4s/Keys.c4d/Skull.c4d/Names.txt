@@ -1,0 +1,2 @@
+DE:Schädel
+US:Skull

@@ -1,0 +1,5 @@
+MsgPart1=Nice!|You've found the first part of the body.|Now there are new clonks for sale.|These can help you if you get stuck.|Now watch for the other part of the body.
+MsgPart2=Fine!|You've got the other part of the body.|Now you can construct elevators.|Now look for the right arm.
+MsgPart3=Impressive!|The right arm is on its place again.|Now look for the broken left arm.|Then proceed by building a workshop.|You can repair the arm inside.
+MsgPart4=Amazing!|The left arm is now where it used to be.|Now you are able to buy and build balloons.|Search for one piece of the head.
+MsgPart5=Excellent!|Just one part is missing.|Now you can buy flags and a blimp.|You are now able to settle in the high parts of the landscape.|Look for the last part.

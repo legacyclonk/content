@@ -1,0 +1,2 @@
+TeamLeft=Camp
+TeamRight=Castle Dunkelfels

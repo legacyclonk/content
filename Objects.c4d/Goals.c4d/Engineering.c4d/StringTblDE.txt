@@ -1,0 +1,3 @@
+done=Du hast alle baubaren Sachen fertiggestellt!
+todo=Folgende Sachen sind noch zu bauen:
+MsgGoalTodo=Es muss noch 1 %s gebaut werden.

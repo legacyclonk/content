@@ -1,0 +1,3 @@
+The alchemist's bag can be fastened with 'double dig' and then be worn invisibly by any clonk. 
+
+Every clonk wearing an alchemist's bag can process various items and materials via the context menu, turning them into alchemic ingredients which are stored in the bag from whence they are used up when casting spells or mixing alchemic potions.

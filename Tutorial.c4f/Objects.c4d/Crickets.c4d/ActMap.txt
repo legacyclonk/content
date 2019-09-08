@@ -1,0 +1,6 @@
+[Action]
+Name=Crickets
+Length=1
+Delay=25
+NextAction=Crickets
+StartCall=Crickets

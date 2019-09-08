@@ -1,0 +1,15 @@
+[Action]
+Name=Left
+Procedure=NONE
+Length=1
+Delay=10
+FacetBase=1
+NextAction=Left
+
+[Action]
+Name=Right
+Procedure=NONE
+Length=1
+Delay=10
+FacetBase=1
+NextAction=Right

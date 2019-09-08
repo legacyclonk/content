@@ -1,0 +1,12 @@
+[DefCore]
+id=LAFL
+Version=4,9,8
+Name=Lavafall
+Category=C4D_StaticBack
+Width=1
+Height=1
+Vertices=1
+VertexY=1
+VertexFriction=100
+Picture=0,0,50,50
+Float=1

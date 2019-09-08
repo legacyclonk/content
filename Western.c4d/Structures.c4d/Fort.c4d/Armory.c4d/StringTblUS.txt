@@ -1,0 +1,15 @@
+TxtNoPlans=No construction plans
+TxtProduction=Produce
+ContextProduction=Production
+
+Captain=captain
+Boss=boss
+TxtRecruit=Train a %s
+TxtCancel=Cancel
+TxtOnlyOne=There can be only one %s.
+TxtNotEnoughMoney=Not enough money!
+TxtRecruited=%s trained.
+TxtRecruitCaptain=Train a captain
+TxtRecruitBoss=Train a boss
+DescCaptain=The Captain is the leader of the fort.||He hits his enemys more precise at melee and ranged combat and causes thereof more damage.
+DescBoss=The Boss is the leader of his gang.||He hits his enemys more precise at melee and ranged combat and causes thereof more damage.

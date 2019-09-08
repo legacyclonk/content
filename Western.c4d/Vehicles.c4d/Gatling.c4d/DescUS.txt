@@ -1,0 +1,3 @@
+The gatling gun is probably the most powerful firearm in the Wild West. 
+
+The magazine can be loaded into the gun by clicking 'throw', by clicking again the barrage will start, until the gun is empty, the player releases it, or clicks 'throw' again.

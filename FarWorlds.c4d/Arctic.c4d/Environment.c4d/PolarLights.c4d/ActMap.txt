@@ -1,0 +1,6 @@
+[Action]
+Name=NorthernLights
+Length=1
+Delay=50
+NextAction=NorthernLights
+StartCall=NorthernLights

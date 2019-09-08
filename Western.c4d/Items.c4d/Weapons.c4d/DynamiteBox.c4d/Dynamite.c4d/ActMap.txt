@@ -1,0 +1,9 @@
+[Action]
+Name=Fuse
+Procedure=NONE
+NextAction=HOLD
+Length=1
+Delay=1
+FacetBase=1
+Sound=Fusing
+PhaseCall=Effects

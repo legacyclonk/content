@@ -1,0 +1,4 @@
+MsgRaisePipe=Raise pipe
+MsgLowerPipe=Lower pipe
+MsgViewWater=View water content
+MsgTakeWater=Fill/empty object

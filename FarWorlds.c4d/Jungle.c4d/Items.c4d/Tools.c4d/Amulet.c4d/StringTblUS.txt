@@ -1,0 +1,3 @@
+TxtSelect=Select function
+TxtUpgrade=Function:
+UpgradeError=A specific object|is needed for an upgrade!

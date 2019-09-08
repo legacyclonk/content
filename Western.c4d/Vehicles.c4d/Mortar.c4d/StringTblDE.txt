@@ -1,0 +1,3 @@
+TxtFire=Feuern
+TxtPossibleContents=Nur %s oder %s!
+TxtFull=Bereits %dx %s geladen!

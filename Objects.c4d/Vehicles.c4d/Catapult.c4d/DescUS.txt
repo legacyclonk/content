@@ -1,0 +1,1 @@
+Medium range weapon. Doesn't require gunpowder, but offers only fairly low accuracy. Adjust the fire power using the 'up' and 'down' keys.

@@ -1,0 +1,4 @@
+TxtKneelbeforetheSpirit=Kneel before the Spirit of Snow, Lord of the Icy Plains!
+TxtProveyoursubmissiont=Prove your submission to me!
+TxtBuildformealargesnow=Build for me a large snow statue on this island,|a small one on the next island to the West,|and a small one on the next island to the East.
+TxtYouhaveprovenworthyo=You have proven worthy of the snow|underneath your feet.

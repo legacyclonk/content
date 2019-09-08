@@ -1,0 +1,5 @@
+Ein forgeschrittener Zauberturm, der auch als Heimatbasis dienen kann.
+
+Mit 'Links' und 'Rechts' kann in die jeweilige Richtung gezaubert werden, wenn genug Zauberenergie vorhanden ist.
+
+Im Zaubermenü findet sich außerdem die Option für den Aufstieg zur Plattform.

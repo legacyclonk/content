@@ -1,0 +1,14 @@
+TxtNotEnoughIngredients=Nicht genug|alchemische Zutaten!|Es fehlen|%s.
+TxtNotEnoughEnergy=Nicht genug Zauberenergie!
+TxtNoSpells=Keine Zaubersprüche verfügbar
+TxtDoMagic=Zaubern: %s
+TxtConjure=Zaubern
+TxtAimspellsleft=Nach links zaubern
+TxtAimspellsright=Nach rechts zaubern
+TxtContinuedevelopement=Forschung an %s fortsetzen
+TxtResearch=Forschen
+TxtResearchs=Erforschen: %s
+Txtsdeveloped=%s erforscht!
+TxtCancelresearch=Forschung abbrechen
+TxtAlreadyDeveloped=%s ist bereits erforscht!
+TxtNothingLeft=Keine Zauber mehr zu erforschen!

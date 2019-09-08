@@ -1,0 +1,9 @@
+[DefCore]
+id=FRCW
+Version=4,9,8
+Name=ForceFieldWall
+Category=C4D_StaticBack
+Width=8
+Height=140
+Offset=-4,-70
+Picture=0,0,8,140

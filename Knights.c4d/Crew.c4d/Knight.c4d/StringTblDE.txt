@@ -1,0 +1,25 @@
+# Context Descs
+CtxAttackDesc=Angreifen
+CtxDefendDesc=Verteidigen
+CtxGuardDesc=Bewachen
+CtxArmDesc=Bewaffnen
+CtxUnbuckleDesc=Ablegen
+CtxNoItemsToUnbuckle=Keine Gegenstände angelegt
+CtxUnbuckleItem=%s ablegen
+CtxPrayDesc=Beten
+
+# Control Descs
+CtrlInventoryDesc=Inventar auswählen
+CtrlActivateDesc=Ablegen
+
+# Messages
+MsgWatch=%d Uhr und alles ist %s.
+MsgWatchStateWell=gut
+MsgWatchStateBad=arrrrrgghhhh
+MsgNoEnemy=Kein Angriffsziel!
+MsgNoArrow=Kein Pfeil.
+MsgNoSpear=Kein Speer.
+MsgNoWeapons=Keine Waffen.
+MsgArmed=Bewaffnet.
+MsgEnemyDeath=%s erledigt.
+MsgEnemyHostChanged=%s gehört|jetzt zu uns.

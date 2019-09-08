@@ -1,0 +1,7 @@
+[Action]
+Name=Hanging
+Procedure=FLOAT
+Length=4
+Delay=0
+Facet=0,0,14,38
+NextAction=Hold

@@ -1,0 +1,1 @@
+Sendet eine Frostwelle aus, die Gegner wegschleudert und einfriert.

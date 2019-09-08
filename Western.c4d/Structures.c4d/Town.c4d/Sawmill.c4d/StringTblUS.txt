@@ -1,0 +1,2 @@
+TxtNomoresuitabletrees=No more suitable trees!
+TxtProducewood=Produce wood

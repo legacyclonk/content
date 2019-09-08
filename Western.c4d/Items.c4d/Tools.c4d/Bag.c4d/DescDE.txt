@@ -1,0 +1,3 @@
+Der Alchemiebeutel kann durch Doppelklick auf Graben angelegt werden und wird dann unsichtbar getragen. 
+
+Ein jeder Clonk, der einen Alchemiebeutel trägt, kann über das Kontextmenü bestimmte Gegenstände und Materialien zu alchemischen Zutaten verarbeiten, die dann im Beutel verstaut werden, von wo aus sie beim Sprechen von Zaubern oder der Zubereitung alchemischer Tränke verwendet werden.

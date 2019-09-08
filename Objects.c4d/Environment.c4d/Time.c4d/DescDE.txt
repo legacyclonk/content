@@ -1,0 +1,1 @@
+Sorgt für Tag- und Nachtwechsel. Der Plazierungsfaktor bestimmt die Geschwindigkeit.

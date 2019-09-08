@@ -1,0 +1,2 @@
+TxtPlacementFailed=Konnte nicht platzieren! Nicht genug Erde!
+TxtAnnounce=Zu Anfang etwas leichtes:|Finde einen Stein, in sein eigenes Material eingebettet.

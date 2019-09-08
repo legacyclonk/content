@@ -1,0 +1,1 @@
+The torpedo cannon rotates very slow, but shoots its torpedos with infinite range and devasting power towards the enemy.

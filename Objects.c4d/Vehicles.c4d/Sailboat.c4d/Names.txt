@@ -1,0 +1,2 @@
+DE:Segelboot
+US:Sailboat

@@ -1,0 +1,3 @@
+NoAccount=Du hast kein Gemeinschaftskonto.
+AccountWith=Du hast ein Gemeinschaftskonto mit:
+And=und

@@ -1,0 +1,1 @@
+Transforms the magician temporarily into a rock. This is an perfect hiding place. Exit the rock by clicking double-dig. This will work, however, only if the rock is outside.

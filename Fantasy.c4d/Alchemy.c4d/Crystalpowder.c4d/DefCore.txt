@@ -1,0 +1,8 @@
+[DefCore]
+id=ICRS
+Version=4,9,8
+Name=CrystalPowder
+Category=C4D_StaticBack
+Width=1
+Height=1
+Picture=0,0,35,35

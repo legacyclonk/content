@@ -1,0 +1,9 @@
+[Action]
+Name=Warp
+Procedure=FLOAT
+Length=16
+Delay=4
+Facet=0,0,40,40
+FacetBase=0
+NextAction=Warp
+EndCall=Shrink

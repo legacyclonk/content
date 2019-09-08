@@ -1,0 +1,1 @@
+Schneebälle können aus Schnee gegraben werden, in dem man während des Grabens wiederholt auf 'Graben' drückt.

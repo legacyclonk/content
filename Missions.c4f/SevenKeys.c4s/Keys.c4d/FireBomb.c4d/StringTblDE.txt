@@ -1,0 +1,2 @@
+TxtPlacementFailed=Konnte nicht platzieren! Nicht genug Erde!
+TxtAnnounce=Aufgewärmt?|Such eine Brandbombe, so heiß, dass sie jeden anzündet, der sie berührt!

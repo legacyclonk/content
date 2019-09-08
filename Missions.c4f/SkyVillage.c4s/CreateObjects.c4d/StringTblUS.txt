@@ -1,0 +1,2 @@
+MsgGoalFulfilled=All structures to be created have been built!
+MsgGoalTodo=Still to build: %dx %s

@@ -1,0 +1,22 @@
+/* Islands Map */
+
+overlay Sand { sub=0; algo=border; a=2; b=4; mat=Sand; tex=Smooth; y=5; hgt=60; turbulence=40;};
+overlay Mat { algo=bozo; a=20; turbulence=600; zoomX=0; zoomY=-99; };
+overlay Earth { mat=Earth; tex=Rough; turbulence=200; algo=bozo; a=8; zoomX=0; zoomY=-99; };
+
+map Islands {
+  overlay { algo=solid; y=54; mat=Water; tex=Smooth; sub=0; };
+  overlay { algo=sin; ox=-10; wdt=120; oy=30; y=20; hgt=80;
+            mat=Earth; tex=Smooth; loosebounds=1; turbulence=10;
+            zoomX=52; zoomY=0;
+    Mat { mat=Oil; tex=Smooth; a=20; };
+    Mat { mat=Coal; tex=Swirl; a=16; };
+    Mat { mat=Ore; tex=Rough; a=18; };
+    Mat { mat=Granite; tex=Rough; a=12; };
+    Mat { mat=Rock; tex=Rough; a=12; };
+    Mat { mat=Gold; tex=Rough; a=20; };
+    Earth { tex=Rough; };
+    Earth { tex=Ridge; };
+    Sand { overlay { mat=Sand; tex=Smooth2; algo=bozo;  }; };
+  };
+};

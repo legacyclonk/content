@@ -1,0 +1,8 @@
+[Action]
+Name=GetBuild
+Procedure=NONE
+Length=7
+Delay=0
+Facet=0,0,59,62
+NextAction=GetBuild
+StartCall=CheckForParts

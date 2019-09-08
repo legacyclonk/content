@@ -1,0 +1,21 @@
+[DefCore]
+id=BSPC
+Version=4,9,8
+Name=Burned Spear Rack
+Category=C4D_Structure
+MaxUserSelect=10
+Width=51
+Height=25
+Offset=-25,-12
+Vertices=2
+VertexX=-25,25
+VertexY=12,12
+VertexFriction=100,100
+Value=2
+Mass=20
+Components=WOOD=3
+ContactIncinerate=2
+BlastIncinerate=5
+Construction=1
+ConstructTo=SPRC
+Grab=1

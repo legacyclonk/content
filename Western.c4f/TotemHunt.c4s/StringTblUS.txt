@@ -1,0 +1,14 @@
+Score=Score
+TeamWolves=Tribe Of The Wolves
+TeamTrappers=Trappers
+TeamBears=Tribe Of The Bears
+
+MsgWolfsJoin=%s joins the Tribe Of The Wolves.
+MsgBearsJoin=%s fights for Tribe Of The Bears.
+MsgTrapperJoin=%s supports the Trappers.
+
+MsgRelaunch=%s needs a relaunch.
+
+Msg1Lost=Tribe Of The Wolves is ruined.
+Msg2Lost=The Trappers have lost.
+Msg3Lost=Tribe Of The Bears is defeated.

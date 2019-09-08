@@ -1,0 +1,1 @@
+Ermöglicht es dem Host, die Spielziel-Einstellungen dieser Runde zu ändern. Änderungen sind jedoch nur zu Beginn der Runde möglich.

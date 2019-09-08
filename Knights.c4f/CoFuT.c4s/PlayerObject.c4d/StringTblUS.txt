@@ -1,0 +1,1 @@
+MsgRelaunchTime=%d:%02d|until relaunch!

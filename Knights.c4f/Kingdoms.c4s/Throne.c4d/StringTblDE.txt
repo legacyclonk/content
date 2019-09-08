@@ -1,0 +1,13 @@
+# Bedienung
+CtrlRotateThrone=Thron drehen
+CtrlRevive=Wiederbeleben
+CtrlAbort=Abbrechen/Verlassen
+
+# Menü
+MnuRevive=Wiederbelebung
+MnuReviveInfo=Erweckt den Verbündeten wieder zum Leben
+
+# Nachrichten
+MsgReviveProcess=Fortschritt der Wiederbelebung
+MsgNothingToRevive=Es gibt keine toten Verbündeten
+MsgNoFlag=Zum Wiederbeleben muss|eine Flagge geopfert werden.

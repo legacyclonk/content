@@ -1,0 +1,16 @@
+MsgNotEnoughtMoney=Nicht genügend Geld für eine Flagge. (%d)
+
+MsgCoals1=Coalstown kassiert 25 Clunker.
+MsgCoals2=Bei Coalstown klingelt die Kasse.
+MsgCoals3=Coalstown erhält eine Prämie.
+MsgCoals4=Coalstown ist nun um 25 Clunker reicher.
+MsgCoals5=25 Clunker wurden Coalstowns Konto gutgeschrieben.
+
+MsgFort1=Fortville kassiert 25 Clunker.
+MsgFort2=Bei Fortville klingelt die Kasse.
+MsgFort3=Fortville erhält eine Prämie.
+MsgFort4=Fortville ist nun um 25 Clunker reicher.
+MsgFort5=25 Clunker wurden Fortvilles Konto gutgeschrieben.
+
+CtxRelaunch=Relaunch
+MsgNoMoreRelaunches=Keine Relaunches mehr übrig.

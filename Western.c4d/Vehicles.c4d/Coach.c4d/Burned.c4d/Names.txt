@@ -1,0 +1,2 @@
+DE:Verbrannter Planwagen
+US:Burned coach

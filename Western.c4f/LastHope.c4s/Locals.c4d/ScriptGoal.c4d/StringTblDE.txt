@@ -1,0 +1,2 @@
+MsgGoalFulfilled=Du hast es geschaft, das Dorf ist wieder aufgebaut.
+MsgGoalUnfulfilled=Du hast %d/%d Indianern und %d/%d Mystikpunkten.

@@ -1,0 +1,17 @@
+[DefCore]
+id=CFLM
+Version=4,9,8
+Name=Kalte Flamme
+Category=C4D_Vehicle
+Timer=24
+TimerCall=ChkIncinerate
+Width=16
+Height=18
+Offset=-8,-9
+Vertices=1
+VertexY=6
+VertexFriction=100
+Mass=1
+Picture=0,0,16,18
+Float=8
+StretchGrowth=1

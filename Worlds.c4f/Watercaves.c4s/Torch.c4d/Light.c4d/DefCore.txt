@@ -1,0 +1,8 @@
+[DefCore]
+id=LI9Z
+Version=4,9,8
+Name=Licht
+Category=C4D_StaticBack
+Width=1
+Height=1
+Picture=0,0,1,1

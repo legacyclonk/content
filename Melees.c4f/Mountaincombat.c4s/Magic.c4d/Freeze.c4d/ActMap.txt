@@ -1,0 +1,11 @@
+[Action]
+Name=Ticking
+Delay=38
+Length=15
+FacetBase=1
+NextAction=Ticking
+EndCall=Remove
+
+
+
+

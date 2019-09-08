@@ -1,0 +1,8 @@
+[DefCore]
+id=SBBR
+Version=4,9,8
+Name=SymbolIndian
+Category=C4D_StaticBack
+Width=27
+Height=40
+Picture=0,0,27,40

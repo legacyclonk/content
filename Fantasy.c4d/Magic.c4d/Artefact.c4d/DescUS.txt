@@ -1,0 +1,1 @@
+With this powerful spell you can store spells in objects. The spells can be activated in different ways.

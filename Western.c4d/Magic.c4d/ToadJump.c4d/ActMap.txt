@@ -1,0 +1,6 @@
+[Action]
+Name=Jump
+Delay=1
+Length=1
+FacetBase=1
+EndCall=DoJump

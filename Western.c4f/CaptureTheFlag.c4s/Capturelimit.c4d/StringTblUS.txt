@@ -1,0 +1,8 @@
+MsgOnlyHost=Only the host (%s) can change the settings.
+MsgTooLate=No further changes allowed.
+MsgFrags=Target: %d flags
+MsgOK=Done
+MsgHostChangedSettings=The host has changed the capture target to %d.
+DescAddFrag=Increase the capture target.
+DescRemFrag=Decrease the capture target.
+DescOk=Accept changes.

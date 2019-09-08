@@ -1,0 +1,102 @@
+mawic    + stringtables for all objects
+matthes  + png graphics (don't underestimate this!)
+newton   * all scripts renewed
+newton   * resorted objects
+newton   * piranha includes FISH
+newton   * piranha's id is now PIRA, dead piranha is DPIR
+newton   * JCLK includes CLNK
+newton   - no hardcode for throwing a spear anymore, a spear is identified by IsSpear
+newton   - the bird is no longer overloaded (one can't eat a dead bird anymore, cook first!)
+newton   - the bush is no longer overloaded
+newton   * junglesounds renamed to jungleflair, dies bushes with dark green
+newton   - the snake is no longer overloaded (dunno why it was anyway)
+newton   + new object: mallet; copied from arctic.c4d
+newton   + new object: amulet; one can upgrade it to the following:
+newton   + new object: amulet of the scholar; one can research with it like in the research lab
+newton   + new object: amulet of the shaman; one can cast spells with it, gains slowly magic energy
+newton   + new object: amulet of the athlete; the physical talents are enhanced
+newton   * a jungle clonk can carry 3 items
+newton   * the cauldron can be build out of stones instead of metal
+newton   * piranha is not collectible anymore; attacks only while swimming
+newton   + new object: palisades; adapted from knights.c4d, uses a simplified version of castlepart..
+newton   + new object: guard tower; like in knights.c4d but has an entrance on the top, no roof
+newton   + jungle clonk is able to split trees into its components (grab->double dig)
+newton   * value of spear is now 10 clunker
+newton   + new object: slingshot, with it, one can throw objects more far away
+newton   + new object: blowtube, handle it like a bow
+newton   * jungleclonk is able to carry 20 arrows
+newton   + new objects: arrowpack, arrow and the same with poison
+newton   * building of poison arrows or slingshot needs a snake (living or dead ;)
+newton   ! one can build with mallet in front of a tree
+newton   ! one can eat foodstuff in front of a tree
+newton   ! blowtube doesn't shoot like an uzi
+newton   * blowtube shoots a bit wider
+newton   * amulet of the scholar shows all researchable objects in one menu (not splitted in vehicles, items and structures)
+newton   * one can only research jungleobjects with the amulet of the scholar
+newton   * research is very fast (~30sec)
+newton   + a small techtree for some researchable objects: blowtube->arrowpack->poison arrowpack; guard tower->palisade
+newton   + a small effect for the meditate action (blue sparks) of JCLK
+newton   + the menu selection in the menu of the amulet of the shaman will be selected if opened next time (cast quicker)
+newton   + new object: amulet of the poisoner; keeps the wearer from being poisoned
+matthes  + sound for sling spin
+newton   + JCLK has a magic action now
+newton   * AMMA triggers magic action in JCLK when casting a spell
+newton   * Upgrading from AMUL triggers magic action in JCLK 
+matthes  * new title.png
+matthes  * renamed the amulets to more simple names
+newton   * jungleclonk gets as much wood as through a sawmill while splitting the tree into its components
+newton   ! cauldron now buildable
+newton   + jungleclonk is able to split trees into its components without grabbing it (just stop in front of it an hit dig twice)
+newton   * reduced the components of all constructable objects to two
+newton   ! boni of amulets are not cumulative 
+guenther ! correct error messages if no material for construction is aviable
+guenther * one can't build without material
+guenther + split trees automatically in its components while needing wood as building material
+newton   ! one could shot while reloading
+newton   ! magic amulet was invisible
+newton   ! clonk still held the spear after he put it down
+newton   * player's viewport follows arrows shot with BLTB
+newton   * chop2 is abortable per control down single
+newton   ! getresearchlink works properly now
+newton   ! jungleclonk won't get invisible when pressing up or down while reloading blowtube
+newton   ! the spear will be displayed when the clonk is leaving a structure and has it in the first pos of his inventory
+newton   * jungleclonk max. magic energy is 67; AMMA gains magic energy a bit faster
+newton   ! AMPO now operant after the upgrade from AMUL
+newton   * PALS adjust its position first with palisades on the same level 
+newton   ! fixed solidmask of guard tower
+newton   ! CLD1 works properly now
+newton   ! DPIR cookable
+newton   * one can change the dir quickly while using the sling (control left or right), shots a bit quicker
+newton   * JCLK can only carry one spear at once
+newton   ! removed log messages in ARW2
+newton   ! there is no way for JCLK to carry more than 3 objects (except arrows)
+newton   * JCLK splits the trees now instead of chopping them down
+newton   * arrows are a bit heavier
+newton   * WGTW is not affected by gravity
+newton   * WGTW Battlements adjusts to PALS
+newton   + BLTB works now with mouse
+newton   * AMPO reduces damage (1/4)
+newton   + new spell: Animaldead - kills nearby animals
+newton   + new spell: Plague - Poisons nearby clonks
+newton   + new spell: Flint - summons a flint
+newton   * PIRA is not so overkill anymore
+newton   ! JCLK doesn't slide away on bevel surfaces
+newton   * JCLK can carry 4 objects now
+guenther ! Jungleclonk keeps his mallet if inventarspace is void
+guenther ! respect CNMT
+newton   ! JCLK stops when selecting what to build
+newton   ! one can chop a tree per mousecontrol now
+matthes  ! JCLK doesn't tumble forever if losing ScaleVine action on a vine
+newton   ! Clonks won't chop trees, disconnect lines etc. when eating in front of a tree/structure
+newton   ! JCLK calls ControlDigDouble in the handled vehicle, calls ContainedDigDouble in structures
+
+newton   - cleared material.c4g to the necessary
+matthes  + new sky
+newton   + new landscape, new starting conditions
+newton   + foreground vegetation
+matthes  + vines for scaling in difficult terrain
+newton   + two cauldrons for instant cooking
+newton   * adjusted cost for spells
+newton   * more snakes!
+newton   * enhanced the landscape a bit
+newton   * foreground vegetation replaced with a script solution [Woelfle]

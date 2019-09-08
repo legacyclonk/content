@@ -1,0 +1,13 @@
+[DefCore]
+id=SGNP
+Version=4,9,8
+Name=Signpost
+Category=C4D_Structure
+Width=19
+Height=21
+Offset=-10,-10
+Value=10
+Mass=20
+Components=WOOD=3
+Picture=0,0,19,21
+Grab=1

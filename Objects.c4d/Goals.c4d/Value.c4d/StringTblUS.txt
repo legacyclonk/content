@@ -1,0 +1,2 @@
+MsgGoalFulfilled=%d score points reached!
+MsgGoalUnfulfilled=%d score points of %d reached.

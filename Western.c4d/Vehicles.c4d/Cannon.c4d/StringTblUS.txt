@@ -1,0 +1,7 @@
+TxtAimup=Aim: up
+TxtAimdown=Aim: down
+TxtFire=Fire
+TxtResetview=Reset view
+
+TxtPossibleContents=Only %s or %s!
+TxtFull=%dx %s already loaded!

@@ -1,0 +1,20 @@
+MsgNotEnoughtMoney=Nicht genügend Geld für eine Flagge. (%d)
+
+MsgDeath0=Die Garde kassiert das Kopfgeld für einen Banditen. Garde +25
+MsgDeath1=Ein Schurke weniger. Garde +25
+MsgDeath2=Ein Bandit segnet das Zeitliche. Garde +25
+MsgDeath3=Ein übler Zeitgenosse weniger, und die Kasse der Garde klingelt. Garde +25
+MsgDeath4=Dieser Bandit hatte kein Glück! Garde +25
+
+MsgDeathChief0=Das war ein gesuchter Bandenführer! Garde +75
+MsgDeathChief1=Dieser Verbrecher gehörte zu den Meistgesuchten! Garde +75
+
+TxtRecruitBoss=Boss ausbilden
+TxtCancel=Abbrechen
+OnlyOneBoss=Er kann nur einen Boss geben.
+RecruitBoss=Boss ausgebildet.
+NotEnoughMoney=Nicht genug Geld.
+TxtRecruitCaptain=Captain ausbilden
+OnlyOneCaptain=Er kann nur einen Captain geben.
+RecruitCaptain=Captain ausgebildet.
+NotEnoughMoney=Nicht genug Geld.

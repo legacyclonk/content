@@ -1,0 +1,2 @@
+DE:Verbrannter Fahrstuhl
+US:Burned elevator

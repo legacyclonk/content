@@ -1,0 +1,6 @@
+# Nachrichten
+MsgContainerFull=Holzbehälter|ist voll.
+MsgContainerEmpty=Holzbehälter|ist leer.
+
+# Steuerung
+CtrlTake=Holz nehmen

@@ -1,0 +1,2 @@
+TxtDesc=Der Spieler, der als erster %d Gegner erlegt, gewinnt.
+TxtPlr=Spieler %s führt mit %d Treffern.

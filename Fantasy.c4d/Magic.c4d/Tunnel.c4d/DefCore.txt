@@ -1,0 +1,11 @@
+[DefCore]
+id=MTNL
+Version=4,9,8
+Name=MagicTunnel
+Category=C4D_StaticBack|C4D_Magic
+MaxUserSelect=1
+Width=1
+Height=1
+Value=20
+Components=IGOL=2;ILOA=1
+Picture=0,0,64,64

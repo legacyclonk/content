@@ -1,0 +1,3 @@
+TxtUnWear=Abnehmen
+TxtMagic=Zaubern
+MnuDecompose=Zerkleinern

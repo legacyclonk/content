@@ -1,0 +1,51 @@
+MnuNoSpells=Keine Zaubersprüche verfügbar
+MnuEnchant=Zauber wählen
+TxtNotEnoughIngredients=Nicht genug|alchemische Zutaten!|Es fehlen|%s.
+TxtNotEnoughEnergy=Nicht genug Zauberenergie!
+MsgSpellSet=%s mit|<i>%s</i> belegt!
+
+MsgNoObject=Kein geeigenter Gegenstand vorhanden!
+
+#ChangeMenu
+MsgTitle=Artefakt:
+MsgAnalyse=Analysieren
+MsgLoad=Aufladen
+MsgUnload=Entladen
+MsgModifiy=Modifizieren
+MsgHide=Tarnen
+MsgStack=Stapeln
+
+MsgAnalysing=Zauber: %s|Ladungen: %d|Aktivieren: %s|Ziel: %s
+MsgAnalysingHidden=Getarntes Artefakt!
+
+#ActivationMenu
+MsgActTitle=Auslösen durch:
+MsgHit=Erschütterung
+MsgStill=Stillstand
+MsgCollect=Einsammeln
+MsgDamage=Schaden
+MsgBurn=Feuer
+MsgEnemy=Feindnähe
+MsgEat=Essen
+MsgDrink=Trinken
+MsgEnergy=Energie
+MsgDelay=Verzögerung
+MsgNo=Keine
+MsgCombo=Komboobjekt
+
+#TargetMenu
+MsgTarTitle=Ziel:
+MsgAlly=Verbündete
+MsgRandom=Zufall
+MsgObj=Objekt
+MsgTarEnemy=Gegner
+
+#Arrows
+MnuArrowLeft=Links
+MnuArrowLeftDiag=Schräg links
+MnuArrowStraight=Senkrecht
+MnuArrowRightDiag=Schräg rechts
+MnuArrowRight=Rechts
+MnuArrowLeftDown=Unten links
+MnuArrowDown=Nach unten
+MnuArrowRigthDown=Unten rechts

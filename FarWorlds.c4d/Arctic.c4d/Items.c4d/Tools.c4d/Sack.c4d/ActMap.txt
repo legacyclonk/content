@@ -1,0 +1,12 @@
+[Action]
+Name=Be
+FacetBase=1
+NextAction=Hold
+InLiquidAction=Change
+
+[Action]
+Name=Change
+FacetBase=1
+Delay=1
+NextAction=Idle
+StartCall=Entrance

@@ -1,0 +1,5 @@
+Saddle for seahorses.
+
+Double click 'dig' to put on.
+
+With the saddle bag, the horse can carry up to five objects.

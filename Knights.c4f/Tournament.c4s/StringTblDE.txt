@@ -1,0 +1,7 @@
+Death=%s ist gestorben und verbraucht seinen Relaunch.
+DeathKilled=%s wurde von %s getötet und verbraucht seinen Relaunch.
+DeathPermanent=%s ist gestorben und hat keinen Relaunch mehr.
+DeathPermanentKilled=%s wurde von %s getötet und hat keinen Relaunch mehr.
+
+TeamLeft=Hörx
+TeamRight=Mankel

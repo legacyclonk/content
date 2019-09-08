@@ -1,0 +1,2 @@
+DE:Energieleitung
+US:Power line

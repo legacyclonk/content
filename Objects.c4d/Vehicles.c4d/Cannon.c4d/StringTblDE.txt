@@ -1,0 +1,4 @@
+TxtAimup=Zielen: auf
+TxtAimdown=Zielen: ab
+TxtFire=Feuern
+TxtResetview=Sicht zurücksetzen

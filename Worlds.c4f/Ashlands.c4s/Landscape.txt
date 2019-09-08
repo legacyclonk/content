@@ -1,0 +1,27 @@
+overlay mat { algo=rndchecker; zoomX=-35; zoomY=-35; a=10; turbulence=200; loosebounds=1; };
+overlay gold { mat=Gold; algo=rndchecker; loosebounds=1; turbulence=500; zoomX=-30; zoomY=-30; tex=Rough; a=10; };
+
+map Ashworld
+  {
+  overlay { mat=Water; sub=0; x=-50; loosebounds=1; wdt=200; tex=Liquid; y=65; };
+  //Boden :D
+  overlay
+    {
+    mat=Earth; tex=Ridge; algo=sin; zoomX=85; zoomY=80; oy=10; ox=25; x=-50; wdt=200; turbulence=200; loosebounds=1;
+    mat { mat=Earth; tex=Smooth2; }; 
+    mat { mat=Earth; tex=Rough; };
+    mat { mat=Earth; tex=Smooth; };
+    mat { mat=Coal; tex=Swirl; turbulence=1500; y=5; zoomX=20; zoomY=5; a=6; };
+    mat { mat=Sulphur; turbulence=1200; tex=Swirl; a=14; };
+    mat { mat=Ore; tex=Ridge; y=20; a=12; zoomX=-50; zoomY=-50; mat { mat=Ore; tex=Rough; a=8; zoomX=-30; zoomY=-20; }; };
+    mat { mat=Rock; zoomX=-20; a=12; zoomY=-20; tex=Rock; mat { mat=Rock; tex=Ridge; gold; a=12; }; gold; };
+    mat { mat=Granite; a=14; tex=Rock; mat { mat=Rock; gold; tex=Ridge; a=8; }; gold; };
+    mat { mat=Crystal; turbulence=1400; tex=Flare; a=20; };
+    mat { mat=Tunnel; tex=Smooth; zoomX=-20; zoomY=-20; y=45; a=13; overlay { mat=Oil; algo=solid; tex=Liquid; loosebounds=1; }; };
+    mat { mat=Gold; tex=Rough; zoomX=15; zoomY=12; a=12; overlay { mat=Granite; tex=Rough; turbulence=500; algo=border; a=1; b=1; overlay { mat=Earth; algo=bozo; tex=Smooth; }; }; };
+    mat { mask=1; a=7; overlay { mat=Gold; tex=Rough; algo=random; a=5; }; };
+    mat { mat=Tunnel; tex=Smooth; zoomX=40; zoomY=40; a=2; overlay { mat=Rock; algo=border; a=1; b=1; tex=Rock; loosebounds=1; mat { mat=Earth; a=4; tex=Rough; }; }; };
+    overlay { mat=Earth; tex=Smooth; y=-50; hgt=150; algo=border; a=8; b=8; loosebounds=1; };
+    overlay { algo=border; mask=1; a=1; b=0; overlay { mat=FlyAshes; algo=rndchecker; a=3; loosebounds=1; sub=0; tex=Smooth; }; overlay { mat=Ashes; algo=rndchecker; a=2; sub=0; loosebounds=1; tex=Smooth3; }; loosebounds=1; };
+    };
+  };

@@ -1,0 +1,8 @@
+[DefCore]
+id=MART
+Version=4,9,8
+Name=MagicMakeArtefact
+Category=C4D_StaticBack|C4D_Magic
+Value=5
+Components=IGOL=1
+Picture=0,0,64,64

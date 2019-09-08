@@ -1,0 +1,18 @@
+[Teams]
+TeamDistribution=Free
+AutoGenerateTeams=0
+AllowTeamSwitch=0
+AllowHostilityChange=1
+TeamColors=1
+
+	[Team]
+	id=1
+	Name=$TeamLeft$
+	PlrStartIndex=1
+	IconSpec=TMS1:2
+
+	[Team]
+	id=2
+	Name=$TeamRight$
+	PlrStartIndex=2
+	IconSpec=TMS1:3

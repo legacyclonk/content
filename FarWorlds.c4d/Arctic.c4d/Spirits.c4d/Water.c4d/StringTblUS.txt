@@ -1,0 +1,6 @@
+TxtIgreetyouclonkIamthe=I greet you, clonk. I am the Spirit of Water.
+TxtIhavelosttenofbymost=I have lost ten of by most beautiful pearls.|They are scattered on the bottom of the sea.
+TxtFindthedpearlsMakego=Find the %d pearls.|Make good use of the sceptre.
+TxtThankyouverymuchNowc=Thank you very much.|Now call for the Spirit of Death, but beware...
+TxtThanksNowIamstillmis=Thanks. Now I am still missing %d pearls.
+TxtThanksNowIamstillone=Thanks. Now I am still missing one pearl.

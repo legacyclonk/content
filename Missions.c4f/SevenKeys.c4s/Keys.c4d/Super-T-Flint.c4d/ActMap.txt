@@ -1,0 +1,12 @@
+[Action]
+Name=Activated
+Delay=360
+Facet=0,6,6,6
+NextAction=TimeOver
+Sound=Fusing
+
+[Action]
+Name=TimeOver
+FacetBase=1
+StartCall=BlowUp
+ 

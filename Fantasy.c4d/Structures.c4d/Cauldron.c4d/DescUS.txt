@@ -1,0 +1,3 @@
+Magic potions are brewed in this cauldron.
+
+Grab and double click 'dig'. The brewer needs to carry all required ingredients.

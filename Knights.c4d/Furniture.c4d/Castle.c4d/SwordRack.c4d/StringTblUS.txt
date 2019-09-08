@@ -1,0 +1,3 @@
+MsgRackFull=Sword rack|is full.
+MsgRackEmpty=Sword rack|is empty.
+CtrlTake=Take sword

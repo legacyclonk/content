@@ -1,0 +1,9 @@
+[DefCore]
+id=CLDN
+Version=4,9,8
+Name=Coldness
+Category=C4D_Living
+Width=7
+Height=8
+Offset=-3,-20
+Picture=0,8,7,8

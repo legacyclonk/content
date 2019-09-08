@@ -1,0 +1,16 @@
+MsgNotEnoughtMoney=Insufficient money for a flag. (%d)
+
+MsgCoals1=Coalstown cashs 25 clunkers.
+MsgCoals2=Coalstown is in the chips.
+MsgCoals3=Coalstown gets a reward.
+MsgCoals4=25 clunkers for Coalstown.
+MsgCoals5=25 clunkers were added to Coalstowns account.
+
+MsgFort1=Fortville cashs 25 clunkers.
+MsgFort2=Fortville is in the chips.
+MsgFort3=Fortville gets a reward.
+MsgFort4=25 clunkers for Fortville.
+MsgFort5=25 clunkers were added to Fortvilles account.
+
+CtxRelaunch=Relaunch
+MsgNoMoreRelaunches=No more relaunches left.

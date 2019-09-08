@@ -1,0 +1,36 @@
+# Kombosystem
+
+descChooseSpellClass=Magic class selection
+MsgNotReadyToMagic=%s cannot cast|a spell at the moment.
+
+# Menü
+
+MnuNoSpells=No spells known
+MnuCast=Cast
+MnuEmpty=Not selected
+MnuDelQuickspell=Delete quick spell
+MnuSetQuickspell=Select
+MnuSlotQuickspell=Quick spell
+MnuSlotNumber=Slot %d
+
+# Context
+
+CtxQuickspellDesc=Select quick spell
+CtxMagicDesc=Cast a spell
+CtxCombo=Change spell system
+CtxComboHelp=Combination system
+
+# Nachrichten
+
+MsgNoQuickSpells=No quick spells selected!
+ChangedToCombo=Combination system|selected
+ChangedToCombo2=Fixed combination system|selected
+ChangedToMenu=Menu system|selected
+MsgNotEnoughEnergy=Not enough|magical energy!
+MsgNotEnoughIngredients=Not enough|alchemistic ingredients!|%s|are missing.
+MsgComboHelp=With the combination system spells are no longer selected through a menu but cast through a key combination. Press Special 1, then up / down / left / right / throw / dig to select a spell.
+
+# Control
+
+CtrlQuickspellDesc=Cast quick spell
+

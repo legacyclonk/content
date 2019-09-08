@@ -1,0 +1,5 @@
+Independent clonk peoples with their own customs and architecture can be found in the Far Worlds. 
+
+Over time those clonks have adapted to their specific environment and have developed new tools and structures.
+
+This folder contains all object packs for the Far Worlds scenarios.

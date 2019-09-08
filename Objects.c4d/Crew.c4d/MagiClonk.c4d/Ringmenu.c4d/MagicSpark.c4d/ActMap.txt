@@ -1,0 +1,8 @@
+[Action]
+Name=Exist
+Procedure=FLOAT
+Facet=0,0,10,10
+Length=8
+Delay=2
+EndCall=Destroy
+NextAction=Idle

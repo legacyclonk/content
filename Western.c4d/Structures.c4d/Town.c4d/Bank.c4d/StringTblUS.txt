@@ -1,0 +1,3 @@
+WithdrawMoney=Withdraw money
+NotEnoughMoney=Not enough money!
+NoBank=There is no bank around!|No money transactions possible.

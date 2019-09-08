@@ -1,0 +1,2 @@
+TxtUse=Einsetzen
+TxtNosealinrange=Kein geeigneter Seehund in Reichweite!

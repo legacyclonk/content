@@ -1,0 +1,11 @@
+[Teams]
+
+	[Team]
+	id=1
+	Name=Fortville
+	IconSpec=Portrait:COWB::1
+
+	[Team]
+	id=2
+	Name=Coalstown
+	IconSpec=Portrait:COWB::3

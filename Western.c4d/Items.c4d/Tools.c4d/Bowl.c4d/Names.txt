@@ -1,0 +1,2 @@
+DE:Schale
+US:Bowl

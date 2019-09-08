@@ -1,0 +1,17 @@
+[Action]
+Name=Key1
+Procedure=NONE
+Directions=1
+Length=1
+Delay=20
+Facet=0,0,6,3
+NextAction=Key2
+
+[Action]
+Name=Key2
+Procedure=NONE
+Directions=1
+Length=5
+Delay=2
+Facet=0,0,6,3
+NextAction=Key1

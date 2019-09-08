@@ -1,0 +1,1 @@
+These objects control wind, weather, and animal bevahior.

@@ -1,0 +1,3 @@
+Das Häuptlingszelt ist das Zentrum des Stammes. Ohne vermehrt sich der Stamm nicht. Mit 'Rauf' kann die aktuelle Bevölkerung des Stammes abgefragt werden. 
+
+Mit 'Graben' kann ein befreundeter Spieler dem Stamm beitreten. Die Spieler teilen sich dann die Gebäude und die Baupläne.

@@ -1,0 +1,33 @@
+#Kombosystem
+
+descChooseSpellClass=Zauberklassenwahl
+
+#infoNoSpellOfKind=Kein %s verfügbar!
+#infoSpellInfo=%s Stufe %d:|%s%s</c>
+
+msgNotReadyToMagic=%s kann|jetzt nicht zaubern.
+
+
+#Menü
+
+MnuNoSpells=Keine Zaubersprüche verfügbar
+MnuCast=Zaubern
+MnuEmpty=nicht belegt
+MnuDelQuickspell=Schnellzauber löschen
+MnuSetQuickspell=Belegen:
+MnuSlotQuickspell=Schnellzauber
+
+# Kontext
+
+CtxQuickspellDesc=Schnellzauber
+CtxMagicDesc=Zaubern
+CtxCombo=Zaubersystem ändern
+CtrlTakeoffDesc=Ausrüstung ablegen
+
+# Nachrichten
+
+MsgNoQuickSpells=Keine Schnellzauber ausgewählt
+ChangedToCombo=Kombinationssystem|ausgewählt
+ChangedToMenu=Menüsystem|ausgewählt
+MsgNotEnoughEnergy=Nicht genug|Zauberenergie!
+MsgNotEnoughIngredients=Nicht genug|alchemische Zutaten!|Es fehlen|%s.

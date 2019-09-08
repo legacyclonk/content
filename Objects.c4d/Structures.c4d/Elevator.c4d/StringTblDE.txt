@@ -1,0 +1,3 @@
+TxtPermanentModeTurnOn=Dauerbetrieb ein
+TxtPermanentModeTurnOff=Dauerbetrieb aus
+TxtPermanentModeDesc=Im Dauerbetrieb fährt der Fahrstuhl kontinuierlich auf und ab und kommt nicht zu wartenden Clonks.

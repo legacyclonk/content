@@ -1,0 +1,1 @@
+The bandit boss can be ordered in the telegraph station. He is stronger than the other bandits and gets two points for each kill. There can be only one boss at once.

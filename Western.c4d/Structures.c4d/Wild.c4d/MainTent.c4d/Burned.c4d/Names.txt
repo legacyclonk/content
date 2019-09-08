@@ -1,0 +1,2 @@
+DE:Verbranntes Hauptzelt
+US:Burned main tent

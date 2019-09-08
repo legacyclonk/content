@@ -1,0 +1,7 @@
+Line construction kits can be used to create energy lines and pipes.
+
+Lines are created with a double-dig command while holding a line construction kit in front of the source building and can be connected to a target building by walking there and clicking double-dig again.
+
+Create energy lines from a supplier (e.g. windmill) to the consumer (e.g. elevator). Energy lines are needed only if 'Structures need energy' is defined in a scenario's set of rules.
+
+Start building pipes from pumps or derricks. The first line connected to a pump will become a source pipe and will suck up liquids. The second line connected to a pump will become a drain pipe for the liquids transferred by the pump, it can be dropped outside or connected to a base building in which empty barrels should be provided to collect the pumped liquid (e.g. oil). From a derrick you can only create a drain pipe.

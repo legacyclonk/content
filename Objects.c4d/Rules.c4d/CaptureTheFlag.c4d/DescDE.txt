@@ -1,0 +1,1 @@
+Ein Spieler ist eliminiert, wenn er seine letzte Flagge verliert (z.B. wenn sie von einem Gegner verkauft wird).

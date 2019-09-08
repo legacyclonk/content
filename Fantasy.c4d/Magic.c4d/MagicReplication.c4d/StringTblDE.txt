@@ -1,0 +1,1 @@
+NotInFree=Dieser Zauber kann nur im Freien angewandt werden.

@@ -1,0 +1,3 @@
+This elevator can be combined with other castle parts. 
+
+When one elevator castle part is placed above another, the lower part will change into an open elevator shaft.

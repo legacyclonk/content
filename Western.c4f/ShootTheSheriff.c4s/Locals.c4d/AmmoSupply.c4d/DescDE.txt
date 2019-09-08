@@ -1,0 +1,3 @@
+Wenn diese Regel aktiviert ist, produzieren Munitionslager automatisch Munition.
+
+In bestimmten Zeitabständen wird eine Schachtel erzeugt, sofern sich weniger als 10 Stück im Lager befinden.

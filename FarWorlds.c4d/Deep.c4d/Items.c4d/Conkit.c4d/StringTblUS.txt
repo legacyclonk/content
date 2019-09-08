@@ -1,0 +1,3 @@
+TxtCreateconstructionsi=Create construction site
+TxtNoconstructionplansa=No construction plans available
+TxtConstructions=Construction: %s

@@ -1,0 +1,8 @@
+[DefCore]
+id=POSE
+Version=4,9,8
+Name=Possession
+Category=C4D_StaticBack|C4D_Magic
+Value=25
+Components=ILOA=2;IROC=2
+Picture=0,0,64,64

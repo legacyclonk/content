@@ -1,0 +1,1 @@
+Spells don't need magic energy.

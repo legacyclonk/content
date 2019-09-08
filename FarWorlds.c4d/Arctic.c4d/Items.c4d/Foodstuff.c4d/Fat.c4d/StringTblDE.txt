@@ -1,0 +1,3 @@
+TxtEat=Essen
+TxtRubIn=Einreiben
+TxtApply=Essen/Einreiben

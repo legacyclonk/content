@@ -1,0 +1,17 @@
+[Action]
+Name=SeiBrav
+Procedure=FLOAT
+Length=1
+Delay=1
+EndCall=TuWasBraves
+NextAction=SeiBrav
+Facet=0,0,192,192,-96,-96
+
+[Action]
+Name=IchWillNurSpielerZaehlen
+Procedure=FLOAT
+Length=1
+Delay=10
+FacetBase=0
+EndCall=PruefeAlleSpieler
+NextAction=IchWillNurSpielerZaehlen

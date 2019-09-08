@@ -1,0 +1,13 @@
+MsgLoadingSect=Landschaft wird geladen...
+MsgLoadingFail=Fehler beim Laden der Sektion.
+
+# Schwierigkeitsmenü #
+DescLevelExtrem=Die Banditen sind übernächtig.
+DescLevelHard=Es gibt mehr Banditen.
+DescLevelNormal=Wenig schwache Banditen.
+DescLevelEasy=Wenig Banditen und kein Nahrungsbedarf.
+MnuChooseDifficulty=Spielstufe wählen
+MnuLevelItmExtrem=Schwierigkeit: Extrem
+MnuLevelItmHard=Schwierigkeit: Schwer
+MnuLevelItmNormal=Schwierigkeit: Normal
+MnuLevelItmEasy=Schwierigkeit: Leicht

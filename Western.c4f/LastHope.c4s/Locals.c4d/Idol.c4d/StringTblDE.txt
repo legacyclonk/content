@@ -1,0 +1,16 @@
+Tipp_Ghost0=Du musst die Wüste durchqueren und auf dem Hochplatau jenseits der Wüste siedeln.
+Tipp_Ghost1=Wenn du Hilfe brauchst frage mich einfach, denn das Leben allein in der Wildnis ist nicht leicht [ansprechen mit 'springen'].
+Tipp_Ghost2=In der Wüste hat man viel Durst. Da braucht man Wasser. Dazu ist vielleicht ein bischen Magie nötig. Dazu braucht man ein Schamanenzelt.
+Tipp_Ghost3=Ein Fischamulett kann nützlich sein.
+Tipp_Ghost4=Mana kann man durch das Zerkleinern von Knochen oder Schlangenzähnen erhalten. Dazu erscheint ein Kontextmenüeintrag wenn man ein Amulett und einen Knochen trägt.
+Tipp_Ghost5=In der Wüste könnte ein bisschen Wasser hilfreich sein.
+Tipp_Ghost6=Schlangenamulette sind gut zum Schutz geeignet.
+Tipp_Ghost7=Mit Vogelamuletten kann man höher springen.
+Tipp_Ghost8=Fischhaut ist übrigens ein schöner Zauber.
+Tipp_Ghost9=Feuersteine kann man auch herbeizaubern.
+Tipp_Ghost10=Gold ist ein wichtiger Rohstoff für das Forschungsamulett.
+Tipp_Ghost11=Jetzt brauchst du einen großen Stamm und Mysikpunkte. Errichte dazu ein Lager auf dem Hochplateau.
+Tipp_Ghost12=Du brauchst erst ein Forschungsamulett, um die nötigen Sachen für ein Lager zu erforschen. Schau dich in der unteren Höhle um.
+Tipp_Ghost13=Um einen großen Stamm zu bekommen, braucht man ein Hauptzelt und genügend normale Tipis.
+Tipp_Ghost14=Zudem muss genügend Nahrung im Lager vorhanden sein und sich ein Indianer längere Zeit in einem Zelt befinden.
+Tipp_Ghost15=Für Mystikpunkte kann man einen Totempfahl, Schädeltotem und Lederbilder bauen. Die Punkte verstärken den Managewinn aus Knochen und die Wirkung von Tränken. Die Anzahl kann im Shamanenzelt unter 'Graben' abgefragt werden.

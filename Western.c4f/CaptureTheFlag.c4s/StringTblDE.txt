@@ -1,0 +1,12 @@
+MsgScore=Punktestand
+
+MsgBlue=Team Blau
+MsgRed=Team Rot
+
+MsgRelaunch=%s benötigt einen Relaunch!
+
+MsgBlueWin=Das blaue Team siegt!
+MsgRedWin=Team Rot gewinnt!
+
+MsgBlueJoin=%s schließt sich dem blauen Team an.
+MsgRedJoin=%s kämpft für das rote Team.

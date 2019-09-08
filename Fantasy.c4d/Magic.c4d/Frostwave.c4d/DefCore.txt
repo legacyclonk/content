@@ -1,0 +1,8 @@
+[DefCore]
+id=MFWV
+Version=4,9,8
+Name=Frostwave
+Category=C4D_Magic
+Value=18
+Components=IICE=4
+Picture=0,0,64,64

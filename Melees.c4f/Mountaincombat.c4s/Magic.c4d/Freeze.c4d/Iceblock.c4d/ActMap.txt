@@ -1,0 +1,8 @@
+[Action]
+Name=Freeze
+Delay=1
+Length=1
+FacetBase=1
+NextAction=Freeze
+Procedure=ATTACH
+PhaseCall=NoAction

@@ -1,0 +1,8 @@
+[DefCore]
+id=MFBL
+Version=4,9,8
+Name=MagicFirelump
+Category=C4D_Magic
+Value=19
+Components=ISPH=1;ILOA=1
+Picture=0,0,64,64

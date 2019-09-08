@@ -1,0 +1,2 @@
+DE:Schatten
+US:Shadow

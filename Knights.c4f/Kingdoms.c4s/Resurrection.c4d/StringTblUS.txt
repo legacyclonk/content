@@ -1,0 +1,6 @@
+# Nachrichten
+MsgNoCorpses=No corpses nearby.
+
+# Menü
+MnuPlrSel=Choose player
+MnuPlrInfo=Grant control to %s

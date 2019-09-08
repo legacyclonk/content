@@ -1,0 +1,1 @@
+SpellInfo=The Clonk is cursed. Right and left are swaped.

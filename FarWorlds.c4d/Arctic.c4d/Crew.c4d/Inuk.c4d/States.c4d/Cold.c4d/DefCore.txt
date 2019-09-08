@@ -1,0 +1,8 @@
+[DefCore]
+id=WNCL
+Version=4,9,8
+Name=WarningCold
+Category=C4D_Living
+Width=7
+Height=7
+Offset=-3,-20

@@ -1,0 +1,2 @@
+TxtPuton=Put on
+TxtAlreadywearingananor=Already wearing an anorak!

@@ -1,0 +1,5 @@
+Links=Links
+Rechts=Rechts
+Stop=Stopp
+Aussteigen=Aussteigen
+Werfen=Werfen

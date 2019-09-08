@@ -1,0 +1,4 @@
+TxtMovement=Move
+TxtAttack=Bite
+TxtLeave=Retransform
+TxtEmbowel=Embowel

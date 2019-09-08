@@ -1,0 +1,3 @@
+MsgOpenAlready=Treppenhaus bereits offen
+MsgOpen=Treppenhaus geöffnet
+MsgClosed=Treppenhaus geschlossen

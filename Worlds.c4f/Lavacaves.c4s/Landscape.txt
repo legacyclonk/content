@@ -1,0 +1,42 @@
+/* Lavahöhlen */
+
+overlay EarthBorder { algo=border; a=1; b=1; mat=Earth; tex=Rough; };
+
+map LavaCaves {
+  mat=Tunnel; tex=Smooth;
+  overlay Somestuff { algo=bozo; zoomX=50; zoomY=50; turbulence=1000; a=-2; } &
+  overlay { algo=checker; zoomX=50; zoomY=50; turbulence=1000; } &
+  overlay { algo=bozo; turbulence=1000; zoomX=50; zoomY=50; } ^ Somestuff |
+  overlay Border { invert=1; x=5; y=15; wdt=90; hgt=85; loosebounds=1; turbulence=100; } &
+  overlay { mat=Earth; tex=Smooth;
+    overlay { algo=random; mat=Earth; tex=Rough; };
+    overlay { algo=lines; rotate=90; a=10; b=30; turbulence=1000; } &
+    overlay { algo=bozo; mat=DuroLava; tex=Smooth; turbulence=1000; };
+    EarthBorder;
+    overlay { algo=lines; rotate=135; a=10; b=30; turbulence=1000; } &
+    overlay { algo=bozo; a=-1; mat=Coal; tex=Swirl; turbulence=1000; };
+    overlay { algo=bozo; zoomX=-50; zoomY=-50; mat=Rock; tex=Rough; turbulence=100; EarthBorder; };
+    overlay { algo=bozo; zoomX=-50; zoomY=-50; a=8; mat=Ore; tex=Rough; turbulence=100; zoomY=-50;
+      overlay { algo=random; mat=Ore; tex=Ridge; };
+      };
+    overlay { algo=bozo; zoomX=20; zoomY=20; mat=Ashes; tex=Rough; a=2; EarthBorder;
+      overlay { algo=bozo; zoomX=-50; zoomY=-50; a=9; mat=Granite; tex=Rough; turbulence=1000; };
+      };
+    overlay Bla { algo=bozo; mat=Gold; tex=Rough; a=6; zoomX=0; zoomY=0; turbulence=100; }&Border{invert=0;}&Bla;
+    overlay { algo=boxes; a=6; b=8; invert=1; turbulence=100; } &
+    overlay { algo=rndchecker; a=1; zoomX=-50; zoomY=-50; turbulence=100; mat=Earth; tex=Smooth;
+      overlay { algo=random; a=1; mat=Earth; tex=Rough; };
+      };
+    };
+  Border &
+  overlay { algo=rndchecker; a=2; zoomX=-100; zoomY=-100; turbulence=1000; mat=Sulphur; tex=Swirl;
+    overlay { algo=border; a=1; b=1; mat=Earth; tex=Rough; };
+    };
+  overlay { algo=sin; mat=DuroLava; tex=Smooth; ox=0; oy=70; zoomX=0; zoomY=-500; turbulence=1000; EarthBorder;
+    overlay { algo=bozo; a=3; turbulence=1000; } &
+    overlay { algo=lines; rotate=20; a=10; b=30; turbulence=1000; mat=Granite; tex=Rock;
+      overlay { algo=border; a=2; b=2; mat=Granite; tex=Rough; turbulence=10; };
+      overlay { algo=border; a=1; b=1; mat=Rock; tex=Rough; };
+      };
+    };
+  };

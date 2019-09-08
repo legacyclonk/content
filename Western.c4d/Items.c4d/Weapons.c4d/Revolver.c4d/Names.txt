@@ -1,0 +1,2 @@
+DE:Revolver
+US:Revolver

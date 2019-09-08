@@ -1,0 +1,1 @@
+Mit dem Dynamo kann man rohstoffunabhängig billigen Strom erzeugen, indem ein Clonk ihn bedient. Anfassen und Doppelklick "Graben" startet die Stromerzeugung.

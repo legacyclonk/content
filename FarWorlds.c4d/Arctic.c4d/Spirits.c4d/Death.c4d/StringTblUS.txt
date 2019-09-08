@@ -1,0 +1,4 @@
+TxtLookatyoulittlemorta=Look at you, little mortal! You have summoned|the most powerful of all spirits!
+TxtYouhavedisturbedmyre=You have disturbed my rest.|Now hear my task for you.
+TxtKillalltheblackfishI=Kill all the black fish I have made sick.|There's still %d of them around.
+TxtIcantbelieveyouhavem=I can't believe you have made it.|This time I will let you get away.|We will meet again...

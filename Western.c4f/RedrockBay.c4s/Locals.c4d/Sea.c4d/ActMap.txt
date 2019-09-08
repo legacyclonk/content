@@ -1,0 +1,14 @@
+[Action]
+Name=Sea
+NextAction=Sea
+Sound=SeaSounds2
+
+[Action]
+Name=Seagulls
+NextAction=Seagulls
+Sound=SeaSounds1
+
+[Action]
+Name=NoAction
+NextAction=Seagulls
+Delay=200

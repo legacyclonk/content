@@ -1,0 +1,12 @@
+# Teams
+TeamLeft=Mönkelburg
+TeamRight=Castle Harx
+
+# Nachrichten
+MsgEliminated=eliminated
+MsgEliminatedInfo=All your Clonks are dead.|In order to fight for your kingdom again,|the king has to revive you in his throne.
+MsgUnjoinedPlayers=Some players didn't choose their kingdom yet
+MsgGameGo2=%s enters the battle alone|- may those starting aids lessen his pain
+
+# Keine Standardstartnachricht
+MsgGameGo=

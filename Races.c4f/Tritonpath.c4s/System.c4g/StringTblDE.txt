@@ -1,0 +1,3 @@
+TxtNoSpells=Keine Zaubersprüche verfügbar
+TxtDoMagic=Zaubern: %s
+TxtAscend=Aufstieg

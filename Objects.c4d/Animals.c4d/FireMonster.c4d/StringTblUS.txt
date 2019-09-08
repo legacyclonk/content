@@ -1,0 +1,3 @@
+TxtMovement=Move
+TxtAttack=Flame
+TxtLeave=Retransform

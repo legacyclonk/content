@@ -1,0 +1,13 @@
+TxtWithyourfirstclonkco=Sammle mit Deinem ersten Clonk den Kristall ein.$06_01_de.ogg
+TxtNotSafe=Das Gebiet ist leider nicht erdbebensicher.$06_09_de.ogg
+TxtWiththeotherclonkact=Hole mit dem anderen Clonk den Bausatz aus der Hütte und baue einen Fahrstuhl zwischen Hütte und Kraftwerk.$06_02_de.ogg
+TxtElevPowerSupply=Der Fahrstuhl wird mit einer Energieleitung an das Kraftwerk angeschlossen.$06_03_de.ogg
+TxtNowdigoutafewchunkso=Grabe nun rechts nebem dem Kraftwerk ein paar Kohlestücke aus.$06_04_de.ogg
+TxtThrowTheCoalInto=Wirf die Kohlestücke in die Schüttklappe des Kraftwerks.$06_05_de.ogg
+TxtOncetheelevatorhaspo=Jetzt kannst Du einen Fahrstuhlschacht bohren und den Kristall in die Hütte bringen.$06_06_de.ogg
+TxtThinkOfAWay=Überlege Dir genau, wie Du die Wasserader aus dem Weg schaffen kannst.$06_07_de.ogg
+TxtActivatethesellmenuu=Verkaufe den Kristall, um die Runde zu beenden.$06_08_de.ogg
+BtnNextTutorial=&Nächste Lernrunde
+BtnNextTutorialDesc=Die nächste Lernrunde starten.
+BtnRepeatRound=Runde &wiederholen
+BtnRepeatRoundDesc=Diese Runde wiederholen.

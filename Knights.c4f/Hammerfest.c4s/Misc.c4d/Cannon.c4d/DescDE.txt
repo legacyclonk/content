@@ -1,0 +1,2 @@
+Die Kanone kann Gegenstände zusammen mit Schießpulver verschießen.
+Zum einfacheren Transport kann die Kanone an Pferde angespannt werden (Doppelklick 'Graben').

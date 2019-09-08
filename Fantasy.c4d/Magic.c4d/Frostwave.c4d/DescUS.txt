@@ -1,0 +1,1 @@
+Casts an frostwave which flings enemys away.

@@ -1,0 +1,11 @@
+[DefCore]
+id=_TAA
+Version=4,9,8
+Name=TalkerAppend
+Category=C4D_StaticBack
+Width=16
+Height=20
+Offset=-8,-10
+Components=BRED=1
+Picture=0,0,1,1
+Entrance=-8,-10,16,20

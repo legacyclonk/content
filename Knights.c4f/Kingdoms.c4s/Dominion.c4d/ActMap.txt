@@ -1,0 +1,14 @@
+[Action]
+Name=Checking
+Procedure=NONE
+Length=1
+Delay=10
+EndCall=Checking
+NextAction=Checking
+
+[Action]
+Name=Ending
+Procedure=NONE
+Length=2
+Delay=37
+EndCall=EndingDone

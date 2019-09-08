@@ -1,0 +1,8 @@
+AufdenBoden=Place dynamiet box|on the ground!
+KeineKiste=No dynamite box!
+Angeschlossen=Priming wire|connected
+MnuConIGNB=Connect wire
+MnuDeConIGNB=Deconnect wire
+NoBoxFound=You haven't got a dynamite box in your inventory
+WireAlreadyThere=The wire is already connected
+NoLeitung=There is no wire

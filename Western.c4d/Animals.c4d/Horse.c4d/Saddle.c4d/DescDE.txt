@@ -1,0 +1,3 @@
+Doppelklick auf 'Graben' zum Anlegen.
+
+Mit Satteltasche kann ein Pferd bis zu 5 Gegenstände tragen.

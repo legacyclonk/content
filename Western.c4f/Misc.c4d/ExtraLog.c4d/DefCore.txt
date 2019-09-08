@@ -1,0 +1,8 @@
+[DefCore]
+id=_LOG
+Version=4,9,8
+Name=ExtraLog
+Category=C4D_StaticBack|C4D_Parallax|C4D_MouseIgnore|C4D_IgnoreFoW
+Width=8
+Height=31
+Picture=0,0,8,31

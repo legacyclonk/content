@@ -1,0 +1,13 @@
+[DefCore]
+id=CTWA
+Version=4,9,8
+Name=Cavalry Tower Attach
+Category=C4D_Structure
+Width=34
+Height=75
+Offset=-22,-47
+Vertices=1
+VertexX=-25
+VertexY=25
+Picture=0,0,56,95
+Grab=2

@@ -1,0 +1,10 @@
+MsgOnlyHost=Only the host (%s) can change the settings.
+MsgTooLate=No further changes allowed.
+MsgFrags=Target: %d
+MsgOK=Accept
+MsgHostChangedSettings=The host changed the target to %d.
+DescAddFrag=Increase the kill target.
+DescRemFrag=Decrease the kill target.
+DescOk=Done
+MsgChief=Boss activated
+MsgNoChief=Boss deactivated

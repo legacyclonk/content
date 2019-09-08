@@ -1,0 +1,3 @@
+Ammunition for the Gatling Gun. 
+
+Can only overlap in the armory with other magazines.

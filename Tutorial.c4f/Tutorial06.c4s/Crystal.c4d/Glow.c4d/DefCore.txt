@@ -1,0 +1,17 @@
+[DefCore]
+id=GLOW
+Version=4,9,8
+Name=Glow
+Category=C4D_Living
+Width=25
+Height=25
+Offset=-12,-12
+Vertices=1
+VertexFriction=100
+Mass=1
+Picture=0,0,5,5
+StretchGrowth=1
+NoBurnDecay=1
+IncompleteActivity=1
+Oversize=1
+Rotate=1

@@ -1,0 +1,7 @@
+Dieses Verzeichnis enthält die Standardobjekte des Spiels und sollte immer aktiviert sein.
+
+Weitere Objektordner im Arbeitsverzeichnis können über einen Klick in das zugehörige Kästchen für den Einsatz in der nächsten Runde aktiviert oder deaktiviert werden.
+
+Einzelne Szenarien benutzen vorgegebene Objektdefinitionen (Aktivierung erscheint grau). Die Vorgaben eines Szenarios können über das Kontextmenü (Klick mit der rechten Maustaste auf das Szenario) angesehen und verändert werden. Sind nicht alle vorgegebenen Objektpakete im Arbeitsverzeichnis zu finden, kann das Szenario nicht gestartet werden. 
+
+Einzelobjekte können und sollten sinnvoll in Objektordnern zusammengefasst werden. Hierzu können mit der Schaltfläche 'Neu' Ordner erzeugt und mit Drag 'n' Drop verwaltet werden.

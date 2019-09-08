@@ -1,0 +1,3 @@
+Haltepunkt für einen Zug. Bedienung durch Anfassen: Runter (durchfahren), Rauf (anhalten und weiterfahren), Links/Rechts (anhalten und umkehren), Werfen (ein-/ausladen) und Doppelklick auf Graben (Signal abbauen).
+
+Gegenstände und Fahrzeuge können automatisch eingeladen werden, indem sie an der Stelle abgelegt werden, an der der angekuppelte Waggon zum Stehen kommt.

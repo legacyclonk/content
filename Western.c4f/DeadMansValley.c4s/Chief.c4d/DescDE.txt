@@ -1,0 +1,1 @@
+Der Hauptmann kann in der Telegraphenstation bestellt werden. Er ist stärker als normale Banditen und bekommt doppelte Punkte bei den Abschüssen. Es kann immer nur einen Hauptmann geben.

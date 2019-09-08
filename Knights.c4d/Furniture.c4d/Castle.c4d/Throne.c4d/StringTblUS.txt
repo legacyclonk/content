@@ -1,0 +1,3 @@
+# Steuerung
+
+CtrlTurnThrone=Turn throne

@@ -1,0 +1,7 @@
+# Steuerung
+CtrlQueryStatus=Fortschritt der Wiederbelebung abfragen
+
+# Nachrichten
+MsgRelaunch=%s tritt neu bei.
+MsgRelaunchProcess=Wiederbelebung bei %d%
+MsgNoRelaunch=Wiederbelebung nicht initiiert

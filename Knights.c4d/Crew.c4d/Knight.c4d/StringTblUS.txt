@@ -1,0 +1,25 @@
+# Context Descs
+CtxAttackDesc=Attack
+CtxDefendDesc=Defend
+CtxGuardDesc=Guard
+CtxArmDesc=Arm
+CtxUnbuckleDesc=Unbuckle
+CtxNoItemsToUnbuckle=No items buckled
+CtxUnbuckleItem=Unbuckle %s
+CtxPrayDesc=Pray
+
+# Control Descs
+CtrlInventoryDesc=Shift inventory
+CtrlActivateDesc=Unbuckle
+
+# Messages
+MsgWatch=%d o'clock and all's %s.
+MsgWatchStateWell=well
+MsgWatchStateBad=arrrrrgghhhh
+MsgNoEnemy=No attack target!
+MsgNoArrow=No Arrow!
+MsgNoSpear=D'oh! No spear!
+MsgNoWeapons=Ugh! No weapons.
+MsgArmed=I'm armed.
+MsgEnemyDeath=%s exterminated.
+MsgEnemyHostChanged=%s is|now confederated.

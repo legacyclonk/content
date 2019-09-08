@@ -1,0 +1,2 @@
+DE:Kugel
+US:Bullet

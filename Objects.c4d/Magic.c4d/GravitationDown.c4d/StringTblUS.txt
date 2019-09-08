@@ -1,0 +1,2 @@
+MsgGravityMinimum=Gravitation already|at minimum!
+MsgGravityDec=Gravitation decreased.|Gravitation now: %d%.

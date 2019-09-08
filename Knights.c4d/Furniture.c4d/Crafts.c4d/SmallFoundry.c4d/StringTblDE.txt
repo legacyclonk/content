@@ -1,0 +1,6 @@
+# Steuerung
+ProduceMetal=Metall herstellen
+
+# Produktion
+MsgOreNotAvailable=Kein Erz gefunden
+MsgFuelNotAvailable=Kein Brennstoff gefunden

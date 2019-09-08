@@ -1,0 +1,12 @@
+[DefCore]
+id=DPLI
+Version=4,9,8
+Name=DerrickPipeLine
+Category=C4D_StaticBack
+Width=3
+Height=3
+Offset=-1,-1
+Vertices=1
+Mass=10
+Components=DPLI=1
+Picture=3,0,36,32

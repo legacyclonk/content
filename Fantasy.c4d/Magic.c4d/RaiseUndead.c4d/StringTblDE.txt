@@ -1,0 +1,2 @@
+MsgNoUndeads=Keine verstorbenen Clonks|in der Nähe!
+UndeadInfo=Dieser Clonk ist untot.

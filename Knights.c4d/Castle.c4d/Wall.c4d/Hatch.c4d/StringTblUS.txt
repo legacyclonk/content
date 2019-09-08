@@ -1,0 +1,7 @@
+ErrNoCastle=The hatch may only be|built in front of castle parts.
+ErrOnlyWall=The hatch may only be|built in front of empty walls.
+ErrOnlyBasement=The hatch may only be|built into castle basements.
+ErrDupHatch=There is already a hatch here.
+TxtOpen=Open
+TxtClose=Close
+TxtCloseDelay=Close with delay

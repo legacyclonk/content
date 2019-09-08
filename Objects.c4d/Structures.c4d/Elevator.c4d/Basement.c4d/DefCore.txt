@@ -1,0 +1,17 @@
+[DefCore]
+id=ELBS
+Version=4,9,8
+Name=ElevatorBasement
+Category=C4D_Structure
+Width=28
+Height=8
+Offset=-14,-4
+Vertices=4
+VertexX=-15,15,-15,15
+VertexY=-4,-4,4,4
+VertexFriction=100,100
+Value=1
+Mass=10
+Components=ROCK=2
+SolidMask=0,0,28,8,0,0
+Construction=1

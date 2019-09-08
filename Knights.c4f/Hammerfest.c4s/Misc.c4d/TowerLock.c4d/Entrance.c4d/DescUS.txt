@@ -1,0 +1,3 @@
+Allows your men to descend from a platform to the staircase below.
+
+Indestructible.

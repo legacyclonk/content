@@ -1,0 +1,3 @@
+Stars are falling from the sky, and every hit increases the time the player can use.
+
+Destroying this star gives a good bonus of 20 seconds.

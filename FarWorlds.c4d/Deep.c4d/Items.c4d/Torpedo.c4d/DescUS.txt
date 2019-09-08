@@ -1,0 +1,1 @@
+Submarine weapon. Can be launched by the submarine or other suitable weapons and explodes on impact.

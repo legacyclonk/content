@@ -1,0 +1,3 @@
+The mage is a very powerful wizard.
+
+He offers an alternative to the traditional menu system - a new, very quick combination system - for choosing spells to cast.

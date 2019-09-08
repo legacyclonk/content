@@ -1,0 +1,3 @@
+MsgJoinShadow=%s gehört den Schattenklingen an
+MsgJoinMantis=%s kämpft für den Mantisorden
+MsgRelaunchCountdown=Noch %d Min. %d|bis zum Relaunch!

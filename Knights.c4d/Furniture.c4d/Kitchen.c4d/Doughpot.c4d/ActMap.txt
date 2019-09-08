@@ -1,0 +1,10 @@
+[Action]
+Name=Mix
+Procedure=NONE
+Length=4
+Delay=4
+Facet=24,0,24,28,0,0
+FacetBase=1
+NextAction=Mix
+StartCall=Mixing
+Sound=DoughMix

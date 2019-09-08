@@ -1,0 +1,16 @@
+[Action]
+Name=Aborting
+Procedure=FLOAT
+Length=1
+Delay=1
+FacetBase=0
+EndCall=Abort
+
+[Action]
+Name=Arrow
+Procedure=FLOAT
+Length=2
+Delay=1
+Facet=0,0,16,16,-8,-8
+NextAction=Arrow
+PhaseCall=Attach

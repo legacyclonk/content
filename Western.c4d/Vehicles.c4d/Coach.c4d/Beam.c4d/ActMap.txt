@@ -1,0 +1,9 @@
+[Action]
+Name=Connect
+Procedure=CONNECT
+Length=1
+Delay=10
+FacetBase=1
+NextAction=Connect
+EndCall=Connecting
+

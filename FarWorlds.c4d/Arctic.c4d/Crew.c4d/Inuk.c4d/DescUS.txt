@@ -1,0 +1,9 @@
+The Inuk clonk is perfectly adapted to his icy environment.
+
+He knows how to handle the harpoon, fishing pole, and knife to embowel prey animals. He is skilled in producing all the numerous tools needed in everyday life from raw materials (double click 'dig' for the crafts menu).
+
+The Inuk can carry up to four objects. Switch through the inventory with speical key 1, display object information with special key 2. The Inuk can also take items from a building without putting down all of his inventory first. To do this, select the arrow symbol in inventory and hit 'throw'.
+
+The extreme temperatures in this polar region constantly drain its inhabitants' life energy. Always wear thick clothing and return to a warm igloo regularly. And don't forget to eat.
+
+Population will increase whenever some members of the tribe stay home for a while, with enough food and enough living space. Normal igloos, however, are already fully occupied with two inhabitants.

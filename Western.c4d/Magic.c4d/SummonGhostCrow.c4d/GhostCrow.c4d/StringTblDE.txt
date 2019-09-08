@@ -1,0 +1,4 @@
+TxtMovement=Bewegen
+TxtAttack=Beiﬂen
+TxtGetOff=Absitzen
+TxtKill=Wegschicken

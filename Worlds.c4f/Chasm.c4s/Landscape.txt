@@ -1,0 +1,47 @@
+/*Vulkan*/
+
+overlay Tunnels{mat=Tunnel; tex=Smooth; algo=lines; loosebounds=1;}; //Tunnelsss
+overlay Hoehlen{mat=Tunnel; tex=Smooth; algo=bozo; turbulence=8000; a=14; zoomX=55; zoomY=35;};
+
+map Vulkan {
+overlay{mat=Earth; tex=Smooth; ox=-80; oy=20; wdt=200; algo=sin; zoomX=+90; zoomY=+70; turbulence=10; loosebounds=1;
+	/*Oberfläche*/
+	overlay{mat=Ashes; tex=Smooth3; algo=border; a=5; b=4; //Heraufgeschleuderte Asche an der Oberfläche
+	  overlay{loosebounds=1; algo=rndchecker; turbulence=300; }
+	  & overlay{mat=Earth; tex=Smooth; loosebounds=1; algo=checker; turbulence=50;};};
+	overlay{algo=border; a=10; b=10;} //große Steine an der Oberfläche (früher vom Vulkan emporgeschleudert oder so ^^)
+	  & overlay{loosebounds=1; algo=checker; turbulence=50;}
+	  & overlay{mat=Granite; tex=Rough; loosebounds=1; algo=bozo; turbulence=10; a=3;};
+	/*Materialien*/
+	overlay{algo=bozo; turbulence=1000; a=5; mat=Earth; tex=Smooth2;};
+	overlay{algo=bozo; turbulence=1000; a=-9; mat=Rock; tex=Rock; invert=1;};
+	overlay{algo=rndchecker; turbulence=1000; a=7; mat=Coal; tex=Swirl;};
+	overlay{algo=rndchecker; turbulence=1000; a=8; mat=Ore; tex=Rough;};
+	overlay{algo=rndchecker; turbulence=1000; a=10; mat=Gold; tex=Rough; y=30;};
+	overlay{algo=rndchecker; turbulence=1000; a=9; mat=Sulphur; tex=Swirl; y=30;};
+	overlay{algo=rndchecker; turbulence=1000; a=7; mat=Granite; tex=Ridge;};
+	Hoehlen{zoomX=55; zoomY=35; y=30; hgt=50;};
+	Hoehlen{turbulence=5000; a=9; x=60; y=80; loosebounds=1;};
+	Hoehlen{turbulence=5000; a=9; x=0; y=80; wdt=10; loosebounds=1;};
+	overlay{algo=rndchecker; turbulence=1000;}
+	  &overlay {algo=bozo; turbulence=250; mat=Earth; tex=Rough;};
+	/*Asche-Adern*/
+	overlay{mat=Ashes; tex=Smooth3; algo=lines; turbulence=1000; loosebounds=1; a=3; b=32;
+		overlay{mat=Ashes; tex=Ridge; algo=rndchecker; turbulence=500; loosebounds=1; };}; //Ascheadern
+	overlay{mat=Ashes; tex=Smooth3; algo=lines; ox=14; wdt=26; turbulence=1000; loosebounds=1; a=15; b=32; //Asche im Vulkan
+		overlay{mat=Ashes; tex=Rough; algo=rndchecker; turbulence=500; loosebounds=1; };};
+	/*Tunnel*/
+	Tunnels{ y=-10; x=-40; wdt=40; hgt=100; turbulence=700; rotate=84; zoomX=30; zoomY=10; a=5; b=50;}; //fast horizontale Gänge in ~der Mitte (durchgehend)
+	Tunnels{ y=20; x=-38; wdt=45; hgt=62; turbulence=550; rotate=36; zoomX=20; zoomY=18; a=4; b=40;}; // so \ gehende gänge auf der linken seite
+	Tunnels{ y=-50; x=25; wdt=43; hgt=50; turbulence=630; rotate=-44; zoomX=20; zoomY=20; a=4; b=30;}; // so / gehende gänge auf der rechten seite
+	/*Der Schlund + Lava*/
+	overlay{mat=Tunnel; tex=Smooth; algo=lines; ox=17; wdt=16; turbulence=1000; loosebounds=1; a=20; b=32; // Um den Haupt-Schlund noch einige kleine "Adern"
+		overlay{mat=DuroLava; tex=Liquid; algo=solid; wdt=300; y=80; loosebounds=1;};}; //Lava 
+	overlay{mat=Tunnel; tex=Smooth; algo=solid; x=22; wdt=5; turbulence=1000; loosebounds=1; //Der Haupt-Schlund
+		overlay{mat=DuroLava; tex=Liquid; algo=solid; x=-60; wdt=220; y=80; loosebounds=1;};}; //Lava 
+	
+};
+
+};
+
+//Die Idee zu dieser Landkarte stammt von Tim Wölfle. An dieser Stelle ein herzliches Dankeschön :)

@@ -1,0 +1,1 @@
+MsgNoGoodRider=%s cannot ride.

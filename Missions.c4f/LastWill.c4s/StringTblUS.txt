@@ -1,0 +1,11 @@
+# Spielziel
+MsgGoalFulfilled=The dead farmer's last wish has been fulfilled!
+MsgGoalUnfulfilled=You have to take the dead farmer all the way to the ocean.
+
+# Aufgaben
+MsgGoal1=First we should build a homebase using the material found in the underground caverns. Then we can build a workshop and cross the lake with a wooden bridge. The wizard in the castle on the other side will surely help us once we get there.
+
+# Sonstige Nachrichten
+MsgVolcano=Wow, that was close...
+MsgSea=What kind of sound is that?
+MsgErrorCrystals=Stop! You have to collect the 30 crystals and bring them in my castle!

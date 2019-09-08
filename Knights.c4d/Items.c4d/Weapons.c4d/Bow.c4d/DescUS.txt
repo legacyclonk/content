@@ -1,0 +1,5 @@
+Precision long range weapon.
+
+Control 'throw' to aim 'up', 'down', 'left', 'right'. Control 'throw' to fire. Switch inventory or double click 'left' or 'right' to quit aiming.
+
+With mouse control, fire by simply clicking in the target direction. Switch inventory to quit.

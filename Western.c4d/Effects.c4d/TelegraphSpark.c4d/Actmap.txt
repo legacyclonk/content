@@ -1,0 +1,7 @@
+[Action]
+Name=Fly
+Facet=0,0,6,6
+Procedure=NONE
+Length=4
+Delay=3
+NextAction=Fly

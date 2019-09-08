@@ -1,0 +1,9 @@
+CtrlInventoryDesc=Shift inventory
+Hammernoetig=Mallet required!
+Keinplan=No construction plans
+Stellher=Craft: %s
+Herstellmenu=Craft
+Handwerkdisaster=Cannot craft %s!
+Bauenmitnix=Construction requires material!
+TxtConstructions=Construction: %s
+TxtNomoresuitabletrees=No more suitable trees!

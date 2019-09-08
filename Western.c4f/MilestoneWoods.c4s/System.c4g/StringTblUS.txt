@@ -1,0 +1,82 @@
+MsgSaloonInIndianland=The saloon must be constructed in the territory of the Indians!
+
+Dlg_Cowboy1=Hello, how are you?
+Dlg_Cowboy2=Oh, not too well.
+Dlg_Cowboy3=Why?
+Dlg_Cowboy4=Bandits stole all my money, and now I can't pay my debts in the saloon.
+Dlg_Cowboy5=Couldn't you help me out? I would join you in return, in case you need a helping hand.
+Dlg_Cowboy6=How much would that be?
+Dlg_Cowboy7=Not much, only 25 clunkers. If you could bring me a moneybag..?
+Dlg_Cowboy8=Maybe...
+Dlg_Cowboy9=Do you have a moneybag with 25 clunkers?
+Dlg_Cowboy10b=Not yet.
+Dlg_Cowboy10=Sure, there you go!
+Dlg_Cowboy11=Thanks a lot, I'm sure I can be of use.
+Dlg_Cowboy11b=No, I need exactly 25 clunkers.
+
+Dlg_John1=Howdy! What are you doing there?
+Dlg_John2=Standing around.
+Dlg_John3=Oh. Uhm. Why?
+Dlg_John4=I invested all my money for building this elevator, 'cause I thought I could catch my own horse in the land of the indians.
+Dlg_John5=Oh. So?
+Dlg_John6=Well.. there aren't any wild horses anymore, so this elevator is useless for me.
+Dlg_John7=How would it be if we just make use of it?
+Dlg_John8=Of course! As soon as you brought me a horse.
+Dlg_John9=If need be...
+Dlg_John10=Did you bring me a horse?
+Dlg_John11b=Nope.
+Dlg_John11=Yes, we brought you a nice bronco!
+Dlg_John12=Great, so I put this thing into operation!
+
+Dlg_Jack1=Hey, what's up?
+Dlg_Jack2=Usually I don't do any business with tramps...
+Dlg_Jack3=Uhm...
+Dlg_Jack4=..but maybe you have some money to spend, wherever you got that from.
+Dlg_Jack5=Well...
+Dlg_Jack6=So take a look around, but don't touch anything!
+Dlg_Jack7=Don't you see I'm busy right now? Not even 100 clunkers you got!
+Dlg_Jack8=Oh, it seems like you got some money. Why don't yopu come in and have a look at my new goods? Also take this construction plan for building a small foundry, and remember to keep buying in my shop!
+Dlg_Jack9=If you would have 200 clunkers, I might show you some new stuff.
+Dlg_Jack10=I just expanded my range of goods! Of course you are welcome to have a look! Oh and maybe those construction plans for ammunition and gunpowder can be of use for you!
+Dlg_Jack11=Oh, regulars! Do you already have 300 clunkers?
+Dlg_Jack12=How are you today? I have some fine new wares on stock as well as some construction plans for weapons and dynamite boxes.
+Dlg_Jack13=Welcome to my shop!
+
+Dlg_Stanley1=Good day, is there a lot to do in this town?
+Dlg_Stanley2=Not really, most of the buildings are finished. Are you interested in some construction plans?
+Dlg_Stanley3=What do you have to offer?
+Dlg_Stanley4=Well I could sell you the plans for elevators, windmills and dynamos. I would sell them for a money bag with 25 clunkers.
+Dlg_Stanley5=Sounds good!
+Dlg_Stanley6=Do you want to buy the plans for 25 clunkers?
+Dlg_Stanley7b=Nope, I don't have money for that at the moment.
+Dlg_Stanley7=Sure, here is the money.
+Dlg_Stanley8=Alright, these are yopur plans.
+Dlg_Stanley9=Have fun building.
+
+Dlg_Ezhno1=What do you want?
+Dlg_Ezhno2=We want to pass to the land of the indians.
+Dlg_Ezhno3=What for?
+Dlg_Ezhno4=We want to build a saloon there.
+Dlg_Ezhno5=A saloon? Well.. but without the goblet no one is allowed to pass.
+Dlg_Ezhno6=A goblet?
+Dlg_Ezhno7=The chief's goblet. I lost it once, and now I have to guard this passage. Find the goblet, and I'll let you through.
+Dlg_Ezhno8=Where can we find it?
+Dlg_Ezhno9=No idea.
+Dlg_Ezhno10=I see.
+Dlg_Ezhno11=So you got the goblet?
+Dlg_Ezhno12b=Not yet.
+Dlg_Ezhno12=Yes, here it is!
+Dlg_Ezhno13=Alright, take this key to open the gate. Bye!
+Dlg_Ezhno14=Good luck with the saloon.
+
+Dlg_Ezhno15=It's said that everyone, who owns a crystal, will be guarded by the ancestors. Would you give me your crystal?
+Dlg_Ezhno16=No?!
+Dlg_Ezhno17=I would trade it for something nice!
+Dlg_Ezhno18=Okay, let's trade!
+
+Mov_Intro0=If we want to run a saloon, we will need a lot of money. Let's get the 400 clunkers and find the passage to the land of the indians!
+
+Dlg_Trapper1=Great, the passage is open and we have enough money for building the saloon in the indian territory.
+Dlg_Trapper2=Finally! Everything is done. Let's just hope it was worth the effort...
+
+Mov_Blackhat0=What do you want? This is our hideout - get out!!

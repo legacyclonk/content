@@ -1,0 +1,7 @@
+ErrNoCastle=Die Bodenklappe kann nur|vor Burgteilen gebaut werden.
+ErrOnlyWall=Die Bodenklappe kann nur|vor leeren Wänden gebaut werden.
+ErrOnlyBasement=Die Bodenklappe kann nur|in Burgfundamente eingebaut werden.
+ErrDupHatch=Hier ist bereits eine Bodenklappe.
+TxtOpen=Öffnen
+TxtClose=Schließen
+TxtCloseDelay=Verzögert schließen

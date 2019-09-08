@@ -1,0 +1,2 @@
+DE:Durstwarnung
+US:Thirst warning

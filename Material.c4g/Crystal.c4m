@@ -1,0 +1,14 @@
+[Material]
+Name=Crystal
+Color=144,156,228,200,212,252,232,232,232
+Alpha=127,127,127,0,0,0
+Shape=3
+Density=50
+Friction=80
+BlastFree=1
+Blast2Object=CRYS
+Blast2ObjectRatio=100
+MaxAirSpeed=100
+MaxSlide=1
+Placement=50
+TextureOverlay=Structure

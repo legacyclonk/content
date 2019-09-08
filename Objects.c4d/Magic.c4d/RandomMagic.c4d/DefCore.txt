@@ -1,0 +1,10 @@
+[DefCore]
+id=RMMG
+Version=4,9,8
+Name=MagicRandom
+Category=C4D_Magic
+Width=1
+Height=1
+Value=14
+Components=IMUS=1
+Picture=0,0,64,64

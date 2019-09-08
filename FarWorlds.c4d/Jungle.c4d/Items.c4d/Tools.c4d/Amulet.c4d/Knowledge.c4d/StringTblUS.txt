@@ -1,0 +1,5 @@
+TxtResearchs=Research: %s
+TxtNoResearch=Nothing else to research!
+TxtNoJCLK=Can only be used by a jungle clonk
+Txtsdeveloped=%s developed!
+TxtResearch=Research

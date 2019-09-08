@@ -1,0 +1,7 @@
+TxtUnWear=Take Off
+TxtResearchs=Research: %s
+TxtNoResearch=Nothing else to research!
+TxtCantUse=%s can't use the research amulet!
+TxtDeveloped=%s developed!
+TxtResearch=Research
+MsgNoMoreMana=No more magic energy!

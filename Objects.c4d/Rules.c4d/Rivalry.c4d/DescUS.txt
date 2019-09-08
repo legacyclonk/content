@@ -1,0 +1,1 @@
+The Player who fullfills all goals first, wins. All the others lose.

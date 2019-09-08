@@ -1,0 +1,12 @@
+[Teams]
+
+	[Team]
+	id=1
+	Name=$MsgTrooper$
+	IconSpec=Portrait:CVRM::3
+
+
+	[Team]
+	id=2
+	Name=$MsgBandits$
+	IconSpec=Portrait:BNDT::3

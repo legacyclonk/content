@@ -1,0 +1,4 @@
+NoSheriff=Es kann kein Sheriff ausgebildet werden.
+NoCaptain=Es kann kein Captain ausgebildet werden.
+NoBoss=Es kann kein Boss ausgebildet werden.
+NoChief=Es kann kein Häuptling ausgebildet werden.

@@ -1,0 +1,14 @@
+[DefCore]
+id=CT11
+Version=4,9,8
+Name=AttachedShockwaveCannon
+Category=C4D_Vehicle
+Timer=50
+TimerCall=EnergyTransfer
+Width=35
+Height=70
+Offset=-17,-35
+Vertices=1
+Picture=0,0,35,70
+Rotate=120
+NoStabilize=1

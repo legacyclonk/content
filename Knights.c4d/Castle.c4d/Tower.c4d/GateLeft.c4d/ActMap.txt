@@ -1,0 +1,8 @@
+[Action]
+Name=GateLeft
+Procedure=FLOAT
+Delay=10
+FacetBase=1
+NextAction=GateLeft
+StartCall=CheckRange
+ 

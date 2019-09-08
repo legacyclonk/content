@@ -1,0 +1,4 @@
+CtrlDrillDesc=Drill
+CtrlRetractDesc=Retract
+CtrlStopDesc=Stop
+

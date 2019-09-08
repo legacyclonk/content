@@ -1,0 +1,15 @@
+[DefCore]
+id=_SHM
+Version=4,9,8
+Name=Magieschild
+Category=C4D_Living
+TimerCall=CheckLost
+Width=8
+Height=10
+Offset=-4,-5
+Vertices=1
+Value=10
+Mass=20
+Components=CRYS=1
+Picture=32,0,35,35
+NoFight=1

@@ -1,0 +1,8 @@
+[DefCore]
+id=MBOT
+Version=4,9,8
+Name=MagicSleep
+Category=C4D_Magic
+Value=18
+Components=IGOL=3
+Picture=0,0,64,64

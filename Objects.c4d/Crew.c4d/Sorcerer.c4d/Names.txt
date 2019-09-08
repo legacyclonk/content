@@ -1,0 +1,3 @@
+DE:Magier
+US:Sorcerer
+

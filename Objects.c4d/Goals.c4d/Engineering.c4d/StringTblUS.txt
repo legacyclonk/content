@@ -1,0 +1,3 @@
+done=You have built every constructable object!
+todo=The following objects are still to be built:
+MsgGoalTodo=Still to build: %s

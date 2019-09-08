@@ -1,0 +1,5 @@
+TxtAimup=Aim: up
+TxtAimdown=Aim: down
+TxtFire=Fire
+TxtPossibleContents=It can only|be loaded by|drum magazines!
+TxtFull=Gatling is|already loaded!

@@ -1,0 +1,2 @@
+DE:Spielerobjekt
+US:Playerobject

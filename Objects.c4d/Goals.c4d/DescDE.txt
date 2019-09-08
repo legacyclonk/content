@@ -1,0 +1,1 @@
+Diese Objekte bestimmen, wann eine Runde erfolgreich beendet ist. Bei erfolgreichem Abschluss einer Runde erhalten alle nicht eliminierten Spieler einen Punkte-Bonus. Es müssen alle in einer Runde ausgewählten Spielziele erfüllt werden.

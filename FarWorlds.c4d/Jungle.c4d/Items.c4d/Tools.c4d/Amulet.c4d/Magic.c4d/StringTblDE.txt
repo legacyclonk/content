@@ -1,0 +1,4 @@
+TxtMagic=Zaubern
+MsgNotEnoughEnergy=Nicht genug|Zauberenergie!
+MsgNotEnoughIngredients=Nicht genug|alchemische Zutaten!|Es fehlen|%s.
+MnuNoSpells=Keine Zaubersprüche verfügbar

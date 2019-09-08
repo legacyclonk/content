@@ -1,0 +1,15 @@
+CtrlActivateDesc=Build loam bridge
+
+MnuArrowLeft=Bridge left
+MnuArrowLeftDiag=Diagonal left
+MnuArrowStraight=Wall center
+MnuArrowRightDiag=Diagonal right
+MnuArrowRight=Bridge right
+
+MnuWallLeft=Wall left
+MnuWallLeftDiag=Roof diagonal left
+MnuWallStraight=Roof center
+MnuWallRightDiag=Roof diagonal right
+MnuWallRight=Wall right
+
+TxtCantBuild=%s can't|build here.

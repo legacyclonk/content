@@ -1,0 +1,10 @@
+TxtMenu=Nahrungsmenü
+TxtHeal=Heilen
+TxtEat=Hunger Stillen
+DescHeal=Heilt den Clonk vollständig, wenn es genug Nahrung im Lager gibt.
+DescEat=Füttert den Clonk, bis er vollständig satt ist.
+
+
+
+FoodAmount=Lebensmittel
+Menu=Menü

@@ -1,0 +1,11 @@
+# Control
+CtrlLeadDesc=Führen
+CtrlJumpDesc=Springen
+CtrlStopDesc=Anhalten
+CtrlGetOffDesc=Absitzen
+CtrlFastenDesc=Anspannen
+
+# Messages
+MsgNeedSaddle=%s kann nicht|ohne Sattel reiten.
+MsgEmptySaddle=Satteltasche enthält|noch Objekte!
+MsgNoGoodRider=%s kann nicht reiten.

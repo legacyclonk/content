@@ -1,0 +1,3 @@
+TxtHeatmetal=Heat metal
+TxtNometalavailable=No metal available.
+TxtNeedsfueltoburn=Needs coal to burn.

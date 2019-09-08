@@ -1,0 +1,19 @@
+[Teams]
+Active=1
+Custom=1
+
+	[Team]
+	id=1
+	Name=$TeamVillage$
+	PlrStartIndex=1
+	Color=10116667
+	IconSpec=TMS1:0
+	MaxPlayer=1
+
+	[Team]
+	id=2
+	Name=$TeamHerx$
+	PlrStartIndex=2
+	Color=16711680
+	IconSpec=TMS1:1
+	MaxPlayer=1

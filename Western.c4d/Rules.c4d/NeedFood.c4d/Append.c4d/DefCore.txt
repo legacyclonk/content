@@ -1,0 +1,6 @@
+[DefCore]
+id=APTC
+Version=4,9,8
+Name=ApendToClonks
+Category=C4D_StaticBack
+Picture=0,0,8,31

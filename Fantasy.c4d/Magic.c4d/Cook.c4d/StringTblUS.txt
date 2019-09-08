@@ -1,0 +1,1 @@
+NoCook=Nothing to cook!

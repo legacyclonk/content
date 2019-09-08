@@ -1,0 +1,2 @@
+DE:Einsammelbare Tiere
+US:Collectible animals

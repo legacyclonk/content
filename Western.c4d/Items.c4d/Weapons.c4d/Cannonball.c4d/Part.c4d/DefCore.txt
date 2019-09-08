@@ -1,0 +1,15 @@
+[DefCore]
+id=BALP
+Version=4,9,8
+Name=Splitter
+Category=C4D_Object
+Timer=1
+TimerCall=FadeMeOut
+Width=6
+Height=6
+Offset=-3,-3
+Vertices=1
+VertexFriction=50,50
+Mass=6
+Picture=0,0,6,6
+Rotate=1

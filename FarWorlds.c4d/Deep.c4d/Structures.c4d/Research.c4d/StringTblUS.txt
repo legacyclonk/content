@@ -1,0 +1,7 @@
+TxtResearchs=Research: %s
+Txtsdeveloped=%s developed!
+TxtNothingelsetoresearc=Nothing else to research|in this category.
+TxtResearch=Research
+TxtContinuedevelopement=Continue developement of %s
+TxtCancelresearch=Cancel research
+TxtAlreadyDeveloped=%s already developed!

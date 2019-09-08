@@ -1,0 +1,2 @@
+TxtDown=Abstieg
+TxtExit=Verlassen

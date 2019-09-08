@@ -1,0 +1,12 @@
+TxtShowPrisoners=Gefangene anzeigen
+MsgPrisoners=Gefangene
+MsgNoPrisoners=Keine Gefangenen
+
+TxtRecruitSheriff=Sheriff ausbilden
+TxtConstructHandcuffs=Handschellen herstellen
+TxtCancel=Abbrechen
+TxtOnlyOneSheriff=Es kann nur einen Sheriff geben.
+TxtNotEnoughMoney=Nicht genug Geld.
+TxtSheriffRecruited=Sheriff ausgebildet.
+MsgNoMetal=Es wird Metall benötigt.
+NoSheriff=Es kann kein Sheriff ausgebildet werden.

@@ -1,0 +1,38 @@
+overlay InMat { algo = rndchecker; a = 14; turbulence=1000; zoomX=-50; zoomY=-50; };
+overlay AltTex { algo = rndchecker; a = 2; turbulence=1000; };
+
+map SkiesOfFire {
+  overlay { x=5; y=5; wdt=90; hgt=90; grp=1; loosebounds=1; turbulence=1000; } &
+  overlay { x=5; y=5; wdt=90; hgt=90; grp=1; loosebounds=1; turbulence=100; } &
+  overlay { x=8; y=8; wdt=84; hgt=84; grp=1; loosebounds=1; turbulence=10; } &
+  
+   overlay {
+    // Himmelsinseln
+    mat = earth; tex = smooth3;
+    algo = rndchecker; turbulence = 100; a = 1; zoomX = 60; zoomY = 60;
+    //algo = rndchecker;  turbulence = 0; a = 2; zoomX = 70; zoomY = 40;
+    AltTex { mat = earth; tex = rough; };
+
+    // Asche
+    overlay {
+      algo = border; a = 10; b = 10; turbulence = 10;
+    } & overlay { 
+      algo = lines; a = 14; b = 25; turbulence = 1000; mat = ashes; tex = rough;
+      InMat { mat = flyashes; tex = rough; a = 3; };
+    };
+
+    // Stein
+    InMat { a = 6; mat = rock; tex = ridge; AltTex { mat = rock; tex = rock; }; };
+    // Granit
+    InMat { a = 9; mat = granite; tex = ridge; AltTex { mat = granite; tex = rock; }; };
+
+    InMat { a = 18; mat = coal; tex = swirl; };
+    InMat { a = 18; mat = sulphur; tex = swirl; };
+    InMat { a = 20; mat = gold; tex = rough; };
+    InMat { a = 20; mat = ore; tex = rough; };
+    
+    overlay { algo=border; turbulence=10; a=5; b=5; };
+   };
+   
+  
+};

@@ -1,0 +1,2 @@
+TxtTranslocate=Translocate
+TxtRandomwarp=Random warp

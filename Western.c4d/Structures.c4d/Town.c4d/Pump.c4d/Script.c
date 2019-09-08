@@ -1,0 +1,4 @@
+/*-- Pumpe --*/
+
+#strict
+#include PUMP

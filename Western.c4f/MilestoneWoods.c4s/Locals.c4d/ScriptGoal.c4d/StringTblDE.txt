@@ -1,0 +1,4 @@
+MsgGoalFulfilled=Du hast genug Gold und der Durchgang zum Indianerland ist frei.
+MsgGoalUnfulfilled=Dir fehlen noch %d Gold.
+MsgGoalUnfulfilledB=Der Durchgang zum Indianerland ist noch nicht frei.
+MsgGoalUnfulfilledC=Der Saloon muss noch gebaut werden.

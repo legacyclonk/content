@@ -1,0 +1,2 @@
+DE:Feuermonster
+US:Fire monster

@@ -1,0 +1,2 @@
+TxtPlacementFailed=Konnte nicht platzieren! Nicht genug Wasser!
+TxtAnnounce=Kurzatmiger Fisch:|Nimm ihn nicht aus dem Wasser, er wird sofort ersticken!

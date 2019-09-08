@@ -1,0 +1,2 @@
+DE:Farbspeicher
+US:Color buffer

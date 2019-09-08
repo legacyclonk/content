@@ -1,0 +1,2 @@
+DE:Siedlung bauen
+US:Build settlement

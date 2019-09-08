@@ -1,0 +1,11 @@
+[Action]
+Name=Water
+Directions=2
+NextAction=Hold
+FacetBase=1
+
+[Action]
+Name=Potion
+Directions=2
+NextAction=Hold
+FacetBase=1

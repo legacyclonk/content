@@ -1,0 +1,1 @@
+Mit diesem mächtigen Spruch kann man Zaubersprüche in Objekten speichern. Diese können dann auf verschiedenen Wegen aktiviert werden.

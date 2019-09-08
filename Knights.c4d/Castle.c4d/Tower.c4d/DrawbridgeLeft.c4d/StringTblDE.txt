@@ -1,0 +1,2 @@
+TxtDrawbridgeup=Zugbrücke rauf
+TxtDrawbridgedown=Zugbrücke runter

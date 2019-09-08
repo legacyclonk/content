@@ -1,0 +1,1 @@
+If this rule is enabled, each player buys from his own homebase material in the drugstore.

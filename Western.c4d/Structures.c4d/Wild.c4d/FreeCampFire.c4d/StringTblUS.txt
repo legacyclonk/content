@@ -1,0 +1,5 @@
+MsgFull=Camp fire is full!
+MsgNotEmpty=Has to be empty!
+Destroy=Split
+MsgCantBeGrilled=%s can't be grilled.
+DescTake=Take out

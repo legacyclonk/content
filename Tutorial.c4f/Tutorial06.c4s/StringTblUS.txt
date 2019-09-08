@@ -1,0 +1,13 @@
+TxtWithyourfirstclonkco=With your first clonk, collect the crystal.$06_01_en.ogg
+TxtNotSafe=The area seems to be unstable.$06_09_en.ogg
+TxtWiththeotherclonkact=With the other clonk, get the construction kit from your home base and build an elevator in the space between the cabin and the power plant.$06_02_en.ogg
+TxtElevPowerSupply=The elevator is connected to the power plant with a line kit.$06_03_en.ogg
+TxtNowdigoutafewchunkso=Now dig out a few pieces of coal from the coal layer on the right.$06_04_en.ogg
+TxtThrowTheCoalInto=Throw the coal chunks into the chute of the power plant.$06_05_en.ogg
+TxtOncetheelevatorhaspo=Now you can drill an elevator shaft and retrieve the crystal.$06_06_en.ogg
+TxtThinkOfAWay=You will have to think of a way to get the water out of the way first.$06_07_en.ogg
+TxtActivatethesellmenuu=Sell the crystal to complete this round.$06_08_en.ogg
+BtnNextTutorial=&Next tutorial
+BtnNextTutorialDesc=Start the next tutorial scenario.
+BtnRepeatRound=&Repeat this round
+BtnRepeatRoundDesc=Restart this scenario.

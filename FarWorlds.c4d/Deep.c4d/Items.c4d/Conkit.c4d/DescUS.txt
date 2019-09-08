@@ -1,0 +1,1 @@
+Activate with a double click 'dig' to create a new structure.

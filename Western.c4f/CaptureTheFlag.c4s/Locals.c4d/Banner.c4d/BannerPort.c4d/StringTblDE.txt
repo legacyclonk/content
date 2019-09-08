@@ -1,0 +1,13 @@
+MsgFlagStolenB=%s hat die Flagge von Team Blau.
+MsgFlagStolenR=%s hat die Flagge von Team Rot.
+
+MsgFlagReturnB=Die blaue Flagge wurde zurückgebracht.
+MsgFlagReturnR=Die rote Flagge wurde zurückgebracht.
+
+MsgPointB=%s macht einen Punkt für das Team Blau.
+MsgPointR=%s macht einen Punkt für das Team Rot.
+
+MsgNoFlags=Flaggen haben im Fort nichts zu suchen!
+
+MsgFlagDropB=%s hat die blaue Flagge fallen gelassen.
+MsgFlagDropR=%s hat die rote Flagge fallen gelassen.

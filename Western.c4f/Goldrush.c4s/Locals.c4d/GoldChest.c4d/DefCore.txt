@@ -1,0 +1,24 @@
+[DefCore]
+id=_GCS
+Version=4,9,8,8
+Name=Gold Chest
+Category=C4D_Vehicle
+MaxUserSelect=1
+Width=18
+Height=24
+Offset=-9,-12
+Vertices=4
+VertexX=-8,-8,8,8
+VertexY=-2,11,-2,11
+VertexCNAT=5,9,6,10
+VertexFriction=50,50,100,100
+Value=15
+Mass=10
+Components=WOOD=2;METL=1
+Picture=0,24,64,64
+Collection=-8,-2,16,4
+Rebuy=1
+Grab=2
+GrabPutGet=C4D_GrabGet|C4D_GrabPut
+ContainBlast=1
+ClosedContainer=1

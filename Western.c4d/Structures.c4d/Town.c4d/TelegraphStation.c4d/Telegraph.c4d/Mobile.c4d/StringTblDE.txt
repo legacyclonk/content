@@ -1,0 +1,2 @@
+CtrlErect=Aufstellen
+MsgErectFirst=Mast erst aufrichten!

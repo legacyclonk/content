@@ -1,0 +1,7 @@
+[Action]
+Name=OceanEater
+Length=1
+Delay=1
+NextAction=OceanEater
+StartCall=Advancing
+Sound=OceanEater

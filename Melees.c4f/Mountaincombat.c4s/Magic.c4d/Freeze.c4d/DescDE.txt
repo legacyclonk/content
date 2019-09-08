@@ -1,0 +1,1 @@
+Friert alle Clonks in der Landschaft für kurze Zeit (ca. 15 Sekunden) ein. Auch verbündete!

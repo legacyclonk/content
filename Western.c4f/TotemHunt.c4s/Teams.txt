@@ -1,0 +1,22 @@
+[Teams]
+
+	[Team]
+	id=1
+	Name=$TeamWolves$
+	PlrStartIndex=1
+	Color=5921370
+	IconSpec=Portrait:INDI::1
+
+	[Team]
+	id=2
+	Name=$TeamTrappers$
+	PlrStartIndex=2
+	Color=9856000
+	IconSpec=Portrait:TRPR::1
+
+	[Team]
+	id=3
+	Name=$TeamBears$
+	PlrStartIndex=3
+	Color=14272662
+	IconSpec=Portrait:INDI::3

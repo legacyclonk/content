@@ -1,0 +1,11 @@
+CtxConstructionDesc=Construction
+CtxHomeDesc=Back to base
+CtxRelease=Release
+CtrlMenuDesc=Menu
+CtrlInventoryDesc=Shift inventory
+
+CtxArmDesc=Arm
+CtxDefendDesc=Defend
+
+MsgNoWeapons=Ugh! No weapons.
+MsgArmed=I'm armed.

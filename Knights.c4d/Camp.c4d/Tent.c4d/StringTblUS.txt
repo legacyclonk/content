@@ -1,0 +1,5 @@
+# Controls
+CtrlPack=Pack
+
+# Nachrichten
+MsgTentMustBeEmpty=Tent must be empty|to be packed.

@@ -1,0 +1,17 @@
+[DefCore]
+id=DYNB
+Version=4,9,8
+Name=DynamiteBox
+Category=C4D_Living
+MaxUserSelect=3
+Width=15
+Height=15
+Offset=-7,-7
+Vertices=1
+VertexY=3
+VertexFriction=100
+Value=30
+Mass=5
+Components=DYNA=5
+Picture=0,15,64,64
+Rebuy=1

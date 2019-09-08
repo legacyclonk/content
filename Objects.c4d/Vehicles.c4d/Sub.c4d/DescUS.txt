@@ -1,0 +1,1 @@
+Enter through turret, exit with double 'up'. Loaded torpedoes can be launched via 'dig'.

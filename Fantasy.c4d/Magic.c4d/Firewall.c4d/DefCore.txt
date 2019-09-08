@@ -1,0 +1,14 @@
+[DefCore]
+id=MFWL
+Version=4,9,8
+Name=MagicFirewall
+Category=C4D_StaticBack|C4D_Magic
+Timer=6
+TimerCall=Timer
+Width=30
+Height=140
+Offset=-15,-140
+Vertices=1
+Value=19
+Components=ISPH=2
+Picture=0,0,64,64

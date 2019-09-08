@@ -1,0 +1,5 @@
+CtxConstructionDesc=Construction
+CtxHomeDesc=Back to base
+CtxRelease=Release
+CtrlMenuDesc=Menu
+CtrlInventoryDesc=Shift inventory

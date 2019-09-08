@@ -1,0 +1,13 @@
+[Particle]
+Name=Feather
+MaxCount=150
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,16,16,-8,-8
+GravityAcc=5
+RByV=1
+AlphaFade=2
+Delay=0
+Additive=1
+Repeats=1

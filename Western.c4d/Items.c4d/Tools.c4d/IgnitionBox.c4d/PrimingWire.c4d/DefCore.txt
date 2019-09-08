@@ -1,0 +1,12 @@
+[DefCore]
+id=PIWI
+Version=4,9,8
+Name=Wire
+Category=C4D_StaticBack
+Width=1
+Height=1
+Vertices=2
+Value=10
+Mass=15
+Picture=0,0,36,32
+Line=C4D_LinePower|C4D_LineSource|C4D_LineLightning

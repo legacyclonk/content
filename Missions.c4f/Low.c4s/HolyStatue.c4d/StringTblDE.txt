@@ -1,0 +1,8 @@
+MsgPart0=Bringe einfach alle Statuenteile hierher.|Sie werden automatisch wieder zusammen gesetzt.
+MsgPart1=Sehr gut. Weiter so!
+MsgPart2=Wunderbar. Lass Dich nicht entmutigen,|wenn es einmal schwieriger wird.
+MsgPart3=Sehr Gut! Der linke Arm muss vermutlich repariert werden,|bevor er wieder angebracht werden kann.
+MsgPart4=Super!|Die Arbeit ist schon weit voran geschritten.
+MsgPart5=Exzellent!|Jetzt fehlt nur noch der Kopf.
+MsgPart6=Das hast Du sehr gut gemacht.|Die Statue erstrahlt wieder in vollem Glanz!
+MsgPart4B=Dieses Teil ist leider kaputt.|Baue eine Werkstatt, um es darin wieder zu reparieren.

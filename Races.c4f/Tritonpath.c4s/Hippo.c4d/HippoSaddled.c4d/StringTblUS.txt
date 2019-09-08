@@ -1,0 +1,5 @@
+TxtEat=Eat
+MsgFetch=%s fetch
+MsgPut=%s put
+MsgEmpty=%s is empty
+CtrlGetOffDesc=Get Off

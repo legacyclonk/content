@@ -1,0 +1,16 @@
+[Action]
+Name=Armed
+Procedure=FLOAT
+Delay=2
+Length=1
+FacetBase=1
+NextAction=Hold
+PhaseCall=Check
+
+[Action]
+Name=Trapped
+Procedure=FLOAT
+Delay=1
+Length=1
+NextAction=Hold
+PhaseCall=Trapped

@@ -1,0 +1,3 @@
+TxtPermanentModeTurnOn=Permanent mode on
+TxtPermanentModeTurnOff=Permanent mode off
+TxtPermanentModeDesc=In permanent mode the elevator rides up and down continuously and does not stop for waiting clonks.

@@ -1,0 +1,21 @@
+/* Hügelige Inseln #2*/
+
+overlay Isle{ algo=sin; y=50; mat=Earth; tex=Smooth; turbulence=5000; loosebounds=1; zoomX=60; zoomY=70;
+	overlay{mat=Earth; tex=Rough; algo=rndchecker; a=6; y=0; turbulence=1500; loosebounds=1; zoomX=-20; zoomY=-20;};
+	overlay{mat=Earth; tex=Smooth2; algo=bozo; a=2; y=0; turbulence=100; loosebounds=1; zoomX=-20; zoomY=-20;};
+	overlay{mat=Sulphur;tex=Swirl; algo=rndchecker; a=6; y=18; turbulence=2000;loosebounds=1; zoomX=-40; zoomY=-40;};
+	overlay{mat=Coal; tex=Swirl; algo=rndchecker; a=6; y=10; turbulence=2000;loosebounds=1; zoomX=-40; zoomY=-40;};
+	overlay{mat=Tunnel; tex=Smooth; algo=rndchecker; a=3; y=10; x=5; wdt=90; turbulence=100;  zoomX=-20; zoomY=-20;};
+	overlay{ mat=Earth; tex=Rough; algo=border; a=3; b=2; loosebounds=1;};
+	overlay{mat=Rock; tex=Rough; algo=rndchecker; a=4; y=0; turbulence=2000;loosebounds=1; zoomX=-15; zoomY=-15;};
+	overlay{mat=Ore; tex=Ridge; algo=rndchecker; a=5; y=16; turbulence=1000; loosebounds=1; zoomX=-30; zoomY=-20;};
+	};
+
+map Islands {
+overlay { algo=solid; y=70; mat=Water; tex=Liquid; sub=0;};
+Isle { x=6; wdt=10; };
+Isle { x=22; wdt=23; };
+Isle { x=50; wdt=12; };
+Isle { x=66; wdt=18; };
+Isle { x=85; wdt=10; };
+};

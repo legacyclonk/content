@@ -1,0 +1,16 @@
+[DefCore]
+id=AIMR
+Version=4,9,8
+Name=Aimer
+Category=C4D_StaticBack
+Width=1
+Height=1
+Vertices=2
+VertexY=20
+Picture=0,0,16,16
+LineConnect=C4D_EnergyHolder
+Rotate=1
+BorderBound=7
+
+[Physical]
+Energy=1000

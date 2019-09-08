@@ -1,0 +1,10 @@
+[DefCore]
+id=RVLT
+Version=4,9,8
+Name=Aufwertung
+Category=C4D_Magic
+Width=1
+Height=1
+Value=86
+Components=IGOL=4;IROC=3;IBON=2
+Picture=0,0,40,40

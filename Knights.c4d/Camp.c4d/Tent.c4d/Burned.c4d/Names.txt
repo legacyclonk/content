@@ -1,0 +1,2 @@
+DE:Verbranntes Zelt
+US:Burned tent

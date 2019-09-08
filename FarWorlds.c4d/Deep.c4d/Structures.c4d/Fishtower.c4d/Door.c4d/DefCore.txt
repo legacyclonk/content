@@ -1,0 +1,10 @@
+[DefCore]
+id=ATDR
+Version=4,9,8
+Name=Tür
+Category=C4D_Structure
+Width=19
+Height=25
+Offset=-9,-12
+Picture=0,0,19,16
+Entrance=-10,-8,19,25

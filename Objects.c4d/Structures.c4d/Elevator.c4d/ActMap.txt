@@ -1,0 +1,9 @@
+[Action]
+Name=LiftCase
+Procedure=NONE
+Facet=58,5,2,4,13
+FacetBase=1
+FacetTargetStretch=1
+NextAction=LiftCase
+EnergyUsage=0
+ 

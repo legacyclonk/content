@@ -1,0 +1,13 @@
+[Particle]
+Name=Flash
+MaxCount=9000
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+CollisionFn=Die
+Face=0,0,50,50,-25,-25
+Delay=0
+Repeats=1
+GravityAcc=0
+AlphaFade=4
+Additive=1

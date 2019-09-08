@@ -1,0 +1,7 @@
+[DefCore]
+id=TIM1
+Version=4,9,8
+Name=SkyColorBuffer
+Category=C4D_StaticBack
+Width=1
+Height=1

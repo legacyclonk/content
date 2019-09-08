@@ -1,0 +1,2 @@
+MsgAlreadyMaxed=Gravitation steht|bereits auf Maximum!
+MsgRaised=Gravitation erhöht.|Sie beträgt jetzt %d%.

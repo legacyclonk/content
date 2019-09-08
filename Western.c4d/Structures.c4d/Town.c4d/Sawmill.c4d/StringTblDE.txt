@@ -1,0 +1,2 @@
+TxtNomoresuitabletrees=Keine geeigneten|Bäume mehr!
+TxtProducewood=Holzproduktion

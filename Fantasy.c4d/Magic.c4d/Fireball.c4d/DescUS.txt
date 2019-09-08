@@ -1,0 +1,1 @@
+Throws a fire ball in the direction that the caster is aiming at.

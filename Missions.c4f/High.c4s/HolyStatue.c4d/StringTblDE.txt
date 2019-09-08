@@ -1,0 +1,5 @@
+MsgPart1=Schön!|Du hast einen Teil des Körpers gefunden.|Nun stehen neue kaufbare Clonks zur Verfügung.|Diese können dir helfen, falls dein Clonk verloren ist.|Suche nun den anderen Teil des Körpers.
+MsgPart2=Gut!|Du hast einen zweiten Teil des Körpers gefunden.|Jetzt kannst du Fahrstühle bauen.|Das erleichtert die Arbeit ungemein.|Suche nun den rechten Arm.
+MsgPart3=Sehr Gut!|Du hast den rechten Arm gefunden.|Suche jetzt die Reste des linken Arms.|Baue dann eine Werkstatt und darin den Arm.
+MsgPart4=Super!|Der linke Arm ist wieder an einem Stück.|Endlich kannst du Ballons kaufen und bauen.|Gibt acht, dass sie nicht verbrennen!|Suche nun einen Teil des Kopfes.
+MsgPart5=Exzellent!|Nur noch ein Teil fehlt!|Nun sind auch Flaggen und ein|Luftschiff zum Kauf erhältlich.|Jetzt kannst du dich in der Höhe ansiedeln!|Finde noch das letzte Teil.

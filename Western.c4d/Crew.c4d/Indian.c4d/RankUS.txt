@@ -1,0 +1,31 @@
+# Indian Ranks
+
+Clonk
+Green Ear
+Black Foot
+Tracker
+Fire Dancer
+Rabbit Hunter
+Wolf Hunter
+Bear Hunter
+Wind Whisperer
+Horse Tamer
+Buffalo Hunter
+Calumet Smoker
+Tent Builder
+Herb Expert
+Potion Master
+Assistant Chief
+Chief
+Principal
+Hero-of-the-Indians
+Legend-of-the-wilderness
+Wise-Man-of-the-rocks
+Knower-of-the-plants
+Master-of-the-animals
+Lord-of-the-plains
+*Wild %s
+*Redoubtable %s
+*Redskinned %s 
+*%s with War Paint
+*%s in Harmony with Nature

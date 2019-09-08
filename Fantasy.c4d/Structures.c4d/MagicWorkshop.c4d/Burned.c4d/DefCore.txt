@@ -1,0 +1,22 @@
+[DefCore]
+id=BMWS
+Version=4,9,8
+Name=Magic workshop
+Category=C4D_Structure
+Width=80
+Height=83
+Offset=-40,-41
+Vertices=4
+VertexX=-39,36,33,-36
+VertexY=41,41,-5,-14
+VertexFriction=100,100,100,100
+Value=250
+Mass=5000
+Components=ROCK=5;WOOD=3
+Picture=0,0,80,83
+Exclusive=1
+BlastIncinerate=95
+Construction=1
+ConstructTo=MWKS
+Rotate=1
+ContainBlast=1

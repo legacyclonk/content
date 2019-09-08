@@ -1,0 +1,20 @@
+[DefCore]
+id=GCOR
+Version=4,9,8
+Name=Grüne Koralle
+Category=C4D_Object|C4D_SelectMaterial|C4D_SelectHomebase
+MaxUserSelect=10
+Width=10
+Height=10
+Offset=-5,-5
+Vertices=3
+VertexX=-3,4,-3
+VertexY=-4,3,5
+VertexFriction=20,20,20
+Value=3
+Mass=12
+Components=GCOR=1
+Picture=10,0,64,64
+Rebuy=0
+Collectible=1
+Rotate=1

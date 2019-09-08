@@ -1,0 +1,7 @@
+Zielgenaue Langstreckenwaffe der Indianer.
+
+Kommando Werfen, dann Hoch, Runter, Rechts, Links zum Zielen und Kommando Werfen zum Abfeuern. Inventarwechsel oder doppelt Rechts oder Links zum Abbrechen.
+
+Bei Maussteuerung kann durch einen einfachen Bewegungsklick in die entsprechende Richtung geschossen werden. Zielen abbrechen durch Inventarwechsel.
+
+

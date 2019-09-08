@@ -1,0 +1,2 @@
+DE:Zustand
+US:State

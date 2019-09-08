@@ -1,0 +1,1 @@
+TxtNoShoot=Schuss hier nicht möglich!

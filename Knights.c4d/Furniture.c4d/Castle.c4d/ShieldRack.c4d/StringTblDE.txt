@@ -1,0 +1,3 @@
+MsgRackFull=Schildständer|ist voll.
+MsgRackEmpty=Schildständer|ist leer.
+CtrlTake=Schild nehmen

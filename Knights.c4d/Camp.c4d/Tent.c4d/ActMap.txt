@@ -1,0 +1,16 @@
+[Action]
+Name=Con
+Procedure=NONE
+Facet=0,0,42,48
+Delay=0
+Length=20
+Reverse=1
+NextAction=Idle
+
+[Action]
+Name=Pack
+Procedure=NONE
+Facet=0,0,42,48
+Delay=3
+Length=20
+EndCall=PackComplete

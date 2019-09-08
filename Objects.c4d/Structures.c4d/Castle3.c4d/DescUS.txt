@@ -1,0 +1,1 @@
+Ascend to the platforms through commands 'left' and 'right'.

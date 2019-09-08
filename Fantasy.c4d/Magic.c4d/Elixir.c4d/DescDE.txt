@@ -1,0 +1,3 @@
+Beseitigt alle negativen Statuseffekte und heilt den ausgewählten Clonk ein wenig.
+
+Löscht und wärmt jedoch im Gegensatz zu Genesung nicht. Auch auf Flüche hat der Zauber keine Wirkung.

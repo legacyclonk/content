@@ -1,0 +1,2 @@
+Connect=Verbinden
+MsgCantConnect=Verbinden nicht möglich!

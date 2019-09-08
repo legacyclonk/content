@@ -1,0 +1,4 @@
+MsgTodo=You can take only <c ffff00>%d</c> potions from the cauldron.
+MsgTodoOne=You can take only <c ffff00>one</c> potion from the cauldron.
+YouCanTake=You can take %d potions.
+YouCanTakeOne=You can take one potion.

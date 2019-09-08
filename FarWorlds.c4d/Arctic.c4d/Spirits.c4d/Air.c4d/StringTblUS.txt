@@ -1,0 +1,7 @@
+TxtTheSpiritofAirgreets=The Spirit of Air greets you.|Here's my quest for you.
+TxtSomeofmystarshavefal=Some of my stars have|fallen from the sky.
+TxtFindthedloststarsand=Find the %d lost stars|and bring them to me.
+TxtYouhavecompletedyour=You have completed your task.|Here is your reward.
+TxtAhThankyouNowtheress=Ah! Thank you. Now there's|still %d stars missing.
+TxtAhThankyouNowtherone=Ah! Thank you. Now there's|still 1 star missing.
+TxtFinallyIhaveallmysta=Finally I have all my stars back!

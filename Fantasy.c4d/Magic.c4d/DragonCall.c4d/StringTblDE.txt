@@ -1,0 +1,3 @@
+MsgNoDragon=Kein ausgewachsener|Drache in der Nähe!
+MsgNoPlace=Drache kann hier nicht landen!
+MsgDragonAngry=Drache ist wütend!

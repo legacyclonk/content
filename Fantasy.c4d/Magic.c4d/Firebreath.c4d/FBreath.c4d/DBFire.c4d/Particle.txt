@@ -1,0 +1,15 @@
+[Particle]
+Name=DBFire
+MaxCount=300
+InitFn=StdInit
+ExecFn=StdExec
+CollisionFn=Stop
+VertexCount=1
+DrawFn=Std
+Face=0,0,32,32,-16,-16
+Repeats=1
+Delay=4
+GravityAcc=0
+AlphaFade=6
+Additive=0
+RByV=1

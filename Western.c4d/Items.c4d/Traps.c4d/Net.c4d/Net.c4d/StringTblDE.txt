@@ -1,0 +1,1 @@
+GetLiving=Lebewesen rausnehmen

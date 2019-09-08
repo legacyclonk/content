@@ -1,0 +1,11 @@
+[Teams]
+
+	[Team]
+	id=1
+	Name=$MsgLeft$
+	IconSpec=KTM1:5
+
+	[Team]
+	id=2
+	Name=$MsgRight$
+	IconSpec=KTM1:1

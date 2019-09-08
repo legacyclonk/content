@@ -1,0 +1,1 @@
+Turns an Inuk into an Angakok shaman. Each amulet has to be assigned to one of the magic circles (life, death, or mystic) first. Life amulets will then produce magic energy according to your tribe population.

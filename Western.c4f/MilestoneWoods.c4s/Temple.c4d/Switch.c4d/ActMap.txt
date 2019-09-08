@@ -1,0 +1,13 @@
+[Action]
+Name=Normal
+Procedure=NONE
+Length=2
+Delay=0
+Facet=0,0,16,16
+
+[Action]
+Name=Attach
+Procedure=ATTACH
+Length=2
+Delay=0
+Facet=0,0,16,16

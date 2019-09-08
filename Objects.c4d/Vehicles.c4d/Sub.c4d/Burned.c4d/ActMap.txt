@@ -1,0 +1,7 @@
+[Action]
+Name=Wrecked
+Directions=2
+FlipDir=1
+Delay=10
+Facet=0,0,80,40
+NextAction=Wrecked

@@ -1,0 +1,1 @@
+Der Fahrstuhl fährt automatisch zu wartenden Clonks, kann aber auch in den Dauerbetrieb geschaltet werden.

@@ -1,0 +1,30 @@
+# Menü
+
+MnuIndex=Beutelinhalt
+MnuHelp=Hilfe
+MnuDecompose=%s verarbeiten
+MnuExhaust=%s ausleeren
+MnuDeposit=Beutel ablegen
+
+# Kontext
+
+CtxAlchemy=Alchemie
+
+# Nachrichten
+
+MsgReceived=%s erhalten
+MsgDeposit=Alchemiebeutel abgelegt.
+MsgPuton=Alchemiebeutel angelegt.
+MsgHelpTxt=Ein jeder Clonk, der einen Alchemiebeutel trägt, kann über das Kontextmenü bestimmte Gegenstände und Materialien zu alchemischen Zutaten verarbeiten, die dann im Beutel verstaut werden, von wo aus sie beim Sprechen von Zaubern oder der Zubereitung alchemischer Tränke verwendet werden.
+MsgEmpty=Der Beutel ist leer.
+MsgAlreadyHasBag=%s trägt bereits|einen Alchemiebeutel!
+MsgContainerEmpty=Behälter ist leer!
+
+# Steuerung
+
+CtrlActivateBag=Anlegen
+
+# Beschreibung
+
+DescIndex=Zeigt dir den Inhalt des Alchemiebeutels an.
+DescDeposit=Legt den getragenen Alchemiebeutel ab.

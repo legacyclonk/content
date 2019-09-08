@@ -1,0 +1,5 @@
+/*-- Fahrstuhl --*/
+
+#strict
+
+#include ELEV

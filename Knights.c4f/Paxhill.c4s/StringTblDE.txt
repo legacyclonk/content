@@ -1,0 +1,3 @@
+TeamLeft=Hörx
+TeamRight=Mankel
+MsgRejoin=%s hat noch %d Rejoin(s)

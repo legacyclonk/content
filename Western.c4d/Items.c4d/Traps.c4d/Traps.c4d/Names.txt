@@ -1,0 +1,2 @@
+DE:Fallensteuerung
+US:Trap control

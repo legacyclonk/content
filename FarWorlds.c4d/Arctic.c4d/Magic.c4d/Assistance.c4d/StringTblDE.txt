@@ -1,0 +1,1 @@
+TxtMyst=Mystikstufe zu niedrig!

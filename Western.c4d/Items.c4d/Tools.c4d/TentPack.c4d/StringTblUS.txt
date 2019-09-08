@@ -1,0 +1,9 @@
+TxtCreateConstructions=Create construction site
+TxtNoconstructionplansa=No construction plans available
+TxtConstructions=Construction: %s
+
+TxtFill=Fill tent pack
+TxtCantTake=Can't take.
+TxtCantFind=Can't find object.
+TxtBackMenu=Back to menu
+DescBackMenu=Turns you back to the build menu.

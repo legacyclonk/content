@@ -1,0 +1,12 @@
+[Action]
+Name=Reload
+NextAction=Idle
+Length=1
+Delay=20
+
+[Action]
+Name=Burned
+NextAction=Hold
+Length=1
+Delay=0
+Facet=0,24,7,24

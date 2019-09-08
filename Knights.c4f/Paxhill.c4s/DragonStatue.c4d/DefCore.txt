@@ -1,0 +1,11 @@
+[DefCore]
+id=_DST
+Version=4,9,8
+Name=DragonStatue
+Category=C4D_StaticBack
+Width=160
+Height=160
+Offset=-80,-80
+Value=100
+Mass=100
+Components=ROCK=100

@@ -1,0 +1,3 @@
+Beseitigt alle negativen Statuseffekte, löscht den Clonk und heilt den ausgewählten Clonk vollständig.
+
+Auf Flüche hat der Zauber jedoch keine Wirkung.

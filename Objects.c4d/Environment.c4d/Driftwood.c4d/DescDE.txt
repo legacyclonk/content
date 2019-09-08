@@ -1,0 +1,1 @@
+Erzeugt in unregelmäßigen Abständen Holzstücke im Meer. Der Plazierungsfaktor bestimmt die Holzmenge.

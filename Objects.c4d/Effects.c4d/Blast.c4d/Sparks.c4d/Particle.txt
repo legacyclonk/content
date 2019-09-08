@@ -1,0 +1,13 @@
+[Particle]
+Name=FSpark
+MaxCount=300
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,32,32,-16,-16
+Delay=3
+Repeats=1
+Reverse=0
+FadeOutLen=3
+FadeOutDelay=3
+RByV=1

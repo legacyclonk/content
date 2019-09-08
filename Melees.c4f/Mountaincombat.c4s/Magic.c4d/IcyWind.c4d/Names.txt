@@ -1,0 +1,2 @@
+DE:Eisiger Wind
+US:Icy Wind

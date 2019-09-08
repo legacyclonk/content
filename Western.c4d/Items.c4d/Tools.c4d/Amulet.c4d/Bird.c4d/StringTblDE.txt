@@ -1,0 +1,10 @@
+TxtPutOn=Anlegen
+TxtUnWear=Abnehmen
+TxtMagic=Zaubern
+MnuDecompose=Zerkleinern
+MnuNoSpells=Keine Zaubersprüche verfügbar
+MsgPutOn=%s angelegt
+MsgNotReadyToMagic=%s kann|jetzt nicht zaubern.
+MsgNotEnoughEnergy=Nicht genug|Zauberenergie!
+MsgNotEnoughIngredients=Nicht genug|alchemische Zutaten!|Es fehlen|%s.
+MsgNotReady=%s ist noch nicht fertig|und kann noch nicht|aktiviert werden.

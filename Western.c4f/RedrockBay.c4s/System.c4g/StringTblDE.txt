@@ -1,0 +1,16 @@
+Mov_Intro0=Da sind wir also.
+Mov_Intro1=An diesen Hut muss ich mich wirklich noch gewöhnen.
+Mov_Intro2=Clonkerika, das Land des Goldes und der unbegrenzten Möglichkeiten!
+Mov_Intro3=Nun für mich sieht beides gerade sehr begrenzt aus!
+Mov_Intro4=Was wolltest du auch mit einer Fackel bei den Sprengstoffen?
+Mov_Intro5=Ich wollte sehen, ob sie vielleicht nass geworden sind...
+Mov_Intro6=Jedenfalls gut, dass wir zumindest schon etwas abgeladen hatten.
+Mov_Intro7=Lasst uns also schnell die Siedlung errichten, die der König im Tausch für das Schiff wollte und wieder etwas Geld sammeln.
+Mov_Intro8=Und wie kommen wir dann von hier weg?
+Mov_Intro9=Ich schicke einem alten Freund von mir, der bereits hier ist, ein Telegramm um uns abzuholen.
+Mov_Intro10=Wir müssen nur sehen, ob wir irgendwo einen Masten des örtlichen Telegraphennetzes finden, an den wir anschließen können.
+Mov_Intro11=Denkt aber daran, dass der König die Verbindung wegen ankommender Schiffe in Ufernähe wollte. Wir sollten also auch diesen Masten hier Verbinden.
+Mov_Intro12=Na gut, dann wollen wir mal.
+
+Mov_Extro0=Die Siedlung steht, wir sind an das Telegraphennetz angeschlossen und haben genug Geld.
+Mov_Extro1=Jetzt haben wir alles erledigt, wir können uns abholen lassen.

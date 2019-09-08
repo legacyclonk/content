@@ -1,0 +1,2 @@
+TxtUse=Use
+TxtNosealinrange=No adequate seal in range!

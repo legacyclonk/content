@@ -1,0 +1,6 @@
+[Action]
+Name=Owl
+Length=1
+Delay=60
+NextAction=Owl
+StartCall=Owl

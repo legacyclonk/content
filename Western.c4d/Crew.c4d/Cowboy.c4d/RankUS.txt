@@ -1,0 +1,31 @@
+# Cowboy
+
+Clonk
+Road Sweeper
+Miner
+Lumberjack
+Country Singer
+Pioneer
+Coach Driver
+Saloon Keeper
+Gold Seeker
+Horse Thief
+Rancher
+Western Rider
+Whisky Guzzler
+Bar Rowdy
+Snake-oil Hawker
+Railroad Man
+Plantation Owner
+Gunslinger
+Bounty Hunter
+Buffalo Hunter
+Wind Rider
+Surehand
+Master Shooter
+Lucky Striker
+*Unerring %s
+*Distinguished %s
+*Mighty %s
+*Best %s
+*Legendary %s

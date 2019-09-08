@@ -1,0 +1,14 @@
+[Particle]
+Name=BirdFeather
+MaxCount=150
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+CollisionFn=Stop
+Face=0,0,10,4,-5,-2
+GravityAcc=80
+RByV=1
+AlphaFade=2
+Delay=0
+Additive=0
+Repeats=1

@@ -1,0 +1,23 @@
+MsgScore=Info
+
+MsgBandits=Bandits
+MsgTown=Cowboys
+
+MsgBanditsJoin=%s joins the bandits.
+MsgCowboysJoin=%s defends the town.
+
+MsgGangLost=%s needs more bandits.
+MsgRelaunchBAND1=More bandits are heading to the hideout! (1 relaunch left)
+MsgRelaunchBAND=More bandits are heading to the hideout! (%d relaunches left)
+
+MsgCowbLost=%s needs more clonks to defend the town!
+MsgRelaunchCOWB1=More cowboys are on their way to the town. (1 relaunch left)
+MsgRelaunchCOWB=More cowboys are on their way to the town. (%d relaunches left)
+
+MsgEliminate=%s bites the dust...
+MsgBanditsWin=The bandits win!
+MsgCowbsWin=The town was successfully defended!
+
+SgnpMines=To the Buccaneer's Caves.
+SgnpFort=To the fort of the cavalry.
+

@@ -1,0 +1,5 @@
+TxtProduce=Work
+TxtCancelproduction=Stop working
+TxtCowboysOnly=%s can not use a dynamo.|A dynamo can only be|used by cowboys.
+TxtAlreadyInUse=Dynamo is already in use.
+TxtEnergy=Energy

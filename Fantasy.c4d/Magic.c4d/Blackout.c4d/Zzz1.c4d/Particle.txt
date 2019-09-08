@@ -1,0 +1,10 @@
+[Particle]
+Name=Zzz
+MaxCount=50
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,16,16,-8,-8
+AlphaFade=2
+Delay=0
+Repeats=1

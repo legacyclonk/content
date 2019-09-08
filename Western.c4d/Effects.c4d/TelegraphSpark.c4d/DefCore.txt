@@ -1,0 +1,13 @@
+[DefCore]
+id=TGTS
+Version=4,9,8
+Name=Spark
+Category=C4D_StaticBack
+Timer=1
+TimerCall=Trace
+Width=6
+Height=6
+Offset=-3,-3
+Rotate=1
+StretchGrowth=1
+IncompleteActivity=1

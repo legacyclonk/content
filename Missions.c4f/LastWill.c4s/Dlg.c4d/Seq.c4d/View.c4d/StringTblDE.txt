@@ -1,0 +1,1 @@
+TxtSkip=Sequenz überspringen

@@ -1,0 +1,5 @@
+MsgRackFull=Store framework|is full.
+MsgRackEmpty=Store framework|is empty.
+CtrlTake=Take smoked meat
+TxtSmoked=smoked
+MsgCanNotSmoke=%s can't be smoked.

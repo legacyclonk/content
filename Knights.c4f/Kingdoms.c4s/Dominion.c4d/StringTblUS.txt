@@ -1,0 +1,78 @@
+# Nachrichten
+MsgUnnamed=Unnamed
+MsgAKingdom=A Kingdom
+
+MsgTeamInfo=You are part of kingdom %s.
+MsgNoTeam=You are not part of a kingdom.
+MsgOneOtherTeams=Watch out - there is one other kingdom!
+MsgOtherTeams=Be careful - there are %d other kingdoms!
+MsgNoOtherTeams=There is no other kingdom.
+MsgOneTeam=There is only one kingdom.
+MsgTeams=There are %d kingdoms.
+MsgNoTeams=The world has no kings. The world needs no king!
+
+MsgTeamJoinCnt=2
+MsgTeamJoin0=Welcome to %s, %s!
+MsgTeamJoin1=%s reinforces %s.
+MsgTeamJoin2=
+MsgTeamJoin3=
+MsgTeamJoin4=
+MsgTeamJoin5=
+MsgTeamJoin6=
+MsgTeamJoin7=
+MsgTeamJoin8=
+MsgTeamJoin9=
+
+MsgKingCnt=4
+MsgKing0=%s lead|the crown of %s.
+MsgKing1=%s grabs the sceptre|of power in %s.
+MsgKing2=%s has the honoer|of kingship in %s.
+MsgKing3=%s dares the challenge:|The destiny of %s is now his own!
+MsgKing4=
+MsgKing5=
+MsgKing6=
+MsgKing7=
+MsgKing8=
+MsgKing9=
+
+MsgEliminatedCnt=4
+MsgEliminated0=%s has fallen!
+MsgEliminated1=%s is history.
+MsgEliminated2=The king of %s has fallen.
+MsgEliminated3=The crown of %s is broken!
+MsgEliminated4=
+MsgEliminated5=
+MsgEliminated6=
+MsgEliminated7=
+MsgEliminated8=
+MsgEliminated9=
+
+MsgWonCnt=2
+MsgWon0=%s won the battle.
+MsgWon1=%s carries the crown of honor.
+MsgWon2=
+MsgWon3=
+MsgWon4=
+MsgWon5=
+MsgWon6=
+MsgWon7=
+MsgWon8=
+MsgWon9=
+
+MsgWonACnt=2
+MsgWonA0=The blood of honor has been spilled|The crowns are lost||The time of kings is over.
+MsgWonA1=Now that's a draw - everyone won :)
+MsgWonA2=
+MsgWonA3=
+MsgWonA4=
+MsgWonA5=
+MsgWonA6=
+MsgWonA7=
+MsgWonA8=
+MsgWonA9=
+
+
+
+# Fehler
+ErrActivateAfterPlrJoin=Assassination must be activated before player joins - goal deleted!
+ErrNeedsTwoKings=Assassination needs at least two kings - goal deleted!

@@ -1,0 +1,8 @@
+[DefCore]
+id=MARK
+Version=4,9,8
+Name=MagicRockStrike
+Category=C4D_StaticBack|C4D_Magic
+Value=45
+Components=ISPH=3;IROC=4
+Picture=0,0,64,64

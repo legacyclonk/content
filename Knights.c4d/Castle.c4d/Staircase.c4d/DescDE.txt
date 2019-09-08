@@ -1,0 +1,1 @@
+Im Treppenhaus Kommando 'Rauf' oder 'Runter', um ins darüber- bzw. darunterliegende Treppenhaus zu gelangen.

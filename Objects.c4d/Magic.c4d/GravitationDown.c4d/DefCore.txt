@@ -1,0 +1,10 @@
+[DefCore]
+id=MGDW
+Version=4,9,8
+Name=MagicLowerGravity
+Category=C4D_Magic
+Width=1
+Height=1
+Value=11
+Components=IROC=1
+Picture=0,0,64,64

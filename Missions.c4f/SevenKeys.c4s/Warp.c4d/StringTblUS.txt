@@ -1,0 +1,5 @@
+TxtWin=The End.
+TxtGoPortal=Congratulations!|You may now enter the portal.
+DescWon=You have delivered all keys. Now enter the portal using the blimp!
+DescGoToPortal=Climb the central hill in order to request the next key!
+DescFindKey=Find the key and bring it to the portal!

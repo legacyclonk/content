@@ -1,0 +1,2 @@
+TxtPlacementFailed=Couldn't place object! Not enough water!
+TxtAnnounce=Short-winded fish:|Don't take him out of the water, he will choke instantly!

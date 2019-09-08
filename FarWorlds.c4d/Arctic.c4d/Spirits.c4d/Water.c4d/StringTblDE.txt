@@ -1,0 +1,6 @@
+TxtIgreetyouclonkIamthe=Ich grüße dich mein Clonk.|Ich bin der Geist des Wassers.
+TxtIhavelosttenofbymost=Mir sind 10 Perlen verloren gegangen.|Sie sind auf dem Meeresboden verstreut.
+TxtFindthedpearlsMakego=Finde die %d Perlen.|Benutze dazu das Zepter.
+TxtThankyouverymuchNowc=Danke vielmals!|Rufe nun den Geist des Todes.|Aber sei wachsam!
+TxtThanksNowIamstillmis=Danke! Nun fehlen noch %d Perlen.
+TxtThanksNowIamstillone=Danke! Nun fehlt nur noch eine Perle.

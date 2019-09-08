@@ -1,0 +1,2 @@
+The cannon shoots Cannonballs. It needs one load of gunpowder per shot.
+To transport the cannon easily you can put it on horses (double click 'dig').

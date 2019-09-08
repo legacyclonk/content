@@ -1,0 +1,13 @@
+[Action]
+Name=Construction
+Procedure=NONE
+Length=20
+Delay=0
+Facet=80,0,80,70
+
+[Action]
+Name=Wait
+Procedure=NONE
+Length=1
+Delay=1
+EndCall=StartConstruction

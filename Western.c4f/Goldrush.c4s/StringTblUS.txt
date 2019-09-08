@@ -1,0 +1,11 @@
+MsgLoadingSect=Loading landscape...
+MsgLoadingFail=Loading section failed.
+DescLevelExtrem=Bandits are almighty.
+DescLevelHard=There are a few more bandits.
+DescLevelNormal=Few and weak bandits.
+DescLevelEasy=Few bandits and no need for food.
+MnuChooseDifficulty=Choose difficulty
+MnuLevelItmExtrem=Difficutly: extreme
+MnuLevelItmHard=Difficutly: difficult
+MnuLevelItmNormal=Difficutly: normal
+MnuLevelItmEasy=Difficutly: easy

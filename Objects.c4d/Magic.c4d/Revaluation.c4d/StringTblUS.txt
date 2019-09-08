@@ -1,0 +1,3 @@
+# Nachrichten
+MsgIsRev=%s is|already a %s.
+MsgBlocked=%s can't revaluate|to %s.

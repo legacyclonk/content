@@ -1,0 +1,13 @@
+# Bedienung
+CtrlRotateThrone=Rotate throne
+CtrlRevive=Revive
+CtrlAbort=Abort/Leave
+
+# Menü
+MnuRevive=Revival
+MnuReviveInfo=Revives the allied player.
+
+# Nachrichten
+MsgReviveProcess=Progress of revival
+MsgNothingToRevive=There are no dead allies
+MsgNoFlag=You must sacrifice|a flag first.

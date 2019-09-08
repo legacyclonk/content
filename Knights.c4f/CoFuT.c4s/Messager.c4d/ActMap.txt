@@ -1,0 +1,14 @@
+[Action]
+Name=Be
+Procedure=NONE
+Length=1
+Delay=15
+StartCall=Check
+NextAction=Be
+
+[Action]
+Name=MainSaver
+Procedure=NONE
+Length=1
+Delay=0
+NextAction=MainSaver

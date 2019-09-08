@@ -1,0 +1,3 @@
+TxtSelect=Funktion wählen
+TxtUpgrade=Funktion:
+UpgradeError=Gegenstand zur|Aufwertung fehlt!

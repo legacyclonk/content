@@ -1,0 +1,3 @@
+MsgOpenAlready=Staircase already open
+MsgOpen=Staircase opened
+MsgClosed=Staircase closed

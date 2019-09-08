@@ -1,0 +1,3 @@
+Dieses Objekt ermöglicht es einem Spieler, in den Besitz der Baupläne für Waffen und Einrichtungsgegenstände zu kommen.
+
+Wenn dieses Objekt zur Startausrüstung eines Spielers gehört oder in der Heimatbasis gekauft werden kann, brauchen die Waffen nicht gesondert in den Szenarioeigenschaften als Baupläne ausgewählt zu sein.

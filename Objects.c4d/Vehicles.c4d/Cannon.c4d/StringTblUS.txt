@@ -1,0 +1,4 @@
+TxtAimup=Aim: up
+TxtAimdown=Aim: down
+TxtFire=Fire
+TxtResetview=Reset view

@@ -1,0 +1,13 @@
+MsgFlagStolenB=%s has stolen the blue flag.
+MsgFlagStolenR=%s has stolen the red flag.
+
+MsgFlagReturnB=The blue flag returned.
+MsgFlagReturnR=The red flag returned.
+
+MsgPointB=%s scores for Team Blue.
+MsgPointR=%s scores for Team Red..
+
+MsgNoFlags=No flags allowed in the forts!
+
+MsgFlagDropB=%s dropped the blue flag.
+MsgFlagDropR=%s dropped the red flag.

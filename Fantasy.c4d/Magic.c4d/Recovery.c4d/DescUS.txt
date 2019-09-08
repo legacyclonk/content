@@ -1,0 +1,3 @@
+Removes all negative status effects, extinguishes fire, and heals the selected clonk completely.
+
+But it can't remove curses.

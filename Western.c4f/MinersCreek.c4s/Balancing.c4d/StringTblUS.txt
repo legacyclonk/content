@@ -1,0 +1,16 @@
+MsgOnlyHost=Only the host (%s) can change the settings.
+MsgTooLate=No changes possible anymore.
+MsgRelaunchesCVRM=Relaunches of the cavalry
+MsgRelaunchesBNDT=Relaunches of the bandits
+MsgBuildings=Buildings
+MsgUtilities=Utilities
+MsgOK=Accept
+MsgCancel=Cancel
+MsgHostChangedSettings=The host altered the settings.
+
+DescRelaunchesCVRM=Determines how often the cavalry can send new troops.
+DescRelaunchesBNDT=Determines how hoften the bandits can hire new gangs.
+DescBuildings=The bandits have to destroy this amount of buildings.
+DescUtilities=This number of utilities has to be destroyed by the bandits.
+DescOk=Accepts the changes.
+DescCancel=Cancels and keeps the original settings.

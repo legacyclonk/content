@@ -1,0 +1,1 @@
+Clonks who are adept with magic can store spells in it (double dig). Its main advantage compared to the scroll is reusability and the option to store up to five spells.

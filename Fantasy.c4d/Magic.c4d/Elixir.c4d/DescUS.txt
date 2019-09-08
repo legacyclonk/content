@@ -1,0 +1,3 @@
+Removes all negative status effects and heals the selected clonk a bit.
+
+Doesn't extinguish or warm the clonk in contrary to the recovery spell. It also can't remove curses.

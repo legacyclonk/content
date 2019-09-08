@@ -1,0 +1,3 @@
+MsgRestart=%s startet nochmal von neu.
+Left=West
+Right=Ost

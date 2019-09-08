@@ -1,0 +1,2 @@
+TxtRise=Aufsteigen
+TxtLower=Landen

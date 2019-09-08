@@ -1,0 +1,7 @@
+CtxEatMenu=Nahrungsmenü
+SatisfyHunger=Hunger stillen
+SatisfyThirst=Durst stillen
+CtxGoEatSwitchOff=Nahrungssuche ausschalten
+MsgGoEatOff=Selbständige Nahrungssuche ausgeschaltet.
+CtxGoEatSwitchOn=Nahrungssuche einschalten
+MsgGoEatOn=Selbständige Nahrungssuche eingeschaltet.

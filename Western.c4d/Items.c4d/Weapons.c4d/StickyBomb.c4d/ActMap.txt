@@ -1,0 +1,10 @@
+[Action]
+Name=Stick
+Procedure=ATTACH
+Length=1
+Delay=1
+FacetBase=1
+PhaseCall=Spark
+AbortCall=TargetLost
+NextAction=Hold
+Sound=Fusing

@@ -1,0 +1,11 @@
+MsgOrder=Place order
+MsgNoMoney=Not enough money!
+TxtOrdered=Order placed.|Coach is coming.
+
+MsgOrderWeapons=Order: Weapons
+MsgOrderWhisky=Order: Whisky
+MsgOrderAmmo=Order: Ammo
+MsgOrderDynamit=Order: Dynamite
+MsgOrderCrew=Order: Reinforcements
+MsgOrderHorse=Order: Horse
+MsgOrderMaterial=Order: Material

@@ -1,0 +1,4 @@
+TxtMovement=Move
+TxtAttack=Bite
+TxtGetOff=Get off
+TxtKill=Dispell

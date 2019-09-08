@@ -1,0 +1,7 @@
+[Action]
+Name=Drain
+Length=1
+Delay=1
+NextAction=Drain
+StartCall=Draining
+Sound=Lava

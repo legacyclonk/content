@@ -1,0 +1,11 @@
+TxtDown=Down
+TxtUp=Up
+TxtStop=Stop
+TxtPutGet=Put/Get
+TxtDrillshaft=Drill shaft
+TxtPermanentmode=Permanent mode
+TxtPermanentmodeon=Permanent mode turned on
+TxtPermanentmodeoff=Permanent mode turned off
+TxtPermanentModeTurnOn=Permanent mode on
+TxtPermanentModeTurnOff=Permanent mode off
+TxtPermanentModeDesc=In permanent mode the elevator rides up and down continuously and does not stop for waiting clonks.

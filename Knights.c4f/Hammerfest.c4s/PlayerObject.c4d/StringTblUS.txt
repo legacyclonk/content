@@ -1,0 +1,3 @@
+MsgJoinShadow=%s joins the Shadowblades
+MsgJoinMantis=%s fights for the Order of Mantis
+MsgRelaunchCountdown=%d min %d|until relaunch...

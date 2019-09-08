@@ -1,0 +1,14 @@
+Score=Spielstand
+TeamWolves=Stamm der Wölfe
+TeamTrappers=Trapper
+TeamBears=Stamm der Bären
+
+MsgWolfsJoin=%s schließt sich dem Stamm der Wölfe an.
+MsgBearsJoin=%s kämpft für den Stamm der Bären.
+MsgTrapperJoin=%s unterstützt die Trapper.
+
+MsgRelaunch=%s benötigt einen Relaunch.
+
+Msg1Lost=Stamm der Wölfe geht zu Grunde.
+Msg2Lost=Die Trapper haben verloren.
+Msg3Lost=Stamm der Bären ist besiegt.

@@ -1,0 +1,19 @@
+[DefCore]
+id=TMAN
+Version=4,9,8
+Name=Trap Mantrap
+Category=C4D_Object|C4D_SelectMaterial|C4D_SelectKnowledge|C4D_SelectHomebase
+MaxUserSelect=3
+Width=10
+Height=10
+Offset=-5,-5
+Vertices=3
+VertexX=-4,0,4
+VertexY=4,-4,4
+VertexFriction=75,75,75
+Value=3
+Mass=10
+Components=BONE=1
+Picture=0,10,64,64
+Collectible=1
+Rotate=1

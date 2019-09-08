@@ -1,0 +1,2 @@
+TxtNoconstructionplans=No construction plans
+TxtProductions=Production: %s

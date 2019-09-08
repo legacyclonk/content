@@ -1,0 +1,7 @@
+[Action]
+Name=Break
+Procedure=NONE
+Facet=0,0,30,24
+Length=10
+Delay=2
+EndCall=Remove

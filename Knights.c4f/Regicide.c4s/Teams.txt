@@ -1,0 +1,14 @@
+[Teams]
+AllowHostilityChange=0
+AllowTeamSwitch=0
+TeamColors=1
+
+	[Team]
+	id=1
+	Name=$MsgLeft$
+	IconSpec=KTM1:5
+
+	[Team]
+	id=2
+	Name=$MsgRight$
+	IconSpec=KTM1:2

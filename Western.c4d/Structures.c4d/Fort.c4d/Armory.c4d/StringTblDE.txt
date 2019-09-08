@@ -1,0 +1,15 @@
+TxtNoPlans=Keine Baupläne verfügbar
+TxtProduction=Herstellung
+ContextProduction=Produktion
+
+Captain=Captain
+Boss=Boss
+TxtRecruit=%s ausbilden
+TxtCancel=Abbrechen
+TxtOnlyOne=Es kann nur einen %s geben.
+TxtNotEnoughMoney=Nicht genug Geld!
+TxtRecruited=%s ausgebildet.
+TxtRecruitCaptain=Captain ausbilden
+TxtRecruitBoss=Boss ausbilden
+DescCaptain=Der Captain ist der Leiter des Fortes.||Er ist in der Lage sowohl im Nahkampf als auch im Fernkampf seine Gegner präziser zu treffen und somit mehr Schaden zu verursachen.
+DescBoss=Der Boss ist der Anführer seiner Bande.||Er ist in der Lage sowohl im Nahkampf als auch im Fernkampf seine Gegner präziser zu treffen und somit mehr Schaden zu verursachen.

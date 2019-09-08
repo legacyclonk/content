@@ -1,0 +1,2 @@
+DE:Zum nächsten Iglu warpen
+US:Warp to next Igloo

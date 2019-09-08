@@ -1,0 +1,5 @@
+Der Ritter kennt den Umgang mit Schwert, Schild, Speer und Streitaxt sowie Pfeil und Bogen. Er kann bis zu drei Objekte und dreißig Pfeile mit sich tragen.
+
+Er kann selbständig feindliche Clonks angreifen oder eine Position bewachen.
+
+Inventarwechsel über Spezial 1. Befehlsmenü über Spezial 2. Weitere Hinweise zur Steuerung finden sich in den Beschreibungen der Waffen.

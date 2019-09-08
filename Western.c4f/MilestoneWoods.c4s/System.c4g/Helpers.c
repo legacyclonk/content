@@ -1,0 +1,3 @@
+/* Hilfsfunktionen */
+
+#strict

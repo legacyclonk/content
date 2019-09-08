@@ -1,0 +1,7 @@
+This folder contains all standard objects of the game and should always be activated.
+
+Additional object folders in the working directory may be activated or deactivated for use in the next round by clicking the adjacent check box.
+
+Some scenarios use preset object definitions (check boxes will appear gray). Scenario presets may be viewed and modified via the context menu (right click on the scenario item). If not all preset object packs can be found in the working directory, a scenario can not be started.
+
+Single object definitions should be grouped in object folders. Use the 'new' button to create additional folders and move items with the mouse using drag 'n' drop.

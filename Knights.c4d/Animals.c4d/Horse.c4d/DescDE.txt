@@ -1,0 +1,7 @@
+Treuer Begleiter des Clonk.
+
+Das Pferd kann durch Anfassen und die Kommandos 'Rechts' und 'Links' geführt werden.
+
+Aufsteigen durch 'Springen'. Das Pferd beherrscht die drei Gangarten Gehen, Trab und Galopp. Im Galopp springen durch Kommando 'Rauf'. Absitzen durch Doppelklick 'Runter'. 
+
+Anspannen durch Doppelklick auf 'Graben'.

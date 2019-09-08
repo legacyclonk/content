@@ -1,0 +1,4 @@
+Full=Igloo fully occupied!
+TxtNoconstructionplans=No construction plans
+TxtProductions=Production: %s
+Production=Production

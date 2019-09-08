@@ -1,0 +1,14 @@
+[Material]
+Name=Ore
+Color=100,80,72,124,96,92,132,112,108
+ColorX=114,86,82,122,102,98,90,70,62
+Shape=3
+Density=50
+Friction=100
+BlastFree=1
+Blast2Object=ORE1
+Blast2ObjectRatio=100
+MaxAirSpeed=100
+MaxSlide=1
+Placement=50
+TextureOverlay=Structure

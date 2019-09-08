@@ -1,0 +1,8 @@
+[Action]
+Name=ShowItems
+Procedure=NONE
+Length=5
+Delay=0
+Facet=0,0,19,32
+NextAction=Hold
+ 

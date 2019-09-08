@@ -1,0 +1,3 @@
+TxtHeatmetal=Metall erhitzen
+TxtNometalavailable=Kein Metall verfügbar.
+TxtNeedsfueltoburn=Keine Kohle verfügbar.

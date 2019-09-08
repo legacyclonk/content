@@ -1,0 +1,3 @@
+TxtAscend=Aufstieg
+TxtAscendLeft=Aufstieg links
+TxtAscendRight=Aufstieg rechts

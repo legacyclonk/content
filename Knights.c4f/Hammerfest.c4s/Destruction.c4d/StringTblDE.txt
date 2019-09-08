@@ -1,0 +1,16 @@
+
+MsgShadowAims=Schattenklingen:
+MsgMantisAims=Mantisorden:
+MsgPoints=Punkte:
+
+MsgPart1=Die Schattenklingen verlieren ihr unteres Kontor. Mantisorden +120
+MsgPart2=Das obere Kontor der Schattenklingen wurde zerstört. Mantisorden +120
+MsgPart3=Die Werkstatt der Schattenklingen wurde vernichtet. Mantisorden +100
+MsgPart4=Das Alchemielabor der Schattenklingen steht in Flammen. Mantisorden +90
+MsgPart5=Die Schattenklingen büßen ihr Lager ein. Mantisorden +75
+MsgPart6=Das untere Kontor des Mantisorden steht in Flammen. Schattenklingen +120
+MsgPart7=Der Mantisorden verliert sein oberes Kontor. Schattenklingen +120
+MsgPart8=Die Werkstatt des Mantisorden wurde vernichtet. Schattenklingen +100
+MsgPart9=Das Labor des Mantisorden liegt in Schutt und Asche. Schattenklingen +90
+MsgPart0=Der Mantisorden verliert sein Lager. Schattenklingen +75
+

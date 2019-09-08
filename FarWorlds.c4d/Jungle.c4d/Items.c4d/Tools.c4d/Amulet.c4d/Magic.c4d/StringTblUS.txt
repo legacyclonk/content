@@ -1,0 +1,4 @@
+TxtMagic=Magic
+MsgNotEnoughEnergy=Not enough|magical energy!
+MsgNotEnoughIngredients=Not enough|alchemistic ingredients!|%s|are missing.
+MnuNoSpells=No spells known

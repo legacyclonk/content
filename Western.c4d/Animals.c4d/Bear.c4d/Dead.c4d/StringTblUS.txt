@@ -1,0 +1,2 @@
+TxtEmbowel=Embowel
+NameBearBone=Bear bone

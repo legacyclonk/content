@@ -1,0 +1,3 @@
+TxtStartFishing=Angeln
+TxtCantFish=%s kann|noch nicht angeln!
+TxtNoBait=Kein Köder dabei.

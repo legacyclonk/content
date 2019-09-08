@@ -1,0 +1,4 @@
+NoSheriff=You can't train any sheriff.
+NoCaptain=You can't train any captain.
+NoBoss=You can't train any boss.
+NoChief=You can't train any chief.

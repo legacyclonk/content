@@ -1,0 +1,1 @@
+Mit Bausätzen können Gebäude errichtet werden. (Aktivieren durch Doppelklick auf Graben.) Es müssen genug Platz und ein ausreichend ebener Untergrund vorhanden sein. Wenn die Baustelle eingerichtet ist, kann den Clonks der Befehl zum Bauen gegeben werden (Doppelklick auf Stop im Bereich der Baustelle). Gegebenenfalls wird noch entsprechendes Baumaterial benötigt.

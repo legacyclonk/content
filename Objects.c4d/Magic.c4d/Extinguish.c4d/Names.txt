@@ -1,0 +1,2 @@
+DE:Löschen
+US:Extinguish

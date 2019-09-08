@@ -1,0 +1,3 @@
+TxtCraft=Herstellung
+TxtCrafts=Herstellung: %s
+TxtConstructions=Konstruktion: %s

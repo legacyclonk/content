@@ -1,0 +1,2 @@
+DE:Tritonmuschel
+US:Triton shell

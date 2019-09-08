@@ -1,0 +1,29 @@
+/* Mountaincombat  Landscape */
+
+overlay Earth { algo=solid; x=-20; wdt=140; y=50; mat=Earth; tex=Smooth; turbulence=9000; loosebounds=1; zoomY=20; };
+overlay Mat { algo=rndchecker; a=10; y=-50; turbulence=100; zoomX=-100; zoomY=-100; };
+overlay Spots { algo=random; a=7; turbulence=100; zoomX=90; zoomY=90; };
+
+
+map Mountain {
+
+              Earth  { 
+              Mat { mat=Sulphur; tex=Rough; y=10; };
+              Mat { mat=Coal; tex=Swirl; };
+              Mat { mat=Ore; tex=Rough; };
+              Mat { mat=Granite; tex=Rough; a=7; };
+              Mat { mat=Tunnel; tex=Smooth; };  
+              Mat { mat=Rock; tex=Rough; a=8; }; //Spots { mat=Rock; tex=Ridge; };
+              Mat { mat=Earth; tex=Rough;  };
+              //Goldadern
+              Mat { mat=Gold; tex=Rough; Mat { mat=Rock; algo=border; a=1; b=1; tex=Rough; }; };
+              Mat { mat=Ice; tex=Flare2; Spots { mat=Ice; tex=Flare3; };  };
+              //Kristallklüfte
+              Mat { mat=Tunnel; a=6; tex=Smooth; zoomX=-60; zoomY=-60; y=3; overlay { algo=border; a=2; b=2; mat=Crystal; tex=Flare; }; overlay { algo=border; a=1; b=1; mat=Rock; tex=Rough; }; };
+              //Berge sind natürlich mit Schnee bedeckt
+              overlay { mat=Snow; algo=border; a=0; b=1; tex=Smooth; y=-40; turbulence=10; };
+              //Granitstreifen
+              overlay { algo=lines; a=3; y=-30; hgt=70; b=30; mat=Granite; tex=Rough; turbulence=2000; };
+	      };
+
+};

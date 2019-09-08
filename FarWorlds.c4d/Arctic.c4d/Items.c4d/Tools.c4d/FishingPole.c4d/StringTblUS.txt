@@ -1,0 +1,3 @@
+TxtStartFishing=Start fishing
+TxtCantFish=%s is too small|for fishing!
+TxtNoBait=No bait.

@@ -1,0 +1,7 @@
+[DefCore]
+id=_BAS
+Version=4,9,8
+Name=Basisüberladungen
+Category=C4D_StaticBack
+Width=1
+Height=1

@@ -1,0 +1,3 @@
+Contains the knight clonks and numerous weapons such as sword, axe, shield, spear and bow.
+
+Also includes a castle construction set and lots of furniture and supply objects for medieval life.

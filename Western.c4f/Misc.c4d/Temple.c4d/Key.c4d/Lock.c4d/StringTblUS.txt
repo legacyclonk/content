@@ -1,0 +1,4 @@
+MsgWrongKey=Key does not fit!
+MsgNoKey=No key!
+MsgStuck=Stuck!
+MsgTurnKey=Turn key

@@ -1,0 +1,4 @@
+MsgRaisePipe=Füllrohr hochziehen
+MsgLowerPipe=Füllrohr runterlassen
+MsgViewWater=Wassergehalt ansehen
+MsgTakeWater=Objekt auffüllen/ausleeren

@@ -1,0 +1,3 @@
+TxtEat=Eat
+TxtRubIn=Rub in
+TxtApply=Apply

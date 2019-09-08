@@ -1,0 +1,5 @@
+Die Waffe des Ritters zu Pferde im Turnier oder gegen gegnerische Fußsoldaten. 
+
+Die Lanze kann wie andere Objekte oder durch Anfassen eingesammelt werden. An- und ablegen mit Doppelklick auf Graben.
+
+Der Reiter kann im Gallop durch ein wiederholtes Kommando in Reitrichtung die Angriffshöhe bestimmen.

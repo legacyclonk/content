@@ -1,0 +1,12 @@
+[DefCore]
+id=_PLO
+Version=4,9,8
+Name=PlayerObject
+Category=C4D_StaticBack
+Width=1
+Height=1
+Picture=0,0,40,40
+ColorByOwner=1
+BorderBound=1
+NoSell=1
+NoGet=1

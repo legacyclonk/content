@@ -1,0 +1,15 @@
+[Particle]
+Name=ShotSpark
+MaxCount=3000
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,32,32,-16,-16
+Delay=1
+Repeats=1
+Reverse=1
+GravityAcc=0
+FadeOutLen=4
+FadeOutDelay=4
+AlphaFade=100
+Additive=1

@@ -1,0 +1,17 @@
+[DefCore]
+id=_STA
+Version=4,9,8
+Name=Statue
+Category=C4D_Structure
+TimerCall=CheckForParts
+Width=59
+Height=62
+Offset=-29,-31
+Vertices=2
+VertexX=-10,9
+VertexY=31,31
+VertexFriction=100,100
+Components=_PA1=1;_PA2=1;_PA3=1;_PA4=1;_PA5=1;_PA6=1;_PA7=1
+Picture=354,0,59,62
+Exclusive=1
+Construction=1

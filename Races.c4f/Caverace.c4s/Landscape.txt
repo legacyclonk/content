@@ -1,0 +1,90 @@
+/* Cave parcour */
+
+map CaveParcour {
+
+  // basic shape: earth
+  mat=Earth; tex=Ridge;
+
+  // earth altered
+  overlay AlterMat { mat=Earth; tex=Smooth; turbulence=10; algo=rndchecker; zoomX=-70; zoomY=-70; };
+  AlterMat { tex=Smooth2; a=2; };
+  AlterMat { tex=Rough; a=4; };
+
+  // sand in the upper areas
+  overlay SandSpots { x=-20; y=0; wdt=140; hgt=60; turbulence=10000; algo=rndchecker; a=6; zoomY=-50; mat=Sand; tex=Smooth; loosebounds=1;
+    AlterMat { mat=Sand; tex=Smooth2; zoomX=-60; zoomY=-100; };
+    AlterMat { mat=Sand; tex=Smooth3; zoomX=-60; zoomY=-100; a=2; };
+    };
+
+  // rock
+  overlay InEarth { zoomX=-50; zoomY=-50; algo=rndchecker; a=12; mat=Rock; tex=Rough; turbulence=10000; };
+  InEarth { tex=Ridge; };
+
+  // water
+  InEarth { mat=Water; tex=Smooth; zoomY=0; };
+
+  // acid
+  InEarth { mat=Acid; tex=Smooth; zoomY=0; };
+
+  // lava
+  InEarth { mat=DuroLava; tex=Smooth; };
+
+  // great caves
+  overlay Caves { zoomX=40; zoomY=2; algo=rndchecker; a=2; turbulence=10000; mat=Tunnel; tex=Smooth;
+    // cave bounds
+    overlay { algo=border; a=1; b=1; mat=Earth; tex=Rough;
+      AlterMat { mat=FlyAshes; tex=Smooth; zoomX=-75; zoomY=-75; a=0; };
+      AlterMat { mat=Rock; tex=Rough; zoomX=-65; zoomY=-100; a=1; };
+      };
+    };
+
+  // smaller caves
+  Caves { zoomX=-10; zoomY=-15; a=6; };
+
+  // even smaller caves
+  Caves { zoomX=-30; zoomY=-17; a=6; };
+
+  // gold
+  InEarth { mat=Gold; };
+
+  // coal
+  InEarth { mat=Coal; tex=Swirl; a=15; zoomY=-80; };
+
+  // ore
+  InEarth { mat=Ore; tex=Ridge; a=18; zoomX=-80; zoomY=-80; };
+
+  // crystal
+  InEarth { mat=Crystal; tex=Flare; a=18;
+   overlay { algo=random; a=1; mat=Crystal; tex=Structure; };
+   };
+
+  // top free
+  overlay { turbulence=10000; zoomX=30; zoomY=50; x=-50; y=-50; wdt=200; hgt=70; loosebounds=1; }
+  // top bound overlay needs to be put in a operator chain,
+  // so the outer loosebounds-turbulence will be applied to the border algo as well
+  & overlay {
+    // top rock bound
+    overlay { algo=border; a=1; b=1; mat=Rock; tex=Rough; };
+    // sandy holes
+    overlay { algo=border; a=3; b=2; } & SandSpots { a=1; mat=FlySand; tex=Smooth; loosebounds=0; };
+    };
+
+  // top island
+  overlay { mat=Earth; tex=Smooth; turbulence=100; x=35; y=8; wdt=30; hgt=5; loosebounds=1; };
+
+  // winning podest
+  overlay { mat=Gold; tex=Rough; x=45; y=8; wdt=10; hgt=3; };
+  overlay { x=44; y=0; wdt=12; hgt=8; };
+
+  // starting cave
+  overlay { x=-20; y=95; wdt=65; hgt=25; mat=Tunnel; tex=Smooth; turbulence=100; loosebounds=1;
+    // border
+    overlay { algo=border; mat=Ashes; tex=Smooth; };
+    };
+
+  // starting pos ensured to be free
+  overlay { x=0; y=96; wdt=15; hgt=5; mat=Tunnel; tex=Smooth; };
+
+  // floor
+  overlay { y=99; wdt=55; hgt=2; mat=Granite; tex=Rough; };
+  };

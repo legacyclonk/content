@@ -1,0 +1,9 @@
+[DefCore]
+id=_CTD
+Version=4,9,8
+Name=Countdown
+Category=C4D_Object|C4D_Parallax
+Width=128
+Height=148
+Offset=-64,-74
+Picture=0,0,128,148

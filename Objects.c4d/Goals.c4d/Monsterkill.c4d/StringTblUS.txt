@@ -1,0 +1,7 @@
+MsgMonstersKilled=All monsters have been eliminated.
+MsgEggLeft=There's still a monster egg somewhere around.
+MsgEggsLeft=There are %d monster eggs left.
+MsgMonsterLeft=There's still one monster about.
+MsgMonstersLeft=There are %d monsters about.
+MsgEggMonstersLeft=One egg and %d monsters are still to be taken care of.
+MsgEggsMonstersLeft=%d monsters and %d eggs are to be taken care of.

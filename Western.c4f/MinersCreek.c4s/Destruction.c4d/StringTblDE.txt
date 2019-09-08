@@ -1,0 +1,45 @@
+
+MsgBanditAims=Ziele der Banditen:
+MsgCalvalAims=Ziele der Garde:
+MsgPoints=Punkte:
+
+MsgHEDQ0=Das Hauptquartier der Kavalleristen wurde zerlegt! Banditen +125
+MsgHEDQ1=Die Garde verliert ihr Hauptquartier, wie konnte das passieren? Banditen +125
+MsgAMRY0=Die Garde hat nun ein Waffenlager weniger! Banditen +110
+MsgAMRY1=Ein Waffenlager der Garde steht in Flammen! Banditen +110
+MsgAMRY2=Ein Waffenlager der Kavalleristen wurde zerstört! Banditen +110
+MsgAMRY3=Die Garde büßt ein Waffenlager ein! Banditen +110
+
+MsgHEDQb0=Das Hauptquartier der Banditen wurde vernichtet! Garde +125
+MsgHEDQb1=Die Banditen sind nun HQ-los.. Garde +125
+MsgAMRYb0=Das Waffenlager der Banditen wurde gesprengt! Garde +110
+MsgAMRYb1=Echte Banditen brauchen keine Munition! Garde +110
+
+MsgSAWW0=Das Sägewerk steht in Flammen! Banditen +50
+MsgSAWW1=Die Sägemühle gibt prima Feuerholz ab! Banditen +50
+MsgDRST0=Der Drugstore wurde in die Luft gejagt! Banditen +70
+MsgDRST1=Der Drugstore lief eh nicht besonders.. Banditen +70
+MsgSALO0=Der Saloon wurde abgerissen! Banditen +60
+MsgSALO1=Der Saloon war wohl nicht sehr beliebt. Banditen +60
+MsgTGST0=Die Telegraphenstation liegt in Schutt und Asche! Banditen +40
+MsgTGST1=Jetzt ist Miners Creek noch abgeschiedener als vorher.. Banditen +40
+MsgSHOF0=Das Sheriffsbüro ist Kleinholz!  Banditen +70
+MsgSHOF1=Der Sheriff kann sich Urlaub nehmen. Banditen +70
+MsgWRKW0=Die Aufträge der Werkstatt müssen wohl noch etwas warten. Banditen +65
+MsgWRKW1=Die Werkstatt brennt! Banditen +65
+MsgBANK0=Die Bank ist pleite! Banditen +100
+MsgBANK1=Der Bankschalter bleibt vorübergehend geschlossen. Banditen +100
+
+MsgTEL10=Ein Telegraphenmast ist kaputt! Banditen +20
+MsgTEL11=Wer braucht schon Telegraphenmasten? Banditen +20
+MsgTEL12=Ein Telegraphenmast wurde zerhackt! Banditen +20
+MsgTEL13=Ein Telegraphenmast weniger! Banditen +20
+MsgTEL14=Dieser Mast hat nur gestört! Banditen +20
+MsgTEL15=Dieser Mast war sowieso nicht in Benutzung.. Banditen +20
+MsgPUMW0=Diese Pumpe pumpt nichts mehr! Banditen +30
+MsgPUMW1=Die Pumpe geht in Ruhestand. Banditen +30
+MsgWMLW0=Das Windrad wurde demontiert! Banditen +25
+MsgWMLW1=Das Windrad brennt lichterloh! Banditen +25
+MsgWTOW0=Das Wasser wird knapp. Banditen +35
+MsgWTOW1=Der Wasserturm ist undicht. Banditen +35
+MsgUtilAims=Versorgungseinrichtungen:

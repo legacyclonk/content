@@ -1,0 +1,7 @@
+# Steuerung
+CtrlQueryStatus=Query progress of revival
+
+# Nachrichten
+MsgRelaunch=%s relaunches.
+MsgRelaunchProcess=Revival at %d%
+MsgNoRelaunch=Revival not initiated

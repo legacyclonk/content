@@ -1,0 +1,1 @@
+Construction material for igloos. Can be dug out of snow like chunks of earth.

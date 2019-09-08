@@ -1,0 +1,8 @@
+Team1=Team 1
+Team2=Team 2
+
+MsgRelaunchTime=Still %d:%1d%1d|until Relaunch!
+
+TxtWatchAllys=Watch allys:
+TxtNone=off
+DescViewPlr=Sets the view to %s

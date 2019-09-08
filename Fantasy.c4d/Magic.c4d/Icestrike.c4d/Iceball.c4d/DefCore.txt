@@ -1,0 +1,14 @@
+[DefCore]
+id=ICEB
+Version=4,9,8
+Name=Eiskugel
+Category=C4D_Vehicle
+Width=2
+Height=2
+Offset=-1,-1
+Vertices=1
+Picture=0,0,1,1
+Projectile=1
+
+[Physical]
+Float=1000

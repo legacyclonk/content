@@ -1,0 +1,16 @@
+
+MsgShadowAims=Shadowblades:
+MsgMantisAims=Order of Mantis:
+MsgPoints=Score:
+
+MsgPart1=The Shadowblades lose their lower office. Order of Mantis +120
+MsgPart2=The upper office of the Shadowblades was destructed. Order of Mantis +120
+MsgPart3=The workshop of the Shadowblades was destroyed. Order of Mantis +100
+MsgPart4=The alchemy laboratory of the Shadowblades is aflame. Order of Mantis +90
+MsgPart5=The Shadowblades lose their camp. Order of Mantis +75
+MsgPart6=The lower office of the Order of Mantis is aflame. Shadowblades +120
+MsgPart7=The Order of Mantis loses its upper office. Shadowblades +120
+MsgPart8=The workshop of the Order of Mantis was destructed. Shadowblades +100
+MsgPart9=The laboratory of the Order of Mantis lies in ruins. Shadowblades +90
+MsgPart0=The Order of Mantis loses its camp. Shadowblades +75
+

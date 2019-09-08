@@ -1,0 +1,1 @@
+Nur ein Königreich darf überleben! Ein Königreich gilt als eliminiert, wenn entweder der König stirbt, oder ein fremder König den eigenen Thron besteigt.

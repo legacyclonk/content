@@ -1,0 +1,3 @@
+MsgFailed=Es sind zuviele Wipfe gestorben.
+MsgSuccess=Keine Wipfe mehr zu retten.
+MsgTodo=Noch %d Wipfe zu retten. Es sind schon %d Wipfe gestorben (%d erlaubt).

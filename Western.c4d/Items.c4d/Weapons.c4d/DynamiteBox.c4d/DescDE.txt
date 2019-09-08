@@ -1,0 +1,2 @@
+Enthält 5 Dynamitstangen.
+Einzelne Stangen herausnehmen über Doppelklick auf Graben. Kann mit einem Fernzünder gesprengt werden, wobei die Sprengkraft jedoch von den übrig gebliebenen Dynamitstangen abhängt.

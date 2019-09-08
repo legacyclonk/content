@@ -1,0 +1,3 @@
+TxtNoAmulet=Nur Amulette können aufgewertet werden!
+TxtPopulation=Es wird eine Bevölkerung|von 5 Inuks oder höher benötigt!
+TxtNight=Es muss Nachts sein!

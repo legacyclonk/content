@@ -1,0 +1,4 @@
+MsgGoalFulfilled=You have enought money and the passage to the indianland is free.
+MsgGoalUnfulfilled=You still need %d gold.
+MsgGoalUnfulfilledB=The passage to the indian territory is not yet free.
+MsgGoalUnfulfilledC=The saloon is not yet complete.

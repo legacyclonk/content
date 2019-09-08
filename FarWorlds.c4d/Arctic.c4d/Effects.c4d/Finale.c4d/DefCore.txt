@@ -1,0 +1,10 @@
+[DefCore]
+id=_FIN
+Version=4,9,8
+Name=TheGreatFinale
+Category=C4D_StaticBack
+Timer=30
+TimerCall=Proceed
+Width=1
+Height=1
+Picture=0,0,1,1

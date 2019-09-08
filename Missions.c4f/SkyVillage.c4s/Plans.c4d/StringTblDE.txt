@@ -1,0 +1,3 @@
+CtrlActivateDesc=Lesen
+MsgActivate=Bauplan für <c ffff00>%s</c> erhalten.
+MsgKnown=Den Bauplan für %s kenne ich schon.

@@ -1,0 +1,3 @@
+TxtAscend=Ascend
+TxtAscendLeft=Ascend left
+TxtAscendRight=Ascend right

@@ -1,0 +1,3 @@
+The anvil produces weapons, construction kits, and numerous other items.
+
+Grab and double click 'dig'. The smith needs to carry the required materials.

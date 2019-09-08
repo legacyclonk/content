@@ -1,0 +1,5 @@
+MnuNoPlans=Keine Pläne verfügbar
+MnuPlan=Plan wählen
+MsgPlanSet=Schriftrolle mit|<i>%s</i> belegt!
+HasAlreadyPlan=Bauplan <i>%s</i>|schon verfügbar.
+MsgGetPlan=Bauplan <i>%s</i> erhalten!

@@ -1,0 +1,9 @@
+[DefCore]
+id=_KSL
+Version=4,9,8
+Name=KingdomSelector
+Category=C4D_StaticBack
+Timer=4
+TimerCall=
+Width=1
+Height=1

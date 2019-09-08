@@ -1,0 +1,5 @@
+An advanced wizard tower which can be made into a homebase using a flag.
+
+Cast spells with 'left' or 'right' in the specified direction.
+
+In the spell menu you will also find an option to ascend to the tower's platform.

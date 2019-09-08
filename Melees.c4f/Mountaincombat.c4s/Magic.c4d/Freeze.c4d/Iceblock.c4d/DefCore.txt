@@ -1,0 +1,12 @@
+[DefCore]
+id=ICBL
+Version=4,9,8
+Name=Iceblock
+Category=C4D_Object
+Width=20
+Height=26
+Offset=-10,-13
+Value=10
+Mass=80
+TopFace=0,0,20,26,0,0
+Picture=0,0,20,26

@@ -1,0 +1,13 @@
+[Particle]
+Name=Cloud
+MaxCount=10000
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,80,160,-40,-80
+Delay=0
+Repeats=1
+Reverse=0
+GravityAcc=0
+AlphaFade=4
+Additive=0

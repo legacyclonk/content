@@ -1,0 +1,6 @@
+MnuNoSpells=No spells known
+MnuEnchant=Choose spell
+TxtNotEnoughIngredients=Not enough|alchemistic ingredients!|%s|are missing.
+TxtNotEnoughEnergy=Not enough|magical energy!
+MsgNothingHappened=Nothing happened!
+MsgSpellSet=Scroll allocated|with <i>%s</i>!

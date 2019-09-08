@@ -1,0 +1,11 @@
+[DefCore]
+id=AHUD
+Version=4,9,8
+Name=AmmoHUD
+Category=C4D_Object|C4D_Parallax
+Timer=1
+TimerCall=Timer
+Width=48
+Height=15
+Offset=-24,-11
+Picture=336,0,48,15

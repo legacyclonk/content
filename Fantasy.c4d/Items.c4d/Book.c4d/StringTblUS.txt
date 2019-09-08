@@ -1,0 +1,8 @@
+MnuNoSpells=No spells known
+MnuEnchant=Choose spell
+MnuCast=Cast
+MnuEmpty=Not selected
+TxtNotEnoughIngredients=Not enough|alchemistic ingredients!|%s|are missing.
+TxtNotEnoughEnergy=Not enough|magical energy!
+MsgNothingHappened=Nothing happened!
+MsgSpellSet=Added <i>%s</i> to the magic book!

@@ -1,0 +1,8 @@
+[DefCore]
+id=SBTP
+Version=4,9,8
+Name=SymbolTotemploe
+Category=C4D_StaticBack
+Width=82
+Height=36
+Picture=0,0,82,36

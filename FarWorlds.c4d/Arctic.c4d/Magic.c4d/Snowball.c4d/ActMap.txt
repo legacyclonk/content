@@ -1,0 +1,16 @@
+[Action]
+Name=Travel
+Procedure=FLOAT
+NextAction=Travel
+EndCall=Travel
+Delay=1
+Length=1
+FacetBase=1
+
+[Action]
+Name=Wait
+Procedure=FLOAT
+NextAction=Wait
+Delay=1
+Length=1
+FacetBase=1

@@ -1,0 +1,3 @@
+MsgNoDragon=No fully grown dragon around here!
+MsgNoPlace=Dragon cannot move to this position!
+MsgDragonAngry=Dragon is angry!

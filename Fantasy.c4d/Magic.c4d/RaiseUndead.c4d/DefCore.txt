@@ -1,0 +1,8 @@
+[DefCore]
+id=RUND
+Version=4,9,8
+Name=MagicNecromancy
+Category=C4D_StaticBack|C4D_Magic
+Value=16
+Components=IBON=2
+Picture=0,0,64,64

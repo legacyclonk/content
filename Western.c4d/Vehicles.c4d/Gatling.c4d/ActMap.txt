@@ -1,0 +1,12 @@
+[Action]
+Name=Ready
+Procedure=NONE
+Directions=2
+FlipDir=1
+Delay=0
+FacetBase=1
+NextAction=Hold
+
+[Action]
+Name=Head
+Facet=0,0,33,9

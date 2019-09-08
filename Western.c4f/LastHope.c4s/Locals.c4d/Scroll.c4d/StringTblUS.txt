@@ -1,0 +1,5 @@
+MnuNoPlans=No plans available.
+MnuPlan=Select plan
+MsgPlanSet=<i>%s</i> placed on scroll.
+HasAlreadyPlan=Plan <i>%s</i>|already available.
+MsgGetPlan=Plan <i>%s</i> obtained!

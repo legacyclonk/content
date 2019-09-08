@@ -1,0 +1,6 @@
+# Messages
+MsgContainerFull=Wood container|is full.
+MsgContainerEmpty=Wood container|is empty.
+
+# Control
+CtrlTake=Take wood

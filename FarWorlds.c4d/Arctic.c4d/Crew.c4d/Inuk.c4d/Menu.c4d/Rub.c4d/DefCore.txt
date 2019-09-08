@@ -1,0 +1,8 @@
+[DefCore]
+id=RUBF
+Version=4,9,8
+Name=Fett einreiben
+Category=C4D_StaticBack
+Width=1
+Height=1
+Picture=0,0,64,64

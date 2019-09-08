@@ -1,0 +1,1 @@
+This object adds sunlight and lense effects to the scenario.

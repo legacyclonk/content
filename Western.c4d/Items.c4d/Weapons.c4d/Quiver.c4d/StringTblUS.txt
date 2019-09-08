@@ -1,0 +1,5 @@
+TxtChange=Change arrow typ
+MnuTakeArrows=Take arrows
+TxtNoArrows=No arrows available.
+TxtPutIn=Put arrows in
+DescPutIn=All arrows came form you inventory to the quiver.

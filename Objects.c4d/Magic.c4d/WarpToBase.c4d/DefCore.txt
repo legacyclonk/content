@@ -1,0 +1,10 @@
+[DefCore]
+id=MWP2
+Version=4,9,8
+Name=MagicWarpToBase
+Category=C4D_Magic
+Width=1
+Height=1
+Value=60
+Components=IMUS=3;IGOL=4
+Picture=0,0,40,40

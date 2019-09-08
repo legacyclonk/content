@@ -1,0 +1,7 @@
+TxtNothingToBuy=There is nothing to buy.
+TxtBuyIt=Buy %s
+TxtNothingToSell=There is nothing to sell.
+TxtSellIt=Sell %s
+TxtSellItWithContents=Sell %s (with contents)
+TxtSell=Sell
+TxtBuy=Buy

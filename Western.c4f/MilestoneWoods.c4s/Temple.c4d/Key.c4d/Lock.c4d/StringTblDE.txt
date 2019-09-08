@@ -1,0 +1,4 @@
+MsgWrongKey=Schlüssel passt nicht!
+MsgNoKey=Kein Schlüssel!
+MsgStuck=Klemmt!
+MsgTurnKey=Schlüssel drehen

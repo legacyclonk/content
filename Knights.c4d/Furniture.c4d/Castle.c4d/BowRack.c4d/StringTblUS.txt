@@ -1,0 +1,3 @@
+MsgRackFull=Bow rack|is full.
+MsgRackEmpty=Bow rack|is empty.
+CtrlTake=Take bow

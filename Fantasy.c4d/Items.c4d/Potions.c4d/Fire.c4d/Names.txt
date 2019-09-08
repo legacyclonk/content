@@ -1,0 +1,2 @@
+DE:Feuertrank
+US:Fire potion

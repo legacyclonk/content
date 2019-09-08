@@ -1,0 +1,6 @@
+[Action]
+Name=Burn1
+Delay=1
+Length=15
+Facet=0,0,16,18
+NextAction=Burn1

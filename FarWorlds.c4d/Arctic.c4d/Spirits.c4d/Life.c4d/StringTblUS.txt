@@ -1,0 +1,7 @@
+TxtIgreetyouchildoflife=I greet you, child of life.|You have gone a long way to call me.
+TxtProvetomethefertilit=Prove to me the fertility and worthiness of your tribe.
+TxtIwillgrantyouareward=I will grant you a reward once your tribe has a population|of %d or more people.
+TxtWhatapleasureYouhave=What a pleasure. You have completed all quests!
+TxtTakeoffyourcoatsaban=Take off your coats, abandon your igloos.
+TxtFromnowonyouwilllive=From now on you will live in a warmer world.
+TxtFarewell=Farewell!

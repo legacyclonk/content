@@ -1,0 +1,1 @@
+TxtMyst=Mystic level too low!

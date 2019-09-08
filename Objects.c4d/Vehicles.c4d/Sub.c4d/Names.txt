@@ -1,0 +1,2 @@
+DE:U-Boot
+US:Submarine

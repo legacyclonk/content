@@ -1,0 +1,4 @@
+TxtMakedough=Make dough
+TxtNorecipes=No recipes
+TxtMixs=Mix: %s
+TxtNeedsWater=Dough needs water!

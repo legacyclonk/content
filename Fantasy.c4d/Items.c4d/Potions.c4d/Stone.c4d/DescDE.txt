@@ -1,0 +1,1 @@
+Reduziert temporär den Schaden, den der Clonk durch Schläge und Objekttreffer nimmt.

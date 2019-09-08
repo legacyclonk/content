@@ -1,0 +1,3 @@
+Herx=Hörx
+TeamHerx=Baron Hörx
+TeamVillage=Dorfbewohner

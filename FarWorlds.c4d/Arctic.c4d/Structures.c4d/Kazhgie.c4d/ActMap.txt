@@ -1,0 +1,9 @@
+[Action]
+Name=Build
+Procedure=BUILD
+Length=4
+Delay=2
+FacetBase=1
+NextAction=Build
+StartCall=Building
+EnergyUsage=0

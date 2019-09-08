@@ -1,0 +1,3 @@
+WithdrawMoney=Geld abheben
+NotEnoughMoney=Nicht genug Geld!
+NoBank=Es gibt keine Bank mehr!|Keine Geldgeschäfte möglich.

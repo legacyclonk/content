@@ -1,0 +1,10 @@
+BuyMenu=Kaufen
+SellMenu=Verkaufen
+NoBandits=Mit solchen wie dir handeln wir nicht.
+TxtNoBuyMaterial=Es gibt nichts zu kaufen.
+TxtNoSellMaterial=%s ist leer.
+TxtBuy=%s kaufen
+TxtSell=%s verkaufen
+TxtNotAvailable=%s nicht verfügbar!
+TxtNoMoney=Nicht genug Geld!
+TxtNotBuyable=Kaufen nicht möglich!

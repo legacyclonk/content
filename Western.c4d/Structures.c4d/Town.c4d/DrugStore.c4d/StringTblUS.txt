@@ -1,0 +1,10 @@
+BuyMenu=Buy
+SellMenu=Sell
+NoBandits=No trade for you.
+TxtNoBuyMaterial=There is nothing to buy.
+TxtNoSellMaterial=%s is empty.
+TxtBuy=Buy %s
+TxtSell=Sell %s
+TxtNotAvailable=%s not available.
+TxtNoMoney=Not enough money!
+TxtNotBuyable=Buy failed!

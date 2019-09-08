@@ -1,0 +1,3 @@
+MsgNoTree=No tree around!
+MsgSmallTree=Tree is too small!
+MsgNoArm=Not able to arm here!

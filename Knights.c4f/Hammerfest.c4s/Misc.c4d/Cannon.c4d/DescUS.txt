@@ -1,0 +1,2 @@
+The canon shoots objects. It needs one load of gunpowder per shot.
+To transport the canon easily you can put it on horses (double click 'dig').

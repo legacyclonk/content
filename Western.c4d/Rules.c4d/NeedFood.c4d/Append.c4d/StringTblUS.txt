@@ -1,0 +1,7 @@
+CtxEatMenu=Eat menu
+SatisfyHunger=Stop hunger
+SatisfyThirst=Stop thirst
+CtxGoEatSwitchOff=Disable food finding
+MsgGoEatOff=Automatic food finding disabled.
+CtxGoEatSwitchOn=Enable food finding
+MsgGoEatOn=Automatic food finding enabled.

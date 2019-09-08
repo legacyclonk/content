@@ -1,0 +1,2 @@
+MsgGoalFulfilled=%d Geldpunkte errreicht!
+MsgGoalUnfulfilled=%d Geldpunkte von %d erreicht.

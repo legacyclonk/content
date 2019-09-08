@@ -1,0 +1,31 @@
+# Indianerränge
+
+Clonk
+Grünohr
+Schwarzfuß
+Fährtenleser
+Feuertänzer
+Hasentöter
+Wolftöter
+Bärentöter
+Windflüsterer
+Pferdezähmer
+Büffeljäger
+Friedenspfeifenraucher
+Zeltbauer
+Kräuterkenner
+Trankmeister
+Häuptlingsgehilfe
+Häuptling
+Stammesvorsteher
+Held-der-Indianer
+Legende-der-Wildnis
+Weiser-der-Felsen
+Kenner-der-Pflanzen
+Meister-der-Tiere
+Herr-der-Prärie
+*Wilder %s
+*Gefürchteter %s
+*Röthäutiger %s 
+*%s mit Kriegsbemalung
+*%s in Harmonie mit der Natur

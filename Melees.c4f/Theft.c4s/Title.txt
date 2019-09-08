@@ -1,0 +1,2 @@
+DE:Diebstahl
+US:Theft

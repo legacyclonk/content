@@ -1,0 +1,3 @@
+#strict
+
+#include GATL

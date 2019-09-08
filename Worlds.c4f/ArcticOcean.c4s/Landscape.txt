@@ -1,0 +1,56 @@
+/* Arctic Map */
+
+//overlay Mat { algo=rndchecker; a=8; zoomX=-70; zoomY=-100; turbulence=1000; };
+overlay Mat { algo=boxes; a=4; b=20; zoomX=60; turbulence=1000; };
+overlay Snow { algo=rndchecker; a=3; hgt=40; mat=Snow; tex=Smooth; turbulence=100; zoomX=-100; zoomY=-100; loosebounds=1; sub=0; };
+overlay Earth { algo=rndchecker; a=3; turbulence=10000; zoomX=-90; zoomY=-90; };
+
+map Arctic {
+  // Meer
+  overlay { algo=solid; y=18px; mat=Water; tex=Liquid; sub=0; };
+
+  // Querliegende Eisberge
+  overlay { algo=lines; y=15px; hgt=10px; a=25; b=55; mat=Ice; tex=Flare2; turbulence=80; loosebounds=1; sub=0;
+    overlay { algo=rndchecker; a=8; mat=Ice; tex=Flare3; turbulence=100; sub=0; };
+    Snow { algo=bozo; a=8; sub=0; };
+    //Damit der Schnee nicht direkt am Wasser angrenzt
+    overlay { algo=border; a=2; b=2; mat=Ice; tex=Flare2; turbulence=50; sub=0; }; 
+    overlay { algo=border; b=2; hgt=50; b=0; mat=Snow; tex=Smooth; turbulence=1000; sub=0; };
+  };
+
+  // Eisberge
+  // Nicht zu hoch
+  overlay { algo=solid; loosebounds=1; zoomY=-50; turbulence=1000;
+    x=-100; wdt=300; y=12px; } &
+  // Unten dünner
+  overlay { algo=sin; zoomX=60; zoomY=33; lambda=0; loosebounds=1; invert=1; turbulence=1000;
+    ox=25px; x=-100; wdt=300; oy=12px; hgt=61; } &
+  // Unten sind Lücken
+  overlay { algo=bozo; a=10; loosebounds=1; invert=1; turbulence=1000;
+    ox=0 - 100; x=-100; wdt=300; y=70; } &
+  // Oben rund
+  overlay { algo=sin; mat=Ice; tex=Flare2; zoomY=-5; zoomX=60; sub=0; turbulence=100;
+    ox=-20px; oy=5px;
+    Earth { mat=Ice; tex=Structure; };
+    Earth { mat=Ice; tex=Flare3; };
+    Snow { };
+    //Damit der Schnee nicht direkt am Wasser angrenzt
+    overlay { algo=border; a=2; b=2; mat=Ice; tex=Flare2; turbulence=0; sub=0; };
+    //Über dem Wasser liegt aber Schnee
+    overlay { algo=border; b=2; hgt=25; b=0; mat=Snow; tex=Smooth; turbulence=1000; sub=0; };
+    };
+
+  // Meeresgrund
+  overlay { algo=solid; x=-20; wdt=140; y=75; mat=Earth; tex=Rough; turbulence=500; loosebounds=1; zoomX=60;
+    Earth { mat=Earth; tex=Ridge; };
+    Earth { mat=Earth; tex=Smooth; };
+    overlay { algo=border; a=1; b=1; invert=1; mat=Lava; tex=Smooth; } &
+    Mat { mat=Oil; tex=Liquid; a=5; zoomX=50; zoomY=50; };
+    overlay { algo=border; a=1; b=1; invert=1; mat=Lava; tex=Smooth; zoomX=50; zoomY=50; } &
+    Mat { mat=Oil; tex=Liquid; a=5; zoomX=50; zoomY=50; };
+    Mat { mat=Granite; tex=Rough; b=15; };
+    Mat { mat=Rock; tex=Rough; };
+    Mat { mat=Ore; tex=Rough; };
+    Mat { mat=Gold; tex=Rough; zoomX=10; };
+  };
+};

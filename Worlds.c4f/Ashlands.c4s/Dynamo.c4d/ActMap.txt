@@ -1,0 +1,9 @@
+[Action]
+Name=Working
+Procedure=NONE
+Length=10
+Delay=2
+Facet=0,22,33,22
+Sound=Work
+NextAction=Working
+EndCall=Working

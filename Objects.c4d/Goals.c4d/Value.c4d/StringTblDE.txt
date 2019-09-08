@@ -1,0 +1,2 @@
+MsgGoalFulfilled=%d Siedlungspunkte erreicht!
+MsgGoalUnfulfilled=%d Siedlungspunkte von %d erreicht.

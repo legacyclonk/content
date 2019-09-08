@@ -1,0 +1,3 @@
+This object enables a player to acquire all construction plans for weapons and numerous other useful items.
+
+If this object is available or can be bought within a scenario, the numerous plans need not be specified in the scenario settings.

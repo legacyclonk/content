@@ -1,0 +1,12 @@
+[Action]
+Name=Burning
+Procedure=NONE
+NextAction=Burning
+Delay=5
+Directions=2
+Length=4
+Facet=14,0,14,26,0,-5
+StartCall=
+
+
+

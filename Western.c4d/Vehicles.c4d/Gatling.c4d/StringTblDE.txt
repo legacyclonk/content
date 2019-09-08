@@ -1,0 +1,5 @@
+TxtAimup=Zielen: auf
+TxtAimdown=Zielen: ab
+TxtFire=Feuern
+TxtPossibleContents=Es können nur|Trommelmagazine|geladen werden!
+TxtFull=Gatling ist|bereits geladen!

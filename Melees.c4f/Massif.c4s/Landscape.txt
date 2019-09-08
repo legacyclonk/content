@@ -1,0 +1,185 @@
+overlay AlterMat {
+  sub = 1;
+  turbulence = 10;
+  algo = rndchecker;
+  zoomX = -70;
+  zoomY = -70;
+};
+
+overlay Dots {
+  algo = random;
+  a = 2;
+};
+
+map Separator {
+  /* Himmelsinseln */
+  overlay { x = 5; wdt = 15; y = 15; hgt = 10;
+    turbulence = 1000; lambda = 2; loosebounds = 1;
+    zoomX = 75; zoomY = 55; grp = 1;
+  } |
+  overlay { x = 80; wdt = 15; y = 15; hgt = 10;
+    turbulence = 1000; lambda = 2; loosebounds = 1;
+    zoomX = 75; zoomY = 55; grp = 1;
+  } & overlay {    
+    sub = 1; mat = Earth; tex = Smooth;
+    AlterMat { mat = Earth; tex = Ridge; a = 4; };
+    AlterMat { mat = Earth; tex = Rough; a = 4; };
+    AlterMat { mat = Earth; tex = Smooth2; a = 4; };
+
+    AlterMat {
+      zoomX = 20; zoomY = 20; loosebounds = 1;
+      mat = Tunnel; tex = Smooth; a = 3;
+    };
+
+    AlterMat {
+      zoomX = -20; zoomY = -20; loosebounds = 1;
+      mat = Rock; tex = Rough; a = 2;
+      AlterMat { mat = Rock; tex = Ridge; a = 3; };
+      AlterMat { mat = Rock; tex = Rock; a = 3; };
+    };
+
+    AlterMat {
+      zoomX = -15; zoomY = -15; loosebounds = 1;
+      mat = Granite; tex = Rough; a = 4;
+      AlterMat { mat = Granite; tex = Ridge; a = 3; };
+      AlterMat { mat = Granite; tex = Rock; a = 3; };
+    };
+  };
+
+  /* Hügel für die Teams */
+  overlay {
+    algo = sin; mat = Earth; tex = Smooth;
+    zoomX = 92; zoomY = 50;
+    ox = 22; oy = 50;
+    //turbulence = 100;
+
+    AlterMat { mat = Earth; tex = Ridge; a = 4; };
+    AlterMat { mat = Earth; tex = Rough; a = 4; };
+    AlterMat { mat = Earth; tex = Smooth2; a = 4; };
+
+    AlterMat {
+      zoomX = 20; zoomY = 20; turbulence = 30; lambda = 6;
+      mat = Sulphur; tex = Swirl; a = 9; y = 50;
+      AlterMat { mat = Sulphur; tex = Ridge; a = 3; };
+      AlterMat { mat = Sulphur; tex = Rough; a = 3; };
+    };
+
+    AlterMat {
+      zoomX = 20; zoomY = 20; turbulence = 30; lambda = 6;
+      mat = Coal; tex = Swirl; a = 7; y = 60;
+      AlterMat { mat = Coal; tex = Ridge; a = 3; };
+      AlterMat { mat = Coal; tex = Structure2; a = 3; };
+    };
+
+    AlterMat {
+      zoomX = 40; zoomY = 40; y = 72; loosebounds = 1;
+      mat = Rock; tex = Rough; a = 9;
+      AlterMat { mat = Rock; tex = Ridge; a = 3; };
+      AlterMat { mat = Rock; tex = Rock; a = 3; };
+    };
+
+    AlterMat {
+      zoomX = 40; zoomY = 20; y = 72;
+      mat = Granite; tex = Rough; a = 10;
+      AlterMat { mat = Granite; tex = Ridge; a = 3; };
+      AlterMat { mat = Granite; tex = Rock; a = 3; };
+    };
+
+    AlterMat {
+      zoomX = -20; zoomY = -30; a = 12;
+      mat = Ore; tex = Rough;
+      AlterMat { mat = Ore; tex = Ridge; a = 3; };
+      AlterMat { mat = Ore; tex = Rock; a = 3; };
+    };
+
+    AlterMat { y = 70; mat = Tunnel; tex = Smooth; zoomX = -75; zoomY = -60; a = 10;
+      // Rahmen
+      overlay { algo = border; a = 1; b = 1;
+        mat = FlyAshes; tex = Smooth; loosebounds = 1;
+        Dots { mat = Granite; tex = Rough; a = 3; };
+      };
+    };
+
+    AlterMat { y = 75; mat = Tunnel; tex = Smooth; zoomX = 30; zoomY = 40; a = 10;
+      // Rahmen
+      overlay { algo = border; a = 1; b = 1;
+        mat = FlyAshes; tex = Smooth; loosebounds = 1;
+        Dots { mat = Granite; tex = Rough; a = 3; };
+      };
+    };
+
+    AlterMat {
+      zoomX = 20; zoomY = 30;
+      mat = Gold; tex = Rough; a = 10; lambda = 5;
+      AlterMat { mat = Gold; tex = Structure3; a = 3; };
+      AlterMat { mat = Rock; tex = Rock; a = 4; };  
+    };
+
+    AlterMat {
+      mat = Crystal; tex = Flare; a = 8 - 14;
+      zoomX = 10; zoomY = 20;
+      AlterMat { mat = Crystal; tex = Structure; a = 3; };
+      AlterMat { mat = Crystal; tex = Structure2; a = 3; };
+    };
+
+    /* Obendrauf die Erde wieder etwas glätten, sonst haben wir hochgezoomte Pixel */
+    overlay {
+      algo = border;
+      turbulence = 35; lambda = 3;
+      loosebounds = 1;
+      zoomX = 20; zoomY = -60;
+      a = 5; b = 5;
+    };
+  };
+
+  /* Felsmassiv in der Mitte */
+  overlay { grp = 1; y = 15; turbulence = 15; lambda = 5; loosebounds = 1; } &
+  overlay {
+    mat = Granite; tex = Rock;
+    algo = sin;
+    x = 35; wdt = 30;
+    oy = 5; hgt = 170;
+    zoomX = 68;
+    zoomY = 85;
+    loosebounds = 1;
+    turbulence = 5000; lambda = 3;
+    AlterMat { mat = Granite; tex = Rough; a = 3; };
+    AlterMat { mat = Granite; tex = Ridge; a = 3; };
+    AlterMat { mat = Rock; tex = Rough; a = 6; };
+    AlterMat { mat = Rock; tex = Ridge; a = 6; };
+    AlterMat { mat = Rock; tex = Rock; a = 6; };
+    AlterMat { mat = Gold; tex = Ridge; a = 8; zoomX = -80; zoomY = -80; };
+    AlterMat {
+      mat = Tunnel; tex = Smooth; a = 9; zoomX = -20; zoomY = 30;
+      overlay { algo = border; a = 1; b = 1; mat = Earth; tex = Smooth; };
+    };
+    overlay {
+      algo = border; a = 3; b = 3;
+      mat = Granite; tex = Rock;
+      AlterMat { mat = Granite; tex = Rough; a = 3; };
+      AlterMat { mat = Granite; tex = Ridge; a = 3; };
+    };
+    overlay {
+      y = 0; hgt = 35;
+      a = 2; b = 2;
+      algo = border;
+      mat = Ashes; tex = Smooth3;
+    };
+  };
+
+  /* Ein unentdeckter Wassertunnel -- ob man ihn wohl nutzen wird? */
+  overlay {
+    turbulence = 200; loosebounds = 1;
+    x = 30; wdt = 40; y = 87; hgt = 10;
+    grp = 1;
+  } & overlay {
+    mat = Water; tex = Liquid;
+    overlay {
+      algo = border; a = 2; b = 2;
+      mat = Earth; tex = Smooth;
+      overlay {
+        x = 35; wdt = 30; mat = Granite; tex = Rough;
+      };
+    };
+  };
+};

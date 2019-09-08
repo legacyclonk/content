@@ -1,0 +1,14 @@
+[DefCore]
+id=CHBM
+Version=4,9,8
+Name=Beam
+Category=C4D_Structure
+Width=1
+Height=1
+Vertices=2
+Value=10
+Mass=15
+Components=WOOD=1
+Picture=0,0,64,64
+Line=C4D_LineVertex
+LineIntersect=1

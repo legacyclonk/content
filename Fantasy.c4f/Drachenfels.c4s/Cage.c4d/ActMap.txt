@@ -1,0 +1,8 @@
+[Action]
+Name=Open
+Directions=1
+Length=1
+Delay=0
+FacetBase=1
+Facet=65,0,19,13,14,42
+NextAction=Hold

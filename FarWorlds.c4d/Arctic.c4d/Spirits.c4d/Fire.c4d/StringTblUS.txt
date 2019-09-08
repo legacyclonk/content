@@ -1,0 +1,7 @@
+TxtIamtheSpiritofFireCo=I am the Spirit of Fire.|Complete the quest I have for you|to summon the next spirit.
+TxtThisisyourtask=This is your task:
+TxtBuildalargefireIwill=Build a large fire.|I will reward you.
+TxtYouhavecompletedyour=You have completed your task.|Here is your reward.
+
+TxtConjured=The %s has been conjured!
+TxtLeave=The quest of the %s has been completed!

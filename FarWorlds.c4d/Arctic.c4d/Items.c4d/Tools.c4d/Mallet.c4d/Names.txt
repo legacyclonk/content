@@ -1,0 +1,2 @@
+DE:Hammer
+US:Mallet

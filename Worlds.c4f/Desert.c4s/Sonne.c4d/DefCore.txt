@@ -1,0 +1,11 @@
+[DefCore]
+id=SONE
+Version=4,9,8
+Name=Sun
+Category=C4D_StaticBack|C4D_Environment
+MaxUserSelect=1
+Width=1
+Height=1
+Offset=-1,-1
+Picture=192,0,64,64
+BlitMode=1

@@ -1,0 +1,1 @@
+BtlEmpty=Die Flasche ist leer.

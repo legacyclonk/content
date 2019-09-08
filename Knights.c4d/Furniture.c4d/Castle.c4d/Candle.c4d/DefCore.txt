@@ -1,0 +1,17 @@
+[DefCore]
+id=CNDL
+Version=4,9,8
+Name=Candle
+Category=C4D_Vehicle|C4D_SelectKnowledge
+Width=6
+Height=26
+Offset=-3,-13
+Vertices=3
+VertexX=0,-3,3
+VertexY=-8,12,12
+VertexFriction=100,100,100
+Value=11
+Mass=50
+Components=METL=1
+Picture=0,26,64,64
+Grab=1

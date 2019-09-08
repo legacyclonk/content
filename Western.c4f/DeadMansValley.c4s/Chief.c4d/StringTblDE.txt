@@ -1,0 +1,10 @@
+SendMsg=Nachrichten versenden
+TestWire=Leitung %d testen
+TestWireDesc=Schickt eine Testnachricht durch Leitung, um diese auf Schäden zu überprüfen
+MnCallSupp=Hauptmann bestellen
+MsgNoMoney=Nicht genug Geld!
+MsgOnlyOneChief=Nur ein Hauptmann möglich!
+MsgNoEnergy=Nicht genug Energie!
+CancelSending=Senden abbrechen
+
+MsgNewChief=%s hat einen Hauptmann!

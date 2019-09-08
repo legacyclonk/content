@@ -1,0 +1,3 @@
+SgnpFortville=Welcome to Fortville.
+SgnpTemple1=Keep out!
+SgnpTemple2=Indian Territory.|Enter at your own risk!

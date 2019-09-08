@@ -1,0 +1,9 @@
+[Action]
+Name=Bubble
+Procedure=FLOAT
+Length=40
+Delay=3
+Facet=0,0,1,1,0,0
+FacetBase=0
+EndCall=Remove
+PhaseCall=LiquidCheck

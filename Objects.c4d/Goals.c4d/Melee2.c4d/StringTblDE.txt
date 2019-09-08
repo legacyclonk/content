@@ -1,0 +1,1 @@
+MsgDeprecated=WARNUNG: Benutze veraltetes Spielziel \"MEL2\". Bitte auf Spielziel \"MELE\" ändern und ggf. Teams.txt anpassen!

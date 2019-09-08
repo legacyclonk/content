@@ -1,0 +1,2 @@
+Connect=Connect
+MsgCantConnect=Can't connect wire!

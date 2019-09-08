@@ -1,0 +1,12 @@
+[DefCore]
+id=LOCK
+Version=4,9,8
+Name=Lock
+Category=C4D_Structure
+Width=6
+Height=11
+Offset=-3,-5
+Components=LOCK=1
+Picture=6,0,27,41
+Grab=1
+ColorByOwner=1

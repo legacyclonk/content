@@ -1,0 +1,8 @@
+TxtErrMagic=%s hat|nicht genug Zauberenergie!
+TxtMagic=Beschwören
+TxtsisnoAngakok=%s ist kein Angakok
+TxtNoMagic=Keine Geister verfügbar
+TxtNextGrade=Nächste Stufe
+TxtNoGoodPos=Keine gute Position!
+TxtTooCloseToWater=%s steht zu|nahe am Wasser.
+TxtAlreadyThere=Der Geist ist bereits auf der Erde!

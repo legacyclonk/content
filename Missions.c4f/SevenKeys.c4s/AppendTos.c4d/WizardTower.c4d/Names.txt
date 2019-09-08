@@ -1,0 +1,2 @@
+DE:Zauberturm
+US:Wizard Tower

@@ -1,0 +1,2 @@
+DescUp=Open
+DescDown=Close

@@ -1,0 +1,14 @@
+MsgRelaunch=%s benötigt einen Relaunch!
+
+MsgLost=%s wurde besiegt!
+
+MsgFortJoin=%s schließt sich Fortville an.
+MsgCoalJoin=%s kämpft für Coalstown.
+
+MsgFortRel1=1 Relaunch verbleibt für Fortville
+MsgFortRel2=%d Relaunches verbleiben für Fortville
+MsgCoalRel1=1 Relaunch verbleibt für Coalstown
+MsgCoalRel2=%d Relaunches verbleiben für Coalstown
+
+MsgFortLost=Fortville verliert seinen Sheriff!
+MsgCoalLost=Coalstowns Sheriff ist Geschichte!

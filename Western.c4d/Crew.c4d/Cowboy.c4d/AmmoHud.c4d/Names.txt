@@ -1,0 +1,2 @@
+DE:MunitionsAnzeige
+US:AmmoHud

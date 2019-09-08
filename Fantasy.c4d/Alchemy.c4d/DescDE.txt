@@ -1,0 +1,3 @@
+Die verschiedenen alchemischen Zutaten.
+
+Ist die Alchemieregel in einem Szenario aktiviert, so werden Zauber nicht mit Verbrauch von Zauberenergie gesprochen, sondern sie benötigen individuelle Zutaten. Diese können von jedem beliebigen Clonk mit Hilfe des Alchemiebeutels aus bestimmten Gegenständen und Materialien gewonnen und mitgeführt werden. 

@@ -1,0 +1,2 @@
+Serves for communication between cities far from each other.
+Press 'Jump' to open the menu.

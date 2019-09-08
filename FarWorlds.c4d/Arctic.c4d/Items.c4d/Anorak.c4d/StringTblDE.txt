@@ -1,0 +1,2 @@
+TxtPuton=Anziehen
+TxtAlreadywearingananor=Clonk trägt|bereits einen Anorak!

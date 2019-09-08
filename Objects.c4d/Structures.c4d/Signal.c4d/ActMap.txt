@@ -1,0 +1,9 @@
+[Action]
+Name=Signal
+Procedure=NONE
+Directions=3
+FacetBase=0
+Facet=0,0,24,50
+NextAction=Signal
+Length=4
+Delay=0

@@ -1,0 +1,1 @@
+Construction kits are used to create new buildings. Sufficient space and level ground are required for the construction site. One or multiple clonks can be assigned to work on a site. Depending on the rule set, additional material might be needed to complete the structure.

@@ -1,0 +1,17 @@
+[DefCore]
+id=HDCF
+Version=4,9,8
+Name=Handcuffs
+Category=C4D_Object
+Width=13
+Height=7
+Offset=-6,-3
+Vertices=1
+VertexY=1
+VertexFriction=20
+Value=10
+Mass=2
+Components=HDCF=1
+Picture=0,7,64,64
+Rebuy=1
+Collectible=1

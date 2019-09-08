@@ -1,0 +1,5 @@
+Der Drache, das mächtigste aller Lebewesen in Clonk, erhebt sich mit diesem Objektpaket in die Lüfte und zieht am Himmel seine Kreise.
+
+Er kann vom Magus, dem am weitesten fortgeschrittenen Zauberclonk, berufen und geritten werden. Etliche neue Zauber stehen dem Magus dabei ebenso zur Seite, wie das Kombinations-Zaubersystem, ein alternatives Menüsystem zur schnellen Anwahl sämtlicher Zauber über individuelle Tastenkombinationen.
+
+Sehr fortgeschrittene Lehrlinge der Magie widmen sich der Alchemie, einer speziellen Spielregel, die das Sprechen von Zaubern und Zusammensetzung von Zaubertränken durch magische Zutaten ermöglicht.

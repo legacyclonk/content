@@ -1,0 +1,1 @@
+These objects determine the way in which a round can be successfully completed. All players still alive at the end of the round will receive a bonus. All selected goals per round have to be completed.

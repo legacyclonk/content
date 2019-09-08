@@ -1,0 +1,51 @@
+MsgCExplo=The cChief (%s) was blown up by %s!
+MsgCFire=The chief (%s) was burnt by %s!
+MsgCFight=The chief (%s) was wrestled down by %s!
+MsgCShot=The chief (%s) was shot by %s!
+MsgCItem=The chief (%s) died by %s from %s.
+
+MsgExplo1=%s was killed by an explosion of %s!
+MsgExplo2=%s got blasted by %s!
+MsgExplo3=%s doesn't like the explosives of %s!
+MsgFire=%s was burnt by %s!
+MsgFight1=%s lost the fight against %s!
+MsgFight2=%s had no chance against %s!
+MsgShot1=%s is too slow for %s!
+MsgShot2=%s was shot by %s!
+MsgShot3=%s was hit by %s!
+MsgShot4=%s owes %s a kill.
+MsgItem1=%s is down because of the %s from %s.
+MsgItem2=%s was killed by the %s from %s.
+MsgItem3=%s needs a relaunch because of the %s from %s.
+
+MsgSCExplo=The chief (%s) blowed himself up!
+MsgSCFire=The chief (%s) incinerated!
+MsgSCAir=The chief (%s) was out of breath!
+MsgSCAcid=The chief (%s) died in acid!
+MsgSCElse1=The chief (%s) has done suicide.
+MsgSCElse2=The chief (%s) was weary of life.
+
+MsgSExplo=%s blowed himself up!
+MsgSFire=%s incinerated!
+MsgSAir=%s was out of breath!
+MsgSAcid=%s died in acid!
+MsgSElse1=%s has done suicide.
+MsgSElse2=%s was weary of life.
+
+
+SellMenu=Sell
+MsgNoSell=I don't buy stuff!
+
+TxtFire=Fire
+
+MsgKill0=%s was killed by %s.
+MsgKill1=%s was judged by %s.
+MsgKill2=%s isn't liked by %s.
+MsgKill3=%s owes %s a kill.
+MsgKill4=%s now has a score to settle with %s.
+
+MsgSuicide0=%s was weary of life.
+MsgSuicide1=%s says goodbye.
+MsgSuicide2=%s has done suicide.
+
+MsgChiefKill=The chief of %s was killed by %s.

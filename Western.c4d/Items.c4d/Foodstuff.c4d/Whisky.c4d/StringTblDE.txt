@@ -1,0 +1,3 @@
+Drink=Trinken
+BtlEmpty=Die Flasche ist leer.
+NameEmpty=Leere Flasche

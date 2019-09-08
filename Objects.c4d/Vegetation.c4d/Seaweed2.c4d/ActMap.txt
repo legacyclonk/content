@@ -1,0 +1,15 @@
+[Action]
+Name=Wiggle
+Procedure=NONE
+Length=8
+Delay=3
+Facet=0,0,16,20
+NextAction=Wiggle
+
+[Action]
+Name=Dry
+Procedure=NONE
+Delay=1
+Facet=0,20,16,20
+NextAction=Hold
+ 

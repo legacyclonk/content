@@ -1,0 +1,15 @@
+[Action]
+Name=Open
+Procedure=FLOAT
+Length=1
+Delay=0
+FacetBase=1
+NextAction=Hold
+
+[Action]
+Name=Aborting
+Procedure=FLOAT
+Length=1
+Delay=1
+FacetBase=1
+EndCall=Abort

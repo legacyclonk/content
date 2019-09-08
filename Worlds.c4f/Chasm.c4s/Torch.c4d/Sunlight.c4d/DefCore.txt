@@ -1,0 +1,9 @@
+[DefCore]
+id=SU9Z
+Version=4,9,8
+Name=Sunlight
+Category=C4D_StaticBack
+TimerCall=Check4Clonk
+Width=1
+Height=1
+Picture=0,0,1,1

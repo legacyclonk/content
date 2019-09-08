@@ -1,0 +1,6 @@
+[DefCore]
+id=TREE
+Version=4,9,8
+Name=TreeControl
+Category=C4D_StaticBack
+Picture=0,0,64,64

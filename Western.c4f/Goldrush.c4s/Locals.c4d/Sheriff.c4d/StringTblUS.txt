@@ -1,0 +1,9 @@
+CtxConstructionDesc=Construction
+CtxHomeDesc=Back to base
+CtxRelease=Release
+CtxImprison=Imprison
+CtrlMenuDesc=Menu
+CtrlInventoryDesc=Shift inventory
+MsgNoBandit=No Bandit around
+MsgNoOffice=No jail around
+MsgImprisoned=You are arrested!

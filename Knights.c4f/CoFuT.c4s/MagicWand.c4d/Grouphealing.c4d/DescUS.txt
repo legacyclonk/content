@@ -1,0 +1,1 @@
+Heals a few wounded clonks near the sorcerer.

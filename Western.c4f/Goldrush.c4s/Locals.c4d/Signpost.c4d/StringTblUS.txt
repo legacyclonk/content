@@ -1,0 +1,23 @@
+MsgRead=Read Sign
+MsgTravel=Travel
+
+TxtCoalstown=Coalstown - 25 Mmiles
+TxtFrontier=The frontier ends hier! Beware or the Indians!
+TxtAshCity=To Ash City
+TxtIndian=To the Sunset Plains
+TxtCaves=To the mines
+TxtCanyon=To the Golden Canyon
+TxtBandits=Never trust a drunken bandit!
+
+MsgTravelTo=Travel to:
+MsgCoalstown=Coalstown
+MsgIndian=Sunset Plains
+MsgAshCity=Ash City
+MsgCaves=Mines
+MsgCanyon=Golden Canyon
+
+NotBackToCoalsTown=We are coming from Coalstown.
+
+ErrNoWagon=The covered wagon is needed for travelling!
+ErrNoHorse=A horse is needed for travelling!
+ErrNoCrew=Some team members are missing!

@@ -1,0 +1,20 @@
+This is the official Western Objects pack by RedWolf Design.
+
+Object contributions from the Western Objects Design Contest have only been
+incorporated from authors who are also team members or official beta testers
+of RedWolf Design.
+
+Other objects which have also appeared in the design contest have been
+completely rewritten for this pack.
+
+Credit for the original trapper idea in the design contest goes to
+Nicolas Harttig (Wipf Hunter).
+
+Credits for the 2013 rework go to Viktor Yuschuk (Viktor).
+
+Folgende Objekte kommen mit Erlaubnis aus dem Eke Vs Western-Pack von Jens Neumann aka Monkstar und wurden folgendermaßen modifiziert:
+ - Mörser (Graphik & Flugbahn wurden neu gestaltet)
+ - Fernglas (Neu gescriptet)
+ - Haftbombe (Neu gescriptet)
+ - Landmine (Neu gescriptet)
+ - Gatling (Neu gescriptet)

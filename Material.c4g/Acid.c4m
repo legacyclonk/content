@@ -1,0 +1,12 @@
+[Material]
+Name=Acid
+Color=0,190,0,0,200,0,0,210
+ColorAnimation=1
+Density=25
+Instable=1
+MaxAirSpeed=25
+MaxSlide=10000
+WindDrift=30
+Corrosive=75
+Placement=10
+TextureOverlay=Liquid

@@ -1,0 +1,2 @@
+DE:Hauptzelt
+US:Main tent

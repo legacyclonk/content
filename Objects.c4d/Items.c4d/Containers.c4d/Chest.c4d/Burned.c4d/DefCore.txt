@@ -1,0 +1,17 @@
+[DefCore]
+id=CHSB
+Version=4,9,8,3
+Name=BurnedChest
+Category=C4D_Vehicle
+Width=18
+Height=18
+Offset=-9,-9
+Vertices=2
+VertexX=-8,8
+VertexY=8,8
+VertexCNAT=8,8
+VertexFriction=50,50
+Value=3
+Mass=10
+Components=WOOD=2;METL=1
+Picture=0,0,18,18

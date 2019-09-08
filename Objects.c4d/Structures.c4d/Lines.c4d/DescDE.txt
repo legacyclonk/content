@@ -1,0 +1,7 @@
+Mit Leitungsbausätzen können Energieleitungen und Rohre verlegt werden. 
+
+Leitungen werden jeweils mit einem Doppelklick auf 'Graben' an Gebäude angeschlossen oder von diesen abgenommen.
+
+Wichtig ist die Richtung der Leitung beim Verlegen. Energieleitungen müssen immer vom Versorger (z.B. Windmühle) zum Verbraucher (z.B. Fahrstuhl) verlegt werden. Energieleitungen werden nur benötigt, wenn in den Szenarioeigenschaften der Energiebedarf aktiviert ist.
+
+Rohre werden von Pumpen aus verlegt. Die erste an eine Pumpe angeschlossene Leitung wird zum Zuflußrohr und saugt Flüssigkeiten an. Die offenen Enden von Rohren können beliebig mit ihren Leitungsbausätzen abglegt werden. Die zweite an eine Pumpe angeschlossene Leitung wird zum Abflußrohr. Abflußrohre können auch an Basisgebäude angeschlossen werden. Wenn in diesen Gebäuden leere Fässer bereitstehen, werden diese automatisch mit den zugepumpten Flüssigkeiten gefüllt.

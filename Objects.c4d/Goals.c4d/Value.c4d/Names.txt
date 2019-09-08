@@ -1,0 +1,2 @@
+DE:Siedlungspunkte
+US:Settlement points
