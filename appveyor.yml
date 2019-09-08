@@ -1,0 +1,48 @@
+version: '{build}'
+branches:
+  except:
+    - /^continuous-.*$/i
+
+image:
+- Visual Studio 2017
+
+init:
+  - cmd: git config --global core.autocrlf true
+
+install:
+  - cmd: powershell -Command Start-FileDownload https://github.com/legacyclonk/LegacyClonk/releases/download/continuous-master/LegacyClonk.zip
+  - cmd: 7z x LegacyClonk.zip
+
+build_script:
+  - cmd: mkdir packed
+  - ps: |
+      $ErrorActionPreference = "Stop"
+      foreach ($folder in (Get-ChildItem -Filter "*.c4?" -Directory))
+      {
+         Copy-Item "$folder" -Destination "packed\$folder" -Recurse
+         .\c4group.exe "packed\$folder" -p
+         Push-AppveyorArtifact "packed\$folder" -DeploymentName Content
+      }
+
+deploy:
+- provider: GitHub
+  tag: continuous-$(APPVEYOR_REPO_BRANCH)
+  release: Continuous build
+  on:
+    APPVEYOR_REPO_TAG: false
+  auth_token:
+    secure: YE0vsP2wBEPL52Fo6eOeql9XqUlWimQ6Hbw2HPAOIorw4peKSiniwoU4Dhh/vXJ+
+  artifact: Content
+  prerelease: true
+  force_update: true
+
+- provider: GitHub
+  tag: continuous-$(APPVEYOR_REPO_TAG_NAME)
+  release: Continuous build
+  on:
+    APPVEYOR_REPO_TAG: true
+  auth_token:
+    secure: YE0vsP2wBEPL52Fo6eOeql9XqUlWimQ6Hbw2HPAOIorw4peKSiniwoU4Dhh/vXJ+
+  artifact: Content
+  prerelease: true
+  force_update: true
