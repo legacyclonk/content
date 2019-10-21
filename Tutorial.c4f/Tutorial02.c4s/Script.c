@@ -1,6 +1,6 @@
 #strict 2
 
-// Gespeicherte Positionen f�r den Relaunch
+// Gespeicherte Positionen für den Relaunch
 static iBlnX, iBlnY, iPlrX, iPlrY, iCounter;
 
 func Initialize()
@@ -221,14 +221,14 @@ func RelaunchPlayer(iPlr)
   RemoveAll(FLAG); RemoveAll(LOAM); RemoveAll(BALN);
   CreateMaterial(iPlr);
   CreateObject(BALN, iBlnX, iBlnY, iPlr);
-  // Neuen Clonk erzeugen, falls n�tig
+  // Neuen Clonk erzeugen, falls nötig
   if (!FindObject(CLNK)->GetAlive())
  	{
 	  var pClonk = CreateObject(CLNK, iPlrX, iPlrY, iPlr);
 	  MakeCrewMember(pClonk, iPlr);
 	  SetCursor(iPlr, pClonk);
 	}
-  // Scriptcounter zur�ck setzen
+  // Scriptcounter zurück setzen
   goto(iCounter);
 }
 
