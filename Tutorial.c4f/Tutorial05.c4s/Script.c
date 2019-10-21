@@ -14,7 +14,6 @@ func Initialize()
 {
 	// Always have some music
 	Music("Frontend", 1);
-	MusicLevel(30);
 	// Create lens flare
 	if (!ObjectCount(LENS)) CreateObject(LENS, 400, 100);
 	// Fix vines (are not correctly saved in this Objects.txt)

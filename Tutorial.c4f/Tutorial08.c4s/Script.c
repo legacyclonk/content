@@ -4,7 +4,6 @@ func Initialize()
 {
 	// Always have some music
 	Music("Frontend", 1);
-	MusicLevel(30);
 	// Create lens flare
 	CreateObject(LENS, 550, 200, NO_OWNER);
 	// Bird song

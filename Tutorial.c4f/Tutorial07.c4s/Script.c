@@ -5,7 +5,6 @@ static sailboatX, sailboatY;
 Initialize:
 	// Have some music
 	Music("Pizza Strings", 1);
-	MusicLevel(30);
 	// Rain
 	Sound("Rain", 1, 0, 10, 0, 1);
 	// Gamma

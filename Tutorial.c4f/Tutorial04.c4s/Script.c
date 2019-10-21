@@ -4,7 +4,6 @@ func Initialize()
 {
 	// Always have some music
 	Music("Frontend", 1);
-	MusicLevel(30);
 	// Glint
 	//CreateObject(EGLN);
 	// Lens flare

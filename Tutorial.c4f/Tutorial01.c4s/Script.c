@@ -6,7 +6,6 @@ func Initialize()
 {
 	// Always have some music
 	Music("Frontend", 1);
-	MusicLevel(30);
 	// Create lens flare
 	CreateObject(LENS, 70, 50, NO_OWNER);
 	// Place hut

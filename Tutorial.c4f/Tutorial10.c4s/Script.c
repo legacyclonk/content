@@ -3,7 +3,6 @@
 func Initialize() {
 	// Always have some music
 	Music("Frontend", 1);
-	MusicLevel(30);
 	// Gamma
   SetGamma(RGB(10,2,1), RGB(161,128,129), RGB(255,234,221));
   // Crystal

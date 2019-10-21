@@ -1,13 +1,12 @@
 #strict 2
 
-// Gespeicherte Positionen für den Relaunch
+// Gespeicherte Positionen fï¿½r den Relaunch
 static iBlnX, iBlnY, iPlrX, iPlrY, iCounter;
 
 func Initialize()
 {
 	// Always have some music
 	Music("Frontend", 1);
-	MusicLevel(30);
 	// Create lens flare
 	CreateObject(LENS, 100, 100, NO_OWNER);
 	// Fix vines (wrong offset when saved in Objects.txt for the first time)
@@ -222,14 +221,14 @@ func RelaunchPlayer(iPlr)
   RemoveAll(FLAG); RemoveAll(LOAM); RemoveAll(BALN);
   CreateMaterial(iPlr);
   CreateObject(BALN, iBlnX, iBlnY, iPlr);
-  // Neuen Clonk erzeugen, falls nötig
+  // Neuen Clonk erzeugen, falls nï¿½tig
   if (!FindObject(CLNK)->GetAlive())
  	{
 	  var pClonk = CreateObject(CLNK, iPlrX, iPlrY, iPlr);
 	  MakeCrewMember(pClonk, iPlr);
 	  SetCursor(iPlr, pClonk);
 	}
-  // Scriptcounter zurück setzen
+  // Scriptcounter zurï¿½ck setzen
   goto(iCounter);
 }
 
