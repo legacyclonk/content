@@ -23,6 +23,10 @@ build_script:
          .\c4group.exe "packed\$folder" -p
          Push-AppveyorArtifact "packed\$folder" -DeploymentName Content
       }
+  - cmd: |
+      cd packed
+      7z a LC_Content.zip *
+      appveyor PushArtifact LC_Content.zip -DeploymentName Content
 
 deploy:
 - provider: GitHub
