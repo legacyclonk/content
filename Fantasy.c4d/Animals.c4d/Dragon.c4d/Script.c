@@ -77,7 +77,6 @@ public func Redefine(idDef)
 {
   ChangeDef(idDef);
   SetAction("Walk");
-  fWalking = 1;
   return(1);
 }
 

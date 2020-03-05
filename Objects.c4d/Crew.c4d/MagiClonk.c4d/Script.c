@@ -256,7 +256,7 @@ public func ExecMagic(id idSpell)
   if(ObjectCount(ALCO)) ReduceAlchem(idSpell);
   
   // Wenn nicht noch gezielt wird, ist der Zauber fertig
-  if (!pAimer) SpellSucceeded(idSpell);
+  if (!LocalN("pAimer")) this->~SpellSucceeded(idSpell);
   
   return(1);
 }

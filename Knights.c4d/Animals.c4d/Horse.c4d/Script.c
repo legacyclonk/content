@@ -38,10 +38,11 @@ protected func Initialize()
 
 public func Redefine(idDef)
 {
+  var graphics = iGraphics;
   ChangeDef(idDef);
   SetAction("Walk");
   // Grafik anpassen (schlägt fehl, wenn keine Zusatzgrafik vorhanden)
-  if(this()->~IsHorse()) SetGraphics(Format("%d", iGraphics), this(),GetID());
+  if(this()->~IsHorse()) SetGraphics(Format("%d", graphics), this(),GetID());
   return(1);
 }
 

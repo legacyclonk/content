@@ -31,7 +31,7 @@ public func Redefine(idDef)
 {
   ChangeDef(idDef);
   SetAction("Swim");
-  SetGait(0);
+  this->~SetGait(0);
   return(1);
 }
 
