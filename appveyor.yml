@@ -37,12 +37,10 @@ deploy:
   force_update: true
 
 - provider: GitHub
-  tag: continuous-$(APPVEYOR_REPO_TAG_NAME)
-  release: Continuous build
+  tag: $(APPVEYOR_REPO_TAG_NAME)
   on:
     APPVEYOR_REPO_TAG: true
   auth_token:
     secure: YE0vsP2wBEPL52Fo6eOeql9XqUlWimQ6Hbw2HPAOIorw4peKSiniwoU4Dhh/vXJ+
   artifact: Content
-  prerelease: true
   force_update: true
