@@ -39,11 +39,15 @@ public func ControlThrow(pClonk)
   return(Activate(pClonk));
 }
 
-protected func ControlConf(int conf)
+protected func ControlConf(int conf, object controller)
 {
   var rVal;
   var pClonk = Contained();
-  if(!pClonk) return(0);
+  if (!pClonk || !IsAiming() || pClonk != controller)
+  {
+    AimCancel(controller);
+    return(0);
+  }
 
   if(conf < 0)
   {
