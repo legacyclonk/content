@@ -117,7 +117,7 @@ protected func Hit2(int xDir, int yDir)
   while (i--) if (pCont = Contents(i))
     if (GetAlive(pCont))
       // Caller von Punch ist this, damit der Controller des Steins für den Schaden verantwortlich ist!
-      Punch(pCont, iDamage, true);
+      Punch(pCont, iDamage);
   // Stein nimmt ebenfalls Schaden - bei zu viel Schaden zerbricht er
   DoDamage(iDamage);
   return(true);
