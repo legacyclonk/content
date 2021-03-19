@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 # example usage: OBJVERSION=4.9.10.8 C4GROUP=~/clonk/c4group ./make_group_updates.sh
 
 set -e
