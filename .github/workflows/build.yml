@@ -19,12 +19,16 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: "Get c4group executable"
-        run: curl -L https://github.com/legacyclonk/LegacyClonk/releases/download/v346_rc4/LegacyClonk-Linux-x64.tar.gz | tar xz c4group
+        run: |
+          curl -L https://github.com/legacyclonk/LegacyClonk/releases/download/v346_rc4/LegacyClonk-Linux-x64.tar.gz | tar xz c4group
+          echo "C4GROUP=$PWD/c4group" >> $GITHUB_ENV
 
       - name: Build
         run: |
-          make -j$(nproc) C4GROUP=./c4group
+          make -j$(nproc) C4GROUP=$C4GROUP
           rm packed/.exists
+          cd packed
+          ../updates/make_group_updates.sh
 
       - name: "Release"
         uses: softprops/action-gh-release@v1
