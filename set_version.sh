@@ -8,3 +8,5 @@ fi
 for f in */Version.txt; do
 	echo $1 > $f
 done
+
+echo $1 > Version.txt
