@@ -8,12 +8,15 @@ if [ -z "$C4GROUP" ]; then
 	exit 1
 fi
 
+SCRIPT_DIR="$(realpath $(dirname $0))"
 if [ -z "$OBJVERSION" ]; then
-	echo "Please define the environment variable OBJVERSION and tell what version the new definitions are (e.g. 4.9.10.8)" >&2
-	exit 1
+	OBJVERSION=$(cat "$SCRIPT_DIR/../Version.txt")
+	if [ -z "$OBJVERSION" ]; then
+		echo "Please define the environment variable OBJVERSION and tell what version the new definitions are (e.g. 4.9.10.8)" >&2
+		exit 1
+	fi
 fi
 
-SCRIPT_DIR="$(realpath $(dirname $0))"
 TARGET_DIR="$(realpath .)"/"lc_${OBJVERSION//./}.c4u"
 SRC_DIR="$SCRIPT_DIR/../packed/"
 
@@ -34,7 +37,7 @@ while read -r part || [[ -n "$part" ]]; do
 	for group in "$SRC_DIR/"*.c4?; do
 		groupname=$(basename "$group")
 		update="$TARGET_DIR/$groupname.c4u"
-		
+
 		if [ -f "$groupname" ]; then
 			echo "	Generating $groupname.c4u..."
 			"$C4GROUP" "$update" -g "$groupname" "$group" $OBJVERSION
@@ -45,5 +48,3 @@ done < "$SCRIPT_DIR/parts.txt"
 
 echo "Packing $TARGET_DIR..."
 "$C4GROUP" "$TARGET_DIR" -p
-
-cp "$TARGET_DIR" ~/lc_update/lc/tools/
