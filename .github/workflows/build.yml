@@ -1,0 +1,34 @@
+name: Autobuild
+
+on:
+  push:
+    tags: '*'
+    branches-ignore: '*'
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  Autobuild:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Set autocrlf
+        run: git config --global core.autocrlf true
+
+      - uses: actions/checkout@v2
+
+      - name: "Get c4group executable"
+        run: curl -L https://github.com/legacyclonk/LegacyClonk/releases/download/v346_rc4/LegacyClonk-Linux-x64.tar.gz | tar xz c4group
+
+      - name: Build
+        run: |
+          make -j$(nproc) C4GROUP=./c4group
+          rm packed/.exists
+
+      - name: "Release"
+        uses: softprops/action-gh-release@v1
+        with:
+          files: packed/*
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
