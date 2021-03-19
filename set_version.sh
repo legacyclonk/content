@@ -10,3 +10,5 @@ for f in */Version.txt; do
 done
 
 echo $1 > Version.txt
+
+echo "Please do not forget to add the latest version to updates/parts.txt if appropriate!"
