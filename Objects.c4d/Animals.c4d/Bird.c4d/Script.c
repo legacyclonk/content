@@ -48,7 +48,7 @@ protected func Activity()
     // In Reichweite?
     if(ObjectDistance(Bait, this()) <= 25)
       // Aufessen!
-      if(GetAction() == "Fly")
+      if(GetAction() eq "Fly")
         SetAction("Eat");
   }
 
@@ -72,7 +72,7 @@ protected func Activity()
     }
 
   // Nichts machen
-  if(Random(2) || GetAction() != "Fly") return(0);
+  if(Random(2) || GetAction() ne "Fly") return(0);
 
   // Nach oben oder unten fliegen
   SetComDir(COMD_Up);
