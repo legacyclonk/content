@@ -27,6 +27,23 @@ protected func DoMagic(idMagic,pClonk) {
     DoMagicEnergy(-Value(idMagic),pClonk);
 }
 
+public func MenuExtraMode()
+{
+  var noMagicEnergy = ObjectCount(NMGE) > 0;
+  if(ObjectCount(ALCO))
+  {
+    if(noMagicEnergy)
+    {
+      return C4MN_Extra_Components;
+    }
+    return C4MN_Extra_ComponentsLiveMagic;
+  }
+  if(!noMagicEnergy)
+  {
+    return C4MN_Extra_LiveMagicValue;
+  }
+  return C4MN_Extra_None;
+}
 
 public func Activate(pClonk) {
   [$TxtMagic$]
@@ -34,10 +51,7 @@ public func Activate(pClonk) {
   // Clonk soll anhalten
   SetComDir(COMD_Stop(),pClonk);
   // Menü öffnen
-  var iExtra;
-  if(ObjectCount(ALCO)) { if(ObjectCount(NMGE)) iExtra=1; else iExtra=5; }
-  else                  { if(ObjectCount(NMGE)) iExtra=0; else iExtra=3; }
-  CreateMenu(MCMS,pClonk,this(),iExtra,"$TxtNoMagic$",GetMagicEnergy(pClonk));
+  CreateMenu(MCMS,pClonk,this(),MenuExtraMode(),"$TxtNoMagic$",ObjectNumber(pClonk));
   AddMenuItem( "$TxtMagic$: %s", "DoMagic", LGT2, pClonk,0,pClonk );
   AddMenuItem( "$TxtMagic$: %s", "DoMagic", MGSW, pClonk,0,pClonk );
   AddMenuItem( "$TxtMagic$: %s", "DoMagic", DTFH, pClonk,0,pClonk );

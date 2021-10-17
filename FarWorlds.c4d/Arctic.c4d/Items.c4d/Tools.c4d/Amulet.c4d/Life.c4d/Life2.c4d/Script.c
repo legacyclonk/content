@@ -19,10 +19,7 @@ public func Activate(pClonk) {
   // Clonk soll anhalten
   SetComDir(COMD_Stop(),pClonk);
   // Menü öffnen
-  var iExtra;
-  if(ObjectCount(ALCO)) { if(ObjectCount(NMGE)) iExtra=1; else iExtra=5; }
-  else                  { if(ObjectCount(NMGE)) iExtra=0; else iExtra=3; }
-  CreateMenu(MCMS,pClonk,this(),iExtra,"$TxtNoMagic$",GetMagicEnergy(pClonk));
+  CreateMenu(MCMS,pClonk,this(),MenuExtraMode(),"$TxtNoMagic$",ObjectNumber(pClonk));
   AddMenuItem( "$TxtMagic$: %s", "DoMagic", MWTH, pClonk,0,pClonk );
   AddMenuItem( "$TxtMagic$: %s", "DoMagic", SFHN, pClonk,0,pClonk );
   AddMenuItem( "$TxtMagic$: %s", "DoMagic", MGHL, pClonk,0,pClonk );

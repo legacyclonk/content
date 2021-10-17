@@ -9,10 +9,7 @@ public func Activate(pClonk) {
   // Clonk soll anhalten
   SetComDir(COMD_Stop(),pClonk);
   // Menü öffnen
-  var iExtra;
-  if(ObjectCount(ALCO)) { if(ObjectCount(NMGE)) iExtra=1; else iExtra=5; }
-  else                  { if(ObjectCount(NMGE)) iExtra=0; else iExtra=3; }
-  CreateMenu(MCMS,pClonk,this(),iExtra,"$TxtNoMagic$",GetMagicEnergy(pClonk));
+  CreateMenu(MCMS,pClonk,this(),MenuExtraMode(),"$TxtNoMagic$",ObjectNumber(pClonk));
   if(Inside(Global(),0,5)) AddMenuItem( "$TxtMagic$: %s", "ConjureUp", FIRG, pClonk,0,pClonk );
   if(Inside(Global(),1,5)) AddMenuItem( "$TxtMagic$: %s", "ConjureUp", AIRG, pClonk,0,pClonk );
   if(Inside(Global(),2,5)) AddMenuItem( "$TxtMagic$: %s", "ConjureUp", SNWG, pClonk,0,pClonk );
@@ -31,7 +28,7 @@ protected func ConjureUp(idSpirit,pClonk) {
   // Ist der gewünschte Geist schon vorhanden, abbruch
   if (FindObject(idSpirit)) return( Message("$TxtAlreadyThere$",this()), Sound("Error") );
   // Energie prüfen und abziehen
-  if (!DoMagicEnergy(-Value(idSpirit),pClonk)) 
+  if (!DoMagicEnergy(-Value(idSpirit),pClonk))
     return( Message("$TxtErrMagic$",this(),GetName(pClonk)), Sound("Error") );
   // Aktion starten
   ObjectSetAction(pClonk,"Conjuration");
