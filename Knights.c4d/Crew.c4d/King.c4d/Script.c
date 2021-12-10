@@ -235,9 +235,9 @@ private func CheckMagic()
 
 private func ResetMagic()
 {
-  if(GetAction() == "Magic") SetAction("Walk");
-  if(GetAction() == "JumpMagic") SetAction("Jump");
-  if(GetAction() == "RideMagic") SetAction("Ride");
+  if(GetAction() eq "Magic") SetAction("Walk");
+  if(GetAction() eq "JumpMagic") SetAction("Jump");
+  if(GetAction() eq "RideMagic") SetAction("Ride");
 }
 
 private func ExecMagic(idSpell)

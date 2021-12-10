@@ -338,9 +338,9 @@ global func ChangeSection(szNewSection)
   if(!g_szSection && szNewSection S="Main") return();
   g_szSection = szNewSection;
   g_iOldSection = g_iSection;
-  if(szNewSection=="Main") g_iSection = 0;
-  if(szNewSection=="AshCity") g_iSection = 1;
-  if(szNewSection=="Caves") g_iSection = 2;
+  if(szNewSection eq "Main") g_iSection = 0;
+  if(szNewSection eq "AshCity") g_iSection = 1;
+  if(szNewSection eq "Caves") g_iSection = 2;
   if(g_iSection>g_iFarestSection) g_iFarestSection = g_iSection;
   Message("$MsgLoadingSect$");
   SetSkyAdjust(RGB(127,127,127));

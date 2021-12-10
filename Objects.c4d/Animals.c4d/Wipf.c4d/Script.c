@@ -32,7 +32,7 @@ protected func Activity()
     // In Reichweite?
     if(ObjectDistance(Bait, this()) <= 15)
       // Aufessen!
-      if(GetAction() == "Walk") {
+      if(GetAction() eq "Walk") {
         SetAction("Eat");
         SetXDir();
       }

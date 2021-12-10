@@ -124,7 +124,7 @@ private func EnemyNearby() {
     pContainer = Contained(pEnemy);
     //if(pContainer) if(GetID(pContainer)==GetID()) return();
     if(pContainer) if(GetCategory(pContainer) & 24) continue;
-    if(GetAction(pEnemy) == "Crawl") continue;
+    if(GetAction(pEnemy) eq "Crawl") continue;
     if(GetVisibility(pEnemy)) continue;
     if(iDist > 150 && Contained(pEnemy)) continue;
     if(iDist > 100 && !PathFree(GetX(),GetY(),GetX(pEnemy),GetY(pEnemy))) continue;

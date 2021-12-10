@@ -54,7 +54,7 @@ public func Ejection()
 
 private func Hit()
 {
-  if (GetAction()!="Decay")  SetAction("Decay");
+  if (GetAction() ne "Decay")  SetAction("Decay");
   return(1);
 }
 
