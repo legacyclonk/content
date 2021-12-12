@@ -20,7 +20,7 @@ jobs:
 
       - name: "Get c4group executable"
         run: |
-          curl -L https://github.com/legacyclonk/LegacyClonk/releases/download/v346_rc4/LegacyClonk-Linux-x64.tar.gz | tar xz c4group
+          curl -L https://github.com/legacyclonk/LegacyClonk/releases/download/v349/LegacyClonk-Linux-x64.tar.gz | tar xz c4group
           echo "C4GROUP=$PWD/c4group" >> $GITHUB_ENV
 
       - name: Build
