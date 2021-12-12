@@ -11,6 +11,7 @@ fi
 SCRIPT_DIR="$(realpath $(dirname $0))"
 if [ -z "$OBJVERSION" ]; then
 	OBJVERSION=$(cat "$SCRIPT_DIR/../Version.txt")
+	OBJVERSION="${OBJVERSION//$'\r'/}"
 	if [ -z "$OBJVERSION" ]; then
 		echo "Please define the environment variable OBJVERSION and tell what version the new definitions are (e.g. 4.9.10.8)" >&2
 		exit 1
