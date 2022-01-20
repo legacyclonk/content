@@ -1,0 +1,7 @@
+[Action]
+Name=Fly
+Procedure=FLIGHT
+Delay=1
+FacetBase=1
+NextAction=Fly
+EndCall=DecreaseSpeed

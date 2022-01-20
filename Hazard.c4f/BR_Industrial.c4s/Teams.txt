@@ -1,0 +1,13 @@
+[Teams]
+Active=1
+AllowTeamSwitch=0
+
+	[Team]
+	id=1
+	Name=$Left$
+	Color=14699548
+
+	[Team]
+	id=2
+	Name=$Right$
+	Color=16053492

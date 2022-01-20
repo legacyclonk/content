@@ -1,0 +1,5 @@
+ArmWith=Arm with %s
+JustOneDrone=Can not use more than one drone at the same time
+Damaged=This drone is damaged
+ArmedWith=Drone armed with %s.
+NoWeap=No weapon to arm.

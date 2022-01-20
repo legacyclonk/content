@@ -1,0 +1,8 @@
+[Action]
+Name=Float
+Procedure=FLOAT
+FacetBase=1
+Delay=1
+Length=10
+PhaseCall=Detonating
+EndCall=Detonated

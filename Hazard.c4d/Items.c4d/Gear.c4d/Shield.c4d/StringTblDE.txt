@@ -1,0 +1,6 @@
+CtrlActivateDesc=Anlegen
+NothingUpgradeable=Nichts aufrüstbares verfügbar.
+Upgrade=%s aufrüsten
+AlreadyWears=%s trägt schon|so eine Ausrüstung!
+Buckled=%s angelegt
+Unbuckled=%s abgelegt

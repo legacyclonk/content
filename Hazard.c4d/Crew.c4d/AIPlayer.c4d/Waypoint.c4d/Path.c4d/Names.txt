@@ -1,0 +1,2 @@
+DE:Pfad
+US:Path

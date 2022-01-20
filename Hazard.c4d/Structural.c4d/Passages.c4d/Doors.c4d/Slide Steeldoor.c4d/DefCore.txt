@@ -1,0 +1,18 @@
+[DefCore]
+id=SLDR
+Version=4,9,8,2
+Name=Slide Door
+Category=C4D_Structure
+MaxUserSelect=5
+Width=12
+Height=30
+Offset=-6,-15
+Vertices=2
+VertexY=-15,14
+VertexFriction=100,100
+Value=60
+Mass=1000
+Components=METL=10
+SolidMask=140,0,4,30,7,0
+TopFace=1,0,7,30,1,0
+Picture=0,30,64,64

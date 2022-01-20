@@ -1,0 +1,4 @@
+Intro=Did you land? Good. Initiate the cleaning of the surface!
+Intro2=Here some basic equipment and a sender for our bombardment.|Place it in their hive and destroy the remaining aliens.|Mother ship over.
+Bombs=Target programmed! The bombs are on their way.|Exterminate the remaining aliens after that.|Mother ship over.
+Keycard=Good work!|We send you the key card for the teleporter.|Down there you are on your own.|Mother ship over.

@@ -1,0 +1,2 @@
+DE:Glühbirne
+US:Light bulb

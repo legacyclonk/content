@@ -1,0 +1,2 @@
+OpenDoor=Open door.
+NoCard=No fitting card available.

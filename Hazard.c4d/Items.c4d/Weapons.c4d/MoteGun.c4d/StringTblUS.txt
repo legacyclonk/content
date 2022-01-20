@@ -1,0 +1,2 @@
+Railgun=Beam
+Shockwave=Shockwave

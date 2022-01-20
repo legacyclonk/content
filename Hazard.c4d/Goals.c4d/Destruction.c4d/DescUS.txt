@@ -1,0 +1,1 @@
+The goal is destroying all targets of the enemy.

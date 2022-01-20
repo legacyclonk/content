@@ -1,0 +1,8 @@
+[Action]
+Name=2Be
+Procedure=FLOAT
+Directions=1
+Length=1
+Delay=0
+FacetBase=1
+NextAction=2Be

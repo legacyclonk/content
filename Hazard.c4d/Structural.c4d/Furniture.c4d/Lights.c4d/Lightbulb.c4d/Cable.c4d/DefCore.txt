@@ -1,0 +1,12 @@
+[DefCore]
+id=BLBC
+Name=Bulb-Cable
+Version=4,9,5
+Category=C4D_StaticBack
+Width=3
+Height=1
+Offset=-2,-1
+Value=10
+Mass=15
+Components=METL=1;
+Picture=2,0,34,32

@@ -1,0 +1,12 @@
+[Teams]
+LastTeamID=2
+
+  [Team]
+  id=1
+  Name=$Rot$
+  Color=16711680
+
+  [Team]
+  id=2
+  Name=$Blau$
+  Color=255

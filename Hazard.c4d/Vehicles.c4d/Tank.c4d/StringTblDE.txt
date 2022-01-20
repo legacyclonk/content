@@ -1,0 +1,10 @@
+UpgradeShield=Rüstet den Panzer mit einem Schild aus
+SwitchLight=Scheinwerfer an/aus
+TxtOut=Aussteigen wenn der Panzer steht
+TxtStopAim=Zielen beenden
+TxtAimDown=Nach unten zielen
+TxtAimUp=Nach oben zielen
+TxtLeft=Nach links
+TxtRight=Nach rechts
+TxtFire=Feuern!
+TxtFireMode=Feuermodus wechseln

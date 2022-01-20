@@ -1,0 +1,2 @@
+This rule takes care that no objects lie around.
+Therefore the inventory of a dieing clonk is removed and other dropped objects vanish after a short time.

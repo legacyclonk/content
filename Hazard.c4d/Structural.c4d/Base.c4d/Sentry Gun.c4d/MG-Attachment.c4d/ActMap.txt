@@ -1,0 +1,7 @@
+[Action]
+Name=RackAttach
+Procedure=ATTACH
+FacetBase=1
+Directions=1
+Length=1
+NextAction=RackAttach

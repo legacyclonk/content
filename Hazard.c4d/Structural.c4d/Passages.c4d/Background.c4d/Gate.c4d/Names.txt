@@ -1,0 +1,2 @@
+DE:Spiraltor
+US:Spiral gate

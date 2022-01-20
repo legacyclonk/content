@@ -1,0 +1,2 @@
+Red=HighVoltage AG
+Blue=ExtremePower GmbH

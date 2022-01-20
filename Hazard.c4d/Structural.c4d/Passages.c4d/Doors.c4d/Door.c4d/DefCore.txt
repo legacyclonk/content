@@ -1,0 +1,6 @@
+[DefCore]
+id=GBDR
+Version=4,9,8,2
+Name=Door Object
+Category=C4D_StaticBack
+Picture=0,0,64,64

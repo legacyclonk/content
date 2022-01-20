@@ -1,0 +1,6 @@
+Activate=Mine aktivieren
+KLASUpgradeDesc=Zur Lasermine aufrüsten.
+KRFLUpgradeDesc=Zur Schwarmmine aufrüsten.
+
+KLASUpgraded=Zur Lasermine aufgerüstet.
+KRFLUpgraded=Zur Schwarmmine aufgerüstet.

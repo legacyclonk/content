@@ -1,0 +1,2 @@
+DE:Zerstörtes Shuttle
+US:Destroyed shuttle

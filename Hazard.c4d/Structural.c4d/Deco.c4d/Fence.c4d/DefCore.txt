@@ -1,0 +1,12 @@
+[DefCore]
+id=FENC
+Version=4,9,8,2
+Name=Fence
+Category=C4D_StaticBack|C4D_Foreground
+Width=64
+Height=48
+Offset=-32,-24
+Value=10
+Mass=65
+Components=METL=2
+Picture=0,48,64,64

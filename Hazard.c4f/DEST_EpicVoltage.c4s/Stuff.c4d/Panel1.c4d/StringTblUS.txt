@@ -1,0 +1,3 @@
+BlcLeft=Blockade left
+BlcRight=Blockade right
+Buy=Buy %s

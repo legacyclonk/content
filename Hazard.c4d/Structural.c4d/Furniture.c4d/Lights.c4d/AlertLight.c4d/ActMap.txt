@@ -1,0 +1,15 @@
+[Action]
+Name=On
+Facet=0,0,10,9
+FacetBase=0
+Length=16
+Delay=2
+NextAction=On
+PhaseCall=Alerting
+
+[Action]
+Name=Off
+Facet=0,0,10,9
+FacetBase=0
+Length=1
+NextAction=Hold

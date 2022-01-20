@@ -1,0 +1,14 @@
+[Particle]
+Name=SunSpark
+MaxCount=2000
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,12,12,-6,-6
+Repeats=1
+RByV=1
+Additive=1
+AlphaFade=2
+Attach=1
+Parallaxity=60,60
+
