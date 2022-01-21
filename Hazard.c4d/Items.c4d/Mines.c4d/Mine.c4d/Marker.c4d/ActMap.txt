@@ -1,0 +1,8 @@
+[Action]
+Name=Attach
+Procedure=ATTACH
+Directions=2
+Length=1
+Delay=0
+FlipDir=1
+FacetBase=1

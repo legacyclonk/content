@@ -1,0 +1,15 @@
+[DefCore]
+id=X5RK
+Version=4,9,8,2
+Name=X5 Rakete
+Category=C4D_Vehicle
+Width=134
+Height=395
+Offset=-67,-197
+Vertices=2
+VertexX=-30,30
+VertexY=200,200
+Value=1000
+Mass=1000
+Picture=0,0,134,395
+Rotate=1

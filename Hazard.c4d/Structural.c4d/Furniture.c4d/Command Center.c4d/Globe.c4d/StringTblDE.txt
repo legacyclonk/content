@@ -1,0 +1,2 @@
+TurnOn=Projektor einschalten.
+TurnOff=Projektor ausschalten.

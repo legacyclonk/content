@@ -1,0 +1,5 @@
+Bouncing=Bouncing shots
+
+KSLMUpgradeDesc=Replaces the fire mechanism with bouncing shots.
+
+KSLMUpgraded=Replaced the fire mechanism with bouncing shots.

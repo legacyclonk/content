@@ -1,0 +1,6 @@
+[Action]
+Name=Attach
+Procedure=ATTACH
+NextAction=Hold
+FacetBase=1
+AbortCall=AttachTargetLost

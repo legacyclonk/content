@@ -1,0 +1,1 @@
+Spezielle Objekte zur Gestaltung von Arenen.

@@ -1,0 +1,13 @@
+[DefCore]
+id=GBRG
+Version=4,9,8,2
+Name=Bomb gate
+Category=C4D_StaticBack
+Timer=1
+TimerCall=CheckGoal
+Width=90
+Height=80
+Offset=-45,-40
+SolidMask=90,0,90,80,0,0
+TopFace=45,0,45,80,45,0
+Picture=198,0,64,64

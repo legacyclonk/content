@@ -1,0 +1,12 @@
+[DefCore]
+id=SCR2
+Version=4,9,8,2
+Name=Screen
+Category=C4D_StaticBack
+Width=60
+Height=40
+Offset=-30,-20
+Picture=480,0,60,40
+StretchGrowth=1
+IncompleteActivity=1
+Oversize=1

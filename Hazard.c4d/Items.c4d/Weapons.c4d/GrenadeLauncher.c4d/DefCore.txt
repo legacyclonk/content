@@ -1,0 +1,19 @@
+[DefCore]
+id=GLWP
+Version=4,9,8,2
+Name=Grenade launcher
+Category=C4D_Object|C4D_SelectMaterial|C4D_SelectKnowledge|C4D_SelectHomebase
+MaxUserSelect=1
+Width=15
+Height=7
+Offset=-7,-4
+Vertices=2
+VertexX=-6,6
+VertexY=2,2
+VertexFriction=100,100
+Value=34
+Mass=15
+Components=METL=2;KRFL=1;GRAP=1
+Picture=18,0,64,64
+Rebuy=1
+Collectible=1

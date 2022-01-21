@@ -1,0 +1,6 @@
+[Material]
+Name=BackWall
+Color=59,59,59,59,59,59,59,59,59
+Shape=0
+OverlayType=2
+Placement=5

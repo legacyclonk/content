@@ -1,0 +1,13 @@
+[Teams]
+Active=1
+AllowTeamSwitch=0
+
+	[Team]
+	id=1
+	Name=Alpha
+	Color=8388736
+
+	[Team]
+	id=2
+	Name=Beta
+	Color=16776960

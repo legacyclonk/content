@@ -1,0 +1,5 @@
+MsgGoalUnfulfilled=There are still %d primary Targets.
+TargetDestroyed=%d. target destroyed! ( %s )
+OptTargetDestroyed=%s destroyed!
+
+TeamChange=Team %s has destroyed every main target in %d:%.2d. Time to do it better, %s!

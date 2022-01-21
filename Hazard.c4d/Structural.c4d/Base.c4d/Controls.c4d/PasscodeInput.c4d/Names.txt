@@ -1,0 +1,2 @@
+DE:PIN Eingabe
+US:PIN input

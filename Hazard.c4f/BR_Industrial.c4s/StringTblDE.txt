@@ -1,0 +1,2 @@
+Left=Rost
+Right=Chrom

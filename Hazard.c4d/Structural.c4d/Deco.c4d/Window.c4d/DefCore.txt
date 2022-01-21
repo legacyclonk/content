@@ -1,0 +1,13 @@
+[DefCore]
+id=WNDW
+Version=4,9,6
+Name=Window
+Category=8388609
+Width=70
+Height=91
+Offset=-35,-45
+Picture=0,0,70,91
+
+
+
+

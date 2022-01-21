@@ -1,0 +1,2 @@
+DE:Kartenprojektor
+US:Map Projector

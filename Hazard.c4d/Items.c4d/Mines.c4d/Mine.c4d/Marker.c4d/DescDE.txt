@@ -1,0 +1,1 @@
+Zeigt den Teamkollegen wo eine Mine ist.

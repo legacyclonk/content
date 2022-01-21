@@ -1,0 +1,2 @@
+NotMoreAmmo=Kann nicht noch mehr|{{%i}} aufbewahren!
+Collected=%dx {{%i}} aufgenommen.

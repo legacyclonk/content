@@ -1,0 +1,8 @@
+[DefCore]
+id=TIM2
+Version=4,9,8,2
+Name=TIM
+Category=C4D_StaticBack
+Width=1
+Height=1
+CollectionLimit=1

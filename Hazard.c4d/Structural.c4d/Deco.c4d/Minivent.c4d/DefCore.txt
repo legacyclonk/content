@@ -1,0 +1,11 @@
+[DefCore]
+id=MVNT
+Version=4,9,8,2
+Name=Minivent
+Category=C4D_StaticBack
+Width=64
+Height=64
+Offset=-32,-32
+Picture=640,0,64,64
+StretchGrowth=1
+IncompleteActivity=1

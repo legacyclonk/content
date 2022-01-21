@@ -1,0 +1,20 @@
+MsgKillProjectile=["%s gibt %s Blei zu kauen.","%s hatte %s direkt im Visier.","%s hat jetzt ein leeres Magazin und %s einen vollen Bauch!"]
+MsgKillFire=["%s schmort sich einen %s.","%s mag %s am liebsten gut durch.","%s sollte Koch werden, denn er hat %s flambiert."]
+MsgKillExplosion=["%s hat %s kaputtgemacht.","%s spielt hier den Sprengmeister und jagt %s in die Luft!","%s hat Kilotonnen zu verschenken. Glückwunsch, %s!"]
+MsgKillEnergy=["%s schickt %s auf ein höheres Energieniveau.","%s hat %s elektrifiziert!","%s durchleuchtet %s erstmal gründlich."]
+MsgKillBio=["%s packt seine Biowaffen aus. %s packt ein.","%s zeigt %s seine Popelkanone.","Jetzt wird's klebrig. %s schleimt %s ein!"]
+MsgKill=["%s hat %s erwischt.","%s hat's %s gezeigt.","Ein Kill mehr für %s. Ein Tod mehr für %s"]
+
+MsgKillShort=%s erledigt
+MsgKilledByShort=Erledigt von %s
+
+MsgSelfKill=["%s hat sich selbst umgebracht, der Depp!","%s beging Selbstmord. Dafür sollte es Punktabzug geben!","Eine Runde Gelächter für %s."]
+
+MsgTeamKill=%s ist ein Teamkiller! (%s / %s)
+
+MsgScore=%s hat einen Punkt für Team %s geholt!
+
+MsgKillingSpree=["Killing Spree","Rampage","Godlike","matthes?!?"]
+MsgSpreeEnd=%ss Killing Spree wurde beendet.
+
+MsgMultikill=["Doublekill","Triplekill","Multikill","Ultrakill","Monsterkill","Feuermonsterkill","Wipfkill","Wtf?"]

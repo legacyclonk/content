@@ -1,0 +1,10 @@
+[DefCore]
+id=PSGN
+Version=4,9,8,2
+Name=Sign
+Category=C4D_StaticBack
+Width=50
+Height=50
+Offset=-25,-25
+Picture=0,0,50,50
+StretchGrowth=1

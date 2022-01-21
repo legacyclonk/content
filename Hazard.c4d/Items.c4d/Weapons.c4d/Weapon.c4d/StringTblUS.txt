@@ -1,0 +1,5 @@
+FireMode=Switch fire mode:
+DescFireMode=Switch to %s
+NotEnoughAmmo=Not enough {{%i}}!
+Reloaded=Reloaded %dx {{%i}}.
+FireModeChanged=Fire mode: %s ({{%i}})

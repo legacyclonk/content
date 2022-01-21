@@ -1,0 +1,2 @@
+TargetDestroyed=%s of team %d was destroyed!
+TargetsRemain=Remaining targets: 

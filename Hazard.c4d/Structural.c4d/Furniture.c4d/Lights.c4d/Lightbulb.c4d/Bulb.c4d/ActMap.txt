@@ -1,0 +1,13 @@
+[Action]
+Name=Off
+Procedure=FLOAT
+Facet=0,0,6,10
+Delay=0
+NextAction=Hold
+
+[Action]
+Name=On
+Procedure=FLOAT
+Facet=6,0,6,10
+Delay=0
+NextAction=Hold

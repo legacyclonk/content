@@ -1,0 +1,2 @@
+DE:Streifen
+US:Stripe

@@ -1,0 +1,17 @@
+[DefCore]
+id=CHSS
+Version=4,9,8,2
+Name=Chassis
+Category=C4D_Vehicle|C4D_MouseIgnore
+Timer=1
+TimerCall=Engine
+Width=45
+Height=25
+Offset=-24,-6
+Mass=50
+Picture=0,0,64,64
+Rotate=1
+BorderBound=1
+NoStabilize=1
+NoGet=1
+NoSell=1

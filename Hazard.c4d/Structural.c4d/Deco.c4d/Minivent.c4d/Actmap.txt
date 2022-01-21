@@ -1,0 +1,14 @@
+[Action]
+Name=Turn
+Length=10
+Delay=2
+NextAction=Turn
+Facet=0,0,64,64
+
+[Action]
+Name=RevTurn
+Length=10
+Delay=2
+Reverse=1
+NextAction=RevTurn
+Facet=0,0,64,64

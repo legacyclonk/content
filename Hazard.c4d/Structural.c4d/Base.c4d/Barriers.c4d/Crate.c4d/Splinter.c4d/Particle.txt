@@ -1,0 +1,14 @@
+[Particle]
+Name=Splinter
+MaxCount=300
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+CollisionFn=Stop
+Face=0,0,13,13,-6,-6
+Delay=0
+RByV=1
+GravityAcc=100
+VertexCount=1
+VertexY=50
+AlphaFade=1

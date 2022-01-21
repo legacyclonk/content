@@ -1,0 +1,3 @@
+Up=Rauf
+Down=Runter
+Stop=Stopp

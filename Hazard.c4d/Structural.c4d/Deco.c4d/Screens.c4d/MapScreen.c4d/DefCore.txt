@@ -1,0 +1,11 @@
+[DefCore]
+id=MAPS
+Version=4,9,8,2
+Name=Map Screen
+Category=C4D_StaticBack
+Timer=1
+TimerCall=ScreenLandscape
+Width=2
+Height=2
+Offset=-1,-1
+Components=MAPS=1

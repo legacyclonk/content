@@ -1,0 +1,10 @@
+[DefCore]
+id=FRME
+Version=4,9,8,2
+Name=Frame
+Category=C4D_StaticBack
+Width=64
+Height=64
+Offset=-32,-32
+Picture=0,0,50,50
+Oversize=1

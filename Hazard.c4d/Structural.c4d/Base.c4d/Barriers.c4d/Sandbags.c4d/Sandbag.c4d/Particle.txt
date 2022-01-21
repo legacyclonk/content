@@ -1,0 +1,13 @@
+[Particle]
+Name=Sandbag
+MaxCount=100
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,8,8,-4,-4
+Delay=0
+RByV=1
+GravityAcc=100
+VertexCount=1
+VertexY=75
+AlphaFade=3

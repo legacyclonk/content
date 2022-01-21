@@ -1,0 +1,11 @@
+[DefCore]
+id=PMP2
+Version=4,9,8,2
+Name=Pump
+Category=C4D_StaticBack
+Timer=4
+TimerCall=Pumping
+Width=50
+Height=50
+Offset=-25,-25
+Picture=200,0,64,64

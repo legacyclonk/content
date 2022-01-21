@@ -1,0 +1,16 @@
+[DefCore]
+id=GREN
+Version=4,9,8,2
+Name=Grenade
+Category=C4D_Vehicle
+MaxUserSelect=10
+Width=5
+Height=5
+Offset=-2,-2
+Vertices=5
+VertexX=0,-1,-1,1,1
+VertexY=0,-1,1,-1,1
+VertexCNAT=0,5,9,6,10
+VertexFriction=0,20,20,20,20
+Mass=3
+Picture=5,0,64,64
