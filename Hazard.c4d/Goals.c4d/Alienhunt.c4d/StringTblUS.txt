@@ -1,0 +1,4 @@
+MsgAllDead=The hunt was a success. All aliens are dead.
+MsgStillLeft=Aliens left:
+MoreRelaunch=More lifes
+LessRelaunch=Less lifes

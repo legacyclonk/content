@@ -1,0 +1,2 @@
+DE:Kein Friendly Fire
+US:No friendly fire

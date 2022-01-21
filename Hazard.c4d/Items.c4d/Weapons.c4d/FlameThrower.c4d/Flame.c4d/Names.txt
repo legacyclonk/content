@@ -1,0 +1,2 @@
+DE:Flamme
+US:Flame

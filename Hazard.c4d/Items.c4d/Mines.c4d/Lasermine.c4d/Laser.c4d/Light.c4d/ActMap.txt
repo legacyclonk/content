@@ -1,0 +1,6 @@
+[Action]
+Name=Laser
+Procedure=FLOAT
+NextAction=Hold
+Facet=0,0,64,192
+Length=1

@@ -1,0 +1,1 @@
+Der Standardtransporter für Lasten und Personen.

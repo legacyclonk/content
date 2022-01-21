@@ -1,0 +1,8 @@
+[Action]
+Name=Aim
+Procedure=NONE
+Directions=1
+Length=37
+Delay=0
+Facet=0,0,80,40
+FacetTopFace=1

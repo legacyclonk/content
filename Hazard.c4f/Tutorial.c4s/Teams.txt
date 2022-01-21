@@ -1,0 +1,6 @@
+[Teams]
+Active=0
+AllowHostilityChange=0
+AllowTeamSwitch=0
+AutoGenerateTeams=0
+MaxScriptPlayers=0

@@ -1,0 +1,6 @@
+Standard=Spread shots
+Cluster= Cluster shot
+
+KRFLUpgradeDesc=Allows you to shoot grenadefragments
+
+KRFLUpgraded=grenadefragment attachment mounted!

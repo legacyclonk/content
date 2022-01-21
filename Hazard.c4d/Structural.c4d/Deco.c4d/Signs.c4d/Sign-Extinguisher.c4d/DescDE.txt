@@ -1,0 +1,1 @@
+Zeigt den Standort eines Feuerlöschers an.

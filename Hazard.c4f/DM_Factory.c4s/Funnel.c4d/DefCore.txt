@@ -1,0 +1,13 @@
+[DefCore]
+id=FNNL
+Version=4,9,8,2
+Name=Funnel
+Category=C4D_StaticBack
+Timer=1
+TimerCall=Reek
+Width=10
+Height=10
+Offset=-5,-5
+Rotate=1
+Oversize=1
+NoStabilize=1

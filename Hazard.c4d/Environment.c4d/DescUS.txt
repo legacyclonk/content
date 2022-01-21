@@ -1,0 +1,1 @@
+Environment control objects can be placed in scenarios for additional scenic effects.

@@ -1,0 +1,16 @@
+[DefCore]
+id=CCP1
+Version=4,9,8,2
+Name=Panel
+Category=C4D_Structure
+MaxUserSelect=1
+Width=38
+Height=24
+Offset=-19,-12
+Vertices=2
+VertexY=11,-11
+VertexFriction=100,100
+Value=750
+Mass=800
+Components=METL=15
+Picture=0,24,64,64

@@ -1,0 +1,10 @@
+[DefCore]
+id=AMPB
+Version=4,9,8,2
+Name=AmmoPack
+Category=C4D_StaticBack
+Width=15
+Height=15
+Offset=-7,-7
+Components=AMPB=1
+Picture=0,0,15,15

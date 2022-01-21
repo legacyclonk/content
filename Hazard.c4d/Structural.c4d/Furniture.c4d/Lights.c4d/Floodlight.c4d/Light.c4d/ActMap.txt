@@ -1,0 +1,14 @@
+[Action]
+Name=Attach
+Procedure=ATTACH
+FacetBase=1
+Delay=1
+NextAction=Attach
+
+[Action]
+Name=Turn
+Procedure=ATTACH
+FacetBase=1
+Delay=5
+NextAction=Turn
+EndCall=Turning

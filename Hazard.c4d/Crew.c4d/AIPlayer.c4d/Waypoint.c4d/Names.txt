@@ -1,0 +1,2 @@
+DE:Wegpunkt
+US:Waypoint

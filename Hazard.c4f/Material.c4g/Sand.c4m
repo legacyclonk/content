@@ -1,0 +1,12 @@
+[Material]
+Name=Sand
+Color=204,180,120,204,192,116,216,212,128
+Shape=2
+Density=50
+Friction=80
+MaxAirSpeed=100
+MaxSlide=1
+Corrode=30
+Soil=1
+Placement=30
+TextureOverlay=Smooth2

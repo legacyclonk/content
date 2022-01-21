@@ -1,0 +1,5 @@
+FireMode=Schussmodus wechseln:
+DescFireMode=Auf %s schalten
+NotEnoughAmmo=Nicht genug {{%i}}!
+Reloaded=%dx {{%i}} nachgeladen.
+FireModeChanged=Feuermodus:|%s ({{%i}})

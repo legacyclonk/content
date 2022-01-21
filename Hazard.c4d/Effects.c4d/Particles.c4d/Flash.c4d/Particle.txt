@@ -1,0 +1,12 @@
+[Particle]
+Name=LightFlash
+MaxCount=500
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,128,128,-64,-64
+Delay=0
+Repeats=1
+GravityAcc=0
+AlphaFade=4
+Additive=1

@@ -1,0 +1,2 @@
+DE:EMP Granate
+US:EMP grenade

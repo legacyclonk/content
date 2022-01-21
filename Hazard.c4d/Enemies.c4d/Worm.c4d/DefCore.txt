@@ -1,0 +1,17 @@
+[DefCore]
+id=ALN1
+Version=4,9,8,2
+Name=Wurm
+Category=C4D_Living|C4D_SelectAnimal
+MaxUserSelect=3
+Timer=5
+TimerCall=Activity
+Width=80
+Height=80
+Offset=-40,-40
+Picture=80,40,64,64
+Mass=20
+Rotate=90
+NoBreath=1
+NoFight=1
+VehicleControl=2

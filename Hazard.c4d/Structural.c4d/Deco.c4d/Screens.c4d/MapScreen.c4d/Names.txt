@@ -1,0 +1,2 @@
+DE:Kartenschirm
+US:Map screen

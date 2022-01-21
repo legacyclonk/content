@@ -1,0 +1,5 @@
+[DefCore]
+id=L_BG
+Name=Bag
+Version=4,9,5
+Category=1

@@ -1,0 +1,5 @@
+[DefCore]
+id=L_ST
+Name=Pseudo Set
+Version=4,9,5
+Category=1

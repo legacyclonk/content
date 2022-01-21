@@ -1,0 +1,3 @@
+TurnOff=Ausschalten
+TurnOn=Anschalten
+Repair=Reparieren

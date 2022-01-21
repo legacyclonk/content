@@ -1,0 +1,2 @@
+Diese Regel sorgt dafür, dass keine Objekte frei herumliegen.
+Dazu wird das Inventar eines Clonks beim Tod gelöscht und fallen gelassene Objekte verschwinden nach kurzer Zeit.

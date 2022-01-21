@@ -1,0 +1,13 @@
+Standard=Einzelschuss
+GrenadeLauncher=Granatenwerfer
+Laser=Laser
+Slime=Schleim
+Teleport=Translocator
+
+KLASUpgradeDesc=Ersetzt den Schussmechanismus durch einen Laser.
+KSLMUpgradeDesc=Ersetzt den Granatenmechanismus durch Schleimschüsse.
+KRFLUpgradeDesc=Fügt den Translocator Mechanismus hinzu.
+
+KLASUpgraded=Schussmechanismus durch|einen Laser ersetzt.
+KSLMUpgraded=Granatenmechanismus durch|Schleimwerfer ersetzt.
+TeleportUpgraded=Translocator hinzugefügt.

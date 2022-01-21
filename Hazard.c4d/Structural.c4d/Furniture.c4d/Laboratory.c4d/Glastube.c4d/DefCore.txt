@@ -1,0 +1,16 @@
+[DefCore]
+id=GLST
+Version=4,9,8,2
+Name=Glastube
+Category=C4D_Structure
+Width=22
+Height=45
+Offset=-11,-22
+Vertices=4
+VertexX=11,-11,11,-11
+VertexY=21,21,-18,-18
+VertexFriction=100,100,100,100
+Value=150
+Mass=100
+Components=METL=3
+Picture=0,45,64,64
