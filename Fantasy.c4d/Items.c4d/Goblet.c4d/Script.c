@@ -62,3 +62,9 @@ private func SetEmpty()
 
 // Mit Kelch: Aufwertung zum Magus
 public func GetRevaluationCombo() { return MAGE; }
+
+protected func UpdateTransferZone()
+{
+	// this is necessary for backwards compatibility with Goblets stored in Objects.txt
+	iTimer ??= 0;
+}
