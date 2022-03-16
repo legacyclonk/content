@@ -123,7 +123,7 @@ private func AdjustSize() {
     SetObjDrawTransform(1000,0,0,0,1000,sizeY*1000*(x-1),this(),x);
 }
 
-private func FxLadderPartSaveAddPart(object pTarget, int iEffectNr, string graphic, int index) {
+private func FxLadderPartSaveAddPart(object pTarget, int iEffectNr, graphic, int index) {
   var length;
   if(!(length=index))
     while(EffectVar(length,pTarget,iEffectNr))
