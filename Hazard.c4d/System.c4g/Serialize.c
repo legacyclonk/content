@@ -190,7 +190,7 @@ global func DeserializeObjects(array objects, int x, int y)
 	for (data in objects) {
 		if (data[0] == -1) {
 			// Sonderbehandlung
-			eval(data[4], data[1]+x, data[2]+y);
+			eval(Format(data[4], data[1]+x, data[2]+y));
 		} else {
 			obj = CreateObject(data[0], data[1]+x, data[2]+y, data[3]);
 			for (var extra in data[4]) {
