@@ -562,7 +562,7 @@ func HowToProduce (self, def) {
   StartHandcraft (def);
 }
 
-func ControlCommandFinished (string CommandName, object Target, int Tx, int Ty, object Target2, Data) {
+func ControlCommandFinished (string CommandName, object Target, Tx, int Ty, object Target2, Data) {
   if (CommandName eq "Acquire") if (Data == MLLT) if (!FindContents (MLLT))
     AddMessage("$TxtMalletrequired$",this());
   return (_inherited (CommandName, Target, Tx, Ty, Target2, Data));
