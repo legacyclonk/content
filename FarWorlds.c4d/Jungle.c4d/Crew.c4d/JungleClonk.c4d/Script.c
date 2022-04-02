@@ -296,10 +296,10 @@ private func IsWeaponReady()            // ist bereit für das Benutzen von Waffe
 
 private func CheckArmed()           // Bewaffnung (mit Speer) prüfen
 {
-  if (GetAction()S="Walk") if(IsArmed()) return(SetAction("SpearWalk"));
-  if (GetAction()S="Jump") if(IsArmed()) return(SetAction("SpearJump"));
-  if (GetAction()S="SpearWalk") if(!IsArmed()) return(SetAction("Walk"));
-  if (GetAction()S="SpearJump") if(!IsArmed()) return(SetAction("Jump"));
+  if (GetAction()S="Walk") if(IsArmed()) return(SetActionKeepPhase("SpearWalk"));
+  if (GetAction()S="Jump") if(IsArmed()) return(SetActionKeepPhase("SpearJump"));
+  if (GetAction()S="SpearWalk") if(!IsArmed()) return(SetActionKeepPhase("Walk"));
+  if (GetAction()S="SpearJump") if(!IsArmed()) return(SetActionKeepPhase("Jump"));
 }
 
 private func StartJump() // StartCall von Jump, SpearJump, Dive

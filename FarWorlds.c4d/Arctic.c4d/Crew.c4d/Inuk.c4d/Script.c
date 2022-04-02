@@ -670,10 +670,10 @@ private func Throwing(pObj) {
 
 /* Bewaffnung prüfen */
 private func CheckArmed() {
-  if (GetAction()S="Walk") if(IsArmed()) return(SetAction("HarpoonWalk"));
-  if (GetAction()S="Jump") if(IsArmed()) return(SetAction("HarpoonJump"));
-  if (GetAction()S="HarpoonWalk") if(!IsArmed()) return(SetAction("Walk"));
-  if (GetAction()S="HarpoonJump") if(!IsArmed()) return(SetAction("Jump"));
+  if (GetAction()S="Walk") if(IsArmed()) return(SetActionKeepPhase("HarpoonWalk"));
+  if (GetAction()S="Jump") if(IsArmed()) return(SetActionKeepPhase("HarpoonJump"));
+  if (GetAction()S="HarpoonWalk") if(!IsArmed()) return(SetActionKeepPhase("Walk"));
+  if (GetAction()S="HarpoonJump") if(!IsArmed()) return(SetActionKeepPhase("Jump"));
 }
 
 /* Warnungen */
