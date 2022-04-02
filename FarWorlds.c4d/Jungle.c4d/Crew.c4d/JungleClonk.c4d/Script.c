@@ -137,6 +137,12 @@ public func ControlSpecial() // Inventarwechsel
   return(1);
   }
 
+protected func ControlContents()
+{
+  ScheduleCall(this, "CheckArmed", 1,1);
+  return _inherited(...);
+}
+
 public func ControlCommand(string szCommand,object pTarget,int iX, int iY)
 {
   if (ControlVine("ControlCommand")) return(1);

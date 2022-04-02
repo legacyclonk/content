@@ -156,6 +156,12 @@ protected func ControlSpecial() {
   return(1);
 }
 
+protected func ControlContents()
+{
+  ScheduleCall(this, "CheckArmed", 1,1);
+  return _inherited(...);
+}
+
 /* Itemlimit */
 public func MaxContentsCount() { return(4); }
 
