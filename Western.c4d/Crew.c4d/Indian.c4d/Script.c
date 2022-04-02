@@ -828,7 +828,7 @@ protected func Ejection() { CheckArmed(); }
 protected func Departure() { CheckArmed(); }
 
 // Aufnahme
-protected func Collection(pObj)
+protected func Collection2(pObj)
 {
   CheckArmed();
   // Eventuell neue Pfeile in Köcher stecken

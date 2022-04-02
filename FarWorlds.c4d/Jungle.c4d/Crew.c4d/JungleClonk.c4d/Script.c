@@ -364,12 +364,12 @@ private func PackContents(iCount, idUnpacked, idPacked)
   var i=iCount, pContents;
   while(i--) if (pContents=FindContents(idUnpacked)) RemoveObject(pContents); else Log("error finding it! (%d)", i);
   // Objekt erzeugen und ggf. weiter packen
-  Collection(CreateContents(idPacked));
+  CreateContents(idPacked);
   return(1);
   }
 
 /* Aufnahme */
-protected func Collection(pObj)
+protected func Collection2(pObj)
   {
   CheckArmed();
   // Nicht mehr enthalten (oder gelöscht): Abbrechen

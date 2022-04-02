@@ -212,7 +212,7 @@ private func IsWeaponReady() { return(GetAction() eq "Walk" || GetAction() eq "H
 private func StartFishing() {  Sound("FishingPole"); }
 
 protected func Ejection() { CheckArmed(); }
-protected func Collection() { CheckArmed(); }
+protected func Collection2() { CheckArmed(); }
 
 protected func Entrance()  { CheckWarnings(); }
 protected func Departure() { CheckWarnings(); }
