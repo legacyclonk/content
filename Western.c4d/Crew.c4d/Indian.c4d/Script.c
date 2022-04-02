@@ -212,6 +212,20 @@ public func ControlRightDouble(object pByObj)
   return(_inherited(pByObj));
 }
 
+public func ControlSpecial()
+{
+  var ret = inherited(...);
+  CheckArmed();
+  return ret;
+}
+
+public func ControlContents()
+{
+  var ret = inherited(...);
+  ScheduleCall(this, "CheckArmed", 1, 1);
+  return ret;
+}
+
 // Bogensteuerung
 public func BowControlUp(pBow, &rVal)
   {
