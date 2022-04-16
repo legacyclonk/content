@@ -733,7 +733,7 @@ private func RemoveWarnings() {
 }
 
 /* Trägt der Clonk eine Harpune? */
-public func IsArmed() { return(ObjectCall(Contents(),"IsHarpoon")); }
+public func IsArmed() { return(ObjectCall(Contents(, , true),"IsHarpoon")); }
 
 /* Suchfunktionen */
 

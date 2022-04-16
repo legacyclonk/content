@@ -338,7 +338,7 @@ protected func FxJumpingTimer()
   
 // Ist mit Speer bewaffnet
 
-public func IsArmed() { return(DefinitionCall(GetID(Contents()),"IsSpear")); }
+public func IsArmed() { return(DefinitionCall(GetID(Contents(, , true)),"IsSpear")); }
 
 // Springt gerade
 

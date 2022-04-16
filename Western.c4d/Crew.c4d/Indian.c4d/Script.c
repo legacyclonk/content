@@ -1512,7 +1512,7 @@ public func IsChief() { return(fChief); }
 // Kriecht gerade
 public func IsCrawling() { return(WildcardMatch(GetAction(), "*Crawl*")); }
 // Ist mit Speer bewaffnet
-public func IsArmed() { return(DefinitionCall(GetID(Contents()),"IsSpear")); }
+public func IsArmed() { return(DefinitionCall(GetID(Contents(, , true)),"IsSpear")); }
 // Springt gerade
 public func IsJumping() { return((GetAction()S="Jump") || (GetAction()S="SpearJump") || (GetAction()S="Dive")); }
 // Bereit eine Waffe einzusetzen
