@@ -581,7 +581,7 @@ private func NeedMallet() {
   AddCommand (this (), "Acquire", 0,0,0,0,0, MLLT);
 }
 
-func ControlCommandFinished (string CommandName, object Target, int Tx, int Ty, object Target2, Data) {
+func ControlCommandFinished (string CommandName, object Target, any Tx, int Ty, object Target2, any Data) {
   if (CommandName eq "Acquire") if (Data == MLLT) if (!FindContents (MLLT))
     AddMessage("$Hammernoetig$",this());
   return (_inherited (CommandName, Target, Tx, Ty, Target2, Data));

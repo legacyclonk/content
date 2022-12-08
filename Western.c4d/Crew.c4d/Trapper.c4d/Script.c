@@ -583,7 +583,7 @@ func HowToProduce (clonk, def) {
   else StartHandcraft (def);
 }
 
-func ControlCommandFinished (string CommandName, object Target, int Tx, int Ty, object Target2, Data) {
+func ControlCommandFinished (string CommandName, object Target, any Tx, int Ty, object Target2, any Data) {
   if (CommandName eq "Acquire") if (Data == MLLT) if (!FindContents (MLLT))
     AddMessage("$TxtMalletrequired$",this());
   return (_inherited (CommandName, Target, Tx, Ty, Target2, Data));
