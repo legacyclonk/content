@@ -1,0 +1,6 @@
+CtrlActivateDesc=Buckle
+NothingUpgradeable=Nothing upgradeable available.
+Upgrade=Upgrade %s
+AlreadyWears=%s already wears|that kind of gear!
+Buckled=%s buckled
+Unbuckled=%s unbuckled

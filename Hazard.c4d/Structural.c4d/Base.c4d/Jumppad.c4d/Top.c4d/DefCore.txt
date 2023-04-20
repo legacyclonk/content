@@ -1,0 +1,18 @@
+[DefCore]
+id=JPTP
+Version=4,9,8,2
+Name=Jumppad top
+Category=C4D_Structure
+Timer=1
+TimerCall=CheckBounce
+Width=26
+Height=22
+Offset=-13,-16
+Vertices=1
+VertexY=1
+Value=10
+Mass=10
+Components=JPTP=1
+Picture=0,0,26,22
+Rotate=1
+NoStabilize=1

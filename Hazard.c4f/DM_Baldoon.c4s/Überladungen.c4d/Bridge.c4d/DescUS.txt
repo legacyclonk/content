@@ -1,0 +1,1 @@
+Double click 'dig' to lock segments in place.

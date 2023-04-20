@@ -1,0 +1,2 @@
+Team=KI-Team %d
+NoTeam=KI %d

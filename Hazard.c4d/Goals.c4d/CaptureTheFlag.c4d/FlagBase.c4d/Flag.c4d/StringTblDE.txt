@@ -1,0 +1,5 @@
+ReturnedTheFlag=%s hat die Flagge zurückgebracht
+CapturedTheFlag=%s hat die Flagge erfolgreich geklaut
+HasTheFlag=%s hat die Flagge von Team %s
+FlagLost=Die Flagge von Team %s wurde fallen gelassen
+FlagReturned=Die Flagge von Team %s ist zurück

@@ -1,0 +1,12 @@
+[DefCore]
+id=LLGH
+Version=4,9,8,2
+Name=Laboratory Light
+Category=C4D_StaticBack
+Width=5
+Height=16
+Offset=-2,-8
+Value=5
+Mass=2
+Components=LLGH=1
+Picture=0,0,5,16

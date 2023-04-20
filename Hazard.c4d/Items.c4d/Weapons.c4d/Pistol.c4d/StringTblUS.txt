@@ -1,0 +1,10 @@
+Standard=Single shots
+GrenadeLauncher=Grenade launcher
+Laser=Laser
+Slime=Bio slime
+
+KLASUpgradeDesc=Replaces the fire mechanism with a laser.
+KSLMUpgradeDesc=Replaces the grenade mechanism with a bio slime launcher.
+
+KLASUpgraded=Replaced the fire mechanism with a laser.
+KSLMUpgraded=Replaced the grenade mechanism with a bio slime launcher.

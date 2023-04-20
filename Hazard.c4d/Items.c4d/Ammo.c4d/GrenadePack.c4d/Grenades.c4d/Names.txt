@@ -1,0 +1,2 @@
+DE:Granaten
+US:Grenades

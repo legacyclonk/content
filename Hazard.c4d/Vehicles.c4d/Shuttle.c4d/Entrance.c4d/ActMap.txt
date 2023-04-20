@@ -1,0 +1,7 @@
+[Action]
+Name=Attached
+Procedure=ATTACH
+Length=1
+Delay=0
+FacetBase=1
+NextAction=Walk

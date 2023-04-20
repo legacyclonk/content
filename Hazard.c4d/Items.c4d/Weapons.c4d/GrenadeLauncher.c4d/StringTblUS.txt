@@ -1,0 +1,15 @@
+Grenade=Grenade
+FragGrenade=Frag grenade
+Napalm=Napalm grenade
+EMP=EMP grenade
+Napalm=Napalm grenade
+Slime=Bioslime grenade
+Laser=Laser grenade
+
+KSLMUpgradeDesc=Add bioslime grenades
+KLASUpgradeDesc=Add EMP and laser grenades
+KRFLUpgradeDesc=Add fragment and napalm grenades
+
+KSLMUpgraded=Grenade launcher can now shoot bioslime grenades.
+KLASUpgraded=Grenade launcher can now shoot EMP an laser grenades.
+KRFLUpgraded=Grenade launcher can now shoot fragment and napalm grenades.

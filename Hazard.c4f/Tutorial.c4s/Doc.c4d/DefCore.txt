@@ -1,0 +1,14 @@
+[DefCore]
+id=CDOC
+Version=4,9,8,2
+Name=Doc
+Category=C4D_Living
+Width=16
+Height=20
+Offset=-8,-10
+Vertices=7
+VertexX=0,0,0,-2,2,-4,4
+VertexY=0,-7,9,-3,-3,3,3
+VertexCNAT=64,4,8,1,2,1,2
+VertexFriction=300,300,100,300,300,300,300
+Entrance=-8,-10,16,20

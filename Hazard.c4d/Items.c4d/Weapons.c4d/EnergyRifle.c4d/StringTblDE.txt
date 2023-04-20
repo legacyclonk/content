@@ -1,0 +1,6 @@
+Standard=Dauerfeuer
+Laser=Laser
+
+KLASUpgradeDesc=Ersetzt den Schussmechanismus durch einen Hochleistungslaser.
+
+KLASUpgraded=Schussmechanismus durch einen|Hochleistungslaser ersetzt.

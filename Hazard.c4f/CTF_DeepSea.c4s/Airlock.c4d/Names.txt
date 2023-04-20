@@ -1,0 +1,2 @@
+DE:Luftschleuse
+US:Airlock

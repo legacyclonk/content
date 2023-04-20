@@ -1,0 +1,16 @@
+[Particle]
+Name=JetSpark
+MaxCount=6200
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,32,32,-16,-16
+Delay=1
+FadeOutLen=2
+FadeOutDelay=80
+Repeats=1
+Reverse=0
+AlphaFade=10
+Additive=1
+Attach=0
+RByV=2

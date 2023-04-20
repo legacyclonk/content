@@ -1,0 +1,6 @@
+MsgGoalFulfilled=You're the last one. You won.
+MsgGoalUnfulfilled=You have %d relaunchs left.
+WinMsg=And the winner is: %s
+MsgHUD=%d clonks left
+MoreRelaunch=More lifes
+LessRelaunch=Less lifes

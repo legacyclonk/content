@@ -1,0 +1,1 @@
+Zeigt Informationen über das gerade getragene oder angefaßte Objekt oder betretene Gebäude an.

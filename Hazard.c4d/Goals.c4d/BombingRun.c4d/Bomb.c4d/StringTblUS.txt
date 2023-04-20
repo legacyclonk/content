@@ -1,0 +1,2 @@
+Returned=The bomb returned!
+Bomb=Bomb

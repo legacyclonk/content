@@ -1,0 +1,12 @@
+[DefCore]
+id=SWRM
+Version=4,9,8,2
+Name=Swarmer
+Category=C4D_Object
+Width=5
+Height=5
+Offset=-2,-2
+Vertices=1
+VertexFriction=20
+Components=SWRM=1
+Picture=5,0,64,64

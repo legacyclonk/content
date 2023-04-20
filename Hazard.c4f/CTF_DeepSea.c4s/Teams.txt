@@ -1,0 +1,23 @@
+[Teams]
+Active=1
+AllowTeamSwitch=0
+
+	[Team]
+	id=1
+	Name=Azrael
+	Color=51200
+
+	[Team]
+	id=2
+	Name=Gabriel
+	Color=255
+
+	[Team]
+	id=3
+	Name=Raphael
+	Color=65535
+
+	[Team]
+	id=4
+	Name=Uriel
+	Color=16711680

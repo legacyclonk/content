@@ -1,0 +1,14 @@
+[Particle]
+Name=SunFlare
+MaxCount=2000
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,25,25,-12,-12
+Repeats=1
+RByV=1
+Additive=1
+AlphaFade=1
+Attach=1
+Parallaxity=60,60
+

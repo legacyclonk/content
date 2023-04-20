@@ -1,0 +1,4 @@
+CtxDrone=Drone
+CtxDroneTurnOff=Ausschalten
+CtxDroneGuard=Hier bewachen
+CtxDroneFollow=Folge mir

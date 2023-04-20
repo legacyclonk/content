@@ -1,0 +1,12 @@
+[DefCore]
+id=CLGH
+Version=4,9,8,2
+Name=Ceiling light
+Category=C4D_StaticBack
+Width=9
+Height=4
+Offset=-4
+Value=5
+Mass=2
+Components=CLGH=1
+Picture=0,0,9,4

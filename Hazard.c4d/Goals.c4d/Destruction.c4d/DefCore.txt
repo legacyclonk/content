@@ -1,0 +1,12 @@
+[DefCore]
+id=GAS2
+Version=4,9,8,2
+Name=DoubleAssault
+Category=C4D_StaticBack|C4D_Goal
+MaxUserSelect=1
+Width=1
+Height=1
+Offset=-1,-1
+Value=100
+Components=GAS_=1
+Picture=0,0,64,64

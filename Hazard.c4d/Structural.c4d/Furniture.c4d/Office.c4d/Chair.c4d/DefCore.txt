@@ -1,0 +1,22 @@
+[DefCore]
+id=OCHR
+Version=4,9,8,2
+Name=Office Chair
+Category=C4D_Vehicle|C4D_SelectVehicle|C4D_SelectKnowledge|C4D_SelectHomebase
+MaxUserSelect=3
+Width=10
+Height=15
+Offset=-5,-7
+Vertices=3
+VertexX=-4,5,-5
+VertexY=-7,7,7
+VertexCNAT=4,10,9
+VertexFriction=20,100,100
+Value=4
+Mass=25
+Components=WOOD=1;METL=1
+Picture=0,15,64,64
+Rebuy=1
+Grab=1
+Rotate=1
+Float=1

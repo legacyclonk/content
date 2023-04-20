@@ -1,0 +1,19 @@
+[DefCore]
+id=MPPJ
+Version=4,9,8,2
+Name=Map Projector
+Category=C4D_Structure
+MaxUserSelect=1
+Timer=5
+TimerCall=Move
+Width=100
+Height=55
+Offset=-50,-27
+Vertices=4
+VertexX=-50,50,-50,50
+VertexY=-27,-27,27,27
+VertexFriction=100,100,100,100
+Value=100
+Mass=100
+Components=METL=12
+Picture=100,0,100,55

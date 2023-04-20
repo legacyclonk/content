@@ -1,0 +1,5 @@
+[Action]
+Name=Travel
+Procedure=NONE
+NextAction=Hold
+FacetBase=1

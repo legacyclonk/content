@@ -1,10 +1,10 @@
-Clonk game content is available under the following license:
+Clonk game content made by RedWolf Design is available under the following license:
 
 Creative Commons Attribution-NonCommercial (CC BY-NC)
 http://creativecommons.org/licenses/by-nc/4.0/
 
 This applies to graphics, audio data, scripting, and text found in the
-game release packages (usually packed inside c4f, c4g, and c4d group files).
+game release packages of RedWolf Design (usually packed inside c4f, c4g, and c4d group files).
 
 You are free to:
     Share — copy and redistribute the material in any medium or format
@@ -15,3 +15,23 @@ Under the following terms:
     license, and indicate if changes were made. You may do so in any reasonable
     manner, but not in any way that suggests the licensor endorses you or your use.
     NonCommercial — You may not use the material for commercial purposes.
+
+The license above is applicable to game content created by RedWolf Design. The following
+RedWolf Design game content is used in this repository for LegacyClonk:
+    - Fantasy.c4d
+    - Fantasy.c4f
+    - FarWorlds.c4d
+    - FarWorlds.c4f
+    - Knights.c4d
+    - Knights.c4f
+    - Material.c4g
+    - Melees.c4f
+    - Missions.c4f
+    - Music.c4g
+    - Objects.c4d
+    - Races.c4f
+    - Sound.c4g
+    - Tutorial.c4f
+    - Western.c4d
+    - Western.c4f
+    - Worlds.c4f 

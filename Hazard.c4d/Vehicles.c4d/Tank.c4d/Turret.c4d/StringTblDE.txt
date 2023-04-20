@@ -1,0 +1,6 @@
+Cannon=Kanone
+Missile=Raketen
+aim=Zielmodus %s
+aimDesc=Schaltet den Zielmodus %s
+on=an
+off=aus

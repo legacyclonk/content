@@ -1,0 +1,19 @@
+[DefCore]
+id=SEDR
+Version=4,9,8,2
+Name=Sequium Door
+Category=C4D_Structure
+MaxUserSelect=3
+Width=20
+Height=30
+Offset=-10,-15
+Vertices=4
+VertexX=-6,-6,6,6
+VertexY=-14,14,-14,14
+VertexFriction=100,100,100,100
+Value=200
+Mass=2000
+Components=SEDR=1
+SolidMask=5,0,8,30,5,0
+TopFace=12,0,8,30,12,0
+Picture=0,30,64,64

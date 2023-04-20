@@ -1,0 +1,8 @@
+[Action]
+Name=Clamped
+Procedure=NONE
+FacetBase=1
+Facet=0,395,112,22,23,115
+Directions=2
+FlipDir=1
+NextAction=Hold

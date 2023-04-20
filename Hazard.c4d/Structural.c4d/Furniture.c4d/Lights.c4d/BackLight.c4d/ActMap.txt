@@ -1,0 +1,5 @@
+[Action]
+Name=On
+Facet=0,15,20,15
+Delay=1
+NextAction=Hold

@@ -1,0 +1,14 @@
+[Particle]
+Name=SplinterGlass
+MaxCount=300
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+CollisionFn=Stop
+Face=0,0,3,4,-2,-2
+Delay=0
+RByV=1
+GravityAcc=100
+VertexCount=1
+VertexY=50
+AlphaFade=1

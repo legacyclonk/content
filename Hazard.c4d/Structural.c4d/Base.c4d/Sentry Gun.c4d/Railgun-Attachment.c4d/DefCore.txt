@@ -1,0 +1,17 @@
+[DefCore]
+id=RGSA
+Version=4,9,8,2
+Name=Railgun-Attachment
+Category=C4D_Vehicle
+MaxUserSelect=1
+Width=33
+Height=10
+Offset=-16,-5
+Vertices=1
+VertexFriction=20
+Value=60
+Mass=55
+Components=METL=6
+Picture=0,0,33,10
+Rotate=1
+NoStabilize=1

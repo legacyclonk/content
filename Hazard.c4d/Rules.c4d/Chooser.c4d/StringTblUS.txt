@@ -1,0 +1,41 @@
+ChoosingPlayer=%s configures the game, please be patient...
+Choosing=%s configures the rules, please be patient...
+Goal=The goal has been chosen: %s
+Rules=Rules chosen: 
+CreateRules=Rules
+DarknessChose=Configure darkness
+GoalChose=Configure goal
+AIMenu=AI setup
+RuleInfo=Configure rules
+AIInfo=Option to configure AI players
+Finished=Finished
+
+MoreWinScore=Increase score
+LessWinScore=Decrease score
+
+MoreDarkness=Darker
+LessDarkness=Brighter
+
+Bots=Bots
+OneAIMore=More
+OneAILess=Less
+NewTeam=New Team
+FairTeams=Fair Teams
+FairTeamsInfo=Fair match
+OnlyDeleteLastTeam=The last team has to be removed first!
+
+#never mind
+Emptiness=The emptiness
+YourBrain=Your brain
+Nothing=Nothing
+Freezer=The freezer
+Space=The space
+
+AlienMenu=Alien setup
+AlienInfo=Option to configure Aliens
+Finished=Finished
+
+AlienInfo2=%d hive(s)
+
+OneAlienMore=One hive more
+OneAlienLess=One hive less

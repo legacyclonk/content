@@ -1,0 +1,1 @@
+Ein Automat, an dem man Waffen kaufen kann.

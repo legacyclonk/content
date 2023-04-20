@@ -1,0 +1,2 @@
+DE:Gefahrenschild
+US:Hazard sign

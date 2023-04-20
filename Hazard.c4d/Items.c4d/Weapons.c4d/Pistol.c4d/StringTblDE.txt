@@ -1,0 +1,10 @@
+Standard=Einzelschuss
+GrenadeLauncher=Granatenwerfer
+Laser=Laser
+Slime=Biowerfer
+
+KLASUpgradeDesc=Ersetzt den Schussmechanismus durch einen Laser.
+KSLMUpgradeDesc=Ersetzt den Granatenmechanismus durch einen Biowerfer.
+
+KLASUpgraded=Schussmechanismus durch|einen Laser ersetzt.
+KSLMUpgraded=Granatenmechanismus durch|Biowerfer ersetzt.

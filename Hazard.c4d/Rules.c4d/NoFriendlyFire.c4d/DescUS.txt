@@ -1,0 +1,1 @@
+Projectiles do not hit friends if activated.

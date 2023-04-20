@@ -1,0 +1,14 @@
+[Particle]
+Name=AlienBlood
+MaxCount=1000
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,64,64,-32,-32
+Delay=0
+Repeats=1
+GravityAcc=0
+AlphaFade=10
+Additive=0
+RByV=2
+Attach=1

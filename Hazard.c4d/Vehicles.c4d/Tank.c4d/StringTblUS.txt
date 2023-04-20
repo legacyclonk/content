@@ -1,0 +1,10 @@
+UpgradeShield=Mounts a shield to the tank.
+SwitchLight=Floodlight on/off
+TxtOut=Exit if the tank stands
+TxtStopAim=Stop aiming
+TxtAimDown=Aim down
+TxtAimUp=Aim up
+TxtLeft=Drive left
+TxtRight=Drive right
+TxtFire=Fire!
+TxtFireMode=Change fire mode

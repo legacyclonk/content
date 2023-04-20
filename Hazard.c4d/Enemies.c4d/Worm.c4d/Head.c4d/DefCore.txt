@@ -1,0 +1,22 @@
+[DefCore]
+id=ALNH
+Version=4,9,8,2
+Name=WormHead
+Category=C4D_Living | C4D_Foreground
+ContactCalls=1
+Width=40
+Height=40
+Value=30
+Offset=-20,-20
+Mass=1
+Picture=400,0,40,40
+Rotate=1
+NoStabilize=1
+NoBreath=1
+NoFight=1
+BorderBound=7
+
+[Physical]
+Energy=150000
+Float=600
+CorrosionResist=1

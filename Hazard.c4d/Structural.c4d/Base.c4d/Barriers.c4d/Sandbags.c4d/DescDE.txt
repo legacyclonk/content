@@ -1,0 +1,1 @@
+Simple Sandsäcke. Projektile werden effektiv aufgehalten, aber wenige Explosionen können den Haufen zerstören.

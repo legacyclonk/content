@@ -1,0 +1,16 @@
+[Particle]
+Name=BulletCasing
+MaxCount=1000
+InitFn=StdInit
+ExecFn=StdExec
+CollisionFn=BounceY
+DrawFn=Std
+Face=0,0,16,16,-8,-8
+Delay=0
+Repeats=1
+GravityAcc=120
+VertexCount=1
+VertexY=50
+AlphaFade=7
+Additive=0
+RByV=1

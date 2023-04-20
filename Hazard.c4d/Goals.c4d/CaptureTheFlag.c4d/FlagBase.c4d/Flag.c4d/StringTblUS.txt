@@ -1,0 +1,5 @@
+ReturnedTheFlag=%s returned the flag
+CapturedTheFlag=%s captured the flag
+HasTheFlag=%s has got the flag of team %s
+FlagLost=The flag of team %s was dropped
+FlagReturned=The flag of team %s was returned

@@ -1,0 +1,8 @@
+FlameThrower=Flammenwerfer
+SlimeThrower=Chemische Keule
+
+KSLMUpgradeDesc=Bringt eine Chemische Keule an
+KRFLUpgradeDesc=Erhöht die Reichweite
+
+KSLMUpgraded=Chemische Keule angebracht!
+KRFLUpgraded=Reichweite erhöht!

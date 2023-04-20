@@ -1,0 +1,16 @@
+[DefCore]
+id=FLBS
+Version=4,9,8,2
+Name=Flag Base
+Category=C4D_Vehicle
+Width=15
+Height=4
+Offset=-7,-2
+Vertices=2
+VertexY=-3,5
+VertexFriction=100
+Value=1
+Mass=1000
+Components=ROCK=10
+SolidMask=0,0,15,4,0,0
+Picture=0,4,34,50

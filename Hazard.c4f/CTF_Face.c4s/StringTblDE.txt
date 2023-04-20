@@ -1,0 +1,2 @@
+Red=Rot
+Blue=Blau

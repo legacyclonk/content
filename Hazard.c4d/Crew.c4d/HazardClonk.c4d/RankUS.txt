@@ -1,0 +1,48 @@
+Rookie
+Marksman
+Marine
+SFT
+Hazard
+Flagthief
+Chaos Gunner
+Elite
+Terminator
+Shuttlecommander
+Chaosgeneral
+Space Luncher
+Arso-Morf
+Space Cowboy
+Darkwing
+Tyrant
+Maneater
+Redeemer
+Drone
+Droid
+Bot
+Borg
+Ewok
+Wookie
+Chippie
+Ozark
+Xenomorph
+Replicator
+Antiker
+Predator
+Bomberman
+Megaman
+Matrix
+Semicolon
+Pro
+Kontra
+42
+Whitespace
+Void
+Black Hole
+Battle Cruiser
+Star
+Destroyer
+Stardestroyer
+Drazah
+Darth Vader
+Imperator
+Last Man Standing

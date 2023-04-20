@@ -1,0 +1,2 @@
+Control=Control
+Keycard=This slot is for key cards.

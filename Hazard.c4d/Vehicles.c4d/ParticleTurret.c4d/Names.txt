@@ -1,0 +1,2 @@
+DE:Partikelgeschütz
+US:Particle turret
