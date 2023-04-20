@@ -1,0 +1,9 @@
+FlameThrower=Flamethrower
+FlameBall=Flameball
+SlimeThrower=Chemical mace
+
+KSLMUpgradeDesc=Add a chemical mace
+KRFLUpgradeDesc=Increases the range
+
+KSLMUpgraded=Chemical mace attached.
+KRFLUpgraded=Range increased.

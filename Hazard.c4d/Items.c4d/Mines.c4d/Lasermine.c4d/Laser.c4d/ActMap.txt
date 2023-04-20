@@ -1,0 +1,17 @@
+[Action]
+Name=Laser
+Procedure=FLOAT
+NextAction=Laser
+Facet=0,0,32,96
+Length=4
+Delay=1
+PhaseCall=Laser
+
+[Action]
+Name=LaserEnd
+Procedure=FLOAT
+NextAction=LaserEnd
+Facet=0,0,32,128
+Length=4
+Delay=1
+PhaseCall=Laser

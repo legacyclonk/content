@@ -1,0 +1,8 @@
+[Action]
+Name=Poster
+Facet=0,0,46,38
+FacetBase=0
+Length=4
+Delay=0
+Directions=4
+NextAction=Hold

@@ -1,0 +1,6 @@
+Intro=Anti-Camping-Rule activated. Attention, select the 'No Camping'-rule in the rule menu to mark yourself as being AFK!
+CampingAlert=Warning!|You are camping!
+Back=Back
+AFK=Away
+isAFK=%s has been marked as being AFK
+isBack=%s has been marked as no longer being AFK

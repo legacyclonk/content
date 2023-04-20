@@ -1,0 +1,7 @@
+Ein speziell ausgebildeter Clonk für härteste Einsätze.
+
+Kann bis zu fünf Objekte mit sich tragen, davon bis zu drei Waffen. Inventarsteuerung über Taste Spezial 1 und Spezial 2.
+
+Waffen feuern über Taste Werfen. Ablegen mit Doppelstop-Werfen. Zielen durch 3x Stop drücken.
+
+Der Hazardclonk ist in der Lage einen Rückwärtssprung auführen. Dazu in schneller Abfolge je nach Bewegungsrichtung hinten und Springen drücken.

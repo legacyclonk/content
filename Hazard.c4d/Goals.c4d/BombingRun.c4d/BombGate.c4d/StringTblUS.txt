@@ -1,0 +1,2 @@
+TeamScored=%s (Team %s) scores!
+TeamMultiScore=%s receives %d points (Team %s)!

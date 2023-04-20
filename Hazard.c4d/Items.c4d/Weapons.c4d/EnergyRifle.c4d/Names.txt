@@ -1,0 +1,2 @@
+DE:Energiegewehr
+US:Energy rifle

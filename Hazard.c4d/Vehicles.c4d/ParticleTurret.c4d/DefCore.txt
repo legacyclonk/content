@@ -1,0 +1,21 @@
+[DefCore]
+id=PRCA
+Name=Particle Cannon
+Version=4,9,5
+Category=C4D_Structure|C4D_SelectBuilding|C4D_SelectKnowledge
+Picture=0,32,64,64
+MaxUserSelect=1
+Width=52
+Height=32
+Offset=-26,-16
+Value=150
+Mass=250
+TopFace=0,0,52,32
+Components=METL=2;MGWP=1;
+Vertices=3
+VertexX=0,-23,23
+VertexY=-5,15,15
+VertexFriction=100,100
+Exclusive=1
+Construction=1 
+Grab=2

@@ -1,0 +1,12 @@
+[Particle]
+Name=SlimeSlow
+MaxCount=600
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,25,25,-12,-12
+Delay=5
+Repeats=1
+VertexCount=1
+VertexY=50
+Attach=1

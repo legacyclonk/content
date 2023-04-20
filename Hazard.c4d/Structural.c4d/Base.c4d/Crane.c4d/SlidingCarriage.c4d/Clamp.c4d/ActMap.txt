@@ -1,0 +1,14 @@
+[Action]
+Name=NoLoad
+Procedure=FLOAT
+Delay=1
+FacetBase=1
+NextAction=NoLoad
+
+[Action]
+Name=Load
+Procedure=FLOAT
+Delay=1
+FacetBase=1
+NextAction=Load
+EndCall=Loading

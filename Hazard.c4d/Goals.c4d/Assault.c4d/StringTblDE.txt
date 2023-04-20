@@ -1,0 +1,5 @@
+MsgGoalUnfulfilled=Es gibt noch %d primäre Ziele.
+TargetDestroyed=%d. Ziel zerstört! ( %s )
+OptTargetDestroyed=%s zerstört!
+
+TeamChange=Team %s hat alle Hauptziele nach %d:%.2d zerstört! Zeigt ihnen, ob ihr es besser könnt, %s!

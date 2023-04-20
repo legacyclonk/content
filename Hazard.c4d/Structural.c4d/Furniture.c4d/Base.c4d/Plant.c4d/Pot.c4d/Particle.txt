@@ -1,0 +1,12 @@
+[Particle]
+Name=HalfPot
+MaxCount=200
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,6,6,-3,-3
+Delay=0
+GravityAcc=75
+RByV=1
+VertexCount=1
+AlphaFade=3

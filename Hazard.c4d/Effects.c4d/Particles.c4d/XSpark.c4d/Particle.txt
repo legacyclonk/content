@@ -1,0 +1,13 @@
+[Particle]
+Name=XSpark
+MaxCount=500
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,32,32,-16,-16
+Repeats=3
+Delay=1
+FadeOutLen=3
+FadeOutDelay=2
+AlphaFade=3
+Additive=1

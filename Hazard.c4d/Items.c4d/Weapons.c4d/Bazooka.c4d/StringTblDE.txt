@@ -1,0 +1,11 @@
+Missile=Raketen
+HMissile=Lenkraketen
+RCMissile=Ferngesteuerte Raketen
+
+KLASUpgradeDesc=Rüstet die Raketen mit einem automatischen Zielverfolgungssystem aus.
+
+KLASUpgraded=Raketenwerfer mit automatischen|Zielverfolgungssystem ausgerüstet.
+
+KRFLUpgradeDesc=Ermöglicht optional ferngesteuerte Raketen zu verschießen.
+
+KRFLUpgraded=Raketenwerfer kann nun|ferngesteuerte Raketen verschießen

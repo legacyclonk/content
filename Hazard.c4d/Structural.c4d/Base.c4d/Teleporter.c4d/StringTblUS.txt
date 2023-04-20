@@ -1,0 +1,8 @@
+NoTarget=No target teleporter
+TargetInactive= Target teleporter deactivated
+Inactive=Teleporter deactivated
+BeamMeUp=Beam
+TurnOn=Activate teleporter
+TurnOff=Deactivate teleporter
+SearchTarget=Set target
+ChooseTarget=Choose %s

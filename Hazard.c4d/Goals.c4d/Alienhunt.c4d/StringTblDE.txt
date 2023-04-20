@@ -1,0 +1,4 @@
+MsgAllDead=Die Jagd war erfolgreich, alle Aliens sind tot.
+MsgStillLeft=Noch lebende Aliens:
+MoreRelaunch=Mehr Leben
+LessRelaunch=Weniger Leben

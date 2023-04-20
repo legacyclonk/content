@@ -1,0 +1,10 @@
+[DefCore]
+id=GAT2
+Version=4,9,8,2
+Name=Gate
+Category=C4D_StaticBack
+Width=20
+Height=20
+Offset=-10,-10
+Picture=0,20,64,64
+Entrance=-10,-10,20,20

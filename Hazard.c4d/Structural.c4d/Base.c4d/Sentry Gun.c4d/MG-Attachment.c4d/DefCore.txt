@@ -1,0 +1,17 @@
+[DefCore]
+id=MGSA
+Version=4,9,8,2
+Name=MG-Attachment
+Category=C4D_Vehicle
+MaxUserSelect=1
+Width=32
+Height=9
+Offset=-16,-4
+Vertices=1
+VertexFriction=20
+Value=45
+Mass=55
+Components=METL=4
+Picture=0,0,32,9
+Rotate=1
+NoStabilize=1

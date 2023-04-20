@@ -1,0 +1,10 @@
+[DefCore]
+id=LALI
+Version=4,9,8,2
+Name=Laser
+Category=C4D_Vehicle
+Width=2
+Height=2
+Offset=-1,-1
+BorderBound=7
+IncompleteActivity=1

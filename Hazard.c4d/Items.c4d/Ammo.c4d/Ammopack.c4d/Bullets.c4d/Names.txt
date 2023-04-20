@@ -1,0 +1,2 @@
+DE:Kugeln
+US:Bullets

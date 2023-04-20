@@ -1,0 +1,11 @@
+Missile=Missiles
+HMissile=Homing Missiles
+RCMissile=R/C Missiles
+
+KLASUpgradeDesc=Equips the rockets with an automatic target-searching-system.
+
+KLASUpgraded=Rocket launcher is now equipped with an automatic target-searching-system.
+
+KRFLUpgradeDesc=Enabled to optionally shoot R/C missiles.
+
+KRFLUpgraded=Rocket launcher can now shoot|R/C missilies.

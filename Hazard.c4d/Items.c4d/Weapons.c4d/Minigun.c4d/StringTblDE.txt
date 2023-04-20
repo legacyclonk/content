@@ -1,0 +1,5 @@
+Bouncing=Abprallend
+
+KSLMUpgradeDesc=Ersetzt den Schussmechanismus durch abprallende Schüsse.
+
+KSLMUpgraded=Schussmodus durch|abprallende Schüsse ersetzt.

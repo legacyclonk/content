@@ -1,0 +1,2 @@
+DE:Waffensteuerung
+US:Weapon control

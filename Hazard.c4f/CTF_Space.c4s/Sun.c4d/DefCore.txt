@@ -1,0 +1,21 @@
+[DefCore]
+id=SUN_
+Version=4,9,8,2
+Name=The sun
+Category=C4D_StaticBack|C4D_Background|C4D_MouseIgnore
+Timer=1
+TimerCall=Timer
+Width=350
+Height=350
+Offset=-175,-175
+Picture=0,0,350,350
+Rotate=1
+BorderBound=1
+StretchGrowth=1
+IncompleteActivity=1
+Oversize=1
+NoStabilize=1
+
+[Physical]
+Float=1000
+CanFly=1

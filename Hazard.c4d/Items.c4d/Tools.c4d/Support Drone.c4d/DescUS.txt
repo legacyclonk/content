@@ -1,0 +1,1 @@
+The support drone supports the clonk in battles if it is armed with a weapon.

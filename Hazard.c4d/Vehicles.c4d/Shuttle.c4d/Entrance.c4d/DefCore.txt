@@ -1,0 +1,12 @@
+[DefCore]
+id=_ENT
+Name=Entrance
+Version=4,9,8,2
+Category=16
+Width=12
+Height=18
+Offset=-6,-9
+Entrance=-6,-9,12,18,-6,-9
+Vertices=1
+NoGet=1
+NoSell=1

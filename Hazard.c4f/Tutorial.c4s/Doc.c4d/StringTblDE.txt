@@ -1,0 +1,5 @@
+Greet=Tag, ich bin der Doc.
+Weapon=Ich komme wegen der Waffe.
+Doc=Ah, wieder ein neues Versuchskaninchen.. Äh, ein neuer Soldat meine ich. Ich weiß schon Bescheid. Hier ist deine Waffe. Unser neuester Pistolenprototyp, Codenamen \"Schakal\", frisch aus dem Labor.
+Thx=Danke
+egg=Ich bin eine Leihgabe der RedWolf Design GmbH!

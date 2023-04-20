@@ -1,0 +1,9 @@
+[DefCore]
+id=TEAM
+Version=4,9,8,2
+Name=Teams
+Category=C4D_StaticBack
+MaxUserSelect=1
+Width=1
+Height=1
+Picture=0,0,64,64

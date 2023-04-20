@@ -1,0 +1,1 @@
+Shows how much damage a target has taken.

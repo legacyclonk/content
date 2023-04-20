@@ -1,0 +1,4 @@
+Intro=Sind sie gelandet? Gut. Beginnen sie mit der Reinigung an der Oberfläche!
+Intro2=Hier noch etwas Basisausrüstung und ein Sender, für unser Bombardment.|Platzieren sie ihn und vernichten sie die Vorkommen an der Oberfläche.|Mutterschiff Ende.
+Bombs=Zielort programmiert, alles klar! Die Bomben sind unterwegs.|Rotten sie danach den Rest aus.|Mutterschiff Ende.
+Keycard=Gute Arbeit!|Wir senden ihnen die Schlüsselkarte für den Teleporter.|Dort unten sind sie dann auf sich allein gestellt.|Mutterschiff Ende.

@@ -1,0 +1,1 @@
+WinString=Das Punktelimit ist %d.

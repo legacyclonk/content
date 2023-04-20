@@ -1,0 +1,13 @@
+[Action]
+Name=Move
+Procedure=NONE
+Length=20
+FacetBase=1
+Facet=0,55, 54,42, 22,1
+
+[Action]
+Name=Stand
+Procedure=NONE
+Length=20
+FacetBase=1
+Facet=0,55, 54,42, 22,1

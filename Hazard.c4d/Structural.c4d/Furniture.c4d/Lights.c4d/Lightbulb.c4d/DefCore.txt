@@ -1,0 +1,11 @@
+[DefCore]
+id=LBGH
+Version=4,9,8,2
+Name=LightBulb
+Category=C4D_StaticBack
+MaxUserSelect=10
+Width=1
+Height=1
+Offset=-1,-1
+Vertices=1
+Components=LBGH=1

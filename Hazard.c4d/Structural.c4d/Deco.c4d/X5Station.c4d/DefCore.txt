@@ -1,0 +1,10 @@
+[DefCore]
+id=X5ST
+Version=4,9,8,2
+Name=X5 Station
+Category=C4D_StaticBack
+Width=572
+Height=356
+Offset=-286,-187
+TopFace=0,356,232,114,168,242
+Picture=372,356,200,150

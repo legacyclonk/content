@@ -1,0 +1,1 @@
+Whenever a team is able to conquer every marked position, the team gains a point.

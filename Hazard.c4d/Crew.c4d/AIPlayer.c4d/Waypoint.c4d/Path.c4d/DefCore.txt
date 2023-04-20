@@ -1,0 +1,10 @@
+[DefCore]
+id=VIPU
+Version=4,9,8,2
+Name=Visual Path
+Category=C4D_StaticBack|C4D_Foreground
+Timer=5
+TimerCall=Timer
+Width=1
+Height=1
+Picture=0,0,1,1

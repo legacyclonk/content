@@ -1,0 +1,7 @@
+[Action]
+Name=Animate
+Procedure=NONE
+NextAction=Animate
+Delay=2
+Length=21
+Facet=0,0,40,20

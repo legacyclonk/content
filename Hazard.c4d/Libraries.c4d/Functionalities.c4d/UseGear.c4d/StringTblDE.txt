@@ -1,0 +1,3 @@
+CtxUnbuckleDesc=Ausrüstung ablegen
+CtxUnbuckleItem=%s ablegen
+CtxUseEquipmentDesc=Ausrüstung benutzen

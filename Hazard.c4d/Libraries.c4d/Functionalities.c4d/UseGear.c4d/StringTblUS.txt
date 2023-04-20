@@ -1,0 +1,3 @@
+CtxUnbuckleDesc=Unbuckle equipment
+CtxUnbuckleItem=Unbuckle %s
+CtxUseEquipmentDesc=Use equipment

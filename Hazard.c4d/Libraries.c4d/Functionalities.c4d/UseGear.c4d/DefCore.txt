@@ -1,0 +1,5 @@
+[DefCore]
+id=L_GE
+Name=Use Gear
+Version=4,9,5
+Category=1

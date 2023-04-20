@@ -1,0 +1,15 @@
+[DefCore]
+id=HNG1
+Version=4,9,8,2
+Name=HangarGate
+Category=C4D_StaticBack
+Width=200
+Height=8
+Offset=-100,-4
+Vertices=2
+VertexX=-100,100
+VertexFriction=100,100
+Mass=250
+Components=METL=10
+SolidMask=0,0,100,8,0,0
+Picture=0,0,200,8

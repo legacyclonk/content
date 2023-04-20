@@ -1,0 +1,3 @@
+Open=÷ffnen
+Close=Schlieﬂen
+Stop=Stop

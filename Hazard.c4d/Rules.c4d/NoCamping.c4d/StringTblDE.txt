@@ -1,0 +1,6 @@
+Intro=Anti-Camping-Regel aktiviert. Achtung, 'Kein Camping'-Regel im Regelmenü aktivieren, um sich selbst als AFK zu markieren!
+CampingAlert=Achtung!|Du wurdest als Camper identifiziert!
+Back=Wieder an der Tastatur
+AFK=Nicht an der Tastatur
+isAFK=%s wurde als AFK markiert
+isBack=%s wurde als nicht mehr AFK markiert

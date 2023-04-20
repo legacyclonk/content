@@ -1,0 +1,1 @@
+Ein Hilfsobjekt zur einfachen Verwendung der Killnachrichten und Statistiken.

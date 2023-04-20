@@ -1,0 +1,11 @@
+[Action]
+Name=End1
+Facet=0,0,8,14
+
+[Action]
+Name=Linkage
+Facet=8,0,14,14
+
+[Action]
+Name=End2
+Facet=22,0,8,14

@@ -1,0 +1,7 @@
+[Action]
+Name=Exist
+Directions=2
+FlipDir=1
+FacetBase=1
+Delay=1
+NextAction=Hold

@@ -1,0 +1,2 @@
+Control=Bedienen
+Keycard=Hier passt eine Schlüsselkarte rein.

@@ -1,0 +1,5 @@
+[Action]
+Name=Std
+Facet=0,0,24,24
+Delay=1
+NextAction=Std

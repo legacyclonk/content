@@ -1,0 +1,2 @@
+DE:Hochenergiegewehr
+US:High energy rifle

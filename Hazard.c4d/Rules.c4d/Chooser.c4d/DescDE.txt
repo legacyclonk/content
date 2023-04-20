@@ -1,0 +1,1 @@
+Wenn aktiviert kann der erste Spieler zu Beginn einer Runde die zu benutzenden Spielregeln einstellen und das Spielziel konfigurieren.

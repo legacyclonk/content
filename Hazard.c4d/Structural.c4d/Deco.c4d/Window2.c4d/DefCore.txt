@@ -1,0 +1,13 @@
+[DefCore]
+id=WND2
+Version=4,9,6
+Name=Window
+Category=8388609
+Width=70
+Height=47
+Offset=-35,-24
+Picture=0,0,70,47
+
+
+
+

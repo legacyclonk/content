@@ -1,0 +1,16 @@
+[DefCore]
+id=OPTB
+Version=4,9,8,2
+Name=OperatingTable
+Category=C4D_Vehicle
+Width=40
+Height=36
+Offset=-20,-16
+Vertices=3
+VertexX=-8,8
+VertexY=16,16,-16
+VertexFriction=100,100,100
+Value=50
+Mass=100
+Components=METL=3;KLAS=1
+Picture=40,0,64,64

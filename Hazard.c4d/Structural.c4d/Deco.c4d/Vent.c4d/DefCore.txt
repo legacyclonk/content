@@ -1,0 +1,11 @@
+[DefCore]
+id=VENT
+Version=4,9,8,2
+Name=Ventilator
+Category=C4D_StaticBack
+Width=128
+Height=128
+Offset=-64,-64
+Picture=0,0,64,64
+StretchGrowth=1
+IncompleteActivity=1

@@ -1,0 +1,2 @@
+DE:Hangartor
+US:Hangar gate

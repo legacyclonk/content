@@ -1,0 +1,296 @@
+rev 2043:
+* Feuer-Modus des Flammenwerfers wieder leicht schwächer gemacht (-15%) (#12973)
+* Raketen und Granaten können nicht mit Feuer oder Bio zerstört werden (#12973)
+! fix wenn das Shuttle geladene Waffen hat und mann dann ausstieg, kam man nicht mehr rein
+! Shuttle ist dicht (kein Wasser, keine Lava wirkt auf den Clonk)
++ Aussteigen aus Panzer per Kontextmenü möglich (#12975)
+! Position einer Tür in DEST Epic Voltage korrigiert (#12976)
+! Hazardclonk kann wieder aus dem Wasser springen (#12968)
+! Nullpointer im Laser gefixt (#12966)
+
+rev 2035:
+! (Mehr) Rückwärtskompatibilität, v.A. QuakeR
+! Fix Kontrolle übergeben zum gerittenen Objekt
+! Fix Syntax-Fehler in Kran
+* Eroberungszeit für Domination Punkt leicht verringert
+* Mit Projektilwaffen kann man Materialien wegballern, ein bischen - eher für den grafischen Effekt
+! Drone verschwindet korrekt bei Arena-Regel
+! Panzer und Shuttle gehören wieder keinem Besitzer wenn der Fahrer ausgestiegen ist
+! Fix Nachladeprobleme bei der KI
+! Fix Sound einer automatischen Waffe bleibt wenn die Drone deaktiviert wird während sie schießt
+* AS Skynet:
+  ! Geld wird zurückgesetzt wenn die Teams wechseln (wichtig für WeaponChoice)
+  * Computer-Ziele sind nun schwerer, Sentry-Guns leichter abzuschießen
+  ! Nach Wechsel der Teams spawnen bei WeaponChoice nicht neue Waffen
+  ! (hoffentlich) den 0,0-Bug behoben
+  + Waffenautomaten werden bei WeaponChoice platziert
+  ! Landschaft gefixt
+* Minigun wieder ganz leicht schwächer gemacht (-12%)
+! Fix Killnachricht für Crew die nicht in einem Team ist
+
+rev 2015:
+! Fix Syntax-Fehler in EpicVoltage
++ Sounds fürs Flagge stehlen, wieder zurückbringen und Ziel zerstören (Assault)
++ Neues Upgrade für den Raketenwerfer!
+! KI Fixes:
+  ! KI switcht nicht mehr pausenlos Waffen durch
+  ! KI bleibt nicht mehr stecken wenn ihm die Munition ausgeht während sie zielt
+  ! KI lädt nicht mehr wie blöd Waffen nach
+  ! KI dreht sich nurnoch zu Gegnern um wenn sie nicht im "(Weg)laufmodus" ist
+* Rebalance Waffen. Die größeren Änderungen (in Klammern welche die schon vorher erwähnt wurden):
+  * +20% Nachladezeit, -30% benötigte Ammo für Partikelkanone(, Schaden anders)
+  * -50% benötigte Ammo für Pumpgun(, Explosivschuss hat sehr begrenzte Reichweite)
+  * +25% Schaden für Kettensäge
+  * -25% Schaden für Energiegewehr und mit Laser(, +25% Reichweite für Laser) 
+  * +25% Reichweite und +20% Schaden für Flammenwerfer
+  * +50% Schaden für Minigun(!), (-50% Streuung)
+  * -20% Schaden für Pistole, -50%(!) Schaden für Laser, +40% Schaden für Bioschleimwerfer
+  * +15% Schaden, -15% Reichweite für Pumpgun
+  * Lasergranate geht eine halbe Sekunde später los
+  * (Panzer kann 50% mehr Schaden ab)
+  * (-50% Schaden des Cluster-Schusses des Granatenwerfers bei direktem Treffer)
+* Langes Kill-Logging disabled by default (enable mit STAT_LogEnabled = true), ersetzt durch:
+  + kurze Kill-Nachrichten sichtbar für Killer und Opfer als Message
+* Name des Fahrers des Shuttles/Panzers wird nurnoch für alle Spieler AUSSER den Fahrer angezeigt
+! Fix Texmap in AH Predator
+! Fix Stack Overflow in Arocit
++ Beiss-Sound für Aliens
+! Fix einen Wegpunkt in Schlachtfest
+! Fehlenden Sound für zweiten Schussmodus des Flammenwerfern hinzugefügt
+! Sounds beim Auswählen von Waffen im Waffenautomaten und Waffenwahl werden nun für die richtigen Spieler abgespielt
+! Desync behoben
+
+rev 1990:
+* Schadenseffekt für Generator (schießt Blitze wenn er Schaden bekommt)
+! Flaggen in Gamma Breschnew werden nur platziert wenn das Spielzielt CTF ist
+* Zetha Basis:
+  * Karte und Hintergrund aufgeräumt (Hintergund u.a. weniger hell damit man ihn vom Vordergrund unterscheiden kann)
+  * Mehr Medipacks, Minen und Dronen auf der Karte
+  * ein weiterer Spawnpunkt in der Mitte
+  * Zeit zur Eroberung eines Punktes leicht erhöht
+  + KI auswählbar! 
+  ! KI-Taktik für DOM Spielziel überarbeitet
+* EpicVoltage
+  * Karte verkleinert; kein Geschütz mehr direkt vor der Tür womit man das eigene Tor kaputt machen kann
+  ! Man kann sich nun nciht mehr hinter den unzerstörbaren Geschützen verstecken
+  * Die Konsole in der Mitte zum Kauf der Barrikaden ist nun auch dort wenn man Waffenwahl nciht aktiviert hat
+  ! Fix CTF Spielziel in EpicVoltage
+  * Die Barrikaden kann man nun von innen öffnen
+  * Auch die Barrikaden haben nun Lebensanzeigen
+* "Bewachen" über Kontextmenü deaktiviert
+! Man kann nun icht mehr aus FlyAshes und FlySand unzerstörbares Ashes und Sand ausgraben
+! Effect-Leak (Aiming) im Hazard gefixt
+* Panzer
+  ! kann keine Clonks überrollen, die wo drin sind (z.B. in einem anderen Panzer)
+  * kann nurnoch 2 Lenkraketen hintereinander schießen vorm neu nachladen
+  ! bleibt nicht mehr an vertikalen Wänden kleben
+  ! wackelt weniger auf der Landschaft
+* Shuttle
+  ! kippelt nicht mehr so rum
+  * schießt etwas kleinere Raketen
+  + cooler hover-Effekt
+! Flak ist nun wieder benutzbar wenn der vorherige Benutzer gewaltsam (Explosion, Tod) von derselben entfernt wurde
+* Vehikel-Spawnpunkt spawnt nun erst ein neues Fahrzeug wenn das alte zerstört wurde (nach etwa 2 min)
+! Fix nullpointer in Drone
+! KI Fixes:
+  ! KI springt nun nicht mehr durch Leitern durch ohne sie benutzen zu können
+  ! Transferzones des Fahrstuhls gefixt. KI kann sie nun ordentlich benutzen
+  ! Spiel friert nciht mehr ein bei KI + Waffenwahl
+  ! KI bleibt nicht mehr auf dem Fahrstuhl stecken wenn sie auf dem Fahrstuhl neue Befehle erhält
+  ! Ein Pathfinder-Problem gefixt
+  ! Fix BR, CTF und DOM-Taktik wurde evtl. überschrieben mit Default-Taktik
+  ! Wenn die KI nicht zielen kann oder will, schießt sie nicht wenn sie den Feind nur mit Zielen treffen würde
+  ! Wenn die KI nicht zielt aber schießt, schießt sie nicht wenn der Feind zu weit weg ist um ihn mit der eigenen Waffe zu treffen
+  ! KI (und mit Maus) bleibt nicht mehr an Leiter stecken
++ WaypointsVisible()-Funktion erweitert. Die Visualisierungd er Wegpunkte beinhaltet nun auch die (initialie) Richtung GetPathDir()
+! Domination: nach dem Scoring wird nun auch visuell der Capture-Progress zurückgesetzt
++ KI-Gedöhns kann man nun leichter debuggen. meinHazardClonk->TellMeWhatYouDo(true);
+! Fix Spieler spawnen manchmal an Position 0,0
+
+rev 1944:
+* Kaufmenü beim Waffenautomaten öffnet sich nun sofort beim Anfassen
+! Bei TopOpen=0 bleibt das Shuttle nicht mehr hängen
+* Panzer und Shuttle-Preise angepasst
+! Man kann in den Fenstern nicht mehr hängenbleiben
+* Fadenkreuze aus den Title.pngs der Szenarien rausretuschiert
++ Neues Szenario: DEST - Epic Voltage. Großteils von TDM - Epic übernommen, Konzepte von DEST_HighVoltage übernommen
+  + Spielbar zusätzlich zu Team DM und CTF auch als DEST
+  * Karte verbessert/verschönert. Ist nun eine Winterlandschaft
+  * voll kompatibel zum Spiel mit oder ohne Waffenwahl, mit oder ohne Munition etc.
+  * Vehikel-Kauf-Station überarbeitet - klarer als solche erkennbar
+  * Man kann nicht mehr mit dem Shuttle über die Landschaft hinweg fliegen
+  ! Airstrikes funktionieren mit TopOpen=0
+  * Türen zur Basis schließen alle automatisch und sind von innen per Schalter aufmachbar
+  ! Türen die sich automatisch öffnen tun dies auch für Clonks in Panzern
+  + Neues Spielziel: Zerstörung. Eine Mischung aus Assault und CTF. Übernommen aus DEST_HighVoltage und erweitert
+  + Luke aus TDM Epic ins Hauptpaket übernommen
+! Wenn die Flaggenbasis weg ist, wird die Flagge bei Verschwinden nicht mehr neu erstellt
+* "Relaunches" in Last Man Standing und Alien Hunt werden nun als "Leben" bezeichnet (weil 1 "Relaunch" = Spieler eliminiert nach 1 Tod)
++ Für Gamma Breschnew gibt es nun wahlweise einen zweiten Spielmodus: Alien hunt
+  + Code aus AH_DeepSea aus BattleEvolutions übernommen. Danke an Luchs 
+  * Beschreibung, Name und Icons von Gamma Breschnew angepasst
+  + Alien Hunt ist nun komplett kompatibel zur Regel- und Spielzielauswahl
+  + Anzahl der erlaubten Relaunches ist per Regel und Spielzielauswahl einstellbar
+  + Aliens zu töten bringt nun Geld (analog zum Geld für Kills in Deathmatches), welches man in Waffen per Waffenwahl investieren kann
+  + Neue Regel "Alien Army" aus BattleEvolutions übernommen und erweitert. Damit kann man einstellen wie viele Nester spawnen sollen
+  + Waffenautomaten in AH-Szenarien platziert, damit man auch ohne Relaunches neue Waffen kaufen kann
+* Die ganzen Relaunch Funktionen sind nun zusammengefasst in der System.c4g weil es immer die gleichen sind (--duplicate code)
++ Wenn man Arena Boni einsammelt, wird kurz deren Beschreibung angezeigt
+* Mit der klassischen Steuerung kann man jetzt 66% genauer zielen
+* der Hazardclonk kann etwas schneller laufen wenn er die Kettensäge an hat
++ neues Upgrade für den Flammenwerfer
+* Ein direkter Treffer mit der Clustergranate bedeutet nun dass die Granate wie eine normale Granate explodiert
+* Drone schießt auch wenn der Winkel der Waffe nicht 100% in die Richtung des Zieles zeigt
+! Morsesound des Airstrikes ist nun eine korrekte WAV
++ Panzer und Shuttle zeigen nun an wer im Vehikel drin sitzt
+! Fix manchmal teleportiert der Teleporter die Clonks in das Fundament
+* (mehr) gehackten Code für die Bombing Run Bombe aus Hazardclonk entfernt
++ Der Hazardclonk kann nun (ganze) Ammopakete ablegen
+
+
+rev 1888:
++ Den Panzer gibt es nun in CTF Face (er respawnt nach 3 Minuten)
+* Balancing Änderungen
+  * Panzer kann 50% mehr Schaden ab. Das Überrollen von Clonks macht Schaden (man kann auch durch Aliens fahren)
+  * Energiegewehr mit Laserupgrade schießt 25% weiter
+  * Explosive Schüsse der Pumpgun haben nun genauso eine begrenzte Reichweite wie der normale Schuss
+  * Streuung der Minigun um 50% reduziert
+  * Der Strahl der Partikelkanone bleibt kürzer da
++ Rework des Domination-Spielzieles.
+  * Einnehmen eines einzelnen Markers dauert nun eine bestimmte Zeit (vorerst 6 Sekunden)
+  + der Einnehm-Status wird im HUD und als Progressbar angezeigt
+  ! Fix es können beliebig viele Marker positioniert werden (war vorher schon theoretisch möglich)
+  * in DOM Zetha Basis gibt es nurnoch 3 Marker, alle in der Mitte
+! KI checkt regelmäßig ob er Waffen nachladen muss. Danke an Serpens66.
+! KI sollte nun mit Bazookas (=Waffen mit denen man zielen MUSS) schießen können. Danke an Serpens66.
++ Tolle neue Grafiken für die einzelnen "Pimped" Waffen
+* Licht benutzt nun SetObjDrawTransform um sich größer/kleiner zu machen statt DoCon. Das sollte die Lichter im Entwicklermodus weniger nervig machen.
+! Der Kopf des Wurmes kann nicht merh außerhalb der Landschaft geraten. Danke an Serpens66.
+! Sind der Panzer und das Shuttle innerhalb eines Gebäudes, können ihre (internen) Einzelteile weder verkauft noch aktiviert werden. Danke an Serpens66.
+! Größere Hitbox für die Sentry Gun. Danke an Serpens66.
+! Clonk stirbt nicht innerhalb von Sekunden wenn er immerzu wieder angezündet wird. Danke an Serpens66.
+! Öfter auf Anzeige der Bewaffnung des Clonks prüfen. Danke an Serpens66.
++ CTF Flaggen werden standardmäßig nicht in Gebäude genommen sondern fallengelassen. Spezielles Verhalten möglich:
+  * CanCarryFlag() des Gebäudes liefert true zurück: Flagge wird außen für alle sichtbar rangehängt
+  * CanCarryFlag() des Gebäudes liefert -1 zurück: wie in Hazard 2.0, Flagge ist mit Clonk im Gebäude
+  + Panzer und Shuttle können Flaggen tragen
+! Kontrolle von angefassten Waffen korrigiert:
+  ! Es können nicht mehrere Clonks gleichzeitig die Waffe kontrollieren (auch nicht mit der Maus)
+  ! die angefasste Waffe wird im HUD nur angezeigt wenn man derjenige ist der sie kontrolliert
+  ! Fehlermeldungen gefixt
+  * der zweite Clonk der es versucht, kann die Waffe garnicht erst anfassen
+! seltene Fehlermeldung behoben wenn der Panzer explodiert während jemand drin sitzt
+
+
+rev 1866:
+! AS Skynet ist jetzt kompatibel zu Regeln: Waffenwahl, keine Munition und InstaGIB
+* KI Menü leicht verbessert
+  ! Fix beim AI Menü konnte man es u.U. schaffen, das ganz Menü zu schließen
+  * bessere Anzeige wie viele Bots schon ausgewählt wurden
+! Host-Identifikation für die Regelauswahl. Danke an Clonk-Geist
+! Man kann keine Sachen mehr in den Spawner am Anfang des Spieles packen
+! Die Raketen hatten keine ingame-Grafik. Wieso hat dis bisher niemand bemerkt?
+! Crash in der Lasergranate gefixt! (Genauer gesagt: Bei reflektierenden Laserstrahlen)
+! Fehlermeldung bei der KI gefixt wenn der Anführer fehlt
+! Bei Laufzeitbeitritt wird sofort das Goal HUD für den beitretenden Spieler aktualisiert (GetHUDInfo muss also safe aufzurufen sein auch wenn das Team noch nicht komplett initialisiert ist)
+! Panzer pausiert das Nachladen wenn er von EMP getroffen wird (wie das Shuttle)
+* HUD überarbeitet. Danke an K-Pone/ModernClonker
+  * bunter: jeder Munitionstyp hat eine unterschiedliche Farbe. Color-coded for you convenience.
+  + coole neue Animation für Elektro-basierte Waffen
+  + coole neue Animation für Benzin-basierte Waffen
+  + coole neue Animation wenn man neue Ammo einsammelt
+  + coole neue Animation wenn man Ammo verbraucht (durch Waffe)
+  + bei nicht-Waffen wird stattdessen der Beschreibungstext angezeigt
+  * Beschreibungstexte angepasst dass die hilfreicher sind wenn sie dann im HUD angezeigt werden
+  * Munitionsanzeige nach oben verschoben (um Platz für den Beschreibungstext zu schaffen)
+  + schönere zum HUD passende Energiebalken hinzugefügt
+  ! Das HUD wird korrekt upgedatet wenn Inventar gelöscht wird
+  ! Beim durchschalten der Crew wird das HUD upgedated
+  ! Waffen updaten nicht direkt das HUD des Clonks sondern benachrichtigen nur den Clonk dass er das tun soll. (Der Clonk kann nämlich durchaus mehrere Waffen haben die sich grad updaten. Diese würden in Konflikt kommen)
+  
+
+* ID hacks für BR-Bombe durch Callbacks RejectShift() (=kann nicht abgewählt werden) und IsAlwaysCollectable() (=kann immer aufgenommen werden) ersetzt. Danke ans CMC-Team
+* IsJumping() beinhaltet auch das Fliegen mit dem Jetpack. (D.h. Jetpackflug verhält sich wie Springen)
+! Sichergestellt dass das Fadenkreuz beim Entfernen des Clonks mitentfernt wird. 
+! Der Verursacher dessen dass der Hazard angezündet wird, wird an DoDmg weitergereicht. (Löst "Feuer-hat-falschen-Besitzer" Bugs). Danke ans CMC Team
+! Hazardclonk löscht nicht mehr bei Tod zufällig globale Effekte. Danke an End.
+! Hazardclonk verliert seine Ausrüstung bei Tod
+! Hazardclonk ruft korrekt OnClonkDeath callback auf, wie normale Clonks
+* Beim Durchswitchen des Inventars während im Zielmodus wird der Zielmodus beibehalten solange CanAim() true zurückgibt (vorher: wenn IsWeapon() true zurückgibt). Danke ans CMC-Team
+* Auch bei Doppelgraben und ControlSpecial vergisst der Hazardclonk nun seine MacroCommands.
+* ControlSpecial im Hazardclonk wird an den Container weitergegeben
+* Extra.c4g entfernt. Musik und Grafiken sind jetzt im Rundenordner.
++ Einige Grafiken aus ModernClonkers HazardSkin übernommen und einige leicht verändert.
+* Einige sehr "dreckige" Materialgrafiken etwas sauberer gemacht.
+! Portraitgrafik wird bei Relaunch korrekt von der Armored-Grafik auf die Standardgrafik zurückgesetzt
+* Hazardclonk kann nun Unterwasser graben
+! Waffen rufen OnAutoStop auf wenn sie deselektiert werden. Behebt komische Sounds bei der Motorsäge
+! Das große Fenster hat nun von Anfang an eine SolidMask.
+
+* Titel-Grafiken aus Objektdefinitionen entfernt, stattdessen sind die Titelgrafiken jetzt reguläre Picture-Grafiken in der Graphics.png
+* Drone umgeschrieben und Fehler korrigiert. 
+  ! hat nun korrekte Resistenzen gegen Schadenstypen
+  ! bleibt weniger leicht hängen
+  * ist etwas langsamer (etwa so schnell wie der Clonk)
+  + schöne Partikeleffekte bei Navigieren, Schweben und Nachladen
+  + lädt am Anfang automatisch seine Waffe nach (falls nicht geladen) (#1859)
+  * Zielsuchverhalten verbessert. Ist aber "blind" für Ziele über sich
+  * Fliegt nun eine ganze Ecke über dem Clonk - wenn möglich
+  * Fliegt nicht mehr zum Feind hin sondern bleibt beim zu beschützendem Clonk
+  ! erkennt (meist) falls ein befreundeter Clonk direkt in der Schusslinie ist (und schießt dann nicht)
+  ! Benutzung von automatischen Waffen (Minigun, Flammenwerfer,...) gefixt. Minigun+Drone ist so geil... :-]
+  ! Anzeige der Waffe unten an der Drone korrigiert
+  * Die Entfernung auf der die Drone Feinde beschießt ist abhängig von der Waffe (maximal aber 250. Überladbar.)
+  ! Zum-Clonk-Beamen gefixt
+  ! Nicht-aktivierte Dronen die einem Feind gehören werden nicht mehr als Bedrohung wahrgenommen
+  + Der Clonk kann nun über das Kontextmenü seine Drone eine Position bewachen lassen
+  + Per Script kann man autonome Dronen erstellen die ohne zu-beschützenden Clonk funktionieren
+  * Drone ist teurer
+  * Drone dreht seine Waffe langsamer zum Ziel
+  * Drone kann nun auch mit der Bazooka umgehen
+* Teleporterskript erneuert und aufgeräumt
+  + Ein Teleporter kann als "privat" deklariert werden und ist damit nicht über die Konsole anwählbar
+  * Teleporter die verfeindeten Spielern gehören, sind ebenfalls nicht anwählbar
+  ! Während des beamens und Ausfadens wird nun die Einfärbung des Objekts beibehalten. Danke an K-Pone.
+  + Beam-Effekt verschönert
+! Probleme im Tutorial beseitigt (#1686)
+  ! Laser landet hinter Jumppad
+  ! Man kann keine Scriptspieler mehr in der Lobby auswählen
+  ! unrichtige Texte korrigiert
+  * Landschaft und Deko verschönert (u.A. Raketenbasis platziert)
+  ! man kann nicht ohne Jetpack auf den Vorsprung kommen
+  ! es wird kein Benzin mehr (für das Jetpack gespawnt)
+! Verhalten der Lasergranate leicht verändert, evtl. berüchtigten Absturz behoben
+! Einige Typos und unschöne Übersetzungen korrigiert
+! Die KI wählt nun die korrekte Waffe als die effektivste gegen Feinde aus. Danke an B_E (#11289)
+! Tisch, Stuhl, Kommode, Berserker und Arocit fangen kein Feuer mehr wenn jemand OnDmg() aufruft. (OnHit ist der richtige Aufruf)
+! Doppelt im Inventar des Clonks vorhandene Waffen bei Start der Waffenwahl werden nicht doppelt zum Menü hinzugefügt. Danke an Gurkenglas (#2474)
+! Der Verursacher von Schaden durch DoDmg wird an DoEnergy weitergereicht. Danke an ModernClonker. (#1092)
+! Das Shuttle bricht das Nachladen ab wenn man es verlässt. Dies behebt dass man es dann nicht mehr betreten kann. Danke an ModernClonker. (#2002)
+! Der Panzer bricht das Nachladen auch ab wenn man ihn verlässt.
++ Panzer und Shuttle machen automatisch das Licht an/aus beim einsteigen/rausgehen wenn Dunkelheit aktiviert ist.
++ Shuttle Jetflamme etwas verschönert
+! komischen Effekt beseitigt wenn man das Flutlicht des Shuttles an hat und das Shuttle betritt oder verlässt
+! Auch der Wurm fadet langsam aus nachdem er gestorben ist (wie alles andere auch). Danke an K-Pone.
+* Wurm "erstickt" langsam in solids. (Sonst wäre er in dem Fall unsterblich, da nur der Kopf getoffen werden kann). Danke an K-Pone.
+! Einfadende Objekte sind nun garantiert im ersten Frame unsichtbar. Danke ans CMC-Team
+* Es kann nun eine Fadeout-/Fadein-Geschwindigkeit angegeben werden
+! beitretende Spieler sehen nun auch die Respawnpunkte der Waffen wenn die "Waffen bleiben"-Regel aktiviert ist. Danke ans CMC-Team.
++ NoArenaRemove() callback hinzugefügt für Objekte die nicht von der "Arena" Regel entfernt werden sollen. Übernommen von CMC.
++ GetArenaRemoveTime() callback hinzugefügt für Objekte die eine eigene Zeit festlegen wollen bis sie entfernt werden. (Hack für Drone entfernt)
+! Eine vertikal verlaufende Liftplate checkt nun auch ob es innerhalb seiner unteren Grenze ist. Danke an Foaly.
+! Check beim Upgrade der Pumpgun korrigiert. (#1809)
+* Bei aktiviertem Düsternis-Umweltobjekt bekommt der Clonk keine Taschenlampe mehr (#1951)
+! KIs laufen nicht mehr manchmal in Schleifen. (#12900) Danke an Foaly
++ Bei Ändern der Ammo: callback an Objekt "OnAmmoChange"
+! Alarmsirene wackelt nicht mehr beim an- und ausschalten (#2085)
+! Minen explodieren nun auch wenn ein Clonk daran an einer Leiter vorbeiklettert (#2081)
+! Partikelkanone wirft nun keinen Fehler mehr wenn man sie in die Wand steckt und feuert (sondern feuert nicht)
+! Kran stoppt nun auch in Y-Richtung wenn man Graben drückt (#1851)
+* ID hack beim Kran entfernt. Konsolen haben einen neuen Callback: IsConsole() {return true;} (#1852)
+* HUD performance verbessert
+* weniger Startgeld in Forsak IV, Schlachtfest und Zetha Base
+* ein paar andere Waffen in Schlachtfest
+* einige Hindernisse in Skynet hinzugefügt um einen Rush weniger leicht zu machen
+* Bildschirme verstecken sich nicht mehr hinter Milchglas
++ AddDamageEffect hat nun einen zweiten Parameter: size

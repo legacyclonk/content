@@ -1,0 +1,13 @@
+[Material]
+Name=WeakWall
+Color=118,118,118,118,118,118,118,118,118
+Shape=0
+Density=50
+Friction=80
+BlastFree=1
+Blast2Object=
+Blast2ObjectRatio=
+BlastShiftTo=BackWall
+MaxAirSpeed=100
+OverlayType=2
+Placement=45

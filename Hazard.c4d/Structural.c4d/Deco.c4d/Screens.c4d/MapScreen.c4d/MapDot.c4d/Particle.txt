@@ -1,0 +1,9 @@
+[Particle]
+Name=MapDot
+MaxCount=10000
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,1,1,-1,-1
+Delay=0
+AlphaFade=35

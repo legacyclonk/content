@@ -1,0 +1,2 @@
+DE:Fahrzeug-Spawnpunkt
+US:Vehicle spawnpoint

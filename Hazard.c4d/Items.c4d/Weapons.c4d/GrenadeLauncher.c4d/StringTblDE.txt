@@ -1,0 +1,15 @@
+Grenade=Granate
+FragGrenade=Splittergranate
+Napalm=Napalmgranate
+EMP=EMP Granate
+Napalm=Napalmgranate
+Slime=Bioschleimgranate
+Laser=Lasergranate
+
+KSLMUpgradeDesc=Erweitert den Granatwerfer um Bioschleimgranaten
+KLASUpgradeDesc=Erweitert den Granatwerfer um EMP- und Lasergranaten
+KRFLUpgradeDesc=Erweitert den Granatwerfer um Splitter- und Napalmgranaten
+
+KSLMUpgraded=Granatwerfer kann jetzt|Bioschleimgranaten verschieﬂen.
+KLASUpgraded=Granatwerfer kann jetzt|EMP- und Lasergranaten verschieﬂen.
+KRFLUpgraded=Granatwerfer verschieﬂt nun|Splitter- und Napalmgranaten.

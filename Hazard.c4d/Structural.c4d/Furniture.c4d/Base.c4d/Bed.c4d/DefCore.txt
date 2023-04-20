@@ -1,0 +1,17 @@
+[DefCore]
+id=BED2
+Version=4,9,8,2
+Name=Bed
+Category=C4D_Vehicle
+MaxUserSelect=2
+Width=45
+Height=37
+Offset=-23,-17
+Vertices=2
+VertexX=23,-23
+VertexY=17,17
+VertexFriction=50,50
+Value=45
+Mass=200
+Components=METL=5
+Picture=0,37,64,64

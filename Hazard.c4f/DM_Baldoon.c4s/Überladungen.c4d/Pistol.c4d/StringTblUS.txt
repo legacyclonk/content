@@ -1,0 +1,13 @@
+Standard=Single shots
+GrenadeLauncher=Grenade launcher
+Laser=Laser
+Slime=Slime
+Teleport=Translocator
+
+KLASUpgradeDesc=Replaces the fire mechanism with a laser.
+KSLMUpgradeDesc=Replaces the grenade mechanism with slime shots.
+KRFLUpgradeDesc=Adds the translocator mechanism.
+
+KLASUpgraded=Replaced the fire mechanism with a laser.
+KSLMUpgraded=Replaced the grenade mechanism with slime thrower.
+TeleportUpgraded=Added Translocator.

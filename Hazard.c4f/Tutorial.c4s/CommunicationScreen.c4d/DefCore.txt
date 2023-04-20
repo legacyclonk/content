@@ -1,0 +1,12 @@
+[DefCore]
+id=CSCR
+Version=4,9,8,2
+Name=CommunicationScreen
+Category=C4D_StaticBack
+Width=60
+Height=60
+Offset=-30,-30
+Picture=240,0,60,60
+StretchGrowth=1
+IncompleteActivity=1
+Oversize=1

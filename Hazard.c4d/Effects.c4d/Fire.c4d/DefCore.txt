@@ -1,0 +1,10 @@
+[DefCore]
+id=MYFR
+Version=4,9,8,2
+Name=Fire
+Category=C4D_StaticBack
+Width=1
+Height=1
+Offset=-1,-1
+Components=DFLM=1
+Picture=0,0,1,1

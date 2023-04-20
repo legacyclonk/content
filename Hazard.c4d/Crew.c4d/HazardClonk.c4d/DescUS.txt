@@ -1,0 +1,7 @@
+A specially trained clonk for most dangerous missions.
+
+Can carry up to five objects at a time thereof up to 3 may be weapons. Inventory control via commands Special 1 and Special 2.
+
+Command Throw to fire weapons. Double stop, then Throw to drop weapons. Press stop triple to aim.
+
+The Hazardclonk is able to do a backflip. Therefor press depending on the current direction backwards and then Jump.

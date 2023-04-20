@@ -1,0 +1,8 @@
+[Action]
+Name=Open
+Procedure=NONE
+Directions=2
+Facet=0,0,21,30
+Delay=0
+NextAction=Hold
+

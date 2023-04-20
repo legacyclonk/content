@@ -1,0 +1,6 @@
+Cannon=Cannon
+Missile=Missiles
+aim=Aim mode %s
+aimDesc=Turns the aim mode %s
+on=on
+off=off

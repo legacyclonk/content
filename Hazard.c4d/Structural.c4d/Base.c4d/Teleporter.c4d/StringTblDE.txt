@@ -1,0 +1,8 @@
+NoTarget=Kein Zielteleporter angegeben
+TargetInactive=Zielteleporter nicht aktiv
+Inactive=Teleporter nicht aktiv
+BeamMeUp=Beamen
+TurnOn=Teleporter aktivieren
+TurnOff=Teleporter deaktivieren
+SearchTarget=Ziel eingeben
+ChooseTarget=%s als Ziel wählen

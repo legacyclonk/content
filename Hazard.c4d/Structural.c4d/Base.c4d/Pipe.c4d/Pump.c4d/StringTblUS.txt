@@ -1,0 +1,3 @@
+TurnOn=Turn on
+TurnOff=Turn off
+Error=Error: Two-Pump-System

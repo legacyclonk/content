@@ -1,0 +1,17 @@
+[Particle]
+Name=FrSprk
+MaxCount=2500
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+CollisionFn=Stop
+Face=0,0,36,36,-18,-18
+Reverse=1
+Delay=30
+Repeats=1
+VertexCount=1
+VertexY=1
+GravityAcc=0
+FadeOutLen=5
+AlphaFade=6
+Attach=1

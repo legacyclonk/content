@@ -1,0 +1,2 @@
+TeamScored=%s punktet für Team %s!
+TeamMultiScore=%s erzielt %d Punkte für Team %s!

@@ -1,0 +1,17 @@
+[Action]
+Name=Travel
+Procedure=FLOAT
+NextAction=Travel
+Facet=0,0,20,100
+Length=1
+Delay=1
+StartCall=Traveling
+
+[Action]
+Name=Travel2
+Procedure=FLOAT
+NextAction=Travel2
+Facet=20,0,20,100
+Length=4
+Delay=1
+PhaseCall=Traveling

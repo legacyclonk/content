@@ -1,0 +1,6 @@
+[Action]
+Name=Exist
+Facet=0,0,10,15
+Length=6
+NextAction=Exist
+EndCall=CheckVertex

@@ -1,0 +1,14 @@
+[Action]
+Name=Attach
+Procedure=ATTACH
+Delay=0
+
+[Action]
+Name=Base
+Delay=0
+Facet=0,0,25,25
+
+[Action]
+Name=Overlay
+Delay=0
+Facet=25,0,25,25

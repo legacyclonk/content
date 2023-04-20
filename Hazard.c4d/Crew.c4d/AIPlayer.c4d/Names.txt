@@ -1,0 +1,2 @@
+DE:KI-Spieler
+US:AI player
