@@ -21,10 +21,12 @@ protected func Activate(iPlayer)
   // Alles abgebaut
   if (IsFulfilled()) 
     return(MessageWindow("$MsgGoalFulfilled$", iPlayer));
+  var goldOutside = ObjectCount2(Find_ID(GOLD), Find_NoContainer());
+  var goldInContainers = ObjectCount2(Find_ID(GOLD), Find_AnyContainer());
   // Noch nicht alles abgebaut (fest Menge noch unbekannt)
   if (GetMaterialCount(Material("Gold")) == -1)
-    return(MessageWindow(Format("$MsgGoalUnfulfilled2$", ObjectCount(GOLD)), iPlayer));
+    return(MessageWindow(Format("$MsgGoalUnfulfilled2$", goldOutside, goldInContainers), iPlayer));
   // Noch nicht alles abgebaut ( -50 statt -150 weil beim / 100 abgerundet wird )
   var amountSolid = Max((GetMaterialCount(Material("Gold")) - 50) / 100, 0);
-  MessageWindow(Format("$MsgGoalUnfulfilled$", amountSolid, ObjectCount(GOLD)), iPlayer);
+  MessageWindow(Format("$MsgGoalUnfulfilled$", amountSolid, goldOutside, goldInContainers), iPlayer);
 }
