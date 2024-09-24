@@ -50,9 +50,11 @@ protected func Activate(iPlayer)
   // Alles abgebaut
   if (IsFulfilled()) 
     return(MessageWindow("$MsgGoalFulfilled$", iPlayer));
+  var oreTotal = ObjectCount2(Find_ID(ORE1));
+  var oreOutside = ObjectCount2(Find_ID(ORE1), Find_NoContainer());
   // Noch nicht alles abgebaut (fest Menge noch unbekannt)
   if (GetMaterialCount(Material("Ore")) == -1)
-    return(MessageWindow(Format("$MsgGoalUnfulfilled2$", ObjectCount(ORE1)), iPlayer));
+    return(MessageWindow(Format("$MsgGoalUnfulfilled2$", oreTotal, oreOutside), iPlayer));
   // Noch nicht alles abgebaut ( -50 statt -150 weil beim / 100 abgerundet wird )
-  MessageWindow(Format("$MsgGoalUnfulfilled$", Max(GetMaterialCount(Material("Ore")) - 50, 0) / 100, ObjectCount(ORE1)), iPlayer);
+  MessageWindow(Format("$MsgGoalUnfulfilled$", Max(GetMaterialCount(Material("Ore")) - 50, 0) / 100, oreTotal, oreOutside), iPlayer);
 }

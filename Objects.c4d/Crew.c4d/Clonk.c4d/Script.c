@@ -668,6 +668,11 @@ protected func ControlSpecial2()
   return(SetCommand(this(),"Context",0,0,0,this()), ExecuteCommand());
 }
 
+protected func ControlSpecialDouble()
+{
+  return this->~ControlSpecial(...);
+}
+
 /* Callback beim Auswahl aus dem Construct-Kontextmenu */
 
 public func ControlCommandConstruction(target, x, y, target2, def)

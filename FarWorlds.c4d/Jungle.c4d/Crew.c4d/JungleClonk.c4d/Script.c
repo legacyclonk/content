@@ -137,6 +137,12 @@ public func ControlSpecial() // Inventarwechsel
   return(1);
   }
 
+protected func ControlContents()
+{
+  ScheduleCall(this, "CheckArmed", 1,1);
+  return _inherited(...);
+}
+
 public func ControlCommand(string szCommand,object pTarget,int iX, int iY)
 {
   if (ControlVine("ControlCommand")) return(1);
@@ -296,10 +302,10 @@ private func IsWeaponReady()            // ist bereit für das Benutzen von Waffe
 
 private func CheckArmed()           // Bewaffnung (mit Speer) prüfen
 {
-  if (GetAction()S="Walk") if(IsArmed()) return(SetAction("SpearWalk"));
-  if (GetAction()S="Jump") if(IsArmed()) return(SetAction("SpearJump"));
-  if (GetAction()S="SpearWalk") if(!IsArmed()) return(SetAction("Walk"));
-  if (GetAction()S="SpearJump") if(!IsArmed()) return(SetAction("Jump"));
+  if (GetAction()S="Walk") if(IsArmed()) return(SetActionKeepPhase("SpearWalk"));
+  if (GetAction()S="Jump") if(IsArmed()) return(SetActionKeepPhase("SpearJump"));
+  if (GetAction()S="SpearWalk") if(!IsArmed()) return(SetActionKeepPhase("Walk"));
+  if (GetAction()S="SpearJump") if(!IsArmed()) return(SetActionKeepPhase("Jump"));
 }
 
 private func StartJump() // StartCall von Jump, SpearJump, Dive
@@ -332,7 +338,7 @@ protected func FxJumpingTimer()
   
 // Ist mit Speer bewaffnet
 
-public func IsArmed() { return(DefinitionCall(GetID(Contents()),"IsSpear")); }
+public func IsArmed() { return(DefinitionCall(GetID(Contents(, , true)),"IsSpear")); }
 
 // Springt gerade
 
@@ -358,12 +364,12 @@ private func PackContents(iCount, idUnpacked, idPacked)
   var i=iCount, pContents;
   while(i--) if (pContents=FindContents(idUnpacked)) RemoveObject(pContents); else Log("error finding it! (%d)", i);
   // Objekt erzeugen und ggf. weiter packen
-  Collection(CreateContents(idPacked));
+  CreateContents(idPacked);
   return(1);
   }
 
 /* Aufnahme */
-protected func Collection(pObj)
+protected func Collection2(pObj)
   {
   CheckArmed();
   // Nicht mehr enthalten (oder gelöscht): Abbrechen
@@ -575,7 +581,7 @@ private func NeedMallet() {
   AddCommand (this (), "Acquire", 0,0,0,0,0, MLLT);
 }
 
-func ControlCommandFinished (string CommandName, object Target, int Tx, int Ty, object Target2, Data) {
+func ControlCommandFinished (string CommandName, object Target, any Tx, int Ty, object Target2, any Data) {
   if (CommandName eq "Acquire") if (Data == MLLT) if (!FindContents (MLLT))
     AddMessage("$Hammernoetig$",this());
   return (_inherited (CommandName, Target, Tx, Ty, Target2, Data));

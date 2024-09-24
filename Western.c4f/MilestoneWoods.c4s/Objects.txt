@@ -15368,6 +15368,7 @@ VertexY=4,-4,4
 VertexFriction=75,75,75
 SolidMask=0,0,0,0,0,0
 OCF=203424329
+Action=Armed
 Component=BONE=1;
 Visibility=16
 LocalNamed=1;collectible=A0
@@ -15391,6 +15392,7 @@ VertexY=4,-4,4
 VertexFriction=75,75,75
 SolidMask=0,0,0,0,0,0
 OCF=203424329
+Action=Armed
 Component=BONE=1;
 Visibility=16
 LocalNamed=1;collectible=A0
@@ -15414,6 +15416,7 @@ VertexY=4,-4,4
 VertexFriction=75,75,75
 SolidMask=0,0,0,0,0,0
 OCF=203424329
+Action=Armed
 Component=BONE=1;
 Visibility=16
 LocalNamed=1;collectible=A0
@@ -15437,6 +15440,7 @@ VertexY=3,3
 VertexFriction=100,100
 SolidMask=0,0,0,0,0,0
 OCF=203423817
+Action=Armed
 Component=ROPE=1;
 Visibility=16
 LocalNamed=1;collectible=A0
@@ -15460,6 +15464,7 @@ VertexY=3,3
 VertexFriction=100,100
 SolidMask=0,0,0,0,0,0
 OCF=203423817
+Action=Armed
 Component=ZAPN=1;LTHR=1;ROPE=1;
 Visibility=16
 LocalNamed=1;collectible=A0
@@ -15482,7 +15487,7 @@ VertexX=-3,3
 VertexFriction=100,100
 SolidMask=0,0,0,0,0,0
 OCF=203423817
-Action=Float
+Action=Armed
 ActionTime=36
 Component=ROPE=3;
 Visibility=16

@@ -37,7 +37,7 @@ public func FxAlcoholStart(object pTarget, int iEffectNumber, int iTemp, int iAl
   EffectVar(0,pTarget,iEffectNumber) = iAlcohol;
 }
 
-public func FxAlcoholTimer25(object pTarget, int iEffectNumber, int iEffectTime)
+public func FxAlcoholTimer25(object pTarget, int iEffectNumber)
 {
   var i, iAlcohol;
   // zu viel Alkohol zieht Lebensenergie ab
@@ -96,7 +96,7 @@ public func FxAlcoholTimer(object pTarget, int iEffectNumber, int iEffectTime)
   // Kein Alkohol mehr vorhanden -> Abbruch
   if(EffectVar(0,pTarget,iEffectNumber) <= 0) return(-1);
 
-  if(!(iEffectTime % 25)) EffectCall(pTarget,iEffectNumber,"Timer25",pTarget,iEffectNumber);
+  if(!(iEffectTime % 25)) EffectCall(pTarget,iEffectNumber,"Timer25");
   // Sichtschwankungen
   if(GetCursor(GetOwner(pTarget)) == pTarget) {
     EffectVar(2,pTarget,iEffectNumber) = 0;

@@ -212,6 +212,20 @@ public func ControlRightDouble(object pByObj)
   return(_inherited(pByObj));
 }
 
+public func ControlSpecial()
+{
+  var ret = inherited(...);
+  CheckArmed();
+  return ret;
+}
+
+public func ControlContents()
+{
+  var ret = inherited(...);
+  ScheduleCall(this, "CheckArmed", 1, 1);
+  return ret;
+}
+
 // Bogensteuerung
 public func BowControlUp(pBow, &rVal)
   {
@@ -801,7 +815,7 @@ func HowToProduce (clonk, def) {
   else StartHandcraft (def);
 }
 
-func ControlCommandFinished (string CommandName, object Target, int Tx, int Ty, object Target2, Data) {
+func ControlCommandFinished (string CommandName, object Target, any Tx, int Ty, object Target2, any Data) {
   if (CommandName eq "Acquire") if (Data == MLLT) if (!FindContents (MLLT))
     AddMessage("$TxtMalletrequired$",this());
   return (_inherited (CommandName, Target, Tx, Ty, Target2, Data));
@@ -814,7 +828,7 @@ protected func Ejection() { CheckArmed(); }
 protected func Departure() { CheckArmed(); }
 
 // Aufnahme
-protected func Collection(pObj)
+protected func Collection2(pObj)
 {
   CheckArmed();
   // Eventuell neue Pfeile in Köcher stecken
@@ -1145,10 +1159,10 @@ protected func CheckChop() {            // EndCall von Chop2 (Bäume zerlegen)
 // Bewaffnung (mit Speer) prüfen
 private func CheckArmed()
 {
-  if (GetAction()S="Walk") if(IsArmed()) return(SetAction("SpearWalk"));
-  if (GetAction()S="Jump") if(IsArmed()) return(SetAction("SpearJump"));
-  if (GetAction()S="SpearWalk") if(!IsArmed()) return(SetAction("Walk"));
-  if (GetAction()S="SpearJump") if(!IsArmed()) return(SetAction("Jump"));
+  if (GetAction()S="Walk") if(IsArmed()) return(SetActionKeepPhase("SpearWalk"));
+  if (GetAction()S="Jump") if(IsArmed()) return(SetActionKeepPhase("SpearJump"));
+  if (GetAction()S="SpearWalk") if(!IsArmed()) return(SetActionKeepPhase("Walk"));
+  if (GetAction()S="SpearJump") if(!IsArmed()) return(SetActionKeepPhase("Jump"));
 }
 
 // Nach dem Laden wieder passendes Shape  
@@ -1498,7 +1512,7 @@ public func IsChief() { return(fChief); }
 // Kriecht gerade
 public func IsCrawling() { return(WildcardMatch(GetAction(), "*Crawl*")); }
 // Ist mit Speer bewaffnet
-public func IsArmed() { return(DefinitionCall(GetID(Contents()),"IsSpear")); }
+public func IsArmed() { return(DefinitionCall(GetID(Contents(, , true)),"IsSpear")); }
 // Springt gerade
 public func IsJumping() { return((GetAction()S="Jump") || (GetAction()S="SpearJump") || (GetAction()S="Dive")); }
 // Bereit eine Waffe einzusetzen

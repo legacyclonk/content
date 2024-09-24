@@ -156,6 +156,12 @@ protected func ControlSpecial() {
   return(1);
 }
 
+protected func ControlContents()
+{
+  ScheduleCall(this, "CheckArmed", 1,1);
+  return _inherited(...);
+}
+
 /* Itemlimit */
 public func MaxContentsCount() { return(4); }
 
@@ -205,7 +211,8 @@ private func IsWeaponReady() { return(GetAction() eq "Walk" || GetAction() eq "H
 
 private func StartFishing() {  Sound("FishingPole"); }
 
-protected func Collection() { CheckArmed(); }
+protected func Ejection() { CheckArmed(); }
+protected func Collection2() { CheckArmed(); }
 
 protected func Entrance()  { CheckWarnings(); }
 protected func Departure() { CheckWarnings(); }
@@ -562,7 +569,7 @@ func HowToProduce (self, def) {
   StartHandcraft (def);
 }
 
-func ControlCommandFinished (string CommandName, object Target, int Tx, int Ty, object Target2, Data) {
+func ControlCommandFinished (string CommandName, object Target, any Tx, int Ty, object Target2, any Data) {
   if (CommandName eq "Acquire") if (Data == MLLT) if (!FindContents (MLLT))
     AddMessage("$TxtMalletrequired$",this());
   return (_inherited (CommandName, Target, Tx, Ty, Target2, Data));
@@ -670,10 +677,10 @@ private func Throwing(pObj) {
 
 /* Bewaffnung prüfen */
 private func CheckArmed() {
-  if (GetAction()S="Walk") if(IsArmed()) return(SetAction("HarpoonWalk"));
-  if (GetAction()S="Jump") if(IsArmed()) return(SetAction("HarpoonJump"));
-  if (GetAction()S="HarpoonWalk") if(!IsArmed()) return(SetAction("Walk"));
-  if (GetAction()S="HarpoonJump") if(!IsArmed()) return(SetAction("Jump"));
+  if (GetAction()S="Walk") if(IsArmed()) return(SetActionKeepPhase("HarpoonWalk"));
+  if (GetAction()S="Jump") if(IsArmed()) return(SetActionKeepPhase("HarpoonJump"));
+  if (GetAction()S="HarpoonWalk") if(!IsArmed()) return(SetActionKeepPhase("Walk"));
+  if (GetAction()S="HarpoonJump") if(!IsArmed()) return(SetActionKeepPhase("Jump"));
 }
 
 /* Warnungen */
@@ -726,7 +733,7 @@ private func RemoveWarnings() {
 }
 
 /* Trägt der Clonk eine Harpune? */
-public func IsArmed() { return(ObjectCall(Contents(),"IsHarpoon")); }
+public func IsArmed() { return(ObjectCall(Contents(, , true),"IsHarpoon")); }
 
 /* Suchfunktionen */
 
