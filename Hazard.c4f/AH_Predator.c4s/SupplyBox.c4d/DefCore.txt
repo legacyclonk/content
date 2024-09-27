@@ -1,0 +1,19 @@
+[DefCore]
+id=SBOX
+Name=Supply Box
+Version=4,9,5
+Category=4
+Width=25
+Height=18
+Offset=-12,-9
+Value=5
+Mass=50
+Components=METL=2;
+Picture=0,0,25,18
+Vertices=4
+VertexX=-11,11,-11,11
+VertexY=8,8,-8,-8
+VertexFriction=100,100,100,100
+Grab=2
+GrabPutGet=3
+CollectionLimit=10

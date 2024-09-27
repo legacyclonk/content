@@ -1,0 +1,11 @@
+Missile=Raketenfeuer
+UpgradeShield=Rüstet das Shuttle mit einem Schild aus
+SwitchLight=Scheinwerfer an/aus
+Bomb=Bombardieren
+TxtLeft=Nach links
+TxtRight=Nach rechts
+TxtUp=Nach oben
+TxtDown=Nach unten
+TxtStop=Stoppen
+TxtFireMode=Feuermodus wechseln
+TxtFire=Feuer!

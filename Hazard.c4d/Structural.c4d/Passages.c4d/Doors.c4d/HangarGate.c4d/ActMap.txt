@@ -1,0 +1,7 @@
+[Action]
+Name=Gate
+Directions=16
+Facet=0,0,200,8
+Delay=5
+NextAction=Gate
+EndCall=CheckMovement

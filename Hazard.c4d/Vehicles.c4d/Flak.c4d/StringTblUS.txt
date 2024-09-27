@@ -1,0 +1,5 @@
+Auto=Automatic fire
+Single=Single shots
+TxtFire=Fire!
+TxtLeft=Aim left
+TxtRight=Aim right

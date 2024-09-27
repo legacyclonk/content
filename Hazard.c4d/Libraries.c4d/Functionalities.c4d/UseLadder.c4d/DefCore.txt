@@ -1,0 +1,5 @@
+[DefCore]
+id=L_LA
+Name=Use Ladder
+Version=4,9,5
+Category=1

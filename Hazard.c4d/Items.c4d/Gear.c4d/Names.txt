@@ -1,0 +1,2 @@
+DE:Ausrüstung
+US:Gear

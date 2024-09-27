@@ -1,0 +1,5 @@
+[DefCore]
+id=L_DR
+Name=Use Drone
+Version=4,9,5
+Category=1

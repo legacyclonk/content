@@ -1,0 +1,15 @@
+[DefCore]
+id=PLT2
+Version=4,9,8,2
+Name=Plant2
+Category=C4D_Vehicle
+Width=30
+Height=50
+Offset=-15,-25
+Vertices=2
+VertexY=23,-23
+VertexFriction=100,100
+Value=50
+Mass=20
+Components=PLT2=1
+Picture=30,0,64,64

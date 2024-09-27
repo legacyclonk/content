@@ -1,0 +1,10 @@
+[DefCore]
+id=HELB
+Version=4,9,8,2
+Name=Heal
+Category=C4D_StaticBack
+Width=11
+Height=11
+Offset=-5,-5
+Components=BESB=1
+Picture=0,0,11,11

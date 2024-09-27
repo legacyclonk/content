@@ -1,0 +1,54 @@
+Continue=Continue
+Intro1=Halt, soldier! Welcome to the training center.
+Intro2=My name is Grodon Freimann, I'm the one in charge here. And your instructor today. Now you're going to have a bit fun with the big guns.
+Intro3=At first you need a weapon. Meet the doc, he'll give you one. Just jump on the ladder and climb up to him. Then you use the lift and take the exit to the right.
+
+Tutor1=Good. But you're lacking ammunition. Collect the ammo packet there and transfer the ammo into your ammobag. To do so, press \"Dig\" twice.
+
+Tutor2=You're able to check your ammo supplies on the left side of your screen.
+Tutor3=Now you're ready, let's start. Load your weapon via \"Throw\" and shoot the target.
+
+Tutor4=Well done, but that was easy.
+Tutor5=You can't simply shoot up there. Now it's time to use the \"Aiming-mode\".
+Tutor6=To do so, you press \"Down\" three times. You can aim with all weapons like this! Show us what you can do.
+
+Tutor7=Well done, well done. Now it's getting interesting, you get to try out the grenade launcher. Enter the teleporter to the right.
+
+Tutor8=It's lying back there. But to get it, you have to overcome this obstacle. You wont be able to simply jump over it.
+Tutor9=Do you remember your elite training? Right, it's time for the backflip! Go to the edge, walk left, and try to jump backwards (run shortly away from the edge and press backwards und jump). The same is possible forwards.
+
+Tutor10=Okay, you got it! There's the drone, eliminate the target.
+
+Tutor11=Well, wasn't that fun? But plain grenades are boring, aren't they? The next one'll be reduced to dust by a cluster grenade! The grenadelauncher has already been upgraded. We'll come to upgrading later.
+Tutor11b=Load the cluster grenades and then fire at will!
+
+Tutor12=Wham, poor drone. But look, it lost something. Looks like a laser.
+Tutor13=Luckily we use standard components everywhere. You can upgrade your pistol with the laser. To do so, choose the Laser and press \"Double Dig\".
+
+Tutor14=Now your pistol shoots with a laser! But to do so, you need energy. Go back to the surface, new equipment awaits you.
+Tutor15=Open the firemode-menu via \"Double Dig\". You'll see, that the standard shot is gone and that there's a laser-firemode instead. But it's grayed out, because you don't have ammo for it.
+Tutor16=If you haven't noticed yet: the pistol also has a second firemode. It's able to shoot grenades! Don't ask me how, our scientists are just good.
+
+Tutor17=This is a jetpack. It allows you to move rapidly with short boosts. To use it, equip it by pressing \"Double Dig\". Then press \"Double Jump\" or \"Double Left/Right\" while jumping.
+Tutor18=Try to reach that edge up to your right now.
+
+Tutor19=Okay, now it's time to use the laser.
+
+Tutor20=Boom, the next one down. If you continue like that, we'll run out of drones.
+Tutor21=Look, another laser. But you don't have a weapon to upgrade. But look what the drone up there is holding! A bazooka!
+Tutor22=The bazooka is upgradeable with a laser. It's able to shoot homing missiles then.
+Tutor23=You don't need the pistol anymore, also you're out of grenades. However, you still got some energy. The grenade launcher is able to shoot EMP-grenades (if you used an upgrade - we've already done that now). Take out the drone with that, go on and try!
+Tutor24=Your goal is to get the bazooka and upgrade it.
+	
+Tutor25=Well done. With homing missiles you can hit targets that you can't hit in a straight line because the path is blocked.
+Tutor26=To the right, there's an old storage. Your next target awaits you there.
+
+Tutor27=Here comes the particle cannon! This lovely weapon is waiting for you on the plateau to the left.
+
+Tutor28=The primary firemode is a strong energy ray, that allows to hit multiple targets at the same time.
+Tutor29=The secondary firemode fires an energyball that disables all technical devices, just like the EMP-Grenade. Try it out!
+
+Tutor30=You made it. Now here's the mother of all weapons: the minigun!
+Tutor31=We'll give you one. And lots of ammonition. now guess what's your target... ;)
+
+TutorEND=Congratulation, you made it. You're a pretty well trained Hazard now. Your first mission awaits you, %s.

@@ -1,0 +1,2 @@
+DE:Munitionsgürtel
+US:Ammunition belt

@@ -1,0 +1,1 @@
+Setzt kleine schwebende Minen frei, die bei Kontakt mit Lebewesen explodieren.

@@ -1,0 +1,2 @@
+DE:Patronenhülse
+US:Bulletcasing

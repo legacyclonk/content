@@ -1,0 +1,41 @@
+ChoosingPlayer=%s wählt jetzt die Spielkonfiguration, bitte noch etwas Geduld
+Choosing=%s sucht gerade die Regeln aus, noch ein wenig Geduld...
+Goal=Das Spielziel wurde gewählt: %s
+Rules=Regelwahl abgeschlossen: 
+CreateRules=Spielregeln
+DarknessChose=Intensität der Dunkelheit
+GoalChose=Spielziel konfigurieren
+AIMenu=KIs einstellen
+RuleInfo=Spielregel einstellen
+AIInfo=Diverse Einstellungen für KIs
+Finished=Fertig
+
+MoreWinScore=Punktzahl erhöhen
+LessWinScore=Punktzahl senken
+
+MoreDarkness=Dunkelheit erhöhen
+LessDarkness=Dunkelheit senken
+
+Bots=Bots
+OneAIMore=Mehr
+OneAILess=Weniger
+NewTeam=Neues Team
+FairTeams=Faire Teams
+FairTeamsInfo=Alle Teams auffüllen, so dass überall die gleiche Anzahl Clonks vorhanden ist
+OnlyDeleteLastTeam=Das letzte Team muss als erstes entfernt werden!
+
+#nix weiter
+Emptiness=Die Leere
+YourBrain=Dein Gehirn
+Nothing=Nichts
+Freezer=Der Kühlschrank
+Space=Die unendliche Weite
+
+AlienMenu=Aliens einstellen
+AlienInfo=Diverse Einstellungen für Aliens
+Finished=Fertig
+
+AlienInfo2=%d Nest(er)
+
+OneAlienMore=Ein Nest mehr
+OneAlienLess=Ein Nest weniger

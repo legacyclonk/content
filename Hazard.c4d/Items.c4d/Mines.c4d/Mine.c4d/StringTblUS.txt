@@ -1,0 +1,6 @@
+Activate=Activate mine
+KLASUpgradeDesc=Upgrade to laser mine.
+KRFLUpgradeDesc=Upgrade to swarm mine.
+
+KLASUpgraded=Upgraded to laser mine.
+KRFLUpgraded=Upgraded to swarm mine.

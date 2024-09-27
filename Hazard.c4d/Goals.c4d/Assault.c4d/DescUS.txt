@@ -1,0 +1,1 @@
+The goal of the attacking team is to destroy the main target. The defending team has to prevent that no matter what. After the attacker team has won, the teams will be switched. The team who defeats the defender team faster wins the round.

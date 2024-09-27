@@ -1,0 +1,11 @@
+[DefCore]
+id=TALK
+Name=Talker
+Version=4,9,5
+Category=C4D_Object
+Width=20
+Height=20
+Offset=-10,-10
+Vertices=1
+VertexY=1
+Entrance=-10,-10,20,20

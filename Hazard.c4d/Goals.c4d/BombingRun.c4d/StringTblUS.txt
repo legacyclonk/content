@@ -1,0 +1,1 @@
+WinString=The scorelimit is %d.

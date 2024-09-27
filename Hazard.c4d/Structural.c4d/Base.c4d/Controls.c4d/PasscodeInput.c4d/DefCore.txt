@@ -1,0 +1,13 @@
+[DefCore]
+id=PKEY
+Version=4,9,8,2
+Name=Console
+Category=C4D_Structure
+Width=20
+Height=11
+Offset=-6,-6
+Vertices=2
+VertexX=-6,6
+VertexY=12,12
+Picture=0,11,64,64
+Grab=2

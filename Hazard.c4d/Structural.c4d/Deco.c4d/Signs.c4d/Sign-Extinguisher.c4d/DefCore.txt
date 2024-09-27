@@ -1,0 +1,15 @@
+[DefCore]
+id=ESGN
+Version=4,9,8,2
+Name=Extinguishersign
+Category=C4D_StaticBack
+Width=19
+Height=19
+Offset=-8,-8
+Value=10
+Mass=3
+Components=METL=1
+Picture=0,0,19,19
+StretchGrowth=1
+IncompleteActivity=1
+Oversize=1

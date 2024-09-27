@@ -1,0 +1,2 @@
+DE:Energiebalken
+US:Energy Bar

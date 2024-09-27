@@ -1,0 +1,15 @@
+[Action]
+Name=Attach
+Procedure=ATTACH
+Length=10
+Facet=0,0,26,22
+Delay=1
+NextAction=Attach
+
+[Action]
+Name=Disabled
+Procedure=ATTACH
+Length=1
+Facet=260,0,26,22
+Delay=0
+NextAction=Disabled

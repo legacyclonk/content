@@ -1,0 +1,14 @@
+[Particle]
+Name=HoverSpark2
+MaxCount=6200
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,32,128,-16,-64
+Delay=0
+Repeats=1
+Reverse=0
+AlphaFade=8
+Additive=1
+Attach=0
+RByV=1

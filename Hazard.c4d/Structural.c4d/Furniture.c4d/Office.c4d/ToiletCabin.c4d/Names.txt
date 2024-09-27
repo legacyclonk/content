@@ -1,0 +1,2 @@
+DE:Toilettenkabine
+US:Toilet cabin

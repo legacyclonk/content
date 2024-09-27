@@ -1,0 +1,11 @@
+Missile=Missilefire
+UpgradeShield=Mounts a shield to the shuttle.
+SwitchLight=Floodlight on/off
+Bomb=Bombard
+TxtLeft=Fly left
+TxtRight=Fly right
+TxtUp=Fly up
+TxtDown=Fly down
+TxtStop=Stop
+TxtFireMode=Change fire mode
+TxtFire=Fire!

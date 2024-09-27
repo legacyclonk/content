@@ -1,0 +1,6 @@
+[DefCore]
+id=_SXT
+Name=Abort
+Version=4,9,5
+Category=1
+Picture=0,0,32,32

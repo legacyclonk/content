@@ -1,0 +1,1 @@
+Fires lasers in all directions.

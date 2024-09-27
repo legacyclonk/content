@@ -1,0 +1,4 @@
+CtrlActivateDesc=Anlegen
+AlreadyWears=%s trägt schon|so eine Ausrüstung!
+Buckled=%s angelegt
+Unbuckled=%s abgelegt

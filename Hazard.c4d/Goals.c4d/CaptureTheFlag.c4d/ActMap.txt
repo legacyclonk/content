@@ -1,0 +1,14 @@
+[Action]
+Name=FlagStolen
+Length=1
+Facet=64,0,24,24
+
+[Action]
+Name=FlagCaptured
+Length=1
+Facet=64,24,24,24
+
+[Action]
+Name=FlagLoose
+Length=1
+Facet=88,0,24,24
