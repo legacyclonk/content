@@ -1,0 +1,6 @@
+[DefCore]
+id=PCSO
+Version=4,9,8,2
+Name=PassCodeSymbolObject
+Category=C4D_Vehicle
+Picture=0,0,35,35

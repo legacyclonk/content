@@ -1,0 +1,15 @@
+[DefCore]
+id=AWRP
+Version=4,9,8,2
+Name=Warp
+Category=C4D_StaticBack
+Timer=1
+TimerCall=CheckWarp
+Width=36
+Height=36
+Offset=-18,-18
+Vertices=1
+VertexY=18
+Components=AWRP=1
+Picture=0,0,36,36
+BlitMode=1

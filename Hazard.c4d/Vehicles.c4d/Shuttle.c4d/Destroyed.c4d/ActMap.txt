@@ -1,0 +1,10 @@
+[Action]
+Name=Be
+Procedure=None
+Directions=2
+FlipDir=1
+Length=3
+Delay=0
+FacetBase=0
+Facet=0,0,50,30
+NextAction=Hold

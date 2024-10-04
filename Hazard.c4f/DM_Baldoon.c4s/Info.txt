@@ -1,0 +1,28 @@
+DM - Baldoon v1.0b
+-----------------
+
+Vielen Dank an:
+-----------------
+
+- DarkEagle für den Betatest
+
+- Clonkonaut
+und
+- Newton für Verbesserungsvorschläge und Tipps
+
+-----------------
+
+Die vorliegende Version des Szenarios wurde mit/für Clonk Rage 4.96.4 [236] entwickelt und getestet.
+
+Ebenfalls getestet für:
+
+	- CR 4.96.5 [237]
+
+-----------------
+
+Es handelt sich um einen Wettbewerbsbeitrag für den "HazardArena2007" - Gestaltungswettbewerb.
+
+-----------------
+
+Marcel Wolf
+29.05.07 - 00:41

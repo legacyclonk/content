@@ -1,0 +1,14 @@
+[Action]
+Name=Fly
+Procedure=FLOAT
+Facet=0,0,20,18
+Length=1
+Delay=1
+NextAction=Fly
+
+[Action]
+Name=Idle
+Procedure=NONE
+Facet=0,0,20,18
+Length=1
+NextAction=Idle

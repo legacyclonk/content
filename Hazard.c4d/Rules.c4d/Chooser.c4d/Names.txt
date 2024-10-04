@@ -1,0 +1,2 @@
+DE:Spielregelwahl
+US:Rule chooser

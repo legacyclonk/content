@@ -1,0 +1,1 @@
+Explodes if one gets too near.

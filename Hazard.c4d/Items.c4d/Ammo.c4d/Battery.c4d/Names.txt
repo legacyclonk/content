@@ -1,0 +1,2 @@
+DE:Energiezelle
+US:Energy cell

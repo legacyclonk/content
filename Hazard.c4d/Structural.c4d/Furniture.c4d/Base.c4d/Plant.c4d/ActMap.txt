@@ -1,0 +1,17 @@
+[Action]
+Name=Plant1
+Length=1
+Delay=1
+NextAction=Plant1
+FacetBase=1
+Facet=0,5,15,17,-5,-17
+EndCall=FadeOut
+
+[Action]
+Name=Plant2
+Length=1
+Delay=1
+NextAction=Plant2
+FacetBase=1
+Facet=15,11,39,11,-16,-11
+EndCall=FadeOut

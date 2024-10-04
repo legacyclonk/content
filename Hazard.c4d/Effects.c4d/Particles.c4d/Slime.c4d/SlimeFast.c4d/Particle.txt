@@ -1,0 +1,12 @@
+[Particle]
+Name=SlimeFast
+MaxCount=400
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,25,25,-12,-12
+Delay=2
+Repeats=1
+VertexCount=1
+VertexY=50
+Attach=1

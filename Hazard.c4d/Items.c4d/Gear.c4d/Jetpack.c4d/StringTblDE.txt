@@ -1,0 +1,2 @@
+NotEnoughAmmo=Nicht genug {{%i}}!
+Reloaded=%dx {{%i}} nachgefüllt.

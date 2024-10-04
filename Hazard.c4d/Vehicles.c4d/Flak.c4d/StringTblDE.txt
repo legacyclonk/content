@@ -1,0 +1,5 @@
+Auto=Automatikfeuer
+Single=Einzelschuss
+TxtFire=Feuer!
+TxtLeft=Nach links
+TxtRight=Nach rechts

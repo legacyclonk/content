@@ -1,0 +1,5 @@
+Greet=Greetings, I'm the Doc.
+Weapon=I'm here for the weapon.
+Doc=Ah, a new guena pig.. Erm, a new soldier. I'm already informed. Here's you weapon. Our newest pistol-prototype, codename \"Schakal\", straight from the lab.
+Thx=Thanks
+egg=I belong to RedWolf Design GmbH!

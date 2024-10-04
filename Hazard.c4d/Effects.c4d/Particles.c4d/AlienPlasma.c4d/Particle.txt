@@ -1,0 +1,13 @@
+[Particle]
+Name=AlienPlasma
+MaxCount=1000
+InitFn=StdInit
+ExecFn=StdExec
+DrawFn=Std
+Face=0,0,64,64,-5,-5
+Delay=1
+Repeats=1
+Reverse=1
+AlphaFade=1
+Additive=1
+Attach=1

@@ -1,0 +1,14 @@
+[Action]
+Name=Grid
+Procedure=NONE
+Delay=100
+Facet=0,0,40,40,0,0
+FacetBase=0
+NextAction=Grid
+
+[Action]
+Name=Put
+Procedure=NONE
+Delay=100
+Facet=0,40,40,40,0,0
+NextAction=Put

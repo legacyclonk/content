@@ -1,0 +1,10 @@
+[DefCore]
+id=AEXB
+Version=4,9,8,2
+Name=AmmoExpert
+Category=C4D_StaticBack
+Width=10
+Height=10
+Offset=-5,-5
+Components=AEXB=1
+Picture=0,0,10,10

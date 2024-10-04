@@ -1,0 +1,1 @@
+Der Hazardclonk kann Munition per Doppelgraben in seinen Munitionsgurt stecken. Mit dieser Munition lädt er selbstständig seine Waffen nach.

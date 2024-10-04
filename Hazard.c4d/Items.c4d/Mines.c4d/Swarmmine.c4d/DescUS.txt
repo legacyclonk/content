@@ -1,0 +1,1 @@
+Releases floating swarm mines which will explode on contact with a living.

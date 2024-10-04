@@ -1,0 +1,11 @@
+[DefCore]
+id=SHCK
+Version=4,9,8,2
+Name=Shockwave
+Category=C4D_StaticBack
+MaxUserSelect=10
+Width=1
+Height=1
+Offset=-1,-1
+Components=SHCK=1
+Picture=0,0,1,1

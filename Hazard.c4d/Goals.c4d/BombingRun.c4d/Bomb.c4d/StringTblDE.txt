@@ -1,0 +1,2 @@
+Returned=Die Bombe ist zurück!
+Bomb=Bombe

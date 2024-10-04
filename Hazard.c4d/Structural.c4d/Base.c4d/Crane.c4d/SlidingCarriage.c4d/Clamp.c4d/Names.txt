@@ -1,0 +1,2 @@
+DE:Haken
+US:Clamp

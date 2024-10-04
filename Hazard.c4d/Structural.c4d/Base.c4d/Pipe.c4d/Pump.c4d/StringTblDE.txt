@@ -1,0 +1,3 @@
+TurnOn=Einschalten
+TurnOff=Ausschalten
+Error=Fehler:|Zwei-Pumpen-System

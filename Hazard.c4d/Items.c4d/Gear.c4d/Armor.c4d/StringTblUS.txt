@@ -1,0 +1,2 @@
+CtxNightVisionOn=Turn nightvision on
+CtxNightVisionOff=Turn nightvision off

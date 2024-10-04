@@ -1,0 +1,2 @@
+DE:Symbole
+US:Symbols

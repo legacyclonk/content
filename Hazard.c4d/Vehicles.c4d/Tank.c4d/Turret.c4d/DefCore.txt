@@ -1,0 +1,17 @@
+[DefCore]
+id=TRRT
+Version=4,9,8,2
+Name=Turret
+Category=C4D_Vehicle|C4D_MouseIgnore
+Timer=1
+TimerCall=Engine
+Width=52
+Height=25
+Offset=-26,-20
+Mass=50
+Picture=0,0,64,64
+Rotate=1
+BorderBound=1
+NoStabilize=1
+NoGet=1
+NoSell=1

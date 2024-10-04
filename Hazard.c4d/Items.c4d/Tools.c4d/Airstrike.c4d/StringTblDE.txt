@@ -1,0 +1,1 @@
+RecievingBlocked=Hindernis blockiert|Empfang!

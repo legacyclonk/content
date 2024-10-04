@@ -1,0 +1,4 @@
+CtxDrone=Drone
+CtxDroneTurnOff=Turn off
+CtxDroneGuard=Guard here
+CtxDroneFollow=Follow me

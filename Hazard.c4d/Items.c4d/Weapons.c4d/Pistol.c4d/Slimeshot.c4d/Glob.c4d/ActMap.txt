@@ -1,0 +1,14 @@
+[Action]
+Name=Globbing
+Procedure=FLOAT
+FacetBase=1
+Delay=4
+NextAction=Globbing
+EndCall=Check
+
+[Action]
+Name=AGlobbing
+Procedure=ATTACH
+FacetBase=1
+Delay=4
+NextAction=AGlobbing

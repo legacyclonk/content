@@ -1,0 +1,21 @@
+[DefCore]
+id=SBBA
+Version=4,9,8,2
+Name=Sandbag Barrier
+Category=C4D_Structure|C4D_SelectKnowledge
+MaxUserSelect=1
+Width=32
+Height=15
+Offset=-16,-7
+Vertices=2
+VertexX=-15,15
+VertexY=6,6
+VertexFriction=100,100
+Value=5
+Mass=100
+Components=ERTH=2;SAND=2;LOAM=2
+SolidMask=0,0,32,15,0,0
+Picture=0,15,64,64
+Exclusive=1
+BlastIncinerate=25
+Construction=1
