@@ -498,15 +498,14 @@ protected func ConfigurationFinished2()
 {
   Death = true;
   // Regeln erzeugen
-  var i = 0, j, pCrew, tmp, log = "$Rules$", cnt = 0, comma = "";
+  var i = 0, j, pCrew, tmp, log = "$Rules$", comma = "";
   for(var check in aRules)
   {
     if(check)
     {
-      if(cnt) comma = ", ";
       CreateObject(GetDefinition(i, Chooser_Cat), 10, 10, -1);
       log = Format("%s%s%s", log, comma, GetName(0, GetDefinition(i, Chooser_Cat)));
-      cnt++;
+      comma = ", ";
     }
     i++;
   }
